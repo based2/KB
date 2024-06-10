@@ -565,6 +565,9 @@ https://arxiv.org/abs/1903.01003
 https://www.youtube.com/watch?v=-PFIkkwWdnM Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
 
 # News
+https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/
+> https://news.ycombinator.com/item?id=40636844
+
 https://link.springer.com/article/10.1007/s10676-024-09775-5
 > https://news.ycombinator.com/item?id=40626692
 

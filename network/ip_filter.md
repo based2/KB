@@ -119,6 +119,8 @@ block from any to 1.160.244.27
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 1.161.71.160
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 1.161.72.11
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 1.161.82.10
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 1.163.214.241
@@ -222,6 +224,8 @@ block from any to 2.50.16.0/24
 block from any to 2.50.16.116
 # A.ch
 block from any to 2.50.16.211
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 2.50.38.96
 # United Arab Emirates https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 2.50.208.83
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -387,6 +391,8 @@ block from any to 3.23.28.42
 block from any to 3.23.60.98
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 3.26.45.84
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 3.26.243.129
 # US DFA https://red.flag.domains/posts/ 2024-04-19 lapostepost[.fr] (registrar: KEY-SYSTEMS GmbH 2024-04-18/ gicgouv[.fr] (registrar: KEY-SYSTEMS GmbH  2024-03-17 registrar: KEY-SYSTEMS GmbH mybnp[.fr] 2024-03-08 registrar: KEY-SYSTEMS GmbH renouvellement-carte-sms[.fr]  2024-03-02 registrar: KEY-SYSTEMS GmbH creditmutuels[.fr] 2024-03-01 registrar: KEY-SYSTEMS GmbH france-impotsgouv[.fr] 2024-02-28 registrar: KEY-SYSTEMS GmbH 2024-02-28 registrar: KEY-SYSTEMS GmbH banque-credit-agricole[.fr] 2024-02-22 registrar: Name.com LLC 26 25 2024-01-23 2024-01-14 2023-03-24 registrar: NETIM https://www.abuseipdb.com/check/3.33.130.190
 block from any to 3.33.130.190
 # US DFA https://red.flag.domains/posts/ 2024-02-27 registrar: KEY-SYSTEMS GmbH 2024-02-13 registrar: KEY-SYSTEMS GmbH 2024-02-10/ registrar: KEY-SYSTEMS GmbH https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ gesucht[.]net
@@ -612,7 +618,11 @@ block from any to 5.8.194.238
 # Germany https://www.abuseipdb.com/check/
 block from any to 5.9.128.121
 # https://www.cyfirma.com/research/threat-actors-actively-exploiting-cve-2024-3273-underground-forums-share-ip-addresses-of-vulnerable-d-link-nas-devices/
+block from any to 5.10.250.0/24
+# https://www.cyfirma.com/research/threat-actors-actively-exploiting-cve-2024-3273-underground-forums-share-ip-addresses-of-vulnerable-d-link-nas-devices/
 block from any to 5.10.250.35
+# https://www.abuseipdb.com/check/
+block from any to 5.10.250.241
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 5.104.80.155
 # https://threatfox.abuse.ch/browse/tag/Supershell/
@@ -749,6 +759,8 @@ block from any to 5.42.73.150
 block from any to 5.42.78.97
 # https://www.abuseipdb.com/check/
 block from any to 5.42.84.176
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 5.42.85.10
 # https://www.abuseipdb.com/check/
 block from any to 5.42.86.47
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://tracker.viriback.com/index.php?q=Risepro
@@ -1206,6 +1218,8 @@ block from any to 8.142.18.23
 block from any to 8.142.178.141
 # China https://www.abuseipdb.com/
 block from any to 8.147.113.191
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 8.147.119.54
 # China https://www.abuseipdb.com/
 block from any to 8.148.4.69
 # https://www.abuseipdb.com/
@@ -1292,6 +1306,8 @@ block from any to 8.218.213.245
 block from any to 8.218.217.76
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 8.218.228.15
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 8.218.239.22
 # https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
 block from any to 8.218.240.85
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
@@ -1395,6 +1411,8 @@ block from any to 13.59.168.154
 block from any to 13.59.222.135
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 13.60.40.107
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 13.60.83.83
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 13.64.101.24
 # US https://www.abuseipdb.com/check/
@@ -1789,6 +1807,8 @@ block from any to 18.184.219.64
 block from any to 18.185.64.250
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 18.188.115.4
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 18.188.159.82
 # abuse.ch TF
 block from any to 18.190.106.65
 # abuse.ch TF
@@ -1859,6 +1879,8 @@ block from any to 18.245.60.0/24
 # https://www.abuseipdb.com/check/18.245.60.76
 block from any to 18.245.60.76
 block from any to 18.245.86.0/24
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 18.253.226.108
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 20.0.28.174
 # UK https://red.flag.domains/posts/2024-01-22/
@@ -1873,6 +1895,8 @@ block from any to 20.12.24.35
 block from any to 20.13.131.52
 # US https://www.abuseipdb.com/check/
 block from any to 20.15.118.127
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 20.56.35.166
 # https://threatfox.abuse.ch/browse/malware/win.pikabot/
 block from any to 20.67.206.46
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -1899,6 +1923,8 @@ block from any to 20.39.210.20
 block from any to 20.52.237.224
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 20.55.16.22
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 20.55.194.105
 # abuse.ch TF
 block from any to 20.65.145.66
 # https://malpulse.com/blog/5/ CobaltStrik https://malpulse.com/blog/5/ CobaltStrikee
@@ -2127,6 +2153,8 @@ block from any to 23.94.66.68
 block from any to 23.94.84.65
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 23.94.87.135
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 23.94.94.149
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 23.94.104.16
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -2173,6 +2201,8 @@ block from any to 23.106.124.152
 block from any to 23.106.160.37
 # US https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 23.106.223.53
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 23.177.56.78
 # US https://www.abuseipdb.com/check/
 block from any to 23.128.248.24
 # US
@@ -2234,11 +2264,11 @@ block from any to 23.227.38.65
 block from any to 23.227.38.65
 # Canada https://red.flag.domains/posts/2024-01-15/ https://www.abuseipdb.com/check/23.227.38.66
 block from any to 23.227.38.66
-# Canada https://red.flag.domains/posts/2024-04-19/ concert-jul[.fr] (registrar: EPAG Domainservices GmbH
+# https://red.flag.domains/posts/ 2024-05-03 sneakersfrance[.fr] (registrar: EPAG Domainservices GmbH) 2024-04-19/ concert-jul[.fr] (registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.67
-# https://red.flag.domains/posts/ 2024-06-05 birkenstock-store[.fr] (registrar: EPAG Domainservices GmbH 2024-04-02/ 1fnac[.fr] (registrar: EPAG Domainservices GmbH
+# https://red.flag.domains/posts/ 2024-06-06 beautifulclothes[.fr] (registrar: EPAG Domainservices GmbH) 2024-06-05 birkenstock-store[.fr] (registrar: EPAG Domainservices GmbH 2024-04-02/ 1fnac[.fr] (registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.68
-# https://red.flag.domains/posts/2024-04-06/ applecarplay[.fr] (registrar: EPAG Domainservices GmbH) outlet-golden[.fr] (registrar: EPAG Domainservices GmbH
+# https://red.flag.domains/posts/ 2024-06-07 elex-shop[.fr] (registrar: EPAG Domainservices GmbH)  2024-06-06 ticketmastter[.fr] (registrar: EPAG Domainservices GmbH) 2024-04-06/ applecarplay[.fr] (registrar: EPAG Domainservices GmbH) outlet-golden[.fr] (registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.69
 # https://red.flag.domains/posts/2024-05-27/ jul-store[.fr] (registrar: EPAG Domainservices GmbH) 2024-05-26 birkenoutlet[.fr] (registrar: IONOS SE)
 block from any to 23.227.38.70
@@ -2635,6 +2665,8 @@ block from any to 31.173.20.93
 block from any to 31.173.81.198
 # Russia https://www.abuseipdb.com/check/
 block from any to 31.173.182.62
+# https://threatfox.abuse.ch/browse/malware/win.meduza/
+block from any to 31.177.108.30
 # Poland https://www.abuseipdb.com/check/
 block from any to 31.182.57.86
 # Russia https://www.abuseipdb.com/check/
@@ -3042,6 +3074,8 @@ block from any to 34.226.28.43
 block from any to 34.230.177.18
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 34.239.169.49
+# US https://www.abuseipdb.com/check/
+block from any to 34.239.176.151
 # abuse.ch TF
 block from any to 34.239.255.86
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -3067,6 +3101,8 @@ block from any to 34.239.255.86
 block from any to 34.240.141.248
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 34.241.115.67
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 34.242.178.11
 # abuse.ch TF
 block from any to 34.245.141.209
 # abuse.ch TF
@@ -3108,6 +3144,8 @@ block from any to 35.71.142.77
 block from any to 35.72.79.151
 # https://threatfox.abuse.ch/browse/malware/win.nimplant# https://threatfox.abuse.ch/browse/malware/win.nimplant//
 block from any to 35.87.2.201
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 35.90.91.89
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 35.157.111.131
 # A.ch TF
@@ -4898,6 +4936,8 @@ block from any to 43.134.31.15
 block from any to 43.134.41.36
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.43.36
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 43.134.47.80
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.48.214
 # https://www.abuseipdb.com/check/
@@ -5576,6 +5616,8 @@ block from any to 43.247.41.0/24
 block from any to 44.198.148.77
 # https://www.abuseipdb.com/check/
 block from any to 44.202.114.12
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 44.211.3.42
 # US DFA https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 block from any to 44.227.65.245
 # US DFA https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
@@ -5785,6 +5827,8 @@ block from any to 45.33.83.115
 block from any to 45.33.88.195
 # US https://www.abuseipdb.com/check/
 block from any to 45.33.91.31
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 45.33.97.250
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.34.6.0/24
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -6374,6 +6418,8 @@ block from any to 45.128.232.26
 block from any to 45.128.232.51
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.232.61
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 45.128.232.67
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 45.128.232.82
 # Netherlands https://www.abuseipdb.com/check/
@@ -6567,6 +6613,8 @@ block from any to 45.140.146.242
 block from any to 45.139.104.76
 # abuse.ch TF
 block from any to 45.140.169.224
+# Seychelles https://www.abuseipdb.com/check/
+block from any to 45.141.58.191
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.141.84.0/24
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -7498,6 +7546,8 @@ block from any to 46.174.191.30
 block from any to 46.175.148.147
 # DNS https://red.flag.domains/posts/2024-02-29/ registrar: HOSTEUR service-leboncoin[.fr]
 block from any to 46.182.4.120
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 46.183.25.51
 # https://www.abuseipdb.com/check/
 block from any to 46.191.141.152
 # A.ch TF
@@ -7546,6 +7596,8 @@ block from any to 46.246.4.16
 block from any to 46.246.6.0/24
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 46.246.6.6
+# https://threatfox.abuse.ch/browse/malware/win.dcrat/
+block from any to 46.246.6.17
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 46.246.6.68
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
@@ -7691,6 +7743,8 @@ block from any to 47.93.222.174
 block from any to 47.94.3.165
 # https://threatfox.abuse.ch/browse/malware/unknown/ Supershel# https://threatfox.abuse.ch/browse/malware/unknown/ Supershelll
 block from any to 47.94.88.4
+# https://threatfox.abuse.ch/browse/malware/win.doomedloader/
+block from any to 47.94.113.161
 # https://threatfox.abuse.ch/browse/tag/Supershell/ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 47.94.143.32
 # China https://www.abuseipdb.com/check/
@@ -7841,6 +7895,8 @@ block from any to 47.128.29.52
 block from any to 47.120.37.45
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
 block from any to 47.120.39.182
+# https://threatfox.abuse.ch/browse/tag/Supershell/
+block from any to 47.120.40.27
 # abuse.ch TF
 block from any to 47.120.42.255
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -8051,6 +8107,8 @@ block from any to 49.13.149.129
 block from any to 49.13.149.204
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 49.13.194.252
+# https://threatfox.abuse.ch/browse/malware/win.vidar/
+block from any to 49.13.235.244
 # https://www.abuseipdb.com/check/
 block from any to 49.36.41.21
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
@@ -8203,6 +8261,10 @@ block from any to 50.62.183.14
 block from any to 50.86.169.254
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 50.87.193.240
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 50.114.37.0/24
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 50.114.37.38
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 50.114.37.52
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -8233,6 +8295,8 @@ block from any to 50.223.37.170
 block from any to 50.243.177.161
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 50.255.126.65
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 51.8.90.242
 # US https://www.abuseipdb.com/check/
 block from any to 51.8.217.57
 # Sweden https://www.abuseipdb.com/check/
@@ -8264,6 +8328,8 @@ block from any to 51.15.168.198
 block from any to 51.15.226.0
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 51.15.235.86
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 51.15.249.226
 block from any to 51.17.65.55
 # https://www.abuseipdb.com/check/
 block from any to 51.15.140.163
@@ -9352,6 +9418,8 @@ block from any to 60.204.217.11
 block from any to 60.204.220.208
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 60.204.232.46
+# https://threatfox.abuse.ch/browse/malware/win.ghost_rat/
+block from any to 60.204.235.186
 # abuse.ch TF
 block from any to 60.204.249.156
 # China https://www.abuseipdb.com/check/
@@ -9460,7 +9528,7 @@ block from any to 61.177.172.140
 block from any to 61.177.172.143
 # https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
 block from any to 61.177.172.147
-# China https://www.abuseipdb.com/check/
+# China Lianyungang, Jiangsu https://www.abuseipdb.com/check/
 block from any to 61.177.172.157
 # China https://www.abuseipdb.com/check/
 block from any to 61.177.172.160
@@ -9698,6 +9766,8 @@ block from any to 62.234.50.55
 block from any to 62.234.54.38
 # https://www.abuseipdb.com/check/
 block from any to 62.234.61.157
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 62.234.162.181
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 62.234.175.104
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -9717,8 +9787,14 @@ block from any to 63.250.43.0/24
 block from any to 63.250.43.15
 # https://red.flag.domains/posts/2024-04-13/ dior-outlet[.fr] (registrar: 1API GmbH)
 block from any to 63.250.43.16
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 63.250.56.0/24
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 63.250.56.6
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 63.250.56.156
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 63.250.56.164
 # US https://www.abuseipdb.com/check/
 block from any to 63.251.106.21
 # US https://www.abuseipdb.com/check/
@@ -10443,6 +10519,8 @@ block from any to 74.50.84.238
 block from any to 74.50.85.233
 # https://red.flag.domains/posts/
 block from any to 74.50.87.28
+# https://threatfox.abuse.ch/browse/tag/Evilginx%20EvilGoPhish/
+block from any to 74.50.89.62
 # https://red.flag.domains/posts/2024-02-27/ registrar: Sarek Oy
 block from any to 74.50.95.124
 block from any to 74.63.241.0/24
@@ -10484,6 +10562,8 @@ block from any to 74.222.22.109
 block from any to 74.234.109.140
 # DFA https://red.flag.domains/posts/2023-02-21/ registrar: IONOS SE
 block from any to 74.234.252.121
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 74.235.204.9
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 74.249.96.36
 # US DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf https://red.flag.domains/posts/2023-02-03/ https://red.flag.domains/posts/2023-02-02/ registrar: TLD Registrar Solutions Ltd https://red.flag.domains/posts/2023-01-26/ m.strip(.)network
@@ -11050,7 +11130,7 @@ block from any to 79.110.62.92
 block from any to 79.110.62.145
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 79.110.62.149
-# Netherlands https://www.abuseipdb.com/check/
+# Netherlands Amsterdam, Noord-Holland https://www.abuseipdb.com/check/
 block from any to 79.110.62.150
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 79.110.62.155
@@ -11111,6 +11191,8 @@ block from any to 79.124.62.82
 # US https://www.abuseipdb.com/check/
 block from any to 79.124.62.86
 # US https://www.abuseipdb.com/check/
+block from any to 79.124.62.126
+# US https://www.abuseipdb.com/check/
 block from any to 79.124.62.134
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
 block from any to 79.124.76.237
@@ -11131,6 +11213,8 @@ block from any to 79.132.213.187
 block from any to 79.132.249.34
 # https://threatfox.abuse.ch/browse
 block from any to 79.137.36.193
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 79.137.117.0/24
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 79.137.117.20
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -11506,6 +11590,8 @@ block from any to 81.28.6.148
 block from any to 81.30.128.176
 # https://www.abuseipdb.com/check/
 block from any to 81.31.170.17
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 81.43.243.155
 # https://www.abuseipdb.com/check/
 block from any to 81.68.83.150
 # https://www.abuseipdb.com/check/
@@ -11869,7 +11955,7 @@ block from any to 84.46.22.158
 block from any to 84.32.44.156
 # DNS DGA Lithuania https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt lle(.)uz https://red.flag.domains/posts/
 block from any to 84.32.84.0/24
-# DFA Lithuania https://red.flag.domains/posts/ 2024-06-07 regularisationamendes-serviceweb[.fr] (registrar: Hostinger operations UAB ameli-maladie[.fr] (registrar: Hostinger operations UAB 2024-05-28 notairies[.fr] (registrar: Hostinger operations UAB) 2024-05-27 fr-darty[.fr] (registrar: Hostinger operations UAB) 2024-04-24 finance-publique[.fr] (registrar: Hostinger operations UAB 2024-04-23 cnilfrance[.fr] (registrar: Hostinger operations UAB 2024-04-19 uni-brest[.fr] (registrar: Hostinger operations UAB segre-leclerc[.fr] (registrar: Hostinger operations UAB 2024-04-18 xn--achatpermisfranais-mvb[.fr] (registrar: Hostinger operations UAB 2024-04-16 controle-prime[.fr] (registrar: Hostinger operations UAB 2024-03-17 registrar: Hostinger operations UAB leboncoi-n[.fr] 2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
+# DFA Lithuania https://red.flag.domains/posts/ 2024-06-09 europol[.fr] (registrar: Hostinger operations UAB) 2024-06-07 regularisationamendes-serviceweb[.fr] (registrar: Hostinger operations UAB ameli-maladie[.fr] (registrar: Hostinger operations UAB 2024-05-28 notairies[.fr] (registrar: Hostinger operations UAB) 2024-05-27 fr-darty[.fr] (registrar: Hostinger operations UAB) 2024-05-04 fr-supermarches[.fr] (registrar: Hostinger operations UAB) fr-supermarchesmatch[.fr] (registrar: Hostinger operations UAB) 2024-04-24 finance-publique[.fr] (registrar: Hostinger operations UAB 2024-04-23 cnilfrance[.fr] (registrar: Hostinger operations UAB 2024-04-19 uni-brest[.fr] (registrar: Hostinger operations UAB segre-leclerc[.fr] (registrar: Hostinger operations UAB 2024-04-18 xn--achatpermisfranais-mvb[.fr] (registrar: Hostinger operations UAB 2024-04-16 controle-prime[.fr] (registrar: Hostinger operations UAB 2024-03-17 registrar: Hostinger operations UAB leboncoi-n[.fr] 2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
 block from any to 84.32.84.32
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt lle(.)uz
 block from any to 84.32.84.106
@@ -11931,7 +12017,7 @@ block from any to 84.54.51.164
 block from any to 84.54.51.241
 # https://www.abuseipdb.com/check/
 block from any to 84.54.51.242
-# Netherlands https://www.abuseipdb.com/check/
+# Netherlands Amsterdam, Noord-Holland https://www.abuseipdb.com/check/
 block from any to 84.54.51.243
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 84.54.51.245
@@ -12266,7 +12352,7 @@ block from any to 86.98.8.132
 block from any to 86.98.61.33
 # Iran https://www.abuseipdb.com/check/
 block from any to 86.104.40.254
-# https://threatfox.abuse.ch/browse/tag/Covenant/
+# https://threatfox.abuse.ch/browse/malware/win.havoc/ https://threatfox.abuse.ch/browse/tag/Covenant/
 block from any to 86.104.72.20
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
 block from any to 86.104.74.31
@@ -12654,6 +12740,8 @@ block from any to 88.247.26.92
 block from any to 88.247.164.108
 # https://www.abuseipdb.com/check/
 block from any to 88.249.233.161
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 88.253.72.170
 # https://www.abuseipdb.com/check/
 block from any to 88.255.102.150
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
@@ -12692,6 +12780,10 @@ block from any to 89.23.98.225
 block from any to 89.23.99.198
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 89.23.100.223
+# https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
+block from any to 89.23.101.0/24
+# https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
+block from any to 89.23.101.213
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 89.23.101.233
 # https://tracker.viriback.com/index.php?q=Risepro
@@ -13125,6 +13217,8 @@ block from any to 91.92.244.236
 block from any to 91.92.245.0/24
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 91.92.245.22
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 91.92.245.27
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.31
 # Netherlands https://www.abuseipdb.com/check/
@@ -13581,6 +13675,8 @@ block from any to 91.219.239.166
 block from any to 91.132.92.90
 # UK https://blog.xlab.qianxin.com/rimasuta-new-variant-switches-to-chacha20-encryption-en/
 block from any to 91.132.95.0/24
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 91.132.95.28
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 91.132.139.243
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
@@ -13655,6 +13751,8 @@ block from any to 91.191.209.198
 block from any to 91.195.240.117
 # https://www.abuseipdb.com/check/
 block from any to 91.250.243.75
+# https://threatfox.abuse.ch/browse/malware/win.amadey/ second.amadgood(.)com https://threatfox.abuse.ch/browse/malware/win.formbook/ collegeclubapparel(.)com www.collegeclubapparel(.)com www.blueberry-breeze(.)com blueberry-breeze(.)com
+block from any to 91.195.240.117
 # https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/
 block from any to 91.196.70.49
 # Spain https://www.abuseipdb.com/check/
@@ -13893,6 +13991,12 @@ block from any to 91.243.92.41
 block from any to 91.243.92.120
 # https://www.abuseipdb.com/check/
 block from any to 91.250.243.75
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 91.245.255.0/24
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 91.245.255.64
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 91.245.255.99
 # https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 92.38.135.217
 # https://tracker.viriback.com/index.php?q=Risepro
@@ -14031,12 +14135,14 @@ block from any to 92.123.237.0/24
 block from any to 92.123.239.0/24
 # France https://www.abuseipdb.com/check/
 block from any to 92.154.82.110
-# France https://www.abuseipdb.com/check/
+# France Paris, Ile-de-France https://www.abuseipdb.com/check/
 block from any to 92.154.95.236
 # France https://www.abuseipdb.com/check/
 block from any to 92.158.158.212
 # Japan https://www.abuseipdb.com/check/
 block from any to 92.203.181.42
+# https://threatfox.abuse.ch/browse/tag/Mythic/
+block from any to 92.204.83.36
 # US https://www.abuseipdb.com/check
 block from any to 92.204.134.38
 # https://www.abuseipdb.com/check
@@ -14171,6 +14277,8 @@ block from any to 93.123.39.127
 block from any to 93.123.39.129
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 93.123.39.164
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 93.123.39.168
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 93.123.39.185
 # https://threatfox.abuse.ch/browse/malware/win.socks5_systemz/
@@ -14282,6 +14390,8 @@ block from any to 93.190.143.252
 block from any to 94.20.48.26
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 94.20.72.7
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 94.20.154.243
 # https://threatfox.abuse.ch/browse/malware/win.sliver/
 block from any to 94.23.89.139
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -14300,6 +14410,8 @@ block from any to 94.49.41.130
 block from any to 94.49.94.93
 # https://threatfox.abuse.ch/browse/malware/win.poison_ivy/
 block from any to 94.49.180.101
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 94.49.204.101
 # United Arab Emirates https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 94.59.70.225
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -14480,6 +14592,8 @@ block from any to 94.156.64.5
 block from any to 94.156.64.90
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.64.121
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.64.133
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 94.156.64.148
 # Netherlands https://www.abuseipdb.com/check/
@@ -14565,6 +14679,8 @@ block from any to 94.156.71.9
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.10
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.71.14
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.15
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.16
@@ -14602,7 +14718,7 @@ block from any to 94.156.71.105
 block from any to 94.156.71.173
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.176
-# Netherlands https://www.abuseipdb.com/check/
+# Netherlands Amsterdam, Noord-Holland https://www.abuseipdb.com/check/
 block from any to 94.156.71.201
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.223
@@ -14618,6 +14734,8 @@ block from any to 94.156.71.249
 block from any to 94.156.79.0/24
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 94.156.79.9
+# Bulgaria https://www.abuseipdb.com/check/
+block from any to 94.156.79.205
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 94.156.79.13
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
@@ -15086,7 +15204,7 @@ block from any to 95.70.245.60
 block from any to 95.70.245.66
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 95.85.15.212
-# https://www.abuseipdb.com/check/
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 95.85.56.9
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 95.86.227.200
@@ -15185,6 +15303,8 @@ block from any to 95.217.25.45
 block from any to 95.217.27.87
 # https://www.abuseipdb.com/check/
 block from any to 95.217.31.63
+# https://threatfox.abuse.ch/browse/malware/win.vidar/
+block from any to 95.217.135.112
 # Finland https://www.abuseipdb.com/check/
 block from any to 95.217.163.169
 # Finland https://www.abuseipdb.com/check/
@@ -15871,6 +15991,8 @@ block from any to 103.57.221.218
 block from any to 103.58.4.36
 # https://www.abuseipdb.com/check/
 block from any to 103.58.152.25
+# India https://www.abuseipdb.com/check/
+block from any to 103.61.75.236
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/ https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 103.61.225.0/24
 # https://www.abuseipdb.com/check/
@@ -17154,12 +17276,16 @@ block from any to 104.21.76.247
 block from any to 104.21.77.0/24
 # https://red.flag.domains/posts/2024-05-07/ chicosparis[.fr] (registrar: GRANSY s.r.o.)
 block from any to 104.21.77.132
+# https://red.flag.domains/posts/2024-06-09/  payez-amandes[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 104.21.77.179
 #https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv bloggcenter(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.77.197
 # https://red.flag.domains/posts/2024-02-26/ registrar: IONOS SE
 block from any to 104.21.77.220
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top
 block from any to 104.21.79.0/24
+# https://threatfox.abuse.ch/browse/malware/win.lokipws/
+block from any to 104.21.79.102
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top
 block from any to 104.21.79.128
 # https://red.flag.domains/posts/2024-04-15/ assu-maladie-renouvellement-fr[.fr] (registrar: One.com A/S
@@ -17703,6 +17829,10 @@ block from any to 104.248.19.132
 block from any to 104.248.21.0
 # https://www.abuseipdb.com/check/
 block from any to 104.248.29.197
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 104.248.34.0/24
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 104.248.34.11
 # https://www.abuseipdb.com/check/
 block from any to 104.248.34.110
 # https://www.abuseipdb.com/check/
@@ -17733,6 +17863,8 @@ block from any to 104.248.168.78
 block from any to 104.248.169.54
 # US https://www.abuseipdb.com/check/
 block from any to 104.248.226.67
+# Germany https://www.abuseipdb.com/check/
+block from any to 104.248.251.169
 # https://www.abuseipdb.com/check/
 block from any to 104.249.26.239
 # Hong Kong https://www.abuseipdb.com/check/
@@ -17881,6 +18013,8 @@ block from any to 106.51.105.25
 block from any to 106.52.95.146
 # https://www.abuseipdb.com/check/
 block from any to 106.52.73.249
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 106.52.102.35
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 106.52.127.12
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -17903,6 +18037,8 @@ block from any to 106.53.207.158
 block from any to 106.53.186.12
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ service-ps16whvt-1304800271.sh.tencentapigw(.)com
 block from any to 106.54.143.222
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 106.54.197.233
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 106.54.207.116
 # China https://www.abuseipdb.com/check/
@@ -18115,6 +18251,8 @@ block from any to 107.189.31.172
 block from any to 107.150.7.53
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 107.150.23.137
+# US https://www.abuseipdb.com/check/
+block from any to 107.152.47.78
 # https://github.com/blacklotuslabs/IOCs/blob/main/Cuttlefish_IOCs.txt
 block from any to 107.189.28.251
 # Hong Kong https://www.abuseipdb.com/check/
@@ -18323,6 +18461,8 @@ block from any to 107.175.35.40
 block from any to 107.175.91.120
 # abuse.ch
 block from any to 107.175.113.198
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 107.175.115.91
 # https://threatfox.abuse.ch/browse/malware/apk.rafelrat/
 block from any to 107.175.142.10
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
@@ -19247,6 +19387,8 @@ block from any to 114.45.72.121
 block from any to 114.55.90.40
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 114.55.100.165
+# https://threatfox.abuse.ch/browse/malware/win.sliver/
+block from any to 114.55.230.1
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 114.55.112.203
 # China https://www.abuseipdb.com/check/
@@ -19393,6 +19535,8 @@ block from any to 115.79.234.191
 block from any to 115.84.106.176
 # Philippines https://www.abuseipdb.com/check/
 block from any to 115.84.233.226
+# https://threatfox.abuse.ch/browse/tag/Mythic/
+block from any to 115.87.213.147
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt
 block from any to 115.126.98.204
 # https://www.abuseipdb.com/check/
@@ -19773,6 +19917,8 @@ block from any to 118.20.191.59
 block from any to 118.21.99.28
 # China https://www.abuseipdb.com/check/
 block from any to 118.24.153.214
+# https://threatfox.abuse.ch/browse/tag/Supershell/
+block from any to 118.25.102.204
 # China https://www.abuseipdb.com/check/
 block from any to 118.25.148.66
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -20166,6 +20312,8 @@ block from any to 120.89.71.242
 block from any to 120.89.71.246
 # Nepal https://www.abuseipdb.com/check/120.89.98.71
 block from any to 120.89.98.71
+# China https://www.abuseipdb.com/check/
+block from any to 120.92.107.138
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 120.92.144.107
 # Korea https://www.abuseipdb.com/check/
@@ -20230,6 +20378,8 @@ block from any to 121.36.61.185
 block from any to 121.36.198.85
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 121.36.248.151
+# https://threatfox.abuse.ch/browse/malware/win.doomedloader/
+block from any to 121.37.42.20
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
 block from any to 121.37.174.139
 # abuse.ch TF
@@ -20278,6 +20428,8 @@ block from any to 121.62.61.0/24
 block from any to 121.62.61.153
 # China https://www.abuseipdb.com/check/
 block from any to 121.62.61.196
+# China https://www.abuseipdb.com/check/
+block from any to 121.62.61.236
 # China https://www.abuseipdb.com/check/
 block from any to 121.62.63.221
 # Pakistan https://www.abuseipdb.com/check/
@@ -20390,6 +20542,8 @@ block from any to 122.51.41.5
 block from any to 122.51.47.232
 # abuse.ch TF
 block from any to 122.51.68.179
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 122.51.194.153
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 122.51.220.170
 # Philippines https://www.abuseipdb.com/check/
@@ -20528,6 +20682,8 @@ block from any to 123.57.59.76
 block from any to 123.57.137.235
 # China https://www.abuseipdb.com/check/
 block from any to 123.57.147.214
+# https://threatfox.abuse.ch/browse/malware/win.doomedloader/
+block from any to 123.57.150.35
 # China https://www.abuseipdb.com/check/
 block from any to 123.57.217.217
 # https://www.abuseipdb.com/check/
@@ -20538,8 +20694,12 @@ block from any to 123.59.28.66
 block from any to 123.59.61.147
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 123.60.128.4
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 123.60.181.0/24
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 123.60.181.152
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 123.60.181.176
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 123.60.182.74
 # China https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -20839,7 +20999,11 @@ block from any to 124.248.67.37
 # China https://www.abuseipdb.com/check/
 block from any to 124.248.69.60
 # India https://www.abuseipdb.com/check/
+block from any to 125.19.115.186
+# India https://www.abuseipdb.com/check/
 block from any to 125.21.57.158
+# India https://www.abuseipdb.com/check/
+block from any to 125.23.220.112
 # https://www.abuseipdb.com/check/
 block from any to 125.25.168.105
 # Macao https://www.abuseipdb.com/check/
@@ -21082,6 +21246,8 @@ block from any to 128.199.219.111
 block from any to 129.151.135.50
 # https://www.abuseipdb.com/check/
 block from any to 129.205.29.195
+# https://threatfox.abuse.ch/browse/tag/Supershell/
+block from any to 129.211.13.156
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 129.211.211.145
 # https://threatfox.abuse.ch/browse/tag/Supershell/
@@ -21175,7 +21341,7 @@ block from any to 131.186.56.94
 block from any to 131.196.252.148
 # https://www.abuseipdb.com/check/
 block from any to 132.248.65.8
-# US https://www.abuseipdb.com/check/
+# US Tempe, Arizona https://www.abuseipdb.com/check/
 block from any to 132.148.72.192
 # US https://www.abuseipdb.com/check/
 block from any to 132.148.76.25
@@ -21241,6 +21407,8 @@ block from any to 134.175.48.152
 block from any to 134.175.125.207
 # https://www.abuseipdb.com/check/
 block from any to 134.175.137.69
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 134.175.213.82
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 134.195.90.8
 # https://www.abuseipdb.com/check/
@@ -22644,6 +22812,12 @@ block from any to 147.45.75.169
 block from any to 147.45.75.185
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 147.45.78.74
+# https://threatfox.abuse.ch/browse/malware/win.havoc/ https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
+block from any to 147.45.79.0/24
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 147.45.79.42
+# https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
+block from any to 147.45.79.91
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 147.45.136.226
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
@@ -22682,6 +22856,8 @@ block from any to 147.78.103.54
 block from any to 147.78.103.81
 # https://red.flag.domains/posts/2024-06-02/ colis-suspendu[.fr] (registrar: EPAG Domainservices GmbH 2024-05-28 webrenouvellement[.fr] (registrar: EPAG Domainservices GmbH)
 block from any to 147.78.103.109
+# https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
+block from any to 147.78.103.114
 # https://red.flag.domains/posts/2024-05-30/ laposte-livraison[.fr] (registrar: NETIM)
 block from any to 147.78.103.122
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
@@ -23384,6 +23560,8 @@ block from any to 166.141.84.43
 # US https://www.abuseipdb.com/check/
 block from any to 166.154.117.154
 # US https://www.abuseipdb.com/check/
+block from any to 166.239.179.235
+# US https://www.abuseipdb.com/check/
 block from any to 166.239.195.204
 # https://www.abuseipdb.com/check/152.195.53.200
 block from any to 152.195.53.200
@@ -24003,6 +24181,8 @@ block from any to 157.119.75.16
 block from any to 157.148.123.74
 # https://www.cisa.gov/sites/default/files/2023-11/aa23-319a-stopransomware-rhysida-ransomware_1.pdf
 block from any to 157.154.194.6
+# Australia https://www.abuseipdb.com/check/
+block from any to 157.211.135.192
 # https://www.abuseipdb.com/check/157.211.149.236
 block from any to 157.211.149.236
 # Germany https://www.abuseipdb.com/check/
@@ -24121,6 +24301,8 @@ block from any to 158.160.11.208
 block from any to 158.160.65.88
 # https://www.abuseipdb.com/check/
 block from any to 158.160.79.38
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 158.160.82.115
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 158.160.87.195
 # https://www.abuseipdb.com/check/
@@ -25387,6 +25569,8 @@ block from any to 164.160.91.34
 block from any to 164.163.98.49
 # France
 block from any to 164.177.31.66
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 165.3.87.196
 # https://threatfox.abuse.ch/browse/malware/win.darkgate/
 block from any to 165.22.16.0/24
 # https://threatfox.abuse.ch/browse/malware/win.darkgate/
@@ -25497,6 +25681,8 @@ block from any to 165.225.229.106
 block from any to 165.227.11.155
 # https://www.abuseipdb.com/check/
 block from any to 165.227.46.138
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 165.227.79.41
 # A.ch TF
 block from any to 165.227.106.254
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -25998,6 +26184,8 @@ block from any to 168.119.8.175
 block from any to 168.119.96.5
 # Germany https://www.abuseipdb.com/check/
 block from any to 168.119.99.137
+# https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+block from any to 168.119.119.140
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 168.119.225.154
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
@@ -26867,24 +27055,12 @@ block from any to 172.67.209.167
 block from any to 172.67.209.207
 # US https://red.flag.domains/posts/2024-01-22/
 block from any to 172.67.209.219
+# https://red.flag.domains/posts/2024-06-09/ payez-amandes[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 172.67.210.0/24
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.210.131
-# https://asec.ahnlab.com/en/63308/ qu[.]ax
-block from any to 172.67.218.0/24
-# https://asec.ahnlab.com/en/63308/ qu[.]ax
-block from any to 172.67.218.147
-# https://red.flag.domains/posts/2024-04-25/ og-sneakers[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
-block from any to 172.67.218.165
-# https://red.flag.domains/posts/2024-05-03/ icloud-photos[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com)
-block from any to 172.67.219.7
-# https://red.flag.domains/posts/2024-04-27/ hoganchaussure[.fr] (registrar: GRANSY s.r.o.
-block from any to 172.67.220.0/24
-# https://red.flag.domains/posts/2024-04-27/ hoganchaussure[.fr] (registrar: GRANSY s.r.o.
-block from any to 172.67.220.10
-# DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
-block from any to 172.67.220.140
-# https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ byltly(.)com
-block from any to 172.67.220.234
+# https://red.flag.domains/posts/2024-06-09/ payez-amandes[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 172.67.210.236
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv bloggcenter(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.211.0/24
 # https://red.flag.domains/posts/2024-05-29/ coachsacssoldes[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
@@ -26925,14 +27101,26 @@ block from any to 172.67.217.0/24
 block from any to 172.67.217.93
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html synd.edgecdnc[.]com
 block from any to 172.67.217.142
+# https://asec.ahnlab.com/en/63308/ qu[.]ax
+block from any to 172.67.218.0/24
+# https://asec.ahnlab.com/en/63308/ qu[.]ax
+block from any to 172.67.218.147
+# https://red.flag.domains/posts/2024-04-25/ og-sneakers[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 172.67.218.165
 # https://red.flag.domains/posts/2024-04-01/ localiser-services[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
 block from any to 172.67.219.0/24
+# https://red.flag.domains/posts/2024-05-03/ icloud-photos[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com)
+block from any to 172.67.219.7
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html host.cloudsonicwave[.]com
 block from any to 172.67.219.50
 # https://red.flag.domains/posts/2024-04-01/ localiser-services[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
 block from any to 172.67.219.135
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 172.67.219.223
+# https://red.flag.domains/posts/2024-04-27/ hoganchaussure[.fr] (registrar: GRANSY s.r.o.
+block from any to 172.67.220.0/24
+# https://red.flag.domains/posts/2024-04-27/ hoganchaussure[.fr] (registrar: GRANSY s.r.o.
+block from any to 172.67.220.10
 # DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
 block from any to 172.67.220.140
 # DFA US https://red.flag.domains/posts/ 2024-02-13 registrar: 1API GmbH  2024-01-31 https://tracker.viriback.com/index.php?q=Lokibot
@@ -27115,6 +27303,8 @@ block from any to 172.169.1.85
 block from any to 172.169.4.32
 # US https://www.abuseipdb.com/check/
 block from any to 172.172.30.75
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 172.173.169.179
 # https://www.abuseipdb.com/check/
 block from any to 172.174.5.146
 # US https://www.abuseipdb.com/check/
@@ -27404,6 +27594,8 @@ block from any to 174.138.10.205
 block from any to 174.138.15.119
 # https://www.abuseipdb.com/check/
 block from any to 174.138.19.131
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 174.138.24.101
 # https://www.abuseipdb.com/check/
 block from any to 174.138.26.60
 # US https://www.abuseipdb.com/check/
@@ -27608,6 +27800,8 @@ block from any to 176.97.210.211
 block from any to 176.97.210.236
 # A.ch TF
 block from any to 176.10.111.99
+# Saudi Arabia https://www.abuseipdb.com/check/
+block from any to 176.16.244.162
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 176.40.9.245
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -27696,6 +27890,8 @@ block from any to 176.123.1.123
 block from any to 176.123.1.127
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
 block from any to 176.123.1.215
+# https://red.flag.domains/posts/2024-06-09/ infos-antai[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 176.123.1.232
 # DFA https://red.flag.domains/posts/2024-02-09/ registrar: IONOS SE
 block from any to 176.123.2.86
 # Moldova https://www.abuseipdb.com/check/
@@ -28187,6 +28383,8 @@ block from any to 178.215.236.172
 block from any to 178.215.236.209
 # France https://www.abuseipdb.com/check/
 block from any to 178.215.236.231
+# France https://www.abuseipdb.com/check/
+block from any to 178.215.236.252
 # https://www.abuseipdb.com/check/178.216.165.187
 block from any to 178.216.165.187
 # https://www.abuseipdb.com/check/
@@ -28548,10 +28746,14 @@ block from any to 181.215.49.104
 block from any to 181.215.49.105
 # https://www.abuseipdb.com/check/
 block from any to 181.232.159.26
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 181.237.195.93
 # https://www.abuseipdb.com/check/
 block from any to 182.16.184.140
 # https://www.abuseipdb.com/check/
 block from any to 182.18.131.35
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 182.30.4.130
 # China https://www.abuseipdb.com/check/
 block from any to 182.32.50.224
 # China https://www.abuseipdb.com/check/
@@ -28959,6 +29161,8 @@ block from any to 185.17.121.188
 block from any to 185.18.245.21
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 185.20.187.89
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 185.22.64.121
 # abuse.ch TF
 block from any to 185.22.155.92
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/victimology-using-three-information-stealers.txt
@@ -29079,6 +29283,8 @@ block from any to 185.54.178.117
 block from any to 185.55.243.110
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
 block from any to 185.56.83.83
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 185.59.74.254
 # https://github.com/eset/malware-ioc/tree/master/windigo
 block from any to 185.59.103.8
 # FB spider https://www.abuseipdb.com/check/185.60.219.3
@@ -29470,6 +29676,8 @@ block from any to 185.136.157.196
 block from any to 185.138.42.70
 # Sweden https://www.abuseipdb.com/check/
 block from any to 185.139.228.190
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 185.140.12.198
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 185.140.53.144
 # https://asec.ahnlab.com/en/66372/
@@ -30051,6 +30259,8 @@ block from any to 185.209.161.162
 block from any to 185.213.82.177
 # Sweden https://www.abuseipdb.com/check/
 block from any to 185.213.154.145
+# Spain https://www.abuseipdb.com/check/
+block from any to 185.232.36.17
 # https://github.com/sophoslabs/IoCs/blob/master/2024-02_Payloads_associated_with_ScreenConnect_attacks.csv
 block from any to 185.232.92.32
 # Hong Kong https://www.abuseipdb.com/check/
@@ -30810,6 +31020,8 @@ block from any to 187.32.48.59
 block from any to 187.45.187.42
 # Brazil https://www.abuseipdb.com/check/
 block from any to 187.49.21.153
+# Brazil https://www.abuseipdb.com/check/
+block from any to 187.51.11.218
 # https://www.abuseipdb.com/check/
 block from any to 187.54.12.49
 # Brazil https://www.abuseipdb.com/check/
@@ -31237,6 +31449,8 @@ block from any to 190.9.24.236
 block from any to 190.10.8.95
 # Chile https://www.abuseipdb.com/check/
 block from any to 190.13.130.84
+# Guatemala https://www.abuseipdb.com/check/
+block from any to 190.14.134.6
 # https://www.abuseipdb.com/check/
 block from any to 190.16.52.53
 # https://www.abuseipdb.com/check/
@@ -31347,6 +31561,8 @@ block from any to 190.191.217.179
 block from any to 190.196.224.22
 # Bolivia https://www.abuseipdb.com/check/
 block from any to 190.202.3.22
+# Bolivia https://www.abuseipdb.com/check/
+block from any to 190.203.224.132
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 190.206.22.221
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -31475,6 +31691,8 @@ block from any to 192.0.80.241
 block from any to 192.0.80.242
 # https://www.abuseipdb.com/check/
 block from any to 192.0.101.246
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 192.3.86.166
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 192.3.109.131
 # US https://www.abuseipdb.com/check/
@@ -31875,6 +32093,8 @@ block from any to 192.153.57.67
 block from any to 192.157.56.0/24
 # https://www.virustotal.com/gui/ip-address/192.157.56.141 https://www.abuseipdb.com/check/192.157.56.141
 block from any to 192.157.56.141
+# https://red.flag.domains/posts/2024-06-09/ xn--dossier-rgularisation-j5b[.fr] (registrar: Hostinger operations UAB)
+block from any to 192.162.71.70
 # Russia https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 192.162.103.168
 # Private IP https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
@@ -32361,6 +32581,8 @@ block from any to 193.149.129.133
 block from any to 193.149.129.191
 # US https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 193.149.176.254
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 193.149.189.27
 # Iran https://www.abuseipdb.com/check/
 block from any to 193.151.143.101
 # Iran https://www.abuseipdb.com/check/
@@ -32977,6 +33199,8 @@ block from any to 194.59.30.0/24
 block from any to 194.59.30.80
 # https://threatfox.abuse.ch/browse/malware/win.socks5_systemz/
 block from any to 194.59.30.121
+# https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
+block from any to 194.59.30.174
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 194.59.30.223
 # Bulgaria https://www.abuseipdb.com/check/
@@ -33025,6 +33249,8 @@ block from any to 194.87.71.43
 block from any to 194.87.74.14
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 194.87.93.199
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 194.87.148.48
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 194.88.207.226
 # https://www.abuseipdb.com/check/
@@ -33288,6 +33514,8 @@ block from any to 195.110.124.154
 block from any to 195.123.222.172
 # https://github.com/eset/malware-ioc/tree/master/windigo
 block from any to 195.123.225.83
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 195.123.225.88
 # Czechia https://github.com/sophoslabs/IoCs/blob/master/crimson_palace_stac1248-alpha.csv https://www.elastic.co/security-labs/introducing-the-ref5961-intrusion-set
 block from any to 195.123.245.79
 # https://github.com/sophoslabs/IoCs/blob/master/crimson_palace_stac1248-alpha.csv
@@ -33464,6 +33692,8 @@ block from any to 196.196.38.231
 block from any to 196.196.38.233
 # https://red.flag.domains/posts/2024-04-01/ guess-france[.fr] (registrar: GRANSY s.r.o.
 block from any to 196.196.38.238
+# https://red.flag.domains/posts/2024-05-05/ c-and-a-france[.fr] (registrar: GRANSY s.r.o.)
+block from any to 196.196.38.246
 # France https://red.flag.domains/posts/2024-01-11/
 block from any to 196.196.38.248
 # DNS https://red.flag.domains/posts/2023-03-23/ registrar: GRANSY s.r.o.
@@ -34598,6 +34828,8 @@ block from any to 202.160.165.18
 block from any to 202.166.164.46
 # Nepal https://www.abuseipdb.com/check/
 block from any to 202.166.198.27
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 202.169.39.4
 # Macao https://www.abuseipdb.com/check/
 block from any to 202.175.101.106
 # Malaysia https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/ https://github.com/blacklotuslabs/IOCs/blob/main/ZuoRAT_IoCs.txt
@@ -34618,6 +34850,8 @@ block from any to 202.185.12.124
 block from any to 202.185.181.42
 # https://www.abuseipdb.com/check/
 block from any to 202.238.19.139
+# Malaysia https://www.abuseipdb.com/check/
+block from any to 202.190.106.96
 # https://www.abuseipdb.com/check/
 block from any to 203.12.203.114
 # https://www.abuseipdb.com/check/
@@ -35152,6 +35386,8 @@ block from any to 209.38.24.51
 block from any to 209.38.24.200
 # Australia https://www.abuseipdb.com/check/
 block from any to 209.38.28.46
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 209.38.50.170
 # Germany https://www.abuseipdb.com/check/
 block from any to 209.38.216.114
 # https://www.abuseipdb.com/check/
@@ -35372,6 +35608,8 @@ block from any to 212.27.47.122
 block from any to 212.33.198.185
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 212.39.79.146
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 212.47.244.109
 # https://red.flag.domains/posts/2024-04-18/ gicgouv[.fr] (registrar: KEY-SYSTEMS GmbH
 block from any to 212.47.253.211
 # Turkiye https://www.abuseipdb.com/check/
@@ -35649,7 +35887,7 @@ block from any to 213.180.203.120
 block from any to 213.180.203.167
 # DFA France https://red.flag.domains/posts/ 2024-02-24 registrar: OVH 2024-02-19 registrar: OVH 2024-02-17 registrar: OVH 2024-02-14 registrar: OVH 2023-11-25 registrar: OVH https://www.abuseipdb.com/check/213.186.33.5
 block from any to 213.186.33.0/24
-# https://red.flag.domains/posts/ 2024-06-04 googleimage[.fr] (registrar: OVH 2024-05-27 netflix[.wf] (registrar: OVH) 2024-05-26 disneycab[.fr] (registrar: OVH) 2024-05-31/ xn--espace-sant-enligne-lzb[.fr] (registrar: OVH 2024-04-25/ jeuxdeparis2024[.fr] (registrar: OVH 2024-04-20 authentificnpal[.fr] (registrar: OVH p-authif[.fr] (registrar: OVH 2024-04-19/ vusurlbc[.fr] (registrar: OVH 2024-04-18 banque-cnce[.fr] (registrar: OVH 2024-04-12 bnbhotel[.fr] (registrar: OVH 2024-04-11 dhl-acheminement[.fr] (registrar: OVH 2024-04-08 authlogpal[.fr] (registrar: OVH 2024-04-07 authentifspayilis[.fr] (registrar: OVH authentifspayilx[.fr] (registrar: OVH notifnpal[.fr] (registrar: OVH 2024-04-06 authentifpayils[.fr] (registrar: OVH authentifspayils[.fr] (registrar: OVH authhhpal[.fr] (registrar: OVH 2024-04-05 windows-store[.fr] (registrar: OVH  2024-04-04 authentifspayil[.fr] (registrar: OVH authppl1[.fr] (registrar: OVH frauderpal[.fr] (registrar: OVH 2024-04-02 authaccountp[.fr] (registrar: OVH authentifpayil[.fr] (registrar: OVH authentipallm[.fr] (registrar: OVH 2024-04-01 authentpal[.fr] (registrar: OVH 2024-03-28 imt-ales[.fr] (registrar: OVH
+# https://red.flag.domains/posts/ 2024-06-09 sgdsn-gov[.fr] (registrar: OVH) viginum-gov[.fr] (registrar: OVH) 2024-06-04 googleimage[.fr] (registrar: OVH 2024-05-27 netflix[.wf] (registrar: OVH) 2024-05-26 disneycab[.fr] (registrar: OVH) 2024-05-31/ xn--espace-sant-enligne-lzb[.fr] (registrar: OVH 2024-04-25/ jeuxdeparis2024[.fr] (registrar: OVH 2024-04-20 authentificnpal[.fr] (registrar: OVH p-authif[.fr] (registrar: OVH 2024-04-19/ vusurlbc[.fr] (registrar: OVH 2024-04-18 banque-cnce[.fr] (registrar: OVH 2024-04-12 bnbhotel[.fr] (registrar: OVH 2024-04-11 dhl-acheminement[.fr] (registrar: OVH 2024-04-08 authlogpal[.fr] (registrar: OVH 2024-04-07 authentifspayilis[.fr] (registrar: OVH authentifspayilx[.fr] (registrar: OVH notifnpal[.fr] (registrar: OVH 2024-04-06 authentifpayils[.fr] (registrar: OVH authentifspayils[.fr] (registrar: OVH authhhpal[.fr] (registrar: OVH 2024-04-05 windows-store[.fr] (registrar: OVH  2024-04-04 authentifspayil[.fr] (registrar: OVH authppl1[.fr] (registrar: OVH frauderpal[.fr] (registrar: OVH 2024-04-02 authaccountp[.fr] (registrar: OVH authentifpayil[.fr] (registrar: OVH authentipallm[.fr] (registrar: OVH 2024-04-01 authentpal[.fr] (registrar: OVH 2024-03-28 imt-ales[.fr] (registrar: OVH
 block from any to 213.186.33.5
 # DFA SPAM France
 block from any to 213.186.33.87
@@ -36741,6 +36979,8 @@ block from any to 223.4.202.238
 block from any to 223.4.205.128
 # China https://www.abuseipdb.com/check/
 block from any to 223.4.213.85
+# China https://www.abuseipdb.com/check/
+block from any to 223.4.237.108
 # China https://www.abuseipdb.com/check/
 block from any to 223.4.241.127
 # https://www.abuseipdb.com/check/

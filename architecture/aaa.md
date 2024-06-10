@@ -306,6 +306,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/
+> https://news.ycombinator.com/item?id=40619521
+
 https://news.ycombinator.com/item?id=40404440
 
 https://github.com/SAWARATSUKI/ServiceLogos

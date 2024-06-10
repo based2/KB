@@ -154,6 +154,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/
+> https://news.ycombinator.com/item?id=40636502
+
 https://news.ycombinator.com/item?id=40320166
 
 https://news.ycombinator.com/item?id=40172194

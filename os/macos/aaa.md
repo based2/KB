@@ -175,6 +175,8 @@ https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook
 https://apple.stackexchange.com/questions/308294/what-is-rapportd-and-why-does-it-want-incoming-network-connection
 
 # Dev
+https://news.ycombinator.com/item?id=40616930
+
 https://news.ycombinator.com/item?id=39346527
 
 https://news.ycombinator.com/item?id=37333404 vm

@@ -21,6 +21,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.anthropic.com/research/claude-character
+> https://news.ycombinator.com/item?id=40635512
+
 https://news.ycombinator.com/item?id=40223457
 
 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105490

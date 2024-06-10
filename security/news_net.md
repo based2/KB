@@ -30,6 +30,8 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://summoning.team/blog/veeam-enterprise-manager-cve-2024-29849-auth-bypass/
+
 https://www.horizon3.ai/attack-research/disclosures/cve-2024-23108-fortinet-fortisiem-2nd-order-command-injection-deep-dive/
 
 https://medium.com/mitre-engenuity/infiltrating-defenses-abusing-vmware-in-mitres-cyber-intrusion-4ea647b83f5b
