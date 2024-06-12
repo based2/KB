@@ -58,6 +58,8 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://arxiv.org/abs/2406.03003
+
 https://github.com/darrenburns/elia
 
 https://mistral.ai/news/codestral/

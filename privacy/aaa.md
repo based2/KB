@@ -111,6 +111,9 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://github.com/SeleniumHQ/selenium/pull/13173
+> https://news.ycombinator.com/item?id=40644999
+
 https://variety.com/2023/digital/news/active-listening-marketers-smartphones-ad-targeting-cox-media-group-1235841007/
 
 https://foundation.mozilla.org/fr/privacynotincluded/categories/cars/

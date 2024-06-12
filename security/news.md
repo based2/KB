@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=40628395
+
+https://news.ycombinator.com/item?id=40626014
+
 https://blog.cloudflare.com/dutch-political-websites-hit-by-cyber-attacks-as-eu-voting-starts
 
 https://news.ycombinator.com/item?id=40601356

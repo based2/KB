@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=27338479
 https://words.filippo.io/dispatches/xaes-256-gcm-11/
 > https://news.ycombinator.com/item?id=36620969
 
+https://news.ycombinator.com/item?id=40653125
+
 #
 https://eprint.iacr.org/2021/442
 

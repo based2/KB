@@ -262,7 +262,16 @@ https://news.ycombinator.com/item?id=40608413
 https://arxiv.org/abs/2404.09562 σ-GPTs: A new approach to autoregressive models
 > https://news.ycombinator.com/item?id=40608413
 
+https://news.ycombinator.com/item?id=40640424
+
 # News
+https://gen-ai.fr/en/large-language-models/inside-llm-understanding-tokens/
+
+https://huggingface.co/stabilityai/stable-diffusion-3-medium
+
+https://app.airtrain.ai/dataset/eb91081f-2003-494f-bd5d-084104db01f1/null/1/0 hn
+> https://news.ycombinator.com/item?id=40660036
+
 https://news.ycombinator.com/item?id=40588517
 
 https://news.ycombinator.com/item?id=40599018

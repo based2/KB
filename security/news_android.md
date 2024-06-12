@@ -17,6 +17,8 @@ https://github.com/ax/apk.sh/releases
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.bleepingcomputer.com/news/security/google-warns-of-actively-exploited-pixel-firmware-zero-day/
+
 https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/
 > https://news.ycombinator.com/item?id=40577622
 

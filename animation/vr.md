@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=40641795
+
+https://www.roadtovr.com/visionos-2-webxr-support-vision-pro/
+
 https://news.ycombinator.com/item?id=40539800
 
 https://news.ycombinator.com/item?id=40382056

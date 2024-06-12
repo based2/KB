@@ -244,6 +244,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://www.bizcommunity.com/article/saudi-arabias-petro-dollar-exit-a-global-finance-paradigm-shift-670911a
+
 https://news.ycombinator.com/item?id=39492924
 
 https://news.ycombinator.com/item?id=39480513

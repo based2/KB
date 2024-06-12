@@ -159,6 +159,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=40650974
+
 https://news.ycombinator.com/item?id=40242410
 
 https://jakearchibald.com/2024/attributes-vs-properties/

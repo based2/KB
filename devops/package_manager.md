@@ -96,6 +96,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://news.ycombinator.com/item?id=40658928
+
 https://news.ycombinator.com/item?id=40402557
 
 https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/

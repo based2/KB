@@ -136,3 +136,5 @@ https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/
 
 http://arighi.blogspot.com/2018/12/linux-easy-keylogger-with-ebpf.html
 > https://news.ycombinator.com/item?id=40059648
+
+https://nakryiko.com/posts/bcc-to-libbpf-howto-guide/

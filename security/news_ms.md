@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2024-patch-tuesday-fixes-51-flaws-18-rces/
+
 https://arstechnica.com/security/2024/06/php-vulnerability-allows-attackers-to-run-malicious-code-on-windows-servers/
 
 https://news.ycombinator.com/item?id=40572289
