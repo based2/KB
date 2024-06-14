@@ -163,6 +163,8 @@ https://ogma.framer.website/ Ogma: Interpretable Symbolic General Problem-Solvin
 
 https://arxiv.org/abs/2406.07394 Accessing Math Solutions via Monte Carlo Self-Refine with LLaMa-3 8B
 
+https://news.ycombinator.com/item?id=40646909
+
 # News
 https://embeddedrelated.com/showarticle/152.php Chebyshev Approximation
 > https://news.ycombinator.com/item?id=40614338

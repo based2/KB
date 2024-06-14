@@ -265,6 +265,8 @@ https://arxiv.org/abs/2404.09562 σ-GPTs: A new approach to autoregressive model
 https://news.ycombinator.com/item?id=40640424
 
 # News
+https://news.ycombinator.com/item?id=40682244
+
 https://gen-ai.fr/en/large-language-models/inside-llm-understanding-tokens/
 
 https://huggingface.co/stabilityai/stable-diffusion-3-medium

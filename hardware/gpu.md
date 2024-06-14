@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://github.com/NVIDIA/warp Python framework for high performance GPU simulation and graphics
+> https://news.ycombinator.com/item?id=40680737
+
 https://news.ycombinator.com/item?id=40613854
 
 https://www.theguardian.com/technology/article/2024/jun/02/ai-hardware-firm-nvidia-unveils-next-gen-products-at-taiwan-tech-expo
