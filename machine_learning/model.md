@@ -264,6 +264,11 @@ https://arxiv.org/abs/2404.09562 σ-GPTs: A new approach to autoregressive model
 
 https://news.ycombinator.com/item?id=40640424
 
+https://arxiv.org/abs/2406.05587 Creativity has left the chat: The price of debiasing language models
+> https://news.ycombinator.com/item?id=40702617
+
+https://news.ycombinator.com/item?id=40703751
+
 # News
 https://news.ycombinator.com/item?id=40682244
 

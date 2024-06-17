@@ -91,6 +91,10 @@ https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-wit
 
 https://news.ycombinator.com/item?id=39515007
 
+https://news.ycombinator.com/item?id=40707880
+
+https://news.ycombinator.com/item?id=40693984
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/
@@ -99,6 +103,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=40694949
+
 https://alice-bob.com/
 
 https://fr.wikipedia.org/wiki/Supr%C3%A9matie_quantique

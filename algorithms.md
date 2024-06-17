@@ -128,6 +128,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://siek.blogspot.com/2024/06/sequential-search-correctly.html
+
 https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse
 
 https://news.ycombinator.com/item?id=40098331

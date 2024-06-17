@@ -2009,7 +2009,7 @@ block from any to 20.115.56.254
 block from any to 20.117.106.245
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 20.117.169.244
-# https://red.flag.domains/posts/2024-06-12/ xn--complmentaire-en-ligne-f8b[.fr] (registrar: One.com A/S)
+# https://red.flag.domains/posts/ 2024-06-15 assurance-vitale-gestion[.fr] (registrar: KEY-SYSTEMS GmbH) 2024-06-12 xn--complmentaire-en-ligne-f8b[.fr] (registrar: One.com A/S)
 block from any to 20.117.224.127
 # US https://www.abuseipdb.com/check/
 block from any to 20.118.68.185
@@ -2310,11 +2310,11 @@ block from any to 23.224.233.76
 block from any to 23.226.54.31
 # Canada 2024-02-17 registrar: SAS Ligne Web Services - LWS 2024-02-16 registrar: KEY-SYSTEMS GmbH 2024-02-14 registrar: 1API GmbH 2024-02-11 2024-02-10 2024-02-09 registrar: IONOS SE 2024-02-05 https://red.flag.domains/posts/2024-01-16/ 15
 block from any to 23.227.38.0/24
-# DFA https://red.flag.domains/posts/ 2024-06-06 disneyetsenteurs[.fr] (registrar: EPAG Domainservices GmbH)  2024-04-07/ i-sneakers[.fr] (registrar: IONOS SE 2023-03-24 registrar: EPAG Domainservices GmbH 2024-02-19 registrar: EPAG Domainservices GmbH 2023-11-25 registrar: KEY-SYSTEMS GmbH
+# DFA https://red.flag.domains/posts/ 2024-06-15 louvretickets[.fr] (registrar: KEY-SYSTEMS GmbH)  2024-06-06 disneyetsenteurs[.fr] (registrar: EPAG Domainservices GmbH)  2024-04-07/ i-sneakers[.fr] (registrar: IONOS SE 2023-03-24 registrar: EPAG Domainservices GmbH 2024-02-19 registrar: EPAG Domainservices GmbH 2023-11-25 registrar: KEY-SYSTEMS GmbH
 block from any to 23.227.38.32
 # https://red.flag.domains/posts/ 2024-06-13 basketunivers[.fr] (registrar: EPAG Domainservices GmbH) 2024-06-06 ticketnews[.fr] (registrar: EPAG Domainservices GmbH) 2024-04-23 ameli-regularisation[.fr] (registrar: EPAG Domainservices GmbH maillotmundo[.fr] (registrar: EPAG Domainservices GmbH 2024-04-17/ concertjul[.fr] (registrar: EPAG Domainservices GmbH 2024-04-16 assuremaladie[.fr] (registrar: EPAG Domainservices GmbH 2024-04-15 assurameli[.fr] (registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.36
-# https://red.flag.domains/posts/ 2024-06-13 birkenstock-outlet[.fr] (registrar: OVH) ibirkenstock-sandales[.fr] (registrar: EPAG Domainservices GmbH) 2024-06-12 masteryticket[.fr] (registrar: Hostinger operations UAB) 2024-06-08 prestigeoutlet[.fr] (registrar: IONOS SE) 2024-06-05 lacoste-fr[.fr] (registrar: SAS Ligne Web Services - LWS 2024-05-31 birkenstock-shop[.fr] (registrar: EPAG Domainservices GmbH compass-outlet[.fr] (registrar: SAS Ligne Web Services - LWS 2024-05-05 ofrespeciale[.fr] (registrar: Hostinger operations UAB) 2024-05-01 newsneakers[.fr] (registrar: EPAG Domainservices GmbH) 2024-06-04 keycaps-france[.fr] (registrar: EPAG Domainservices GmbH /2024-05-01 goldengoose-store[.fr] (registrar: OVH) 2024-04-26 julbillet[.fr] (registrar: One.com A/S 2024-05-28 edenpark-destock[.fr] (registrar: 1API GmbH) 2024-04-18/ achat-compte-boost[.fr] (registrar: EPAG Domainservices GmbH 2024-04-16 only-shoes[.fr] (registrar: IONOS SE 024-04-04 montreparis[.fr] (registrar: Hostinger operations UAB 2024-04-02 golden-outlet[.fr] (registrar: EPAG Domainservices GmbH
+# https://red.flag.domains/posts/ 2024-06-16 outlet-nike[.fr] (registrar: SAS Ligne Web Services - LWS) nocibee[.fr] (registrar: Hostinger operations UAB) 2024-06-15 universfoot[.fr] (registrar: One.com A/S) original-adidas[.fr] (registrar: SAS Ligne Web Services - LWS) 2024-06-13 birkenstock-outlet[.fr] (registrar: OVH) ibirkenstock-sandales[.fr] (registrar: EPAG Domainservices GmbH) 2024-06-12 masteryticket[.fr] (registrar: Hostinger operations UAB) 2024-06-08 prestigeoutlet[.fr] (registrar: IONOS SE) 2024-06-05 lacoste-fr[.fr] (registrar: SAS Ligne Web Services - LWS 2024-05-31 birkenstock-shop[.fr] (registrar: EPAG Domainservices GmbH compass-outlet[.fr] (registrar: SAS Ligne Web Services - LWS 2024-05-05 ofrespeciale[.fr] (registrar: Hostinger operations UAB) 2024-05-01 newsneakers[.fr] (registrar: EPAG Domainservices GmbH) 2024-06-04 keycaps-france[.fr] (registrar: EPAG Domainservices GmbH /2024-05-01 goldengoose-store[.fr] (registrar: OVH) 2024-04-26 julbillet[.fr] (registrar: One.com A/S 2024-05-28 edenpark-destock[.fr] (registrar: 1API GmbH) 2024-04-18/ achat-compte-boost[.fr] (registrar: EPAG Domainservices GmbH 2024-04-16 only-shoes[.fr] (registrar: IONOS SE 024-04-04 montreparis[.fr] (registrar: Hostinger operations UAB 2024-04-02 golden-outlet[.fr] (registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.65
 # Canada shopify.com https://red.flag.domains/posts/ 2024-02-23 registrar: SAS Ligne Web Services - LWS 2024-02-19 registrar: TLD Registrar Solutions Ltd 2024-02-17 2024-02-03/ https://red.flag.domains/posts/2024-01-16/ 15 14 2023-03-23 registrar: EPAG Domainservices GmbH https://www.abuseipdb.com/check/23.227.38.65
 block from any to 23.227.38.65
@@ -2330,7 +2330,7 @@ block from any to 23.227.38.69
 block from any to 23.227.38.70
 # Canada https://red.flag.domains/posts/ 2024-02-27 registrar: EPAG Domainservices GmbH 2024-01-24/ 16 15 11 https://www.abuseipdb.com/check/23.227.38.71
 block from any to 23.227.38.71
-# DNS Canada https://red.flag.domains/posts/2024-03-02/ registrar: EPAG Domainservices GmbH fr-ugg[.fr] 2024-02-20/ registrar: EPAG Domainservices GmbH
+# DNS Canada https://red.flag.domains/posts/ 2024-06-16 sch-officiel[.fr] (registrar: EPAG Domainservices GmbH) 2024-04-13/ transferserviceticketmaster[.fr] (registrar: EPAG Domainservices GmbH /2024-04-08 biotinefrance[.fr] (registrar: EPAG Domainservices GmbH 2024-04-03 outlet-factory[.fr] (registrar: EPAG Domainservices GmbH) 2024-03-02/ registrar: EPAG Domainservices GmbH fr-ugg[.fr] 2024-02-20/ registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.72
 # https://red.flag.domains/posts/ 2024-05-27 appleshopp[.fr] (registrar: EPAG Domainservices GmbH) 2024-04-20/ billetrapide[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-10 autry-outlet[.fr] (registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.73
@@ -2815,6 +2815,8 @@ block from any to 34.36.1.200
 block from any to 34.39.20.2
 # Brazil https://www.abuseipdb.com/check/
 block from any to 34.39.139.20
+# Australia https://www.abuseipdb.com/check/
+block from any to 34.40.135.141
 # https://www.abuseipdb.com/check/
 block from any to 34.41.17.26
 # US https://www.abuseipdb.com/check/
@@ -3115,6 +3117,8 @@ block from any to 34.174.95.150
 block from any to 34.175.118.185
 # https://www.abuseipdb.com/check/
 block from any to 34.176.245.217
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ hd.espnv2(.)online
+block from any to 34.193.97.35
 # abuse.ch TF
 block from any to 34.194.123.143
 block from any to 34.194.215.130
@@ -3553,7 +3557,7 @@ block from any to 35.203.211.254
 block from any to 35.204.1.162
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 35.204.5.49
-# DFA Netherlands https://red.flag.domains/posts/ 2024-05-31 sneakers-authentik[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-05-30 service-urssaf[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) 2024-04-27 agencesocietegenerale[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-26 controle-transaction[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-22 billetteriejulofficiel[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider tonbonheurcheznous[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-20 verificationtransaction[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-19 ventepv[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider cdur.fr 2024-04-17 gmoutlet[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider repondeursfr[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-16 parrainageprime[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-03-16 registrar: Hosting Concepts B.V. d/b/a Openprovider encaisserpaylib[.fr] 2024-04-13 serviceverification[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-25 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-18 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-14 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-13 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-01-30 23 20 15 13 10 2023-02-26 registrar: Hosting Concepts B.V. d/b/a Openprovider 2023-11-19 registrar: Hosting Concepts B.V. d/b/a Openprovider 2023-03-24 registrar: Hosting Concepts B.V. d/b/a Openprovider 2023-11-25 registrar: Hosting Concepts B.V. d/b/a Openprovider https://www.abuseipdb.com/check/35.204.150.5 2024-04-07 service-orange-bank[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-02 taxisparisg7[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-03-28 maillotstore[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
+# DFA Netherlands https://red.flag.domains/posts/ 2024-05-31 sneakers-authentik[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-05-30 service-urssaf[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) 2024-05-07 paiementsecurcoin[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)  2024-04-27 agencesocietegenerale[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-26 controle-transaction[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-22 billetteriejulofficiel[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider tonbonheurcheznous[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-20 verificationtransaction[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-19 ventepv[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider cdur.fr 2024-04-17 gmoutlet[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider repondeursfr[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-16 parrainageprime[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-03-16 registrar: Hosting Concepts B.V. d/b/a Openprovider encaisserpaylib[.fr] 2024-04-13 serviceverification[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-25 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-18 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-14 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-13 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-01-30 23 20 15 13 10 2023-02-26 registrar: Hosting Concepts B.V. d/b/a Openprovider 2023-11-19 registrar: Hosting Concepts B.V. d/b/a Openprovider 2023-03-24 registrar: Hosting Concepts B.V. d/b/a Openprovider 2023-11-25 registrar: Hosting Concepts B.V. d/b/a Openprovider https://www.abuseipdb.com/check/35.204.150.5 2024-04-07 service-orange-bank[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-04-02 taxisparisg7[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-03-28 maillotstore[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 35.204.150.5
 # Belgium https://www.abuseipdb.com/check/
 block from any to 35.205.205.158
@@ -3960,6 +3964,8 @@ block from any to 37.221.65.123
 block from any to 37.221.67.0/24
 # https://red.flag.domains/posts/2024-04-02/ mon-espace-assure-sms[.fr] (registrar: One.com A/S
 block from any to 37.221.67.153
+# https://red.flag.domains/posts/2024-06-15/ sms-monespace-en-ligne[.fr] (registrar: One.com Ai/S) mes-assure-espace-renouvellement[.fr] (registrar: IONOS SE)
+block from any to 37.221.67.170
 # https://red.flag.domains/posts/2024-04-08/ infos-suivi-redistrubution[.fr] (registrar: IONOS SE
 block from any to 37.221.67.198
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
@@ -4804,6 +4810,8 @@ block from any to 42.150.232.235
 block from any to 42.180.1.32
 # Meterpreter https://threatfox.abuse.ch/browse/malware/win.meterpreter/
 block from any to 42.190.107.115
+# https://threatfox.abuse.ch/browse/malware/win.coinminer/
+block from any to 42.192.21.226
 # https://www.abuseipdb.com/check/
 block from any to 42.192.83.19
 # https://www.abuseipdb.com/check/
@@ -4987,7 +4995,11 @@ block from any to 43.133.82.136
 # Thailand https://www.abuseipdb.com/check/
 block from any to 43.133.112.167
 # Singapore https://www.abuseipdb.com/check/
+block from any to 43.133.129.0/24
+# Singapore https://www.abuseipdb.com/check/
 block from any to 43.133.129.69
+# Singapore https://www.abuseipdb.com/check/
+block from any to 43.133.129.213
 # https://www.abuseipdb.com/check/
 block from any to 43.133.133.33
 # Singapore https://www.abuseipdb.com/check/
@@ -5089,6 +5101,8 @@ block from any to 43.134.112.105
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.118.228
 # Singapore https://www.abuseipdb.com/check/
+block from any to 43.134.119.157
+# Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.121.208
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.128.131
@@ -5100,6 +5114,8 @@ block from any to 43.134.133.157
 block from any to 43.134.136.188
 # https://www.abuseipdb.com/check/
 block from any to 43.134.166.245
+# Singapore https://www.abuseipdb.com/check/
+block from any to 43.134.167.39
 # https://www.abuseipdb.com/check/
 block from any to 43.134.169.46
 # Singapore https://www.abuseipdb.com/check/
@@ -5256,6 +5272,8 @@ block from any to 43.153.6.8
 block from any to 43.153.9.48
 # https://www.abuseipdb.com/check/
 block from any to 43.153.11.48
+# US https://www.abuseipdb.com/check/
+block from any to 43.153.14.132
 # https://www.abuseipdb.com/check/
 block from any to 43.153.15.221
 # https://www.abuseipdb.com/check/
@@ -5464,6 +5482,8 @@ block from any to 43.156.53.103
 block from any to 43.156.56.251
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.156.57.126
+# Singapore https://www.abuseipdb.com/check/
+block from any to 43.156.64.237
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.156.77.49
 # Singapore https://www.abuseipdb.com/check/
@@ -5742,6 +5762,8 @@ block from any to 45.4.50.32
 block from any to 45.4.50.109
 # https://www.abuseipdb.com/check/
 block from any to 45.4.51.208
+# https://www.abuseipdb.com/check/
+block from any to 45.4.84.67
 # Brazil https://www.abuseipdb.com/check/
 block from any to 45.6.101.26
 # Brazil https://www.abuseipdb.com/check/
@@ -6208,6 +6230,8 @@ block from any to 45.83.31.0/24
 block from any to 45.83.31.137
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 45.83.31.204
+# https://github.com/UninvitedActivity/UninvitedActivity/blob/main/02_InternetScanners/02_AlphaStrikeLabs.txt
+block from any to 45.83.64.0/22
 # Germany https://www.abuseipdb.com/check/
 block from any to 45.83.64.26
 # Germany https://www.abuseipdb.com/check/
@@ -6573,6 +6597,8 @@ block from any to 45.128.232.159
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.232.171
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 45.128.232.194
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.232.200
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.232.213
@@ -6707,7 +6733,7 @@ block from any to 45.138.74.228
 block from any to 45.138.172.95
 # Netherlands news-am-tag.de https://red.flag.domains/posts/ 2024-03-01/ registrar: IONOS SE traitement-dossier[.fr] 2024-02-09/ registrar: OVH
 block from any to 45.139.104.0/24
-# Netherlands news-am-tag.de https://red.flag.domains/posts/2024-02-09/ registrar: OVH
+# Netherlands news-am-tag.de https://red.flag.domains/posts/ 2024-06-12/ vitale-mon-espace[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-02-09/ registrar: OVH
 block from any to 45.139.104.55
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/ boatnet.dogzsec(.)org
 block from any to 45.139.104.69
@@ -7047,6 +7073,10 @@ block from any to 45.156.23.186
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.128.0/24
 # Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.128.15
+# Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.128.19
+# Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.128.31
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.128.34
@@ -7054,6 +7084,8 @@ block from any to 45.156.128.34
 block from any to 45.156.128.36
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.128.38
+# Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.128.42
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.129.0/24
 # Belgium https://www.abuseipdb.com/check/
@@ -7078,6 +7110,10 @@ block from any to 45.156.129.25
 block from any to 45.156.129.46
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.129.49
+# Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.129.95
+# Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.130.24
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 45.156.217.0/24
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -7658,6 +7694,8 @@ block from any to 46.105.158.45
 # https://www.abuseipdb.com/check/
 block from any to 46.105.210.113
 block from any to 46.137.139.15
+# Russia https://www.abuseipdb.com/check/
+block from any to 46.146.234.12
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 46.147.123.30
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -9109,6 +9147,8 @@ block from any to 52.222.250.117
 block from any to 52.223.37.4
 # https://red.flag.domains/posts/2024-04-09/ adidas1000stories[.fr] (registrar: IONOS SE
 block from any to 52.223.52.2
+# US https://www.abuseipdb.com/
+block from any to 52.228.152.89
 # https://www.abuseipdb.com/
 block from any to 52.233.106.53
 # https://blogs.blackberry.com/en/2023/09/silent-skimmer-online-payment-scraping-campaign-shifts-targets-from-apac-to-nala
@@ -9241,6 +9281,8 @@ block from any to 54.149.89.70
 block from any to 54.153.56.183
 # https://malpulse.com/ SerpentStealer
 block from any to 54.156.182.111
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ hd.espnv2(.)online
+block from any to 54.157.24.8
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 54.157.194.229
 # A.ch TF
@@ -9518,6 +9560,8 @@ block from any to 59.126.138.182
 block from any to 59.126.143.241
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 59.126.252.139
+# Taiwan https://www.abuseipdb.com/check/
+block from any to 59.126.252.139
 # https://www.abuseipdb.com/check/
 block from any to 59.127.158.223
 # Taiwan https://www.abuseipdb.com/check/
@@ -9654,6 +9698,8 @@ block from any to 61.7.240.180
 block from any to 61.14.68.33
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 61.19.254.6
+# https://www.abuseipdb.com/check/
+block from any to 61.33.141.114
 # Thailand https://www.abuseipdb.com/check/
 block from any to 61.47.41.98
 # China https://www.abuseipdb.com/check/
@@ -10537,6 +10583,8 @@ block from any to 68.183.223.151
 # Singapore https://www.abuseipdb.com/check/
 block from any to 68.183.239.52
 # US https://www.abuseipdb.com/check/
+block from any to 68.233.170.14
+# US https://www.abuseipdb.com/check/
 block from any to 68.235.39.225
 # US https://www.abuseipdb.com/check/
 block from any to 68.235.43.151
@@ -10555,6 +10603,8 @@ block from any to 69.16.175.10
 block from any to 69.46.36.208
 # DNS https://github.com/avast/ioc/blob/master/FakeUpdate/ClearFake_11_2023.txt limpiadorpucho.com[.mx
 block from any to 69.49.115.40
+# https://red.flag.domains/posts/2024-06-16/ oraange[.fr] (registrar: One.com A/S)
+block from any to 69.49.229.111
 # https://www.abuseipdb.com/check/
 block from any to 69.49.231.194
 # https://www.abuseipdb.com/check/
@@ -11227,6 +11277,8 @@ block from any to 78.46.230.48
 block from any to 78.47.218.106
 # https://threatfox.abuse.ch/browse/malware/win.vidar/
 block from any to 78.47.233.159
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 78.62.155.249
 # Russia https://www.abuseipdb.com/check/
 block from any to 78.85.48.75
 # Germany https://www.abuseipdb.com/check/
@@ -11428,6 +11480,9 @@ block from any to 79.124.40.66
 block from any to 79.124.40.70
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 79.124.40.106
+# https://github.com/UninvitedActivity/UninvitedActivity/blob/main/01_KnownBad/DShield-progressive-byDateLastSeen.txt#L51C1-L51C17
+# https://github.com/UninvitedActivity/UninvitedActivity/blob/main/01_KnownBad/README.md#tamatiya-asn
+block from any to 79.124.49.0/24
 # https://www.abuseipdb.com/check/
 block from any to 79.124.58.18
 # Bulgaria https://www.abuseipdb.com/check/
@@ -11900,7 +11955,7 @@ block from any to 81.71.140.170
 block from any to 81.71.150.157
 # https://www.abuseipdb.com/check/
 block from any to 81.82.78.203
-# Italy https://red.flag.domains/posts 2024-06-12 macaisse-regionale[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-06-06 etrangersfrancais[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-06-04 ameli-portail[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-05-31 hewletpackard[.fr] (registrar: AMEN / Agence des Médias Numériques loginlive[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-05-08 votre-nickel[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-04-27 paypal-verifications[.fr] (registrar: AMEN / Agence des Médias Numériques francetravaill[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-24 ameli-info[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-22 groupestellantis[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-17 universite-jfc-rodez[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-16 mon-espace-renouvellement[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-13 snapchatt[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-03-15 registrar: AMEN / Agence des Médias Numériques formulaire-assurances-maladie[.fr] 2024-03-07 registrar: AMEN / Agence des Médias Numériques accessbourso[.fr] 2024-03-01 registrar: AMEN / Agence des Médias Numériques aldi-central[.fr] 2024-02-29 registrar: AMEN / Agence des Médias Numériques colissimointernational[.fr] labanquepostalegestion[.fr] 2024-02-15 registrar: AMEN / Agence des Médias Numériques 2024-02-12 registrar: AMEN / Agence des Médias Numériques 2024-02-09 registrar: AMEN / Agence des Médias Numériques 2024-01-23 2023-02-20 registrar: AMEN / Agence des Médias Numériques 2023-02-23 registrar: AMEN / Agence des Médias Numériques 2023-11-21 registrar: AMEN / Agence des Médias Numériques 2023-11-25 registrar: AMEN / Agence des Médias Numériques 2024-04-12 reglement-amande[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-030215374wac-dijon[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-02 accountsnapchat[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-01 experience-clients[.fr] (registrar: AMEN / Agence des Médias Numériques
+# Italy https://red.flag.domains/posts 2024-06-16 assurance-axa[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-06-12 macaisse-regionale[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-06-06 etrangersfrancais[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-06-04 ameli-portail[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-05-31 hewletpackard[.fr] (registrar: AMEN / Agence des Médias Numériques loginlive[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-05-08 votre-nickel[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-04-27 paypal-verifications[.fr] (registrar: AMEN / Agence des Médias Numériques francetravaill[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-24 ameli-info[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-22 groupestellantis[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-17 universite-jfc-rodez[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-16 mon-espace-renouvellement[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-13 snapchatt[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-03-15 registrar: AMEN / Agence des Médias Numériques formulaire-assurances-maladie[.fr] 2024-03-07 registrar: AMEN / Agence des Médias Numériques accessbourso[.fr] 2024-03-01 registrar: AMEN / Agence des Médias Numériques aldi-central[.fr] 2024-02-29 registrar: AMEN / Agence des Médias Numériques colissimointernational[.fr] labanquepostalegestion[.fr] 2024-02-15 registrar: AMEN / Agence des Médias Numériques 2024-02-12 registrar: AMEN / Agence des Médias Numériques 2024-02-09 registrar: AMEN / Agence des Médias Numériques 2024-01-23 2023-02-20 registrar: AMEN / Agence des Médias Numériques 2023-02-23 registrar: AMEN / Agence des Médias Numériques 2023-11-21 registrar: AMEN / Agence des Médias Numériques 2023-11-25 registrar: AMEN / Agence des Médias Numériques 2024-04-12 reglement-amande[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-030215374wac-dijon[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-02 accountsnapchat[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-01 experience-clients[.fr] (registrar: AMEN / Agence des Médias Numériques
 block from any to 81.88.57.68
 # Kyrgyzstan https://www.abuseipdb.com/check/
 block from any to 81.88.196.117
@@ -12128,6 +12183,8 @@ block from any to 82.221.131.5
 block from any to 82.223.55.220
 # Spain https://www.abuseipdb.com/check/
 block from any to 82.223.169.24
+# https://www.abuseipdb.com/check/
+block from any to 83.21.177.215
 # A.ch TF
 block from any to 83.22.228.184
 # Spain https://www.abuseipdb.com/check/
@@ -12237,7 +12294,7 @@ block from any to 84.46.22.158
 block from any to 84.32.44.156
 # DNS DGA Lithuania https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt lle(.)uz https://red.flag.domains/posts/
 block from any to 84.32.84.0/24
-# DFA Lithuania https://red.flag.domains/posts/ 2024-06-09 europol[.fr] (registrar: Hostinger operations UAB) 2024-06-07 regularisationamendes-serviceweb[.fr] (registrar: Hostinger operations UAB ameli-maladie[.fr] (registrar: Hostinger operations UAB 2024-05-28 notairies[.fr] (registrar: Hostinger operations UAB) 2024-05-27 fr-darty[.fr] (registrar: Hostinger operations UAB) 2024-05-04 fr-supermarches[.fr] (registrar: Hostinger operations UAB) fr-supermarchesmatch[.fr] (registrar: Hostinger operations UAB) 2024-04-24 finance-publique[.fr] (registrar: Hostinger operations UAB 2024-04-23 cnilfrance[.fr] (registrar: Hostinger operations UAB 2024-04-19 uni-brest[.fr] (registrar: Hostinger operations UAB segre-leclerc[.fr] (registrar: Hostinger operations UAB 2024-04-18 xn--achatpermisfranais-mvb[.fr] (registrar: Hostinger operations UAB 2024-04-16 controle-prime[.fr] (registrar: Hostinger operations UAB 2024-03-17 registrar: Hostinger operations UAB leboncoi-n[.fr] 2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
+# DFA Lithuania https://red.flag.domains/posts/ 2024-06-16 douanegouv[.fr] (registrar: OVH)  2024-06-15 lynxassur[.fr] (registrar: Hostinger operations UAB) 2024-06-09 europol[.fr] (registrar: Hostinger operations UAB) 2024-06-07 regularisationamendes-serviceweb[.fr] (registrar: Hostinger operations UAB ameli-maladie[.fr] (registrar: Hostinger operations UAB 2024-05-28 notairies[.fr] (registrar: Hostinger operations UAB) 2024-05-27 fr-darty[.fr] (registrar: Hostinger operations UAB) 2024-05-04 fr-supermarches[.fr] (registrar: Hostinger operations UAB) fr-supermarchesmatch[.fr] (registrar: Hostinger operations UAB) 2024-04-24 finance-publique[.fr] (registrar: Hostinger operations UAB 2024-04-23 cnilfrance[.fr] (registrar: Hostinger operations UAB 2024-04-19 uni-brest[.fr] (registrar: Hostinger operations UAB segre-leclerc[.fr] (registrar: Hostinger operations UAB 2024-04-18 xn--achatpermisfranais-mvb[.fr] (registrar: Hostinger operations UAB 2024-04-16 controle-prime[.fr] (registrar: Hostinger operations UAB 2024-03-17 registrar: Hostinger operations UAB leboncoi-n[.fr] 2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
 block from any to 84.32.84.32
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt lle(.)uz
 block from any to 84.32.84.106
@@ -12388,6 +12445,8 @@ block from any to 85.30.198.182
 # Russia https://www.abuseipdb.com/check
 block from any to 85.30.248.213
 block from any to 85.31.231.49
+# https://red.flag.domains/posts/2024-06-16/ rubrique-amendes[.fr] (registrar: One.com A/S)
+block from any to 85.31.238.214
 # Spain https://www.abuseipdb.com/check
 block from any to 85.50.194.51
 # https://www.abuseipdb.com/check/85.73.189.207
@@ -13209,6 +13268,8 @@ block from any to 89.161.171.123
 block from any to 89.163.140.101
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 89.163.221.180
+# https://www.abuseipdb.com/check/
+block from any to 89.163.251.59
 # https://www.abuseipdb.com/check/
 block from any to 89.169.41.209
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
@@ -14131,6 +14192,8 @@ block from any to 91.211.247.89
 block from any to 91.212.166.0/24
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
 block from any to 91.212.166.11
+# https://red.flag.domains/posts/2024-06-15/ cnam-assistance[.fr] (registrar: 1API GmbH)
+block from any to 91.212.166.54
 # https://red.flag.domains/posts/2024-05-29/ antai-suivi-dossier[.fr] (registrar: GANDI)
 block from any to 91.212.166.193
 # https://tracker.viriback.com/index.php?q=Risepro
@@ -14491,6 +14554,8 @@ block from any to 92.222.10.235
 block from any to 92.222.68.32
 # France https://www.abuseipdb.com/check/
 block from any to 92.222.122.70
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ hesgoaltv(.)me
+block from any to 92.222.139.190
 # DFA https://red.flag.domains/posts/2024-02-10/
 block from any to 92.222.148.199
 # A.ch TF
@@ -14922,12 +14987,16 @@ block from any to 94.156.8.235
 block from any to 94.156.64.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.156.64.5
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.64.55
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.156.64.90
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.64.121
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.64.133
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.64.140
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 94.156.64.148
 # Netherlands https://www.abuseipdb.com/check/
@@ -14944,6 +15013,8 @@ block from any to 94.156.65.150
 block from any to 94.156.65.153
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.156.65.172
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.65.192
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.65.202
 # Netherlands https://www.abuseipdb.com/check/
@@ -15026,6 +15097,8 @@ block from any to 94.156.71.18
 block from any to 94.156.71.19
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.21
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.71.33
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.34
 # Netherlands https://www.abuseipdb.com/check/
@@ -15853,6 +15926,8 @@ block from any to 96.237.16.249
 block from any to 97.64.18.185
 # Singapore https://www.abuseipdb.com/check/
 block from any to 97.74.80.116
+# Singapore https://www.abuseipdb.com/check/
+block from any to 97.74.85.237
 # 2024-01-31 https://www.abuseipdb.com/check/
 block from any to 98.96.193.11
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -16169,6 +16244,8 @@ block from any to 102.165.46.28
 block from any to 102.165.56.50
 # Korea https://www.abuseipdb.com/check/
 block from any to 101.202.25.147
+# Korea https://www.abuseipdb.com/check/
+block from any to 101.202.25.150
 # Kenya https://www.abuseipdb.com/check/
 block from any to 102.213.49.3
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -16454,6 +16531,8 @@ block from any to 103.87.87.182
 block from any to 103.87.207.254
 # https://www.abuseipdb.com/check/
 block from any to 103.88.232.212
+# Nepal https://www.abuseipdb.com/check/
+block from any to 103.90.145.199
 # https://www.abuseipdb.com/check/
 block from any to 103.90.203.131
 # Vietnam https://www.abuseipdb.com/check/
@@ -16961,6 +17040,8 @@ block from any to 103.221.223.48
 block from any to 103.224.182.0/24
 # Australia https://red.flag.domains/posts/2024-01-16/ 15 https://www.abuseipdb.com/check/103.224.182.210
 block from any to 103.224.182.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ fapxy(.)info
+block from any to 103.224.182.208
 # DFA Australia trellian.com https://red.flag.domains/posts/2024-01-16/ 15 https://red.flag.domains/posts/2023-02-01/ https://www.abuseipdb.com/check/103.224.182.210
 block from any to 103.224.182.210
 # Australia https://red.flag.domains/posts/ 2024-03-16 registrar: KEY-SYSTEMS GmbH ameli-client[.fr] ameli-partenaires-haute-garonne[.fr] grandjeu-magasin-u[.fr] hokaone-soldes[.fr] legrandjeumonoprix[.fr] secure-amendes[.fr] 2024-02-13 registrar: KEY-SYSTEMS GmbH 2024-01-17/
@@ -17132,6 +17213,8 @@ block from any to 104.21.2.49
 block from any to 104.21.2.70
 # https://red.flag.domains/posts/2024-04-02/ pandoraparis[.fr] (registrar: GRANSY s.r.o.)
 block from any to 104.21.2.94
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ soccerstreams(.)app
+block from any to 104.21.2.101
 # https://red.flag.domains/posts/2024-02-23/ registrar: IONOS SE
 block from any to 104.21.2.250
 # https://github.com/sophoslabs/IoCs/blob/master/crimson_palace_stac1248-alpha.csv
@@ -17140,8 +17223,12 @@ block from any to 104.21.3.0/24
 block from any to 104.21.3.57
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 104.21.3.91
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ soccerstreams(.)football
+block from any to 104.21.3.239
 # US cloudflare.com https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.4.159
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ soccerstreams100(.)io m.soccerstreams100(.)io
+block from any to 104.21.4.254
 # DNS https://red.flag.domains/posts/2024-03-16/ registrar: IONOS SE espace-renouvellement-enligne[.fr]
 block from any to 104.21.5.217
 # DNS https://red.flag.domains/posts/2024-03-11/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com dossiers-antai[.fr]
@@ -17152,6 +17239,8 @@ block from any to 104.21.6.24
 block from any to 104.21.6.124
 # https://red.flag.domains/posts/2024-05-08/ sacpolenefrance[.fr] (registrar: GRANSY s.r.o.)
 block from any to 104.21.6.168
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ streameast(.)top
+block from any to 104.21.6.178
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.6.239
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urloso(.)com
@@ -17168,6 +17257,8 @@ block from any to 104.21.8.83
 block from any to 104.21.8.130
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ cseomg(.)com
 block from any to 104.21.8.150
+# https://red.flag.domains/posts/2024-06-15/ dieseloutlet[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 104.21.8.177
 # https://red.flag.domains/posts/2024-05-25/ andieswimfrance[.fr] (registrar: GRANSY s.r.o.)
 block from any to 104.21.8.186
 # https://threatfox.abuse.ch/browse/malware/unknown/ linnisgood(.)site
@@ -17311,12 +17402,20 @@ block from any to 104.21.26.104
 block from any to 104.21.26.238
 # DFA https://red.flag.domains/posts/2023-02-26/ registrar: SAS Ligne Web Services - LWS
 block from any to 104.21.26.249
+# https://tracker.viriback.com/index.php?q=Mars
+block from any to 104.21.27.0/24
+# https://red.flag.domains/posts/2024-04-16/ cotopaxisoldes[.fr] (registrar: GRANSY s.r.o.
+block from any to 104.21.27.8
+# https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a https://tracker.viriback.com/index.php?q=Lokibot
+block from any to 104.21.28.0/24
 # https://red.flag.domains/posts/2024-05-31/ sackurtgeiger[.fr] (registrar: GRANSY s.r.o.
 block from any to 104.21.29.0/24
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ registico(.)xyz
 block from any to 104.21.29.32
 # https://red.flag.domains/posts/2024-05-07/ long-champfrance[.fr] (registrar: GRANSY s.r.o.)
 block from any to 104.21.29.107
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ livesoccer(.)sx
+block from any to 104.21.29.199
 # https://red.flag.domains/posts/2024-05-31/ sackurtgeiger[.fr] (registrar: GRANSY s.r.o.
 block from any to 104.21.29.235
 # https://tracker.viriback.com/index.php?q=Mars
@@ -17336,6 +17435,8 @@ block from any to 104.21.28.16
 block from any to 104.21.28.80
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.28.104
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ sporthd(.)me
+block from any to 104.21.30.166
 # https://tracker.viriback.com/index.php?q=Lokibot https://red.flag.domains/posts/2023-02-22/ registrar: 1API GmbH
 block from any to 104.21.31.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -17414,6 +17515,8 @@ block from any to 104.21.39.38
 block from any to 104.21.39.72
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv wasogo.shantowd(.)com ww.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.40.150
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite(.)io
+block from any to 104.21.40.211
 # https://threatfox.abuse.ch/browse/malware/win.astaroth/ neskodny(.)builders
 block from any to 104.21.41.0/24
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ cstasos(.)com
@@ -17422,8 +17525,8 @@ block from any to 104.21.41.152
 block from any to 104.21.41.236
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.42.114
-# https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic stamps-usps[.]online
-block from any to 104.21.45.152
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ pirlotv(.)app
+block from any to 104.21.42.164
 # DNS https://red.flag.domains/posts/2024-03-14/ registrar: GRANSY s.r.o. loakechaussure[.fr]
 block from any to 104.21.43.0/24
 # https://red.flag.domains/posts/
@@ -17444,8 +17547,12 @@ block from any to 104.21.44.125
 block from any to 104.21.44.178
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com espaceclientscompte[.fr]
 block from any to 104.21.45.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ tazz(.)tv
+block from any to 104.21.45.87
 # DNS https://malpulse.com/blog/5/ CobaltStrike cs.125nmlx-op125(.)top
 block from any to 104.21.45.96
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ rojadirectatv(.)uno
+block from any to 104.21.45.129
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com espaceclientscompte[.fr]
 block from any to 104.21.45.114
 # https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic stamps-usps[.]online
@@ -17543,6 +17650,8 @@ block from any to 104.21.60.31
 block from any to 104.21.60.87
 # https://red.flag.domains/posts/2024-04-13/ magasinskechers[.fr] (registrar: GRANSY s.r.o.
 block from any to 104.21.60.104
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite(.)one
+block from any to 104.21.60.251
 # DNS https://red.flag.domains/posts/2024-03-01/ registrar: GRANSY s.r.o. youngla-france[.fr] 2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.61.0/24
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -17578,6 +17687,8 @@ block from any to 104.21.64.190
 # DNS https://red.flag.domains/posts/2024-03-06/ registrar: Hosting Concepts B.V. d/b/a Openprovider uni-qlofrance[.fr]
 block from any to 104.21.64.195
 block from any to 104.21.65.0/24
+# https://red.flag.domains/posts/2024-06-15/ oakleyfrance[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 104.21.65.45
 # US https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.66.0/24
 # US https://tracker.viriback.com/index.php?q=Lokibot
@@ -17596,6 +17707,10 @@ block from any to 104.21.67.177
 block from any to 104.21.67.211
 # https://asec.ahnlab.com/en/63308/ gcdnb.pbrd[.]co https://red.flag.domains/posts/2024-03-06/ registrar: GRANSY s.r.o. shimanochaussures[.fr]
 block from any to 104.21.68.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ freeviplive(.)com
+block from any to 104.21.68.54
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ redditsoccerstreams(.)tv
+block from any to 104.21.69.138
 # https://asec.ahnlab.com/en/63308/ gcdnb.pbrd[.]co
 block from any to 104.21.68.220
 # https://red.flag.domains/posts/2024-03-06/ registrar: GRANSY s.r.o. shimanochaussures[.fr]
@@ -17672,6 +17787,12 @@ block from any to 104.21.77.179
 block from any to 104.21.77.197
 # https://red.flag.domains/posts/2024-02-26/ registrar: IONOS SE
 block from any to 104.21.77.220
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ stream.rodrixtv(.)info
+block from any to 104.21.78.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ sportsurge(.)app
+block from any to 104.21.78.9
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ stream.rodrixtv(.)info
+block from any to 104.21.78.174
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top
 block from any to 104.21.79.0/24
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
@@ -17706,6 +17827,8 @@ block from any to 104.21.83.19
 block from any to 104.21.83.79
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html content.gorapidcdn[.]com
 block from any to 104.21.83.106
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ 1l1l(.)to
+block from any to 104.21.83.150
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tnyr.moporins(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.84.0/24
 # https://red.flag.domains/posts/2024-05-07/ salomon-outlet[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
@@ -17742,6 +17865,8 @@ block from any to 104.21.87.48
 block from any to 104.21.87.220
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 77p3e.rimesh3(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.88.0/24
+# https://red.flag.domains/posts/2024-06-15/ altra-chaussure[.fr] (registrar: GRANSY s.r.o.)
+block from any to 104.21.88.12
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 77p3e.rimesh3(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.88.247
 # https://red.flag.domains/posts/2024-04-04/ psycho-bunny[.fr] (registrar: GRANSY s.r.o.
@@ -17770,6 +17895,8 @@ block from any to 104.21.92.0/24
 block from any to 104.21.92.11
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 104.21.92.130
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ givemereddit(.)eu
+block from any to 104.21.92.201
 # https://red.flag.domains/posts/2024-04-09/ bet365-online[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.92.218
 # https://red.flag.domains/posts/2024-04-12/ adidasforum[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -17780,6 +17907,8 @@ block from any to 104.21.93.8
 block from any to 104.21.94.0/24
 # DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
 block from any to 104.21.94.69
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ techclips(.)net
+block from any to 104.21.94.122
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 104.21.94.146
 # https://red.flag.domains/posts/2024-04-06/ sg-connexion[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -18081,6 +18210,8 @@ block from any to 104.200.72.22
 block from any to 104.200.72.113
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
 block from any to 104.200.72.120
+# US https://www.abuseipdb.com/check/
+block from any to 104.209.35.181
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 104.209.128.50
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ https://tracker.viriback.com/index.php?q=Supershell
@@ -19377,6 +19508,8 @@ block from any to 111.40.36.16
 # China https://www.abuseipdb.com/check/
 block from any to 111.42.37.234
 # China https://www.abuseipdb.com/check/
+block from any to 111.43.73.218
+# China https://www.abuseipdb.com/check/
 block from any to 111.43.75.99
 # China https://www.abuseipdb.com/check/
 block from any to 111.43.153.207
@@ -20017,6 +20150,8 @@ block from any to 115.221.235.209
 # China https://www.abuseipdb.com/check/
 block from any to 115.223.150.68
 # China https://www.abuseipdb.com/check/
+block from any to 115.225.115.246
+# China https://www.abuseipdb.com/check/
 block from any to 115.231.78.3
 # https://www.cyfirma.com/research/exploiting-document-templates-stego-campaign-deploying-remcos-rat-and-agent-tesla/
 block from any to 115.251.187.194
@@ -20046,6 +20181,8 @@ block from any to 115.239.139.150
 block from any to 115.245.120.238
 # https://github.com/sophoslabs/IoCs/blob/master/2024-02_Payloads_associated_with_ScreenConnect_attacks.csv
 block from any to 116.0.56.101
+# China https://www.abuseipdb.com/check/
+block from any to 116.3.165.167
 # China https://www.abuseipdb.com/check/
 block from any to 116.7.10.90
 # China https://www.abuseipdb.com/check/
@@ -20625,6 +20762,8 @@ block from any to 119.45.63.24
 block from any to 119.45.115.87
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 119.45.171.159
+# https://threatfox.abuse.ch/browse/malware/win.coinminer/
+block from any to 119.45.173.126
 # https://www.abuseipdb.com/check/
 block from any to 119.45.181.50
 # China https://www.abuseipdb.com/check/
@@ -21703,6 +21842,8 @@ block from any to 128.199.219.0/24
 block from any to 128.199.219.111
 # Singapore https://www.abuseipdb.com/check/
 block from any to 128.199.219.144
+# https://github.com/UninvitedActivity/UninvitedActivity/blob/main/01_KnownBad/01_KnownBad_KrasueMalware.txt
+block from any to 128.199.226.11
 # Singapore https://www.abuseipdb.com/check/
 block from any to 128.199.229.165
 # Singapore https://www.abuseipdb.com/check/
@@ -22295,6 +22436,8 @@ block from any to 139.59.15.46
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 139.59.16.171
 # India https://www.abuseipdb.com/check/
+block from any to 139.59.23.154
+# India https://www.abuseipdb.com/check/
 block from any to 139.59.25.164
 # India https://www.abuseipdb.com/check/
 block from any to 139.59.26.103
@@ -22686,8 +22829,12 @@ block from any to 141.101.253.109
 block from any to 141.94.106.15
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt zatracon(.)com
 block from any to 141.136.33.88
+# https://red.flag.domains/posts/2024-06-15/ atlaspro-abonnement[.fr] (registrar: Hostinger operations UAB)
+block from any to 141.136.39.0/24
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 141.136.39.12
+# https://red.flag.domains/posts/2024-06-15/ atlaspro-abonnement[.fr] (registrar: Hostinger operations UAB)
+block from any to 141.136.39.210
 # https://github.com/sophoslabs/IoCs/blob/master/crimson_palace_post-08-2023.csv
 block from any to 141.136.44.219
 # https://threatfox.abuse.ch/browse/
@@ -23193,6 +23340,8 @@ block from any to 146.70.197.51
 block from any to 146.70.205.246
 # https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
 block from any to 146.88.26.221
+# https://red.flag.domains/posts/2024-06-16/ lbcpaye[.fr] (registrar: PLANETHOSTER)
+block from any to 146.88.233.7
 # US https://www.abuseipdb.com/check/
 block from any to 146.88.241.0/24
 # US https://www.abuseipdb.com/check/
@@ -26146,6 +26295,8 @@ block from any to 165.22.16.134
 block from any to 165.22.47.52
 # https://www.abuseipdb.com/check/
 block from any to 165.22.50.209
+# Singapore https://www.abuseipdb.com/check/
+block from any to 165.22.59.46
 # https://www.abuseipdb.com/check/
 block from any to 165.22.70.69
 # Germany https://www.abuseipdb.com/check/
@@ -26479,6 +26630,8 @@ block from any to 167.94.146.56
 block from any to 167.94.146.74
 # Germany https://www.abuseipdb.com/check/
 block from any to 167.94.146.76
+# Germany https://www.abuseipdb.com/check/
+block from any to 167.94.145.91
 # Germany https://www.abuseipdb.com/check/
 block from any to 167.71.42.193
 # https://www.abuseipdb.com/check/
@@ -26958,6 +27111,10 @@ block from any to 170.130.55.139
 block from any to 170.130.165.132
 # US https://www.abuseipdb.com/check/
 block from any to 170.130.187.6
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ tarjetarojaenvivo(.)me
+block from any to 170.178.183.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ tarjetarojaenvivo(.)me
+block from any to 170.178.183.18
 # Chile https://www.abuseipdb.com/check/
 block from any to 170.239.85.228
 # Argentina https://www.abuseipdb.com/check/
@@ -27131,6 +27288,8 @@ block from any to 172.67.129.0/24
 block from any to 172.67.129.6
 # https://red.flag.domains/posts/2024-04-02/ pandoraparis[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.129.11
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ soccerstreams(.)app
+block from any to 172.67.129.18
 # https://red.flag.domains/posts/2024-02-23/ registrar: IONOS SE
 block from any to 172.67.129.241
 # DNS https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ cseomg(.)com https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
@@ -27149,6 +27308,8 @@ block from any to 172.67.130.139
 block from any to 172.67.130.140
 # DNS https://github.com/avast/ioc/blob/master/FakeUpdate/ClearFake_11_2023.txt bombay.com[.ar
 block from any to 172.67.131.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ soccerstreams(.)football
+block from any to 172.67.131.87
 # DNS https://github.com/avast/ioc/blob/master/FakeUpdate/ClearFake_11_2023.txt bombay.com[.ar
 block from any to 172.67.131.236
 # https://tracker.viriback.com/index.php?q=Lokibot https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -27159,6 +27320,8 @@ block from any to 172.67.132.44
 block from any to 172.67.132.61
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 0q5e0.nemen9(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.132.126
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ soccerstreams100(.)io m.soccerstreams100(.)io
+block from any to 172.67.132.173
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/acrstealer/acrstealer_iocs_20240429.md dervinko[.]biz https://red.flag.domains/posts/2024-03-16/ registrar: IONOS SE espace-renouvellement-enligne[.fr]
 block from any to 172.67.133.0/24
 # https://red.flag.domains/posts/2024-05-06/ mutuelle-ent[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
@@ -27179,12 +27342,16 @@ block from any to 172.67.134.216
 block from any to 172.67.135.0/24
 # https://red.flag.domains/posts/2024-05-08/ sacpolenefrance[.fr] (registrar: GRANSY s.r.o.)
 block from any to 172.67.135.11
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ streameast(.)top
+block from any to 172.67.135.22
 # https://red.flag.domains/posts/2024-06-06/ blablacar-verify[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com)
 block from any to 172.67.135.221
 # https://red.flag.domains/posts/2024-04-11/ adidas-ozweego[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.136.0/24
 # https://red.flag.domains/posts/2024-04-11/ adidas-ozweego[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.136.27
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ stream.rodrixtv(.)info
+block from any to 172.67.136.34
 # https://red.flag.domains/posts/2024-02-28/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.136.147
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ gts794(.)com
@@ -27215,12 +27382,18 @@ block from any to 172.67.139.83
 block from any to 172.67.139.176
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urlca(.)com
 block from any to 172.67.139.236
+# https://red.flag.domains/posts/2024-05-31/ chaussurelloyd[.fr] (registrar: GRANSY s.r.o.
+block from any to 172.67.140.0/24
+# https://red.flag.domains/posts/2024-05-31/ chaussurelloyd[.fr] (registrar: GRANSY s.r.o.
+block from any to 172.67.140.13
 # https://red.flag.domains/posts/2024-04-16/ cotopaxisoldes[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.140.64
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.141.0/24
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.141.67
+# https://red.flag.domains/posts/2024-05-28/ achete-followers[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
+block from any to 172.67.141.83
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urluss(.)com
 block from any to 172.67.141.129
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
@@ -27251,14 +27424,20 @@ block from any to 172.67.144.0/24
 block from any to 172.67.144.129
 # https://red.flag.domains/posts/2024-05-26/ spyderfrance[.fr] (registrar: GRANSY s.r.o.)
 block from any to 172.67.144.142
-# https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com
+# https://asec.ahnlab.com/en/65426/ mysystemes(.)com https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com
 block from any to 172.67.145.0/24
+# https://asec.ahnlab.com/en/65426/ mysystemes(.)com
+block from any to 172.67.145.16
 # https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com
 block from any to 172.67.145.49
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top
 block from any to 172.67.145.174
 # https://red.flag.domains/posts/2024-04-12/ adidasoriginalss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
+block from any to 172.67.146.0/24
+# https://red.flag.domains/posts/2024-04-12/ adidasoriginalss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.146.17
+# https://asec.ahnlab.com/en/66099/ groundbreakingsstyle(.)com
+block from any to 172.67.146.65
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ picfs[.]com
 block from any to 172.67.147.6
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ cstasos(.)com https://tracker.viriback.com/index.php?q=Lokibot
@@ -27269,6 +27448,12 @@ block from any to 172.67.148.35
 block from any to 172.67.148.126
 # https://red.flag.domains/posts/2024-04-15/ assu-maladie-renouvellement-fr[.fr] (registrar: One.com A/S
 block from any to 172.67.148.206
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ livesoccer(.)sx
+block from any to 172.67.149.196
+# https://red.flag.domains/posts/2024-06-07/ nobullchaussure[.fr] (registrar: GRANSY s.r.o.)
+block from any to 172.67.150.0/24
+# https://red.flag.domains/posts/2024-06-07/ nobullchaussure[.fr] (registrar: GRANSY s.r.o.)
+block from any to 172.67.150.15
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ productivelookewr(.)shop
 block from any to 172.67.150.207
 # https://red.flag.domains/posts/2024-02-25/ registrar: OVH
@@ -27285,14 +27470,6 @@ block from any to 172.67.152.245
 block from any to 172.67.153.15
 # DNS https://red.flag.domains/posts/2024-03-11/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com dossiers-antai[.fr]
 block from any to 172.67.154.0/24
-# https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ miimms[.]com
-block from any to 172.67.154.135
-# https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html syndication.gcdnanalytics[.]com https://red.flag.domains/posts/2024-04-25/ miachaussures[.fr] (registrar: GRANSY s.r.o.
-block from any to 172.67.155.0/24
-# https://red.flag.domains/posts/2024-04-25/ miachaussures[.fr] (registrar: GRANSY s.r.o.
-block from any to 172.67.155.110
-# https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html syndication.gcdnanalytics[.]com
-block from any to 172.67.155.141
 # https://red.flag.domains/posts/2024-04-11/ mlb-france[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.154.26
 # DNS https://red.flag.domains/posts/2024-03-11/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com dossiers-antai[.fr]
@@ -27303,14 +27480,23 @@ block from any to 172.67.154.176
 block from any to 172.67.154.218
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.155.0/24
+# https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ miimms[.]com
+block from any to 172.67.154.135
+# https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html syndication.gcdnanalytics[.]com https://red.flag.domains/posts/2024-04-25/ miachaussures[.fr] (registrar: GRANSY s.r.o.
+block from any to 172.67.155.0/24
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.155.35
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv xva.tjlpkcia(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.155.72
+# https://red.flag.domains/posts/2024-04-25/ miachaussures[.fr] (registrar: GRANSY s.r.o.
+block from any to 172.67.155.110
 # DNS https://www.govcert.lu/en/phishing/2024/02/20240219-1/ s.newslettescreationslines(.)eu
 block from any to 172.67.155.111
+# https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html syndication.gcdnanalytics[.]com
+block from any to 172.67.155.141
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv l846d.ferver8(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.155.235
+block from any to 172.67.156.0/24
 # https://www.bitdefender.com/blog/labs/ai-meets-next-gen-info-stealers-in-social-media-malvertising-campaigns/ https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.157.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -27408,6 +27594,8 @@ block from any to 172.67.170.183
 block from any to 172.67.170.199
 # DFA https://red.flag.domains/posts/2024-01-31/ 104.21.71.240
 block from any to 172.67.172.97
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ sporthd(.)me
+block from any to 172.67.173.63
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ healthcares(.)life
 block from any to 172.67.175.0/24
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ healthcares(.)life
@@ -27502,6 +27690,8 @@ block from any to 172.67.186.249
 block from any to 172.67.187.0/24
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv fisaca.trodeckh(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.187.96
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ freeviplive(.)com
+block from any to 172.67.187.188
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urloso(.)com
 block from any to 172.67.187.254
 # https://tracker.viriback.com/index.php?q=Lokibot https://red.flag.domains/posts/2024-04-14/ co-auth[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
@@ -27512,6 +27702,8 @@ block from any to 172.67.188.26
 block from any to 172.67.188.40
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.190.82
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite(.)io
+block from any to 172.67.188.96
 # DNS https://threatfox.abuse.ch/browse/malware/unknown/ brebes-bx(.)id
 block from any to 172.67.191.0/24
 # DNS https://threatfox.abuse.ch/browse/malware/unknown/ brebes-bx(.)id
@@ -27552,6 +27744,8 @@ block from any to 172.67.196.185
 block from any to 172.67.196.235
 # https://threatfox.abuse.ch/browse/malware/win.astaroth/ abastecimentoonline(.)chat https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8uecv.gnornamb(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.197.17
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ givemereddit(.)eu
+block from any to 172.67.197.177
 # https://red.flag.domains/posts/2024-04-09/ bet365-online[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) https://asec.ahnlab.com/en/63308/ gcdnb.pbrd[.]co
 block from any to 172.67.198.0/24
 # https://red.flag.domains/posts/2024-04-09/ bet365-online[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
@@ -27598,6 +27792,8 @@ block from any to 172.67.202.159
 block from any to 172.67.202.238
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/acrstealer/acrstealer_iocs_20240429.md iicc[.]fun
 block from any to 172.67.203.59
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite(.)one
+block from any to 172.67.203.144
 # https://red.flag.domains/posts/2024-04-26/ kurt-geiger-france[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.204.45
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
@@ -27666,6 +27862,8 @@ block from any to 172.67.211.235
 block from any to 172.67.212.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.212.135
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ tazz(.)tv
+block from any to 172.67.212.165
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv r298y.sem01(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.212.206
 # https://malpulse.com/blog/5/ CobaltStrike
@@ -27674,6 +27872,14 @@ block from any to 172.67.212.220
 block from any to 172.67.213.0/24
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com espaceclientscompte[.fr]
 block from any to 172.67.213.147
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ rojadirectatv(.)uno
+block from any to 172.67.214.0/24
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ rojadirectatv(.)uno
+block from any to 172.67.214.79
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ sportsurge(.)app
+block from any to 172.67.214.106
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite(.)cc
+block from any to 172.67.214.140
 # og.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html static.rapidglobalorbit[.]com
 block from any to 172.67.215.0/24
 # og.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html static.rapidglobalorbit[.]com
@@ -27730,6 +27936,8 @@ block from any to 172.67.222.157
 block from any to 172.67.223.0/24
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html content.gorapidcdn[.]com
 block from any to 172.67.223.72
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ techclips(.)net
+block from any to 172.67.223.110
 # https://red.flag.domains/posts/2024-04-17/ totesparapluie[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.223.212
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
@@ -27754,6 +27962,8 @@ block from any to 172.71.122.98
 block from any to 172.71.122.111
 # France https://www.abuseipdb.com/check/
 block from any to 172.71.123.113
+# US https://www.abuseipdb.com/check/
+block from any to 172.71.194.70
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
 block from any to 172.71.198.0/24
 # A.ch TF
@@ -27892,6 +28102,8 @@ block from any to 172.111.239.90
 block from any to 172.111.244.68
 # A.ch TF
 block from any to 172.111.248.167
+# US https://www.abuseipdb.com/check/
+block from any to 172.118.123.44
 # https://www.abuseipdb.com/check/
 block from any to 172.121.142.166
 # US https://www.abuseipdb.com/check/
@@ -28461,6 +28673,8 @@ block from any to 176.111.174.30
 block from any to 176.111.174.69
 # Russia https://www.abuseipdb.com/check/
 block from any to 176.111.174.89
+# Russia https://www.abuseipdb.com/check/
+block from any to 176.111.174.144
 # Russia https://www.abuseipdb.com/check/
 block from any to 176.111.174.152
 # Russia https://www.abuseipdb.com/check/
@@ -29133,6 +29347,8 @@ block from any to 179.60.150.53
 block from any to 179.61.12.110
 # https://www.abuseipdb.com/check/
 block from any to 179.63.48.50
+# Brazil https://www.abuseipdb.com/check/
+block from any to 179.89.238.44
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 179.100.74.227
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -29333,6 +29549,8 @@ block from any to 181.155.142.148
 block from any to 181.164.250.45
 # https://www.abuseipdb.com/check/
 block from any to 181.175.98.153
+# https://www.abuseipdb.com/check/
+block from any to 181.188.159.138
 # Brazil https://www.abuseipdb.com/check/
 block from any to 181.189.91.85
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -29533,7 +29751,7 @@ block from any to 183.6.43.236
 block from any to 183.62.143.210
 # India https://www.abuseipdb.com/check/
 block from any to 183.82.3.88
-# India https://www.abuseipdb.com/check/
+# India Hyderabad, Telangana https://www.abuseipdb.com/check/
 block from any to 183.82.8.163
 # Hong Kong https://www.abuseipdb.com/check/
 block from any to 183.81.169.0/24
@@ -29862,6 +30080,8 @@ block from any to 185.36.81.57
 block from any to 185.36.81.158
 # https://github.com/volexity/threat-intel/blob/main/2024/2024-02-13%20CharmingCypress/iocs.csv
 block from any to 185.36.189.81
+# https://www.abuseipdb.com/check/
+block from any to 185.38.111.110
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 185.38.142.19
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
@@ -30140,6 +30360,8 @@ block from any to 185.106.94.247
 block from any to 185.107.56.0/24
 # https://threatfox.abuse.ch/browse/malware/win.limerat/
 block from any to 185.107.56.48
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ sportschamp(.)fun
+block from any to 185.107.56.194
 # s100.put[.]io https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ransomware-data-exfiltration
 block from any to 185.107.45.0/24
 # upload.put[.]io https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ransomware-data-exfiltration
@@ -31033,7 +31255,7 @@ block from any to 185.212.70.89
 block from any to 185.212.128.28
 # https://www.cleafy.com/cleafy-labs/a-stealthy-threat-uncovered-teabot-on-google-play-store
 block from any to 185.215.113.0/24
-# https://www.cleafy.com/cleafy-labs/a-stealthy-threat-uncovered-teabot-on-google-play-store
+# https://www.zscaler.com/blogs/security-research/technical-analysis-anatsa-campaigns-android-banking-malware-active-google https://www.cleafy.com/cleafy-labs/a-stealthy-threat-uncovered-teabot-on-google-play-store
 block from any to 185.215.113.31
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 185.215.113.32
@@ -31412,11 +31634,11 @@ block from any to 185.229.225.190
 block from any to 185.229.237.51
 # US https://red.flag.domains/posts/2024-01-18/ https://www.bitdefender.com/blog/labs/ai-meets-next-gen-info-stealers-in-social-media-malvertising-campaigns/
 block from any to 185.230.63.0/24
-# DFA US https://red.flag.domains/posts/ 2024-05-07 rdv-doctolib[.fr] (registrar: IONOS SE) 2024-02-10 registrar: EPAG Domainservices GmbH 2024-01-18 registrar: OVH https://red.flag.domains/posts/2023-01-29/
+# DFA US https://red.flag.domains/posts/ 2024-06-15 yyoutube[.fr] (registrar: EPAG Domainservices GmbH) 2024-05-07 rdv-doctolib[.fr] (registrar: IONOS SE) 2024-02-10 registrar: EPAG Domainservices GmbH 2024-01-18 registrar: OVH https://red.flag.domains/posts/2023-01-29/
 block from any to 185.230.63.107
-# DFA US https://red.flag.domains/posts/ 2024-05-07 rdv-doctolib[.fr] (registrar: IONOS SE) 2024-02-10 registrar: EPAG Domainservices GmbH 2024-01-18 registrar: OVH https://red.flag.domains/posts/2023-01-29/
+# DFA US https://red.flag.domains/posts/ 2024-06-15 yyoutube[.fr] (registrar: EPAG Domainservices GmbH) 2024-05-07 rdv-doctolib[.fr] (registrar: IONOS SE) 2024-02-10 registrar: EPAG Domainservices GmbH 2024-01-18 registrar: OVH https://red.flag.domains/posts/2023-01-29/
 block from any to 185.230.63.171
-# DFA US https://red.flag.domains/posts/ 2024-05-07 rdv-doctolib[.fr] (registrar: IONOS SE) 2024-02-10 registrar: EPAG Domainservices GmbH 2024-01-18 registrar: OVH https://red.flag.domains/posts/2023-01-29/
+# DFA US https://red.flag.domains/posts/ 2024-06-15 yyoutube[.fr] (registrar: EPAG Domainservices GmbH) 2024-05-07 rdv-doctolib[.fr] (registrar: IONOS SE) 2024-02-10 registrar: EPAG Domainservices GmbH 2024-01-18 registrar: OVH https://red.flag.domains/posts/2023-01-29/
 block from any to 185.230.63.186
 # Hong Kong
 block from any to 185.233.19.0/24
@@ -31981,6 +32203,8 @@ block from any to 188.166.71.161
 block from any to 188.166.84.29
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 188.166.105.120
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 188.166.108.93
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 188.166.138.176
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -32392,6 +32616,8 @@ block from any to 192.3.109.131
 block from any to 192.3.116.142
 # https://threatfox.abuse.ch/browse/tag/Supershell/
 block from any to 192.3.233.217
+# https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+block from any to 192.9.135.73
 # https://www.akamai.com/blog/security-research/2024-redtail-cryptominer-pan-os-cve-exploit#iocs
 block from any to 192.18.157.251
 # US https://www.abuseipdb.com/check/
@@ -33298,7 +33524,7 @@ block from any to 193.149.189.27
 block from any to 193.151.143.101
 # Iran https://www.abuseipdb.com/check/
 block from any to 193.151.155.168
-# https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
+# https://threatfox.abuse.ch/browse/malware/win.quasar_rat/ https://threatfox.abuse.ch/browse/malware/jar.strrat/
 block from any to 193.161.193.99
 # Russia https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/get-a-loda-this.txt https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 193.161.193.99
@@ -33448,6 +33674,8 @@ block from any to 193.201.9.104
 block from any to 193.201.9.156
 # https://threatfox.abuse.ch/browse/malware/win.darkgate/
 block from any to 193.203.203.211
+# https://red.flag.domains/posts/2024-06-16/ universal-music[.fr] (registrar: SAS Ligne Web Services - LWS)
+block from any to 193.203.239.78
 # https://www.abuseipdb.com/check/193.203.238.145
 block from any to 193.203.238.145
 # DFA https://red.flag.domains/posts/2024-02-12/ registrar: SAS Ligne Web Services - LWS 2024-02-03 2023-03-24 registrar: SAS Ligne Web Services - LWS 2023-03-24 registrar: SAS Ligne Web Services - LWS
@@ -34132,6 +34360,8 @@ block from any to 194.180.49.70
 block from any to 194.180.49.71
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 194.180.49.75
+# https://github.com/UninvitedActivity/UninvitedActivity/blob/main/02_InternetScanners/02_AlphaStrikeLabs.txt
+block from any to 194.187.176.0/22
 block from any to 194.187.176.0/24
 # https://www.abuseipdb.com/check/
 block from any to 194.187.176.23
@@ -34467,6 +34697,8 @@ block from any to 196.196.155.5
 block from any to 196.196.155.7
 # https://red.flag.domains/posts/2024-04-24/ sacceline[.fr] (registrar: GRANSY s.r.o.
 block from any to 196.196.155.22
+# https://red.flag.domains/posts/2024-06-15/ chloefrance[.fr] (registrar: GRANSY s.r.o.)
+block from any to 196.196.155.23
 # https://red.flag.domains/posts/2024-04-04/ lionessfashion[.fr] (registrar: GRANSY s.r.o.
 block from any to 196.196.155.159
 # https://red.flag.domains/posts/2024-02-20/ registrar: GRANSY s.r.o.
@@ -34699,6 +34931,8 @@ block from any to 198.23.172.96
 block from any to 198.23.172.110
 # https://www.abuseipdb.com/check/
 block from any to 198.23.192.149
+# https://www.abuseipdb.com/check/
+block from any to 198.23.211.188
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 198.23.227.175
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -34782,6 +35016,8 @@ block from any to 199.45.154.48
 block from any to 199.45.154.50
 # US https://www.abuseipdb.com/check/
 block from any to 199.45.154.182
+# US https://www.abuseipdb.com/check/
+block from any to 199.45.154.183
 # US https://www.abuseipdb.com/check/
 block from any to 199.45.154.186
 # US https://www.abuseipdb.com/check/
@@ -35104,6 +35340,8 @@ block from any to 198.235.24.31
 block from any to 198.235.24.37
 # US https://www.abuseipdb.com/check/
 block from any to 198.235.24.41
+# US https://www.abuseipdb.com/check/
+block from any to 198.235.24.54
 # US https://www.abuseipdb.com/check/
 block from any to 198.235.24.66
 # https://www.abuseipdb.com/check/
@@ -35471,6 +35709,8 @@ block from any to 201.189.187.234
 block from any to 201.202.13.0/24
 # https://www.abuseipdb.com/check/
 block from any to 201.202.13.159
+# Thailand https://www.abuseipdb.com/check/
+block from any to 201.202.13.165
 # Thailand https://www.abuseipdb.com/check/
 block from any to 201.202.13.229
 # https://www.abuseipdb.com/check/
@@ -36367,6 +36607,8 @@ block from any to 211.103.150.3
 block from any to 211.105.132.63
 # Korea https://www.abuseipdb.com/check/
 block from any to 211.106.103.140
+# Korea https://www.abuseipdb.com/check/
+block from any to 211.118.210.156
 # China https://www.abuseipdb.com/check/
 block from any to 211.140.250.131
 # https://www.abuseipdb.com/check/
@@ -36548,6 +36790,8 @@ block from any to 212.132.115.166
 block from any to 212.132.116.88
 # https://www.abuseipdb.com/check/
 block from any to 212.145.210.150
+# UK https://www.abuseipdb.com/check/
+block from any to 212.159.16.105
 # Russia https://www.abuseipdb.com/check/
 block from any to 212.164.38.2
 # Russia https://www.abuseipdb.com/check/
@@ -36620,6 +36864,8 @@ block from any to 213.109.202.127
 block from any to 213.109.202.232
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 213.130.92.236
+# https://red.flag.domains/posts/2024-06-16/ proximabnq[.fr] (registrar: Hostinger operations UAB)
+block from any to 213.130.145.109
 # https://red.flag.domains/posts/2024-04-11/ ch-selestat[.fr] (registrar: Telepublicity B.V.
 block from any to 213.132.197.99
 # https://www.abuseipdb.com/check/
@@ -36700,7 +36946,7 @@ block from any to 213.180.203.167
 block from any to 213.186.33.0/24
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ bliss(.)pro
 block from any to 213.186.33.2
-# https://red.flag.domains/posts/ 2024-06-11 notification-securite[.fr] (registrar: OVH) 2024-06-09 sgdsn-gov[.fr] (registrar: OVH) viginum-gov[.fr] (registrar: OVH) 2024-06-04 googleimage[.fr] (registrar: OVH 2024-05-27 netflix[.wf] (registrar: OVH) 2024-05-26 disneycab[.fr] (registrar: OVH) 2024-05-31/ xn--espace-sant-enligne-lzb[.fr] (registrar: OVH 2024-05-08 authen-tifsec[.fr] (registrar: OVH) 2024-04-25/ jeuxdeparis2024[.fr] (registrar: OVH 2024-04-20 authentificnpal[.fr] (registrar: OVH p-authif[.fr] (registrar: OVH 2024-04-19/ vusurlbc[.fr] (registrar: OVH 2024-04-18 banque-cnce[.fr] (registrar: OVH 2024-04-12 bnbhotel[.fr] (registrar: OVH 2024-04-11 dhl-acheminement[.fr] (registrar: OVH 2024-04-08 authlogpal[.fr] (registrar: OVH 2024-04-07 authentifspayilis[.fr] (registrar: OVH authentifspayilx[.fr] (registrar: OVH notifnpal[.fr] (registrar: OVH 2024-04-06 authentifpayils[.fr] (registrar: OVH authentifspayils[.fr] (registrar: OVH authhhpal[.fr] (registrar: OVH 2024-04-05 windows-store[.fr] (registrar: OVH  2024-04-04 authentifspayil[.fr] (registrar: OVH authppl1[.fr] (registrar: OVH frauderpal[.fr] (registrar: OVH 2024-04-02 authaccountp[.fr] (registrar: OVH authentifpayil[.fr] (registrar: OVH authentipallm[.fr] (registrar: OVH 2024-04-01 authentpal[.fr] (registrar: OVH 2024-03-28 imt-ales[.fr] (registrar: OVH
+# https://red.flag.domains/posts/ 2024-06-16 5ee-mo[.re] (registrar: OVH) raed-mo[.re] (registrar: OVH) re4d-mo[.re] (registrar: OVH) reads-mo[.re] (registrar: OVH) seee-m0[.re] (registrar: OVH) veiw-mo[.re] (registrar: OVH) viewm0[.re] (registrar: OVH) views-mo[.re] (registrar: OVH) 2024-06-15 nike-airmaxpascher[.fr] (registrar: RANXPLORER) 2024-06-12 wipikedia[.fr] (registrar: OVH) 2024-06-11 notification-securite[.fr] (registrar: OVH) 2024-06-09 sgdsn-gov[.fr] (registrar: OVH) viginum-gov[.fr] (registrar: OVH) 2024-06-04 googleimage[.fr] (registrar: OVH 2024-05-27 netflix[.wf] (registrar: OVH) 2024-05-26 disneycab[.fr] (registrar: OVH) 2024-05-31/ xn--espace-sant-enligne-lzb[.fr] (registrar: OVH 2024-05-08 authen-tifsec[.fr] (registrar: OVH) 2024-04-25/ jeuxdeparis2024[.fr] (registrar: OVH 2024-04-20 authentificnpal[.fr] (registrar: OVH p-authif[.fr] (registrar: OVH 2024-04-19/ vusurlbc[.fr] (registrar: OVH 2024-04-18 banque-cnce[.fr] (registrar: OVH 2024-04-12 bnbhotel[.fr] (registrar: OVH 2024-04-11 dhl-acheminement[.fr] (registrar: OVH 2024-04-08 authlogpal[.fr] (registrar: OVH 2024-04-07 authentifspayilis[.fr] (registrar: OVH authentifspayilx[.fr] (registrar: OVH notifnpal[.fr] (registrar: OVH 2024-04-06 authentifpayils[.fr] (registrar: OVH authentifspayils[.fr] (registrar: OVH authhhpal[.fr] (registrar: OVH 2024-04-05 windows-store[.fr] (registrar: OVH  2024-04-04 authentifspayil[.fr] (registrar: OVH authppl1[.fr] (registrar: OVH frauderpal[.fr] (registrar: OVH 2024-04-02 authaccountp[.fr] (registrar: OVH authentifpayil[.fr] (registrar: OVH authentipallm[.fr] (registrar: OVH 2024-04-01 authentpal[.fr] (registrar: OVH 2024-03-28 imt-ales[.fr] (registrar: OVH
 block from any to 213.186.33.5
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ ecoledebatteriejonathandesrumeaux(.)fr
 block from any to 213.186.33.40
@@ -36943,6 +37189,8 @@ block from any to 216.238.79.12
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.32.0/24
 block from any to 216.239.32.8
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ extratime(.)live
+block from any to 216.239.32.21
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.32.53
 block from any to 216.239.32.67
@@ -36954,11 +37202,13 @@ block from any to 216.239.34.0/24
 block from any to 216.239.34.21
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.34.53
-# DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ extratime(.)live
+block from any to 216.239.36.21
+# DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt https://blog.talosintelligence.com/google-cloud-run-abuse/
 block from any to 216.239.36.53
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.38.0/24
-# https://www.abuseipdb.com/check/216.239.38.21
+# https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ extratime(.)live
 block from any to 216.239.38.21
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.38.53
@@ -37372,6 +37622,8 @@ block from any to 218.92.0.125
 block from any to 218.92.0.204
 # China https://www.abuseipdb.com/check/
 block from any to 218.92.192.133
+# Korea https://www.abuseipdb.com/check/
+block from any to 218.146.170.120
 # China https://www.abuseipdb.com/check/
 block from any to 218.147.96.47
 # Korea https://www.abuseipdb.com/check/
@@ -37524,6 +37776,8 @@ block from any to 220.135.199.6
 block from any to 220.165.8.75
 # China https://www.abuseipdb.com/check/
 block from any to 220.165.152.169
+# China https://www.abuseipdb.com/check/
+block from any to 220.165.196.29
 # China https://www.abuseipdb.com/check/
 block from any to 220.167.232.19
 # China https://www.abuseipdb.com/check/
@@ -38290,6 +38544,8 @@ block from any to 2406:da1b:160:5102:cc85:d393:2d16:91d1
 block from any to { 2600:1901:1:1:1:1:1:1/31 }
 # US https://www.abuseipdb.com/check/
 block from any to 2600:1900:4120:e3fb:0:82::
+# US https://www.abuseipdb.com/check/
+block from any to 2600:1900:4120:e3fb:0:2d::
 # France https://www.abuseipdb.com/check/2600:3c07::f03c:93ff:fe61:f80b
 block from any to 2600:3c07::f03c:93ff:fe61:f80b
 # 2600:1901:0:38d7::: detectportal.firefox.com google https://www.abuseipdb.com/whois/2600:1901:0:38d7::

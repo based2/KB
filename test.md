@@ -178,6 +178,8 @@ https://news.ycombinator.com/item?id=39486717
 https://news.ycombinator.com/item?id=39534856
 
 # News
+https://news.ycombinator.com/item?id=40705464
+
 https://jam.dev/
 > https://news.ycombinator.com/item?id=40318542
 

@@ -173,6 +173,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://blog.sofiane.cc/ssh_honeypot/
+> https://news.ycombinator.com/item?id=40694768
+
 https://news.ycombinator.com/item?id=40666237
 
 https://blog.xlab.qianxin.com/breaking-network-boundaries-with-ssh-services/

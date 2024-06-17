@@ -320,6 +320,8 @@ https://www.theregister.com/2024/05/03/uk_lords_llm_copyright/?td=rt-3a
 
 https://news.ycombinator.com/item?id=40515620
 
+https://news.ycombinator.com/item?id=40708720
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -565,6 +567,10 @@ https://arxiv.org/abs/1903.01003
 https://www.youtube.com/watch?v=-PFIkkwWdnM Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
 
 # News
+https://news.ycombinator.com/item?id=40672843
+
+https://news.ycombinator.com/item?id=40704435
+
 https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/
 > https://news.ycombinator.com/item?id=40636844
 

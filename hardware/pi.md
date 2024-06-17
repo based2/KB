@@ -17,6 +17,10 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://news.ycombinator.com/item?id=40697831
+
+https://news.ycombinator.com/item?id=40698610
+
 https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html
 > https://news.ycombinator.com/item?id=39407631
 

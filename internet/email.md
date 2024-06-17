@@ -154,6 +154,8 @@ D1. https://dkim.org https://dkim.org/ietf-dkim.htm
 
 D2. https://jl.ly/Email/threemyths.html 04 Jul 2009  Three myths about DKIM John R. Levine
 
+https://github.com/nicanorflavier/spf-dkim-dmarc-simplified
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 

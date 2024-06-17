@@ -35,6 +35,14 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=40687660
+
+https://sky.esa.int/esasky/
+> https://news.ycombinator.com/item?id=40691042
+
+http://www.geonius.com/writing/other/voyager.html Voyager Spacecraft and Fortran 5
+> https://news.ycombinator.com/item?id=40695941
+
 https://news.ycombinator.com/item?id=40585728
 
 https://news.ycombinator.com/item?id=40180749

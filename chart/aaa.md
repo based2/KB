@@ -9,3 +9,5 @@ https://penrose.cs.cmu.edu/blog/v3
 
 https://blog.datawrapper.de/dualaxis/ The case against dual axis charts (and what to use instead) (2018)
 > https://news.ycombinator.com/item?id=40391614
+
+https://news.ycombinator.com/item?id=40694948

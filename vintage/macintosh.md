@@ -56,6 +56,9 @@ https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/
 https://github.com/zajo/appler
 > https://news.ycombinator.com/item?id=35066530
 
+https://axio.ms/projects/2024/06/16/MicroMac.html
+> https://news.ycombinator.com/item?id=40699684
+
 # HyperCard
 https://hypercard.org/
 

@@ -44,6 +44,8 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://ir.cwi.nl/pub/32992/32992.pdf
+
 https://news.ycombinator.com/item?id=40327631
 
 https://news.ycombinator.com/item?id=39988948 bzip2

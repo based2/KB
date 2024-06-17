@@ -181,6 +181,8 @@ https://owen.cafe/posts/six-times-faster-than-c/
 
 https://news.ycombinator.com/item?id=39564632
 
+https://news.ycombinator.com/item?id=40706467
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -306,6 +308,10 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=40706114
+
+https://news.ycombinator.com/item?id=40691929
+
 https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/
 > https://news.ycombinator.com/item?id=40619521
 

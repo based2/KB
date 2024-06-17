@@ -79,6 +79,8 @@ https://www.dji.com/nl/newsroom/news/dji-launch-fly-cart-30
 
 https://news.ycombinator.com/item?id=39507267
 
+https://news.ycombinator.com/item?id=40690070
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 

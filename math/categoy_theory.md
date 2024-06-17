@@ -37,3 +37,5 @@ https://topology.mitpress.mit.edu/
 https://news.ycombinator.com/item?id=38162779
 
 https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1519&context=jhm
+
+https://news.ycombinator.com/item?id=40700213

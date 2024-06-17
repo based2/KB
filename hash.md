@@ -97,6 +97,8 @@ https://ardentperf.com/2024/02/03/uuid-benchmark-war/
 https://commitfest.postgresql.org/47/4388/
 > https://news.ycombinator.com/item?id=39260614
 
+https://news.ycombinator.com/item?id=40700301
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

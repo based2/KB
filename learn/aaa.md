@@ -144,6 +144,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://news.ycombinator.com/item?id=40685254
+
 https://news.ycombinator.com/item?id=40631233
 
 https://news.ycombinator.com/item?id=40326269

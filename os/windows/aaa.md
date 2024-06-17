@@ -93,6 +93,8 @@ https://news.ycombinator.com/item?id=33611431
 https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365
 > https://news.ycombinator.com/item?id=34158071
 
+https://news.ycombinator.com/item?id=40656125
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887

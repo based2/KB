@@ -48,6 +48,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://news.ycombinator.com/item?id=40700394
+
 https://news.ycombinator.com/item?id=40613779
 
 https://blog.dave.tf/post/linux-pid0/

@@ -166,6 +166,8 @@ https://arxiv.org/abs/2406.07394 Accessing Math Solutions via Monte Carlo Self-R
 https://news.ycombinator.com/item?id=40646909
 
 # News
+https://www.moderndescartes.com/essays/flake_equation/
+
 https://embeddedrelated.com/showarticle/152.php Chebyshev Approximation
 > https://news.ycombinator.com/item?id=40614338
 

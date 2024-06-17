@@ -361,6 +361,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=40702580
+
 https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding
 > https://news.ycombinator.com/item?id=40616752
 

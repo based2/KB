@@ -152,6 +152,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=40689750
+
 https://news.ycombinator.com/item?id=40626969
 
 http://msinilo.pl/blog2/post/compilers-are-too-smart/

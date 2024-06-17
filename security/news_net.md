@@ -30,6 +30,8 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://news.ycombinator.com/item?id=40709688
+
 https://censys.com/cve-2024-29269/
 
 https://summoning.team/blog/veeam-enterprise-manager-cve-2024-29849-auth-bypass/

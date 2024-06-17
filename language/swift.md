@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=40697992
+
 https://www.hackingwithswift.com/100/swiftui
 > https://news.ycombinator.com/item?id=36359652
 
