@@ -27,6 +27,8 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://news.ycombinator.com/item?id=40725451
+
 https://pdos.csail.mit.edu/6.828/2023/xv6.html
 > https://news.ycombinator.com/item?id=40613126
 

@@ -567,6 +567,8 @@ https://arxiv.org/abs/1903.01003
 https://www.youtube.com/watch?v=-PFIkkwWdnM Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
 
 # News
+https://news.ycombinator.com/item?id=40730156
+
 https://news.ycombinator.com/item?id=40672843
 
 https://news.ycombinator.com/item?id=40704435

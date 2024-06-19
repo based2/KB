@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://kidpix.app/
+> https://news.ycombinator.com/item?id=40723220
+
 https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/
 > https://news.ycombinator.com/item?id=40612314
 

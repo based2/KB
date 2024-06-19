@@ -117,6 +117,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=40726555
+
 https://news.ycombinator.com/item?id=40669827
 
 https://www.theregister.com/2024/06/05/asml_imec_high_na_euv/

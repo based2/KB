@@ -30,6 +30,9 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/
+> https://news.ycombinator.com/item?id=40723150
+
 https://news.ycombinator.com/item?id=40709688
 
 https://censys.com/cve-2024-29269/

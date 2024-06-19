@@ -365,6 +365,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=40730228
+
 https://www.modular.com/blog/deep-dive-into-ownership-in-mojo
 > https://news.ycombinator.com/item?id=40627563
 

@@ -22,6 +22,9 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://neuralblog.github.io/logit-prisms/ Decomposing Transformer Outputs for Mechanistic Interpretability
+> https://news.ycombinator.com/item?id=40704688
+
 https://news.ycombinator.com/item?id=40544117 Transformers Represent Belief State Geometry in Their Residual Stream
 
 https://news.ycombinator.com/item?id=40495149 Grokked Transformers Are Implicit Reasoners

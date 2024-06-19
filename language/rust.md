@@ -518,6 +518,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=40722850
+
 https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust
 > https://news.ycombinator.com/item?id=40589922
 
