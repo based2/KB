@@ -45,3 +45,5 @@ https://github.com/npi-ai/npi Open Source project for enhancing AI Agents in tak
 
 https://github.com/metaskills/experts
 > https://news.ycombinator.com/item?id=40395107
+
+https://news.ycombinator.com/item?id=40711447

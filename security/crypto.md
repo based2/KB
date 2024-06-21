@@ -195,6 +195,8 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae MD5 Collision with CRC32 Preimage
+
 https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/
 
 https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex

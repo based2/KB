@@ -42,6 +42,8 @@ https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://news.ycombinator.com/item?id=40751885
+
 https://news.ycombinator.com/item?id=40700586
 
 https://github.com/pinokiocomputer/llamanet

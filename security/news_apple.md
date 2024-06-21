@@ -12,6 +12,8 @@ https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-
 https://news.ycombinator.com/item?id=40688138
 
 #
+https://news.ycombinator.com/item?id=40741072
+
 https://news.ycombinator.com/item?id=40661811
 
 https://support.apple.com/en-us/HT214106 May 13, 2024

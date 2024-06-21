@@ -85,6 +85,9 @@ https://linuxfr.org/news/transformer-une-photo-en-bd-avec-le-filtre-comicbook-de
 
 https://linuxfr.org/news/creatures-ou-ia-consultez-manipulez-annotez-les-images-des-bibliotheques-musees-grace-a-iiif
 
+https://www.finitecurve.com/
+> https://news.ycombinator.com/item?id=40730309
+
 # Photography
 https://ansel.photos/en/
 > https://news.ycombinator.com/item?id=38390914

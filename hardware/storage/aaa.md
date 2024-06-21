@@ -67,6 +67,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 # News
 https://news.ycombinator.com/item?id=40718908
 
+https://news.ycombinator.com/item?id=40718908
+
 https://xpipe.io/ brand-new type of remote file browser and shell connection hub
 > https://news.ycombinator.com/item?id=40599419
 

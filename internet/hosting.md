@@ -60,6 +60,8 @@ https://news.ycombinator.com/item?id=39310688
 https://news.ycombinator.com/item?id=39538335
 
 #
+https://news.ycombinator.com/item?id=40746773
+
 https://mion.yosei.fi/BES/ Free/Libre (Open-Source) Software that controls per-process CPU usage
 
 https://news.ycombinator.com/item?id=39467132 cms

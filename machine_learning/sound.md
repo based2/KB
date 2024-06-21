@@ -218,6 +218,10 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://news.ycombinator.com/item?id=40718541
+
+https://news.ycombinator.com/item?id=40744098
+
 https://stability.ai/news/introducing-stable-audio-open
 > https://news.ycombinator.com/item?id=40587685
 
