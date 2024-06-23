@@ -52,6 +52,9 @@ https://github.com/magnific0/wondershaper net cap Command-line utility for limit
 https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
+# Sudo
+https://news.ycombinator.com/item?id=40764113
+
 # News
 https://news.ycombinator.com/item?id=40738833
 

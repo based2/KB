@@ -329,6 +329,9 @@ https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/
 https://github.com/squaredtechnologies/thread AI-powered Jupyter Notebook built using React
 > https://news.ycombinator.com/item?id=40633773
 
+# sec
+https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
+
 # Incident
 https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 > https://www.bleepingcomputer.com/news/security/r-language-flaw-allows-code-execution-via-rds-rdx-files/
@@ -336,6 +339,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=40765183
+
 https://amphi.ai/ Open Source Python ETL
 > https://news.ycombinator.com/item?id=40723356
 

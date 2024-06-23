@@ -51,6 +51,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://cosmodoc.org/
+
 https://www.welivesecurity.com/en/eset-research/introducing-nimfilt-reverse-engineering-tool-nim-compiled-binaries/
 
 https://news.ycombinator.com/item?id=40508777

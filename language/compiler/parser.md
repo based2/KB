@@ -60,3 +60,5 @@ https://dl.acm.org/doi/pdf/10.1145/3591264 Interval Parsing Grammars for File Fo
 https://news.ycombinator.com/item?id=40071898
 
 https://news.ycombinator.com/item?id=40276112
+
+https://tweedegolf.nl/en/blog/88/data-oriented-design

@@ -270,6 +270,8 @@ https://arxiv.org/abs/2406.05587 Creativity has left the chat: The price of debi
 https://news.ycombinator.com/item?id=40703751
 
 # News
+https://news.ycombinator.com/item?id=40766791
+
 https://news.ycombinator.com/item?id=40716701
 
 https://news.ycombinator.com/item?id=40738916

@@ -1,3 +1,5 @@
+https://blog.securelayer7.net/security-bypass-in-apache-ofbiz/
+
 https://news.ycombinator.com/item?id=40742237
 
 

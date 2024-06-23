@@ -207,6 +207,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://www.ambionics.io/blog/iconv-cve-2024-2961-p2 roundcube
+
 https://news.ycombinator.com/item?id=40369119
 
 https://news.ycombinator.com/item?id=40389753
@@ -261,6 +263,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=40764579
+
 https://news.ycombinator.com/item?id=40317912
 
 https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/

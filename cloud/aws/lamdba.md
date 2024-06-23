@@ -75,6 +75,8 @@ https://github.com/aws-samples/aws-lambda-unit-test-example
 https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
 
 # News
+https://news.ycombinator.com/item?id=40760858
+
 https://news.ycombinator.com/item?id=39772268
 
 https://news.ycombinator.com/item?id=39500397

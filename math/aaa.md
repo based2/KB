@@ -149,6 +149,9 @@ https://github.com/4silvertooth/QwikTape
 https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
+https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/
+> https://news.ycombinator.com/item?id=40754624
+
 # ML
 https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
 > https://mizar.org/language/
@@ -166,6 +169,9 @@ https://arxiv.org/abs/2406.07394 Accessing Math Solutions via Monte Carlo Self-R
 https://news.ycombinator.com/item?id=40646909
 
 # News
+https://www.iisc.ac.in/events/iisc-physicists-find-a-new-way-to-represent-pi/
+> https://www.sciencealert.com/mathematicians-accidentally-found-a-new-way-to-represent-pi
+
 https://www.moderndescartes.com/essays/flake_equation/
 
 https://embeddedrelated.com/showarticle/152.php Chebyshev Approximation

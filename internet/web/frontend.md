@@ -44,6 +44,8 @@ https://ahastack.dev/
 https://news.ycombinator.com/item?id=39399281
 
 https://news.ycombinator.com/item?id=40147883 dnd
+`
+https://news.ycombinator.com/item?id=40756744`
 
 
 

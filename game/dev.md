@@ -161,6 +161,12 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://old.reddit.com/r/programming/comments/1dlpb67/lets_write_a_video_game_from_scratch_like_its_1987/
+
+https://news.ycombinator.com/item?id=40737294
+
+https://news.ycombinator.com/item?id=40757335
+
 https://news.ycombinator.com/item?id=40616505
 
 https://news.ycombinator.com/item?id=40597402

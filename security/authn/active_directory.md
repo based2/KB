@@ -64,3 +64,5 @@ https://github.com/The-Viper-One/PsMapExec
 https://www.microsoft.com/en-us/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/
 
 https://github.com/Orange-Cyberdefense/GOAD
+
+https://old.reddit.com/r/netsec/comments/1djdwxi/active_directory_methodology_in_pentesting_a/

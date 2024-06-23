@@ -42,6 +42,13 @@ https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://news.ycombinator.com/item?id=40757791
+
+https://news.ycombinator.com/item?id=40750391
+
+https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents
+> https://news.ycombinator.com/item?id=40739982
+
 https://news.ycombinator.com/item?id=40751885
 
 https://news.ycombinator.com/item?id=40700586

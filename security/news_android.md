@@ -17,6 +17,10 @@ https://github.com/ax/apk.sh/releases
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://old.reddit.com/r/netsec/comments/1di2f3z/exfiltrate_whatsapp_chat_or_internal_data_of_any/
+
+https://research.checkpoint.com/2024/rafel-rat-android-malware-from-espionage-to-ransomware-operations/
+
 https://www.bleepingcomputer.com/news/security/google-warns-of-actively-exploited-pixel-firmware-zero-day/
 
 https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/

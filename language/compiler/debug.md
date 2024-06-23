@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://news.ycombinator.com/item?id=40725568
+
 https://news.ycombinator.com/item?id=39765715
 
 https://news.ycombinator.com/item?id=39634450

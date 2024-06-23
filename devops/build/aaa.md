@@ -6,6 +6,8 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://news.ycombinator.com/item?id=40756034
+
 https://news.ycombinator.com/item?id=40588508
 
 https://news.ycombinator.com/item?id=40588508
