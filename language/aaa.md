@@ -365,6 +365,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://btmc.substack.com/p/tracing-garbage-collection-for-arenas
+> https://news.ycombinator.com/item?id=40774748
+
 https://news.ycombinator.com/item?id=40741723
 
 https://news.ycombinator.com/item?id=40737511

@@ -38,6 +38,9 @@ https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-an
 https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/
 > https://news.ycombinator.com/item?id=40616121
 
+https://github.com/SciPhi-AI/R2R open source RAG engine with prod features
+> https://news.ycombinator.com/item?id=40799791
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

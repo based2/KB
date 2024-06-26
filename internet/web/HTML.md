@@ -154,6 +154,8 @@ https://getcssscan.com/css-checkboxes-examples
 https://tonsky.me/blog/checkbox/
 > https://news.ycombinator.com/item?id=39161339
 
+https://news.ycombinator.com/item?id=40800869
+
 # History
 https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003

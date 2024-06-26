@@ -1,7 +1,9 @@
+https://sansec.io/research/polyfill-supply-chain-attack
+> https://news.ycombinator.com/item?id=40791829
+
 https://blog.securelayer7.net/security-bypass-in-apache-ofbiz/
 
 https://news.ycombinator.com/item?id=40742237
-
 
 > https://news.ycombinator.com/item?id=40727523
 

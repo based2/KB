@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://news.ycombinator.com/item?id=40799006
+
 https://github.com/google-deepmind/torax
 > https://news.ycombinator.com/item?id=40224937
 
