@@ -365,6 +365,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://arxiv.org/abs/2406.14719 Grokking the Sequent Calculus (Functional Pearl)
+
+https://www.orionreed.com/posts/scoped-propagators
+> https://news.ycombinator.com/item?id=40916193
+
 https://btmc.substack.com/p/tracing-garbage-collection-for-arenas
 > https://news.ycombinator.com/item?id=40774748
 

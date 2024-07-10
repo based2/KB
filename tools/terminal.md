@@ -45,6 +45,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=40907581
+
 https://news.ycombinator.com/item?id=40669337
 
 https://github.com/hackerb9/lsix

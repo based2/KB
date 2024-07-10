@@ -51,6 +51,11 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=40906148
+
+http://www.righto.com/2024/07/pentium-standard-cells.html
+> https://news.ycombinator.com/item?id=40899393
+
 https://cosmodoc.org/
 
 https://www.welivesecurity.com/en/eset-research/introducing-nimfilt-reverse-engineering-tool-nim-compiled-binaries/

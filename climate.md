@@ -71,6 +71,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html
+> https://news.ycombinator.com/item?id=40898989
+
 https://news.ycombinator.com/item?id=40802152
 
 https://github.com/sosy-lab/cpu-energy-meter

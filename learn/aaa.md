@@ -146,6 +146,8 @@ https://adventuron.io/
 https://news.ycombinator.com/item?id=40717052
 
 # News
+https://news.ycombinator.com/item?id=40916904
+
 https://news.ycombinator.com/item?id=40685254
 
 https://news.ycombinator.com/item?id=40631233

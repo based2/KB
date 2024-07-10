@@ -9,6 +9,9 @@ https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2
 https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
+#
+https://www.bleepingcomputer.com/news/security/ethereum-mailing-list-breach-exposes-35-000-to-crypto-draining-attack/
+
 # News
 https://www.theregister.com/2024/05/18/brother_etherium_heist/
 

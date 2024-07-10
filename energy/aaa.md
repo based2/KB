@@ -16,6 +16,11 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://cleantechnica.com/2024/07/08/another-day-another-win-for-solar-power-windows-another-headache-for-fossil-fuels/
+
+https://www.washingtonpost.com/climate-environment/interactive/2024/louisiana-sea-wall-gas-facility-flooding/
+> https://news.ycombinator.com/item?id=40883466
+
 https://news.ycombinator.com/item?id=40703088
 
 https://news.ycombinator.com/item?id=40696788

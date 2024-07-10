@@ -110,6 +110,11 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://www.advancedsciencenews.com/tiny-robots-with-a-big-impact-scientists-develop-microrobots-for-single-cell-handling/
+> https://news.ycombinator.com/item?id=40880551
+
+https://news.ycombinator.com/item?id=40890315
+
 https://news.ycombinator.com/item?id=40612564
 
 https://news.ycombinator.com/item?id=40585932

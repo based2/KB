@@ -151,7 +151,12 @@ https://cvw.cac.cornell.edu/vector/default
 https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
+# JIT
+https://news.ycombinator.com/item?id=40911500
+
 # News
+https://news.ycombinator.com/item?id=40884917
+
 https://news.ycombinator.com/item?id=40774833
 
 https://news.ycombinator.com/item?id=40747845

@@ -308,6 +308,11 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=40906112
+
+https://wippler.dev/posts/synchronization-is-bad-for-scale
+> https://news.ycombinator.com/item?id=40898844
+
 https://news.ycombinator.com/item?id=40745066
 
 https://news.ycombinator.com/item?id=40706114

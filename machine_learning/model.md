@@ -269,6 +269,12 @@ https://arxiv.org/abs/2406.05587 Creativity has left the chat: The price of debi
 
 https://news.ycombinator.com/item?id=40703751
 
+https://arxiv.org/abs/2407.02678 Reasoning in Large Language Models: A Geometric Perspective
+> https://news.ycombinator.com/item?id=40899309
+
+https://github.com/facebookresearch/MobileLLM
+> https://news.ycombinator.com/item?id=40915005
+
 # News
 https://news.ycombinator.com/item?id=40766791
 

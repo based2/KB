@@ -155,6 +155,9 @@ https://inside.java/2021/09/10/what-are-modules-about/
 > https://news.ycombinator.com/item?id=28489881
 
 # News
+https://github.com/Osiris-Team/1JPM
+> https://news.ycombinator.com/item?id=40906401
+
 https://github.com/stuartsierra/class-diagram
 
 https://foojay.io/today/introducing-bld-a-new-pure-java-build-system/

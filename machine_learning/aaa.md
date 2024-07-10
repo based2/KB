@@ -322,6 +322,8 @@ https://news.ycombinator.com/item?id=40515620
 
 https://news.ycombinator.com/item?id=40708720
 
+https://news.ycombinator.com/item?id=40919253
+
 # History
 https://news.ycombinator.com/item?id=28343118
 

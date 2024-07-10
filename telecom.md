@@ -259,6 +259,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.bleepingcomputer.com/news/security/europol-says-home-routing-mobile-encryption-feature-aids-criminals/
+
+https://news.ycombinator.com/item?id=40908999
+
 https://news.ycombinator.com/item?id=40706288
 
 https://news.ycombinator.com/item?id=40699504

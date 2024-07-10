@@ -35,6 +35,8 @@ https://aaka.sh/posts/20230129-bgp-at-home.html
 https://www.bleepingcomputer.com/news/security/all-dutch-govt-networks-to-use-rpki-to-prevent-bgp-hijacking/
 
 # Incident
+https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/
+
 https://blog.apnic.net/2023/11/23/call-the-routing-police/
 > https://news.ycombinator.com/item?id=38398796
 

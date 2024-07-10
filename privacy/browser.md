@@ -30,6 +30,12 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
   
 # News
+https://news.ycombinator.com/item?id=40918152 How do browsers isolate internal audio from microphone input?
+> https://news.ycombinator.com/item?id=40918152
+
+https://beacondb.net/
+> https://news.ycombinator.com/item?id=40895672
+
 https://news.ycombinator.com/item?id=40225905
 
 https://news.ycombinator.com/item?id=40179348

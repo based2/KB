@@ -130,6 +130,9 @@ https://www.wasabiroll.com/2019/09/vxlan-fundamentals-of-virtual.html
 
 https://medium.com/@jamesmawm/5-benefits-of-vlans-and-why-use-them-c5563510c11c
 
+https://github.com/virtualsquare/vde-2
+> https://news.ycombinator.com/item?id=40899371
+
 # Mesh
 https://irde.st/
 > https://news.ycombinator.com/item?id=26925584
@@ -146,6 +149,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=40913793
+
 https://news.ycombinator.com/item?id=40766079
 
 https://news.ycombinator.com/item?id=40694254

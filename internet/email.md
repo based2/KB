@@ -263,6 +263,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://github.com/ElliotKillick/rss2newsletter
+> https://news.ycombinator.com/item?id=40898313
+
 https://news.ycombinator.com/item?id=40764579
 
 https://news.ycombinator.com/item?id=40317912

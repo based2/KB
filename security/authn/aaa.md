@@ -75,6 +75,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 #
+https://www.blastradius.fail/attack-details
+> https://www.bleepingcomputer.com/news/security/new-blast-radius-attack-bypasses-widely-used-radius-authentication/
+
 https://vigilance.fr/vulnerabilite/Keycloak-acces-utilisateur-via-Client-Registrations-Endpoint-Access-Token-40690
 
 https://lists.apache.org/thread/133snyto7fl2vwc7g4whmlbtfpttc8w4 CVE-2023-22602: Apache Shiro before 1.11.0, when used with Spring Boot 2.6+, may allow authentication bypass through a specially crafted HTTP request

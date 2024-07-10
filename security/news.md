@@ -1,3 +1,8 @@
+https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity
+
+https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best
+> https://news.ycombinator.com/item?id=40899487
+
 https://sansec.io/research/polyfill-supply-chain-attack
 > https://news.ycombinator.com/item?id=40791829
 

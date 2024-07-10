@@ -34,6 +34,12 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://robertheaton.com/pyskywifi/ Free stupid wi-fi on long-haul flights
+> https://news.ycombinator.com/item?id=40915082
+
+https://github.com/pythops/impala TUI Linux
+> https://news.ycombinator.com/item?id=40898640
+
 https://arxiv.org/abs/2405.14975
 
 https://spectrum.ieee.org/wi-fi-halow

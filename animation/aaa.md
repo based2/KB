@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles
+> https://news.ycombinator.com/item?id=40902012
+
+https://github.com/KwaiVGI/LivePortrait
+> https://news.ycombinator.com/item?id=40876840
+
 https://kidpix.app/
 > https://news.ycombinator.com/item?id=40723220
 

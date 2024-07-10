@@ -39,4 +39,7 @@ https://news.ycombinator.com/item?id=38873635
 
 https://news.ycombinator.com/item?id=39063732
 
+https://samkriss.substack.com/p/the-internet-is-already-over
+> https://news.ycombinator.com/item?id=40899761
+
 

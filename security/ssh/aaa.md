@@ -130,6 +130,9 @@ https://github.com/MegaManSec/SSH-Snake
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incident
+https://www.openwall.com/lists/oss-security/2024/07/08/2 CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child
+> https://news.ycombinator.com/item?id=40916820
+
 https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html
 > https://news.ycombinator.com/item?id=40044665
 > > https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-manually-mitigate-putty-ssh-client-bug/
