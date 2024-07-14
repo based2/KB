@@ -128,6 +128,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://arxiv.org/abs/1904.12370 Compact Fenwick trees for dynamic ranking and selection (2019)
+> https://news.ycombinator.com/item?id=40959412
+
 https://news.ycombinator.com/item?id=40767207
 
 https://news.ycombinator.com/item?id=40760962

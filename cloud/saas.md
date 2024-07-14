@@ -38,3 +38,5 @@ https://www.getlago.com/
 https://github.com/btw-so/open-source-alternatives
 > https://news.ycombinator.com/item?id=36057989
 
+https://www.infoq.com/news/2024/04/saas-cloud-native-qcon-london/
+

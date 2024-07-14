@@ -44,6 +44,9 @@ https://eprint.iacr.org/2023/1846
 
 https://news.ycombinator.com/item?id=39322388
 
+https://blog.trailofbits.com/2024/07/12/announcing-aes-gem-aes-with-galois-extended-mode/
+> https://news.ycombinator.com/item?id=40951397
+
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 
@@ -195,6 +198,8 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=40941463
+
 https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae MD5 Collision with CRC32 Preimage
 
 https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/

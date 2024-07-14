@@ -88,3 +88,6 @@ https://webrtcforthecurious.com/
 https://datatracker.ietf.org/wg/moq/about/ Media over Quic
 
 https://news.ycombinator.com/item?id=40083641
+
+https://github.com/bitwhip/bitwhip 30ms latency screen sharing in Rust
+> https://news.ycombinator.com/item?id=40916326

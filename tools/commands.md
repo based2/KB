@@ -56,6 +56,9 @@ https://drew.shoes/posts/sup/ net send win
 https://news.ycombinator.com/item?id=40764113
 
 # News
+https://codeberg.org/201984/dut
+> https://news.ycombinator.com/item?id=40932492
+
 https://news.ycombinator.com/item?id=40738833
 
 https://news.ycombinator.com/item?id=39958302

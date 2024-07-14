@@ -28,6 +28,11 @@ https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
 #
+https://www.reapi.com/playground/tests
+
+https://jsben.ch/
+> https://news.ycombinator.com/item?id=40942270
+
 https://news.ycombinator.com/item?id=40179186
 
 https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/

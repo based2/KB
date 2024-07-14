@@ -9,6 +9,8 @@ https://www.scmagazine.com/news/mozi-botnet-goes-dark-in-mysterious-circumstance
 https://security.humanativaspa.it/multiple-vulnerabilities-in-eclipse-threadx/
 
 #
+https://www.eecg.toronto.edu/~enright/buck-hpca2024.pdf
+
 https://news.ycombinator.com/item?id=40262115
 
 https://news.ycombinator.com/item?id=39225503

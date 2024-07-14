@@ -1,3 +1,12 @@
+https://www.elttam.com/blog/plorming-your-primsa-orm/
+
+https://www.bleepingcomputer.com/news/security/hackers-use-poc-exploits-in-attacks-22-minutes-after-release/
+
+https://news.ycombinator.com/item?id=40955693
+
+http://www.ranum.com/security/computer_security/editorials/dumb/
+> https://news.ycombinator.com/item?id=40959121
+
 https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity
 
 https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best

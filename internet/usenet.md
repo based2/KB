@@ -14,3 +14,6 @@ https://www.complete.org/usenet-over-nncp/
 https://news.ycombinator.com/item?id=38238796
 
 https://news.ycombinator.com/item?id=39408657
+
+https://news.ycombinator.com/item?id=40927517
+

@@ -41,10 +41,19 @@ https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-
 https://github.com/SciPhi-AI/R2R open source RAG engine with prod features
 > https://news.ycombinator.com/item?id=40799791
 
+https://github.com/postgresml/korvus Single-Query RAG with Postgres
+> https://news.ycombinator.com/item?id=40938325
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
+https://news.ycombinator.com/item?id=40921038
+
 #
+https://news.ycombinator.com/item?id=40914635
+
+https://news.ycombinator.com/item?id=40922739
+
 https://news.ycombinator.com/item?id=40757791
 
 https://news.ycombinator.com/item?id=40750391

@@ -4,6 +4,8 @@ https://www.simutrans.com/en/
 https://news.ycombinator.com/item?id=39323601
 
 #
+https://www.popsci.com/technology/hydrogen-power-air-taxi/
+
 https://news.ycombinator.com/item?id=40287020
 
 https://www.utu.fi/en/news/press-release/significant-new-discovery-in-teleportation-research-noise-can-improve-the

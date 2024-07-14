@@ -147,6 +147,8 @@ https://github.com/vlcoo/P3synth
 
 https://news.ycombinator.com/item?id=40164310
 
+https://news.ycombinator.com/item?id=40954679
+
 #
 https://cruncher.ch/blog/printing-music-with-css-grid/
 > https://news.ycombinator.com/item?id=40216057
@@ -259,6 +261,9 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 # News
+https://github.com/flujoo/gm
+> https://github.com/flujoo/gm
+
 https://news.ycombinator.com/item?id=40769636
 
 https://news.ycombinator.com/item?id=40616509

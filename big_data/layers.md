@@ -70,6 +70,11 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=40959787
+
+https://blog.paradedb.com/pages/iceberg_lakehouse postgres duckdb
+> https://news.ycombinator.com/item?id=40937760
+
 https://news.ycombinator.com/item?id=40504586
 
 https://news.ycombinator.com/item?id=40497602 events

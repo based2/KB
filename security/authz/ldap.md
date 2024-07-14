@@ -12,3 +12,5 @@ https://lists.apache.org/list.html?announce@apache.org:2015-10 Apache Directory 
 https://old.reddit.com/r/netsec/comments/19078ti/ldap_watchdog_a_realtime_ldap_monitoring_tool_for/
 
 https://old.reddit.com/r/netsec/comments/19078ti/ldap_watchdog_a_realtime_ldap_monitoring_tool_for/
+
+https://news.ycombinator.com/item?id=40947277

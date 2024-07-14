@@ -379,6 +379,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://zed.dev/linux
+> https://news.ycombinator.com/item?id=40928893
+
 https://news.ycombinator.com/item?id=40395234
 
 https://www.phoronix.com/news/Nano-8.0-Released

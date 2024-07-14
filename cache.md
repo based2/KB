@@ -38,6 +38,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://mazzo.li/posts/value-speculation.html
+> https://news.ycombinator.com/item?id=40940241
+
 https://news.ycombinator.com/item?id=39452024
 
 https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages/

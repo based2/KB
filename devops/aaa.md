@@ -117,6 +117,13 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods
+
+https://jfrog.com/blog/leaked-pypi-secret-token-revealed-in-binary-preventing-suppy-chain-attack/
+> https://news.ycombinator.com/item?id=40941809
+
+https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/
+
 https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-intellij-ide-bug-exposing-github-access-tokens/
 
 https://www.bleepingcomputer.com/news/security/malicious-visual-studio-code-extensions-with-millions-of-installs-discovered/

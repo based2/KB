@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://news.ycombinator.com/item?id=40922740
+
 https://news.ycombinator.com/item?id=38516795
 
 https://hackingthe.cloud/aws/post_exploitation/iam_persistence/

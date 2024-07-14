@@ -25,6 +25,8 @@ https://en.wikipedia.org/wiki/Ideal_money
 https://wid.world/
 
 # Bank
+https://news.ycombinator.com/item?id=40933110
+
 https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading
 > https://news.ycombinator.com/item?id=36820105
 

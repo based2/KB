@@ -275,7 +275,22 @@ https://arxiv.org/abs/2407.02678 Reasoning in Large Language Models: A Geometric
 https://github.com/facebookresearch/MobileLLM
 > https://news.ycombinator.com/item?id=40915005
 
+https://www.together.ai/blog/flashattention-3
+> https://news.ycombinator.com/item?id=40938577
+
+https://news.ycombinator.com/item?id=40926734
+
+https://news.ycombinator.com/item?id=40928145
+
+https://news.ycombinator.com/item?id=40961163
+
+https://news.ycombinator.com/item?id=40960886
+
 # News
+https://news.ycombinator.com/item?id=40947238
+
+https://news.ycombinator.com/item?id=40939707
+
 https://news.ycombinator.com/item?id=40766791
 
 https://news.ycombinator.com/item?id=40716701

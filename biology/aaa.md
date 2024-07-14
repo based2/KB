@@ -51,7 +51,18 @@ https://news.ycombinator.com/item?id=40766869
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
+# ML
+https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/
+> https://news.ycombinator.com/item?id=40954497
+
+https://news.ycombinator.com/item?id=40947540`
+
 # News
+https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html
+> https://news.ycombinator.com/item?id=40941583
+
+https://news.ycombinator.com/item?id=40935600
+
 https://alien-project.gitbook.io/docs
 > https://news.ycombinator.com/item?id=40867585
 

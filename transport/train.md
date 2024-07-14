@@ -39,6 +39,8 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://news.ycombinator.com/item?id=40925025
+
 https://news.ycombinator.com/item?id=40733705
 
 https://news.ycombinator.com/item?id=40694909

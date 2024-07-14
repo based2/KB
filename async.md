@@ -47,6 +47,8 @@ https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispat
 
 https://blog.yoshuawuyts.com/tree-structured-concurrency/
 
+https://news.ycombinator.com/item?id=40896383
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

@@ -1,3 +1,5 @@
+https://old.reddit.com/r/netsec/comments/1drf1kq/bytecode_breakdown_unraveling_factorios_lua/
+
 https://news.ycombinator.com/item?id=40228401
 
 https://github.com/spawnmason/randar-explanation/blob/master/README.md Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG

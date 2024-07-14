@@ -98,6 +98,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://news.ycombinator.com/item?id=40948202
+
 https://news.ycombinator.com/item?id=40213208
 
 https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt
@@ -298,6 +300,8 @@ https://www6.slac.stanford.edu/news/2021-07-19-scientists-discover-how-high-ener
 > https://news.ycombinator.com/item?id=28355115
 
 https://scitechdaily.com/is-space-pixelated-the-quest-for-quantum-gravity/
+
+https://news.ycombinator.com/item?id=40931590
 
 # Lab
 https://crystalverse.com/sodium-chloride-crystals/

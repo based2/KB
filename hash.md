@@ -99,6 +99,9 @@ https://commitfest.postgresql.org/47/4388/
 
 https://news.ycombinator.com/item?id=40700301
 
+https://github.com/ulid/spec ULID: Like UUID but Sortable (2019)
+> https://news.ycombinator.com/item?id=40958959
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

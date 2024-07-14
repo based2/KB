@@ -83,10 +83,6 @@ https://github.com/neuronika/neuronika rust
 https://aegeorge42.github.io/
 > https://news.ycombinator.com/item?id=28806701
 
-# RL
-https://mchromiak.github.io/articles/2021/Jun/01/Decision-Transformer-Reinforcement-Learning-via-Sequence-Modeling-RL-as-sequence/
-> https://news.ycombinator.com/item?id=27659122
-
 ## Perf
 https://arxiv.org/abs/2005.04305
 > https://news.ycombinator.com/item?id=27458975
@@ -411,7 +407,15 @@ https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Arti
 https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf
 > https://news.ycombinator.com/item?id=40400438
 
+https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at
+
 # Incident
+https://www.oligo.security/blog/shelltorch-explained-multiple-vulnerabilities-in-pytorch-model-server
+
+https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/
+
+https://jfrog.com/blog/prompt-injection-attack-code-execution-in-vanna-ai-cve-2024-5565/
+
 https://www.wired.com/story/microsoft-recall-off-default-security-concerns/
 > https://news.ycombinator.com/item?id=40610435
 
@@ -568,7 +572,20 @@ https://arxiv.org/abs/1903.01003
 
 https://www.youtube.com/watch?v=-PFIkkwWdnM Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
 
+https://physicsbaseddeeplearning.org/intro.html
+> https://news.ycombinator.com/item?id=40941056
+
 # News
+https://news.ycombinator.com/item?id=40962829
+
+https://robleclerc.substack.com/p/general-theory-of-neural-networks
+> https://news.ycombinator.com/item?id=40937260
+
+https://news.ycombinator.com/item?id=40950014
+> https://news.ycombinator.com/item?id=39713634 Quiet-STaR
+
+https://news.ycombinator.com/item?id=40926648
+
 https://news.ycombinator.com/item?id=40802423
 
 https://news.ycombinator.com/item?id=40730156

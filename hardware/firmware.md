@@ -55,3 +55,5 @@ https://thestarman.pcministry.com/asm/mbr/GRUB.htm
 
 https://openipc.org/ alternative open firmware for your IP camera
 > https://news.ycombinator.com/item?id=39571025
+
+https://news.ycombinator.com/item?id=40959742

@@ -212,6 +212,9 @@ https://hegdenu.net/posts/debugging-tokio-instrumentation/
 
 https://news.ycombinator.com/item?id=39981945
 
+https://github.com/nicholassm/disruptor-rs
+> https://news.ycombinator.com/item?id=40954104
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -518,6 +521,12 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://github.com/clarkmcc/cel-rust
+> https://news.ycombinator.com/item?id=40948566
+
+https://github.com/googlefonts/oxidize Notes on moving Harfbuzz and Freetype tools and libraries to Rust
+> https://news.ycombinator.com/item?id=40934022
+
 https://news.ycombinator.com/item?id=40722850
 
 https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust

@@ -29,3 +29,8 @@ https://www.securityweek.com/new-attack-shows-risks-of-browsers-giving-websites-
 > https://news.ycombinator.com/item?id=39748148
 
 https://news.ycombinator.com/item?id=39779147
+
+https://news.ycombinator.com/item?id=40960115
+
+https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide
+> https://old.reddit.com/r/netsec/comments/1e0xgqi/cors_the_ultimate_guide/

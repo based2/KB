@@ -207,6 +207,11 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://blog.securelayer7.net/xss-and-path-traversal-exploits-in-mailcow/
+
+https://lists.exim.org/lurker/message/20240710.155945.8823670d.pt.html
+> https://www.bleepingcomputer.com/news/security/critical-exim-bug-bypasses-security-filters-on-15-million-mail-servers/
+
 https://www.ambionics.io/blog/iconv-cve-2024-2961-p2 roundcube
 
 https://news.ycombinator.com/item?id=40369119
@@ -263,6 +268,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/
+> https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula
+
 https://github.com/ElliotKillick/rss2newsletter
 > https://news.ycombinator.com/item?id=40898313
 

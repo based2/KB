@@ -97,6 +97,11 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 > https://news.ycombinator.com/item?id=40254688
 
 # Incident
+https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html
+> https://old.reddit.com/r/netsec/comments/1dq0620/sustaining_digital_certificate_security_entrust/
+
+https://www.bleepingcomputer.com/news/security/dns-hijacks-target-crypto-platforms-registered-with-squarespace/
+
 https://news.ycombinator.com/item?id=40457313
 
 https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/

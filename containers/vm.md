@@ -4,6 +4,9 @@ https://news.ycombinator.com/item?id=37343274 sync
 
 https://www.packer.io/
 
+https://webvm.io/
+> https://news.ycombinator.com/item?id=40940225
+
 https://iovec.net/2024-01-29 Building a hypervisor, 1: KVM Introduction
 > https://news.ycombinator.com/item?id=39238300
 
@@ -61,3 +64,5 @@ https://news.ycombinator.com/item?id=40162699
 https://news.ycombinator.com/item?id=40182251
 
 https://codesandbox.io/blog/how-we-scale-our-microvm-infrastructure-using-low-latency-memory-decompression
+
+https://proxmox-helper-scripts.vercel.app/

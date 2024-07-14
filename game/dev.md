@@ -98,6 +98,9 @@ https://twinery.org/
 https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
+https://github.com/kitao/pyxel
+> https://news.ycombinator.com/item?id=40899520
+
 # Terrain
 https://github.com/dandrino/terrain-erosion-3-ways
 
@@ -161,6 +164,14 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=40955734
+
+https://archipelago.gg/ Multiworld Multi-Game Randomizer
+> https://news.ycombinator.com/item?id=40932512
+
+https://wheybags.com/blog/emperor.html dune rts
+> https://news.ycombinator.com/item?id=40956087
+
 https://old.reddit.com/r/programming/comments/1dlpb67/lets_write_a_video_game_from_scratch_like_its_1987/
 
 https://news.ycombinator.com/item?id=40737294

@@ -122,6 +122,9 @@ https://news.ycombinator.com/item?id=38150825
 
 https://news.ycombinator.com/item?id=39720388
 
+# Phi
+https://news.ycombinator.com/item?id=40956593
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

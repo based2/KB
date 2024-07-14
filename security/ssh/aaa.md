@@ -130,6 +130,9 @@ https://github.com/MegaManSec/SSH-Snake
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incident
+https://sysdig.com/blog/crystalray-rising-threat-actor-exploiting-oss-tools/
+> https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/
+
 https://www.openwall.com/lists/oss-security/2024/07/08/2 CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child
 > https://news.ycombinator.com/item?id=40916820
 

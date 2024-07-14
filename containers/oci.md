@@ -5,6 +5,9 @@ https://opencontainers.org/
 # Formats
 
 #
+https://ochagavia.nl/blog/using-s3-as-a-container-registry/
+> https://news.ycombinator.com/item?id=40942732
+
 https://man.exherbolinux.org/syd-oci.1.html
 > https://news.ycombinator.com/item?id=40262274
 

@@ -281,6 +281,11 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/
+
+https://pr.pico.sh/ Patch requests over SSH
+> https://news.ycombinator.com/item?id=40959526
+
 https://news.ycombinator.com/item?id=40742628
 
 https://github.com/piku/piku

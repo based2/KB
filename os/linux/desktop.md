@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=39612957
 
 https://news.ycombinator.com/item?id=40175731
 
+https://news.ycombinator.com/item?id=40936808
+
 # Audio
 
 # Printer
@@ -109,6 +111,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=40940784
+
 https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/
 
 https://omakub.org/
