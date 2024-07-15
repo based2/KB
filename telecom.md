@@ -149,6 +149,8 @@ https://startyourownisp.com/
 https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/
 > https://news.ycombinator.com/item?id=40944505
 
+https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/
+
 https://news.ycombinator.com/item?id=40215803
 
 https://news.ycombinator.com/item?id=40223921

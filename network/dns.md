@@ -97,6 +97,8 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 > https://news.ycombinator.com/item?id=40254688
 
 # Incident
+https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/
+
 https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html
 > https://old.reddit.com/r/netsec/comments/1dq0620/sustaining_digital_certificate_security_entrust/
 

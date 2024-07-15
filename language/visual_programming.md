@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=31779316 Ask HN: "No code" works well for m
 https://github.com/rowyio/rowy
 
 #
+https://news.ycombinator.com/item?id=40937119
+
 https://news.ycombinator.com/item?id=39860509
 
 https://news.ycombinator.com/item?id=38816135

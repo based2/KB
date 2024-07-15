@@ -104,6 +104,8 @@ https://github.com/Aiven-Open/karapace
 
 https://news.ycombinator.com/item?id=39966114
 
+https://news.ycombinator.com/item?id=40961101
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

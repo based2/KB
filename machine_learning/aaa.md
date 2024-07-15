@@ -576,6 +576,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.arxiv.org/abs/2407.09468 Guide to Machine Learning with Geometric, Topological, and Algebraic Structures
+
 https://news.ycombinator.com/item?id=40962829
 
 https://robleclerc.substack.com/p/general-theory-of-neural-networks

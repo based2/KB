@@ -58,6 +58,8 @@ https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/
 https://news.ycombinator.com/item?id=40947540`
 
 # News
+https://news.ycombinator.com/item?id=40964436
+
 https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html
 > https://news.ycombinator.com/item?id=40941583
 

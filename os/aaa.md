@@ -27,6 +27,8 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://news.ycombinator.com/item?id=40962767
+
 https://scottaaronson.blog/?p=8106 The zombie misconception of theoretical computer science
 > https://news.ycombinator.com/item?id=40912684
 

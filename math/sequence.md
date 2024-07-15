@@ -9,3 +9,5 @@ https://news.ycombinator.com/item?id=38302288
 
 https://en.wikipedia.org/wiki/Goodstein%27s_theorem
 > https://news.ycombinator.com/item?id=38747798
+
+https://news.ycombinator.com/item?id=40943437 pi

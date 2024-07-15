@@ -161,6 +161,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=40968981
+
 https://9elements.com/blog/responsive-bar-charts-in-html-and-css/
 > https://news.ycombinator.com/item?id=40949021
 

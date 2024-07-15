@@ -521,6 +521,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=40966414
+
 https://github.com/clarkmcc/cel-rust
 > https://news.ycombinator.com/item?id=40948566
 

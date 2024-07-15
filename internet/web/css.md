@@ -140,6 +140,8 @@ https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4
 https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
+https://news.ycombinator.com/item?id=40952509
+
 #
 https://ishadeed.com/article/css-cap-unit/
 > https://news.ycombinator.com/item?id=40590402
