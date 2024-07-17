@@ -111,6 +111,9 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html
+> https://news.ycombinator.com/item?id=40987730
+
 https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/
 > https://news.ycombinator.com/item?id=40957373
 

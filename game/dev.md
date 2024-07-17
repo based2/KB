@@ -164,6 +164,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/
+> https://news.ycombinator.com/item?id=40975509
+
 https://news.ycombinator.com/item?id=40955734
 
 https://archipelago.gg/ Multiworld Multi-Game Randomizer

@@ -111,6 +111,8 @@ https://jeremydmiller.com/2022/10/04/real-life-tdd-example/
 https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21
 > https://news.ycombinator.com/item?id=38330989
 
+https://news.ycombinator.com/item?id=40972488
+
 # A/B
 https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15
 > https://news.ycombinator.com/item?id=27642296
@@ -183,6 +185,8 @@ https://news.ycombinator.com/item?id=39486717
 https://news.ycombinator.com/item?id=39534856
 
 # News
+https://news.ycombinator.com/item?id=40970261
+
 https://news.ycombinator.com/item?id=40705464
 
 https://jam.dev/

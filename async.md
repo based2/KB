@@ -62,3 +62,6 @@ https://without.boats/blog/let-futures-be-futures/
 https://news.ycombinator.com/item?id=38916397
 
 https://news.ycombinator.com/item?id=38503439
+
+https://www.infoq.com/articles/java-virtual-threads-a-case-study/
+> https://news.ycombinator.com/item?id=40959140

@@ -60,6 +60,8 @@ https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/
 https://www.hillelwayne.com/post/graphing-tla/
 > https://news.ycombinator.com/item?id=35601958
 
+https://news.ycombinator.com/item?id=40969312
+
 # Z3 Microsoft
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771

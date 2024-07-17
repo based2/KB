@@ -9,3 +9,5 @@ https://two-wrongs.com/awk-state-machine-parser-pattern.html
 
 https://benhoyt.com/writings/goawk-compiler-vm/
 > https://news.ycombinator.com/item?id=30190436
+
+https://news.ycombinator.com/item?id=40988837

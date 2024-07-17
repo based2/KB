@@ -154,6 +154,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://news.ycombinator.com/item?id=40975289
+
 https://news.ycombinator.com/item?id=40955946
 
 https://news.ycombinator.com/item?id=40932843

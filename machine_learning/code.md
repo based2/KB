@@ -4,6 +4,11 @@ https://github.com/jamesmurdza/awesome-ai-devtools
 # Data
 https://huggingface.co/datasets/bigcode/the-stack
 
+# Model
+
+https://mistral.ai/news/codestral-mamba/
+> https://news.ycombinator.com/item?id=40977103
+
 # Code assistant
 https://copilot.github.com/
 > https://news.ycombinator.com/item?id=27676266

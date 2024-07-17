@@ -26,3 +26,6 @@ https://docs.nixtla.io/
 
 https://www.nature.com/articles/d41586-024-01677-2 	Superfast Microsoft AI is first to predict air pollution for the whole world
 > https://news.ycombinator.com/item?id=40584498
+
+https://arxiv.org/abs/2407.10240 Long-Term Time Series Forecasting with xLSTM
+> https://news.ycombinator.com/item?id=40978372

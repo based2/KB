@@ -1,3 +1,6 @@
+https://github.com/geoserver/geoserver/security/advisories/GHSA-6jj6-gm7p-fcvv
+> https://www.bleepingcomputer.com/news/security/cisa-warns-critical-geoserver-geotools-rce-flaw-is-exploited-in-attacks/
+
 https://www.elttam.com/blog/plorming-your-primsa-orm/
 
 https://www.bleepingcomputer.com/news/security/hackers-use-poc-exploits-in-attacks-22-minutes-after-release/

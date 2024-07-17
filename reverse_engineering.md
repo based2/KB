@@ -51,6 +51,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=40985433
+
 https://news.ycombinator.com/item?id=40906148
 
 http://www.righto.com/2024/07/pentium-standard-cells.html

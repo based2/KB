@@ -18,6 +18,8 @@ https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-rive
 > https://news.ycombinator.com/item?id=36744135
 
 # Drone
+https://news.ycombinator.com/item?id=40989075
+
 https://news.ycombinator.com/item?id=40449278
 
 https://www.liftaircraft.com/

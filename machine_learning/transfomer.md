@@ -22,6 +22,8 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://news.ycombinator.com/item?id=40970146
+
 https://neuralblog.github.io/logit-prisms/ Decomposing Transformer Outputs for Mechanistic Interpretability
 > https://news.ycombinator.com/item?id=40704688
 
