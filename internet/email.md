@@ -268,6 +268,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=41007403
+
 https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/
 > https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula
 

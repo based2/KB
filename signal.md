@@ -33,6 +33,10 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://github.com/fulldecent/system-bus-radio
+
+https://news.ycombinator.com/item?id=40974060
+
 https://news.ycombinator.com/item?id=40768959
 
 https://news.ycombinator.com/item?id=40728032

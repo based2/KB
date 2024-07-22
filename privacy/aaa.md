@@ -111,6 +111,9 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/
+> https://news.ycombinator.com/item?id=40998647
+
 https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html
 > https://news.ycombinator.com/item?id=40987730
 

@@ -41,3 +41,5 @@ https://www.techdirt.com/2023/10/12/dhs-releases-previously-withheld-report-deta
 https://news.ycombinator.com/item?id=38102885
 
 https://www.bleepingcomputer.com/news/security/ftc-bans-one-more-data-broker-from-selling-your-location-info/
+
+https://news.ycombinator.com/item?id=40998481

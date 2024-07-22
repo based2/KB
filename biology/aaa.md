@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=39348902
 
 https://news.ycombinator.com/item?id=40766869
 
+https://news.ycombinator.com/item?id=41007573
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

@@ -58,6 +58,8 @@ https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
 > https://news.ycombinator.com/item?id=38731743
 
 # News
+https://news.ycombinator.com/item?id=40986923
+
 https://www.psychologytoday.com/us/blog/sax-on-sex/202405/ai-finds-astonishing-malefemale-differences-in-human-brain
 > https://news.ycombinator.com/item?id=40907304
 

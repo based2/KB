@@ -170,6 +170,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security
+> https://news.ycombinator.com/item?id=40990768
+
 https://www.securonix.com/blog/analysis-and-detection-of-cloudreverser-an-attack-involving-threat-actors-compromising-systems-using-a-sophisticated-cloud-based-malware/
 
 https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection

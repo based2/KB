@@ -80,6 +80,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incident
+https://news.ycombinator.com/item?id=41009694
+
 https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/
 
 https://news.ycombinator.com/item?id=40279823

@@ -410,6 +410,8 @@ https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/internat
 https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at
 
 # Incident
+https://news.ycombinator.com/item?id=41011779
+
 https://www.oligo.security/blog/shelltorch-explained-multiple-vulnerabilities-in-pytorch-model-server
 
 https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/

@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=41012193
+
 https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html
 > https://news.ycombinator.com/item?id=40898989
 

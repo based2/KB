@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://news.ycombinator.com/item?id=41000801
+
 https://www.zerodayinitiative.com/advisories/ZDI-24-581/
 > https://news.ycombinator.com/item?id=40607655
 

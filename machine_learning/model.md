@@ -193,20 +193,9 @@ https://github.com/pengxiao-song/LawGPT cn
 https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 > https://news.ycombinator.com/item?id=38533105
 
-# Test
-https://news.ycombinator.com/item?id=39042093
-
-https://developer.chrome.com/blog/supercharge-web-ai-testing
-> https://news.ycombinator.com/item?id=39017607
-
-https://ai-sandbox.list.lu/llm-leaderboard/
-> https://news.ycombinator.com/item?id=39800837
-
-https://news.ycombinator.com/item?id=39842116
-
-https://github.com/Giskard-AI/giskard
-
 # Meta
+https://news.ycombinator.com/item?id=41009803
+
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
 
@@ -288,7 +277,16 @@ https://news.ycombinator.com/item?id=40960886
 
 https://news.ycombinator.com/item?id=40988076
 
+https://news.ycombinator.com/item?id=40976593
+
 # News
+https://news.ycombinator.com/item?id=41007325
+
+https://news.ycombinator.com/item?id=40996429
+
+https://mistral.ai/news/mistral-nemo/
+> https://news.ycombinator.com/item?id=40996058
+
 https://news.ycombinator.com/item?id=40979221
 
 https://news.ycombinator.com/item?id=40947238

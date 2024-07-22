@@ -37,6 +37,8 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://news.ycombinator.com/item?id=40958937
+
 https://news.ycombinator.com/item?id=39604600
 
 https://news.ycombinator.com/item?id=38092394

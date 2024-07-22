@@ -36,3 +36,5 @@ https://grossack.site/2023/11/08/37-median.html
 
 https://glitchcomet.com/articles/1024-bit-primes/
 > https://news.ycombinator.com/item?id=40250519
+
+https://news.ycombinator.com/item?id=40981272

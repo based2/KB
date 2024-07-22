@@ -168,7 +168,11 @@ https://arxiv.org/abs/2406.07394 Accessing Math Solutions via Monte Carlo Self-R
 
 https://news.ycombinator.com/item?id=40646909
 
+https://mistral.ai/fr/news/mathstral/
+
 # News
+https://news.ycombinator.com/item?id=41007576
+
 https://news.ycombinator.com/item?id=40978831
 
 https://news.ycombinator.com/item?id=40969471

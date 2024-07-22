@@ -247,6 +247,9 @@ https://justune.eu/#/ I made a guitar tuner app using Flutter and Rust
 
 https://guitarix.org/
 
+https://agourlay.github.io/ruxguitar-tablature-player/
+> https://news.ycombinator.com/item?id=41008488
+
 https://chord-alt.vercel.app/
 > https://news.ycombinator.com/item?id=36497414
 
@@ -261,6 +264,8 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 # News
+https://news.ycombinator.com/item?id=40976083
+
 https://github.com/flujoo/gm
 > https://github.com/flujoo/gm
 

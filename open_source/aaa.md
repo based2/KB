@@ -40,6 +40,8 @@ https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_
 https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/
 > https://news.ycombinator.com/item?id=35372861
 
+https://news.ycombinator.com/item?id=41010458
+
 # Apps
 ## Analytics
 https://inthegood.co/taking-on-google/

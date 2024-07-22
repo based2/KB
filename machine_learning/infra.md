@@ -44,6 +44,8 @@ https://github.com/SciPhi-AI/R2R open source RAG engine with prod features
 https://github.com/postgresml/korvus Single-Query RAG with Postgres
 > https://news.ycombinator.com/item?id=40938325
 
+https://news.ycombinator.com/item?id=40998497
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

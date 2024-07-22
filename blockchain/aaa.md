@@ -53,6 +53,9 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://b10c.me/blog/014-mining-pool-game-theory-during-forks/
+> https://news.ycombinator.com/item?id=40968680
+
 https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/
 > https://news.ycombinator.com/item?id=37036277
 

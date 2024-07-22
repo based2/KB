@@ -103,6 +103,8 @@ https://news.ycombinator.com/item?id=40175395
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://news.ycombinator.com/item?id=41009021
+
 https://turbopuffer.com/blog/turbopuffer Fast search on object storage
 > https://news.ycombinator.com/item?id=40916786
 

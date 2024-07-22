@@ -146,6 +146,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=41007396
+
 https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/
 > https://news.ycombinator.com/item?id=40944505
 
