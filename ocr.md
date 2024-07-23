@@ -93,7 +93,12 @@ https://github.com/rogeriochaves/driver screen
 https://arefmalek.github.io/blog/Airdraw/
 > https://news.ycombinator.com/item?id=38647938
 
+# ML
+https://news.ycombinator.com/item?id=41048194
+
 # News
+https://news.ycombinator.com/item?id=41000760
+
 https://github.com/RajSolai/TextSnatcher Copy text from images, for the Linux Desktop
 > https://news.ycombinator.com/item?id=39711621
 

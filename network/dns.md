@@ -97,6 +97,8 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 > https://news.ycombinator.com/item?id=40254688
 
 # Incident
+https://www.bleepingcomputer.com/news/security/defi-exchange-dydx-v3-website-hacked-in-dns-hijack-attack/
+
 https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/
 
 https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html

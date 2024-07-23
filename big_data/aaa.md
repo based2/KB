@@ -148,6 +148,8 @@ https://medium.com/@techlatest.net/tensorboard-integration-with-ai-ml-models-in-
 https://github.com/xetdata/xetcache
 > https://news.ycombinator.com/item?id=38696631
 
+https://news.ycombinator.com/item?id=41045834
+
 ##
 http://zeppelin.apache.org/
 

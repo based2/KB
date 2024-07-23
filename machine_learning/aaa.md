@@ -578,6 +578,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=41046773
+
 https://news.ycombinator.com/item?id=40978731
 
 https://www.arxiv.org/abs/2407.09468 Guide to Machine Learning with Geometric, Topological, and Algebraic Structures

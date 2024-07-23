@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://aws.amazon.com/security/security-bulletins/AWS-2024-008/
+
 https://www.bleepingcomputer.com/news/technology/russia-forces-apple-to-remove-dozens-of-vpn-apps-from-app-store/
 
 https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf

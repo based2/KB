@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=41040635
+
+https://news.ycombinator.com/item?id=41039708
+
 https://silogy-io.github.io/smelt/
 > https://news.ycombinator.com/item?id=40945671
 

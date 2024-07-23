@@ -73,6 +73,8 @@ https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-googl
 > https://news.ycombinator.com/item?id=29847033
 
 # News
+https://news.ycombinator.com/item?id=41019777
+
 https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime
 > https://news.ycombinator.com/item?id=40609908
 

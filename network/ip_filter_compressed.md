@@ -23033,8 +23033,6 @@ block from any to 177.222.60.148
 block from any to 177.222.177.198
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 177.222.210.209
-# India https://www.abuseipdb.com/check/
-block from any to 1.7.229.162
 # Mexico https://www.abuseipdb.com/check/
 block from any to 177.229.67.231
 # Mexico https://www.abuseipdb.com/check/
@@ -24151,8 +24149,6 @@ block from any to 185.82.217.164
 block from any to 185.84.28.0/24
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.85.162.225
-# Turkiye https://www.abuseipdb.com/check/
-block from any to 185.85.239.0/2
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 185.85.239.0/24
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://threatfox.abuse.ch/browse/malware/win.redline_stealer/

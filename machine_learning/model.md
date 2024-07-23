@@ -280,6 +280,9 @@ https://news.ycombinator.com/item?id=40988076
 https://news.ycombinator.com/item?id=40976593
 
 # News
+https://llama.meta.com/ 3.1
+> https://news.ycombinator.com/item?id=41046540
+
 https://news.ycombinator.com/item?id=41007325
 
 https://news.ycombinator.com/item?id=40996429

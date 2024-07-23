@@ -128,6 +128,8 @@ https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari
 
 https://news.ycombinator.com/item?id=40095325
 
+https://news.ycombinator.com/item?id=41046956
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 

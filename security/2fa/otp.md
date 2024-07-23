@@ -55,6 +55,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://news.ycombinator.com/item?id=41037532
+
 https://www.bleepingcomputer.com/news/security/banks-in-singapore-to-phase-out-one-time-passwords-in-3-months/
 
 https://news.ycombinator.com/item?id=40934495

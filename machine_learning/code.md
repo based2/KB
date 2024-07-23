@@ -65,6 +65,8 @@ https://www.slim.ai/
 # News
 https://news.ycombinator.com/item?id=41014052
 
+https://news.ycombinator.com/item?id=41014052
+
 https://arxiv.org/abs/2406.03003
 
 https://github.com/darrenburns/elia
