@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://interactivenn.net/index.html
+> https://news.ycombinator.com/item?id=41057766
+
 https://news.ycombinator.com/item?id=39955944 erd
 
 https://arxiv.org/abs/2404.02679

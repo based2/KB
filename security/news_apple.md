@@ -12,6 +12,8 @@ https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-
 https://news.ycombinator.com/item?id=40688138
 
 #
+https://symantec-enterprise-blogs.security.com/threat-intelligence/daggerfly-espionage-updated-toolset
+
 https://news.ycombinator.com/item?id=40764816
 
 https://news.ycombinator.com/item?id=40741072

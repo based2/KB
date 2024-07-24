@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/microsoft/windows-july-security-updates-send-pcs-into-bitlocker-recovery/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-update-automation-issues/
 
 https://ynwarcs.github.io/z-btadv-cves

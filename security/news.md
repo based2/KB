@@ -1,3 +1,5 @@
+https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us
+
 https://news.ycombinator.com/item?id=40981067
 
 https://me.micahrl.com/blog/concerns-about-passkeys/
@@ -8,6 +10,12 @@ https://news.ycombinator.com/item?id=41002195
 > https://www.crowdstrike.com/blog/technical-details-on-todays-outage/
 > > https://news.ycombinator.com/item?id=41013198
 > https://www.heise.de/hintergrund/Fataler-Fehler-bei-CrowdStrike-Schuld-war-ein-Null-Pointer-9807896.html
+
+https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/
+> https://news.ycombinator.com/item?id=41053645
+
+https://www.bitsight.com/blog/crowdstrike-timeline-mystery
+> https://news.ycombinator.com/item?id=41060985
 
 https://www.bleepingcomputer.com/news/security/solarwinds-fixes-8-critical-bugs-in-access-rights-audit-software/
 
