@@ -46,6 +46,8 @@ https://github.com/postgresml/korvus Single-Query RAG with Postgres
 
 https://news.ycombinator.com/item?id=40998497
 
+https://news.ycombinator.com/item?id=41024362
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

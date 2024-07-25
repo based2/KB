@@ -228,6 +228,9 @@ https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html
 https://without.boats/blog/asynchronous-clean-up/
 > https://news.ycombinator.com/item?id=39497110
 
+https://without.boats/blog/pin/
+> https://news.ycombinator.com/item?id=41029287
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 > https://news.ycombinator.com/item?id=27135591
@@ -521,6 +524,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=41031037
+
 https://news.ycombinator.com/item?id=40966414
 
 https://github.com/clarkmcc/cel-rust
