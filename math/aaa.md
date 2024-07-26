@@ -171,6 +171,8 @@ https://news.ycombinator.com/item?id=40646909
 https://mistral.ai/fr/news/mathstral/
 
 # News
+https://news.ycombinator.com/item?id=41080366
+
 https://news.ycombinator.com/item?id=41007576
 
 https://news.ycombinator.com/item?id=40978831

@@ -117,6 +117,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials
+
 https://www.bleepingcomputer.com/news/security/docker-fixes-critical-5-year-old-authentication-bypass-flaw/ CVE-2024-41110
 
 https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github

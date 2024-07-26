@@ -30,6 +30,8 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://www.bleepingcomputer.com/news/security/acronis-warns-of-cyber-infrastructure-default-password-abused-in-attacks/
+
 https://www.bleepingcomputer.com/news/security/critical-cisco-bug-lets-hackers-add-root-users-on-seg-devices/
 
 https://www.bleepingcomputer.com/news/security/cisco-ssm-on-prem-bug-lets-hackers-change-any-users-password/

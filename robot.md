@@ -96,6 +96,10 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 # Bionic
 https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-future-of-robotics-140023476.html
 
+# Exo
+https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it
+> https://news.ycombinator.com/item?id=41080063
+
 # Gesture
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 

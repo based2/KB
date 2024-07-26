@@ -9,3 +9,5 @@ https://rls.sites.oasis.unc.edu/s890/evtclass.pdf
 
 https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/
 > https://news.ycombinator.com/item?id=40136130
+
+https://news.ycombinator.com/item?id=41080373
