@@ -18,6 +18,10 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://news.ycombinator.com/item?id=41085806
+
+https://foundation.mozilla.org/fr/privacynotincluded/categories/cars/
+
 https://news.ycombinator.com/item?id=40698412
 
 https://news.ycombinator.com/item?id=40563845

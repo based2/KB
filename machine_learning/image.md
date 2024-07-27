@@ -2,6 +2,8 @@ https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
 
 https://yingqianwang.github.io/DistgLF/
 
+https://supervision.roboflow.com/latest/
+
 https://filter.mot.omg.lol/
 > https://news.ycombinator.com/item?id=29753080
 
@@ -395,6 +397,10 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://latent-consistency-models.github.io/ https://huggingface.co/papers/2310.04378
+
+https://github.com/ToTheBeginning/PuLID
+
 https://blog.fal.ai/auraflow/
 > https://news.ycombinator.com/item?id=40941853
 

@@ -379,6 +379,12 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://news.ycombinator.com/item?id=41068719
+
+https://github.com/face-hh/griddycode
+
+https://techcrunch.com/2024/05/14/project-idx-googles-next-gen-ide-is-now-in-open-beta/
+
 https://zed.dev/linux
 > https://news.ycombinator.com/item?id=40928893
 

@@ -30,6 +30,9 @@ https://github.com/joehillen/sysz fzf terminal UI for systemctl
 
 https://www.busybox.net/downloads/BusyBox.html
 
+# Disk
+https://rmlint.readthedocs.io/en/latest/
+
 # Cron
 https://crontab.guru/
 

@@ -365,6 +365,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/charmbracelet/freeze
+
 https://news.ycombinator.com/item?id=40976474
 
 https://arxiv.org/abs/2406.14719 Grokking the Sequent Calculus (Functional Pearl)

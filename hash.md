@@ -129,6 +129,8 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://github.com/Daninet/hash-wasm
+
 https://www.philipzucker.com/hashing-modulo/
 > https://news.ycombinator.com/item?id=40394104
 

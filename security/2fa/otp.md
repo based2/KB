@@ -22,6 +22,8 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://cyberscoop.com/stealing-cookies-researchers-describe-how-to-bypass-modern-authentication/
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1824831 Can't sign in with FIDO2 key on office.com
 > https://news.ycombinator.com/item?id=38502340
 
@@ -55,6 +57,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/
+> https://news.ycombinator.com/item?id=41081435
+
 https://news.ycombinator.com/item?id=41037532
 
 https://www.bleepingcomputer.com/news/security/banks-in-singapore-to-phase-out-one-time-passwords-in-3-months/

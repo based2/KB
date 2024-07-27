@@ -69,6 +69,9 @@ https://threadreaderapp.com/thread/1586390728761933825.html
 https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
+https://www.howtogeek.com/microsoft-ztdns-windows-network-security/
+> https://techcommunity.microsoft.com/t5/networking-blog/deployment-considerations-for-windows-ztdns-client/ba-p/4113372
+
 # Security
 https://www.akamai.com/blog/security-research/weaponizing-dhcp-dns-spoofing-hands-on-guide
 > https://lobste.rs/s/9lc79n/weaponizing_dhcp_dns_spoofing_hands_on
@@ -153,6 +156,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=41081810
+
 https://news.ycombinator.com/item?id=40693451
 
 https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/

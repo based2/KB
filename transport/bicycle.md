@@ -17,3 +17,5 @@ https://news.ycombinator.com/item?id=36914085
 https://pedalcell.com/
 
 https://vhelio.org/
+
+https://newatlas.com/marine/seabike-swimming-propeller/

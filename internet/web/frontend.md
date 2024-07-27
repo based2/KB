@@ -1,3 +1,7 @@
+https://sunsetglow.net/posts/frontend-build-systems.html
+
+https://pillser.com/engineering/2024-06-10-website-without-404s
+
 https://mburakerman.github.io/blog/web-rendering-patterns
 > https://news.ycombinator.com/item?id=34721450
 

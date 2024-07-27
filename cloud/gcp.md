@@ -23,6 +23,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/
+> https://news.ycombinator.com/item?id=41082502
+
 https://www.bleepingcomputer.com/news/security/hackers-abuse-google-cloud-run-in-massive-banking-trojan-campaign/
 
 https://socradar.io/misconfigurations-in-google-kubernetes-engine-gke-lead-to-a-privilege-escalation-exploit-chain/

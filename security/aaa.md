@@ -1,3 +1,5 @@
+https://www.forbes.com/sites/thomasbrewster/2024/05/14/police-car-surveillance-tech-uncovers-phones-pet-trackers-and-library-books/?sh=1ff795413786
+
 https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/
 > https://news.ycombinator.com/item?id=39837498
 

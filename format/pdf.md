@@ -19,13 +19,12 @@ https://tabula.technology/
 > https://news.ycombinator.com/item?id=30475784
 > > https://excalibur-py.readthedocs.io/en/master/
 
+# I
+https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
+
 #
 https://github.com/latex3/tagging-project/discussions/72
 > https://news.ycombinator.com/item?id=40587934
-
-https://github.com/Stirling-Tools/Stirling-PDF
-
-https://news.ycombinator.com/item?id=40242639
 
 https://github.com/Stirling-Tools/Stirling-PDF
 > https://news.ycombinator.com/item?id=40242639

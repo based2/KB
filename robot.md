@@ -18,6 +18,8 @@ https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-rive
 > https://news.ycombinator.com/item?id=36744135
 
 # Drone
+https://newatlas.com/drones/solar-electrostatic-drone/
+
 https://news.ycombinator.com/item?id=40989075
 
 https://news.ycombinator.com/item?id=40449278
@@ -116,6 +118,14 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://www.unitree.com/g1/
+
+https://www.waveshare.com/rasprover.htm
+
+https://github.com/PetoiCamp/OpenCat
+
+https://newatlas.com/robotics/vacuum-foot-robot-dog/
+
 https://spectrum.ieee.org/robot-dog-vacuum
 
 https://www.advancedsciencenews.com/tiny-robots-with-a-big-impact-scientists-develop-microrobots-for-single-cell-handling/

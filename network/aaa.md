@@ -149,6 +149,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/spieglt/FlyingCarpet
+
 https://rachelbythebay.com/w/2024/07/17/bpf/ Unintentionally troubleshooting a new way to filter traffic
 
 https://news.ycombinator.com/item?id=41001559

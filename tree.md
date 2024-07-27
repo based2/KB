@@ -134,6 +134,8 @@ https://news.ycombinator.com/item?id=39509287
 
 https://news.ycombinator.com/item?id=39618784
 
+https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

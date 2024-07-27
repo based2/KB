@@ -47,10 +47,14 @@ https://and0uille.net/misc/debug90.html
 https://news.ycombinator.com/item?id=39379480
 
 # ML
+https://github.com/mrphrazer/reverser_ai
+
 https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=41069606
+
 https://news.ycombinator.com/item?id=41026480
 
 https://news.ycombinator.com/item?id=40985433

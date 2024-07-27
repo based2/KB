@@ -88,6 +88,8 @@ https://linuxfr.org/news/creatures-ou-ia-consultez-manipulez-annotez-les-images-
 https://www.finitecurve.com/
 > https://news.ycombinator.com/item?id=40730309
 
+https://www.blurmatic.com/
+
 # Photography
 https://ansel.photos/en/
 > https://news.ycombinator.com/item?id=38390914

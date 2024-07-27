@@ -63,6 +63,13 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://github.com/patched-codes/patchwork?tab=readme-ov-file automate development gruntwwork like PR reviews, bug fixing, security patching, and more using a self-hosted CLI agent and your preferred LLMs.
+> https://news.ycombinator.com/item?id=41082041
+
+https://github.com/OpenDevin/OpenDevin
+
+https://github.com/stitionai/devika
+
 https://news.ycombinator.com/item?id=41014052
 
 https://news.ycombinator.com/item?id=41014052

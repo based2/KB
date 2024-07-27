@@ -21,6 +21,8 @@ https://jvm-gaming.org/
 https://en.wikipedia.org/wiki/Metal_Slug
 
 # ML
+https://mythmaker.ai/
+
 https://news.ycombinator.com/item?id=38307889
 
 https://sep.stanford.edu/sep/jon/raven/

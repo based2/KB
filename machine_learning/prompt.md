@@ -105,3 +105,9 @@ https://news.ycombinator.com/item?id=40300126
 
 https://thenameless.net/astral-kit/anthropic-peit-00
 > https://news.ycombinator.com/item?id=40395057
+
+https://llmlingua.com/llmlingua2.html
+
+https://github.com/microsoft/LLMLingua/blob/main/DOCUMENT.md
+
+https://docs.anthropic.com/claude/prompt-library

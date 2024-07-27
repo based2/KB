@@ -47,6 +47,8 @@ https://news.ycombinator.com/item?id=39322388
 https://blog.trailofbits.com/2024/07/12/announcing-aes-gem-aes-with-galois-extended-mode/
 > https://news.ycombinator.com/item?id=40951397
 
+https://www.phoronix.com/news/Linux-6.10-Crypto
+
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 

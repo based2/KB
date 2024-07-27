@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 #
+https://github.com/flashbots/mev-boost/issues/385
+
 https://www.bleepingcomputer.com/news/security/ethereum-mailing-list-breach-exposes-35-000-to-crypto-draining-attack/
 
 # News

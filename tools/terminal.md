@@ -1,3 +1,6 @@
+https://web.stanford.edu/class/cs81n/command.txt
+> https://news.ycombinator.com/item?id=41084795
+
 https://github.com/martanne/dvtm
 > https://www.brain-dump.org/projects/dvtm/
 
@@ -45,6 +48,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/metal3d/bashsimplecurses
+
 https://news.ycombinator.com/item?id=40907581
 
 https://news.ycombinator.com/item?id=40669337

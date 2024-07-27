@@ -55,7 +55,8 @@ https://witeboard.com/
 https://miro.com/en/tableau-en-ligne/
 
 # Presentations - Slide shows
-https://github.com/slidevjs/slidev vue.js vite
+https://sli.dev
+> https://github.com/slidevjs/slidev vue.js vite
 
 https://revealjs.com/ nodejs
 > https://github.com/hakimel/reveal.js/

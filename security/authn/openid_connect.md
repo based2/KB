@@ -13,6 +13,8 @@ https://oauth.net/2/pkce/
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 # Incident
+https://status.squarespace.com/incidents/cw2wf55bps15
+
 https://www.microsoft.com/en-us/security/blog/2023/12/12/threat-actors-misuse-oauth-applications-to-automate-financially-driven-attacks/
 
 https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6027/

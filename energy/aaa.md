@@ -19,6 +19,8 @@ https://www.rte-france.com/eco2mix
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/
+
 https://www.heise.de/news/Atomkraft-Schweizer-und-Daenen-forschen-an-Thorium-Fluessigsalz-Reaktor-9801248.html
 
 https://cleantechnica.com/2024/07/08/another-day-another-win-for-solar-power-windows-another-headache-for-fossil-fuels/

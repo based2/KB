@@ -113,6 +113,8 @@ https://news.ycombinator.com/item?id=39201332
 
 https://news.ycombinator.com/item?id=39611662
 
+https://news.ycombinator.com/item?id=41086060
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705
@@ -171,6 +173,8 @@ https://news.ycombinator.com/item?id=40646909
 https://mistral.ai/fr/news/mathstral/
 
 # News
+https://linear.axler.net/
+
 https://news.ycombinator.com/item?id=41080366
 
 https://news.ycombinator.com/item?id=41007576
