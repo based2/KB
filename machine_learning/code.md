@@ -62,6 +62,11 @@ https://alphacode.deepmind.com/
 https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
+# DB
+https://thenewstack.io/gpt-4o-and-sql-how-well-can-an-llm-alter-its-own-schema/
+
+https://news.ycombinator.com/item?id=37240363 sql
+
 # News
 https://github.com/patched-codes/patchwork?tab=readme-ov-file automate development gruntwwork like PR reviews, bug fixing, security patching, and more using a self-hosted CLI agent and your preferred LLMs.
 > https://news.ycombinator.com/item?id=41082041
@@ -153,8 +158,6 @@ https://continue.dev/docs/walkthroughs/codellama
 
 https://about.sourcegraph.com/cody
 > https://news.ycombinator.com/item?id=37277722
-
-https://news.ycombinator.com/item?id=37240363 sql
 
 https://github.com/bsilverthorn/maccarone python
 > https://news.ycombinator.com/item?id=37254510

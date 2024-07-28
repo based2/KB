@@ -30,6 +30,8 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
   
 # News
+https://news.ycombinator.com/item?id=41089718
+
 https://webkit.org/blog/15697/private-browsing-2-0/
 > https://news.ycombinator.com/item?id=40977945
 

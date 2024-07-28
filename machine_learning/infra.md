@@ -48,12 +48,24 @@ https://news.ycombinator.com/item?id=40998497
 
 https://news.ycombinator.com/item?id=41024362
 
+https://medium.datadriveninvestor.com/new-chunking-method-for-rag-systems-2eb3523d0420
+
+https://towardsdatascience.com/an-easy-way-to-comprehend-how-graphrag-works-6d53f8b540d0
+> https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://thenewstack.io/ai-gateways-transform-experimentation-into-scalable-production/
+> https://thenewstack.io/ai-gateways-vs-api-gateways-whats-the-difference/
+
+https://thenewstack.io/red-hat-podman-lab-gets-developers-started-on-genai/
+
+https://fuglede.github.io/llama.ttf/
+
 https://github.com/danielmiessler/fabric
 
 https://github.com/open-webui/open-webui

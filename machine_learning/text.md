@@ -73,6 +73,8 @@ https://news.ycombinator.com/item?id=39579446
 
 https://news.ycombinator.com/item?id=40252569 Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU
 
+https://www.anthropic.com/research/claude-character
+
 # News
 https://news.ycombinator.com/item?id=40972609
 

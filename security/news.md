@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/phishing-emails-abuse-windows-search-protocol-to-push-malicious-scripts/
+
 https://github.com/TracecatHQ/tracecat
 
 https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us

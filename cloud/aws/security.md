@@ -25,7 +25,7 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/ SecurityNotifications
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
-
+https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7
 > https://news.ycombinator.com/item?id=41086679
 
 https://rhinosecuritylabs.com/aws/attacking-aws-cognito-with-pacu-p2/

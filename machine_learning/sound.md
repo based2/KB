@@ -218,6 +218,10 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://techxplore.com/news/2024-06-ai-decode-dog-vocalizations.html
+
+https://github.com/facebookresearch/audioseal
+
 https://news.ycombinator.com/item?id=40905686
 
 https://news.ycombinator.com/item?id=40744293

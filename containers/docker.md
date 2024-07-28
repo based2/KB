@@ -56,6 +56,8 @@ https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-w
 https://github.com/iximiuz/docker-to-linux
 
 # I
+https://www.bleepingcomputer.com/news/security/docker-fixes-critical-5-year-old-authentication-bypass-flaw/
+
 https://vigilance.fr/vulnerabilite/BuildKit-quatre-vulnerabilites-43425
 
 https://vigilance.fr/vulnerabilite/Docker-Moby-elevation-de-privileges-via-Classic-Builder-Cache-Poisoning-43424

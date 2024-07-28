@@ -334,6 +334,8 @@ https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/
 https://github.com/squaredtechnologies/thread AI-powered Jupyter Notebook built using React
 > https://news.ycombinator.com/item?id=40633773
 
+https://news.ycombinator.com/item?id=41083726
+
 # sec
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
 

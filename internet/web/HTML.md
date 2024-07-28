@@ -161,6 +161,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://hotwired.dev/
+
 https://htmlhead.dev/
 > https://news.ycombinator.com/item?id=40968981
 

@@ -280,6 +280,10 @@ https://news.ycombinator.com/item?id=40988076
 https://news.ycombinator.com/item?id=40976593
 
 # News
+https://jackcook.com/2023/09/08/predictive-text.html apple
+
+https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/
+
 https://llama.meta.com/ 3.1
 > https://news.ycombinator.com/item?id=41046540
 

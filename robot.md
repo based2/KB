@@ -118,6 +118,8 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html
+
 https://www.unitree.com/g1/
 
 https://www.waveshare.com/rasprover.htm

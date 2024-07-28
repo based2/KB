@@ -164,6 +164,17 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=41089161
+
+https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/
+> https://news.ycombinator.com/item?id=41092861
+
+https://moonbearmusings.com/lets-talk-about-how-mihoyos-monetization-works/
+> https://news.ycombinator.com/item?id=41079819
+
+https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c
+> https://news.ycombinator.com/item?id=41061646
+
 https://www.gameaipro.com/
 
 https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/

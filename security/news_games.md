@@ -1,3 +1,5 @@
+https://old.reddit.com/r/netsec/comments/1ebwi71/think_twice_before_cheating_escape_from_tarkov/
+
 https://www.welivesecurity.com/en/eset-research/tap-estry-threats-targeting-hamster-kombat-players/
 
 https://old.reddit.com/r/netsec/comments/1drf1kq/bytecode_breakdown_unraveling_factorios_lua/

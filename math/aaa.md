@@ -172,7 +172,11 @@ https://news.ycombinator.com/item?id=40646909
 
 https://mistral.ai/fr/news/mathstral/
 
+https://news.ycombinator.com/item?id=41069829
+
 # News
+https://github.com/sarah-ek/faer-rs
+
 https://linear.axler.net/
 
 https://news.ycombinator.com/item?id=41080366

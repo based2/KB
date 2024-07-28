@@ -14,6 +14,9 @@ https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automat
 https://www.consul.io/docs/architecture/consensus
 > https://news.ycombinator.com/item?id=29079079
 
+https://ferd.ca/beating-the-cap-theorem-checklist.html
+> https://news.ycombinator.com/item?id=41084736
+
 # CRDT
 https://crdt.tech/
 > https://news.ycombinator.com/item?id=30983770

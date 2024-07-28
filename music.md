@@ -264,6 +264,14 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 # News
+https://aodyo.com/product/anyma-v/
+> https://news.ycombinator.com/item?id=41077443
+
+https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/
+> https://news.ycombinator.com/item?id=41088895
+
+https://www.soundslice.com/sheet-music-scanner/
+
 https://news.ycombinator.com/item?id=40976083
 
 https://github.com/flujoo/gm

@@ -151,6 +151,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/
+
 https://twitter.com/nixcraft/status/1786042010769760367
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-installing-windows-11-23h2-on-eligible-pcs/
