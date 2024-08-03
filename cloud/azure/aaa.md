@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/microsoft/microsoft-365-and-azure-outage-takes-down-multiple-services/
+
 https://news.ycombinator.com/item?id=41000801
 
 https://www.zerodayinitiative.com/advisories/ZDI-24-581/

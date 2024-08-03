@@ -524,6 +524,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://www.darpa.mil/program/translating-all-c-to-rust
+> https://news.ycombinator.com/item?id=41110269
+
 https://news.ycombinator.com/item?id=41031037
 
 https://news.ycombinator.com/item?id=40966414

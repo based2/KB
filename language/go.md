@@ -112,6 +112,8 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > https://news.ycombinator.com/item?id=31955334
 > > https://news.ycombinator.com/item?id=31956938
 
+https://news.ycombinator.com/item?id=41110946
+
 # Interop
 https://github.com/ebitengine/purego library for calling C functions from Go without Cgo
 > https://news.ycombinator.com/item?id=34763681
@@ -126,6 +128,8 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://news.ycombinator.com/item?id=41132669
+
 https://github.com/beego/beego Web Framework for Go
 > https://news.ycombinator.com/item?id=41053117
 

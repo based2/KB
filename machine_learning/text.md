@@ -76,6 +76,8 @@ https://news.ycombinator.com/item?id=40252569 Show HN: I built a free in-browser
 https://www.anthropic.com/research/claude-character
 
 # News
+https://news.ycombinator.com/item?id=41103403
+
 https://news.ycombinator.com/item?id=40972609
 
 https://news.ycombinator.com/item?id=40911350

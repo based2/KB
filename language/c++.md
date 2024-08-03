@@ -66,6 +66,8 @@ https://forum.misra.org.uk/thread-1668.html
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=41074703
+
 https://github.com/Jaysmito101/rusty.hpp Borrow Checker and Memory Ownership System for C++20
 > https://news.ycombinator.com/item?id=40263017
 

@@ -207,6 +207,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6?source=friends_link&sk=be24847e3c700e7ba99e158ac1deaf62
+> https://old.reddit.com/r/netsec/comments/1eez6z2/echospoofing_a_massive_phishing_campaign/
+
 https://blog.securelayer7.net/xss-and-path-traversal-exploits-in-mailcow/
 
 https://lists.exim.org/lurker/message/20240710.155945.8823670d.pt.html

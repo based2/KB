@@ -174,6 +174,8 @@ https://mistral.ai/fr/news/mathstral/
 
 https://news.ycombinator.com/item?id=41069829
 
+https://news.ycombinator.com/item?id=41096486
+
 # News
 https://github.com/sarah-ek/faer-rs
 

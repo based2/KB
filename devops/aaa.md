@@ -526,6 +526,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=41133390
+
 https://zarar.dev/using-dora-metrics-to-coach-teams/
 > https://news.ycombinator.com/item?id=41057386
 

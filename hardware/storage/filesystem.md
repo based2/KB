@@ -80,6 +80,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=41090134
+
 http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/
 > https://news.ycombinator.com/item?id=41076190
 

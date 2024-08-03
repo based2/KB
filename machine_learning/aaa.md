@@ -584,6 +584,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=41109822
+
 https://news.ycombinator.com/item?id=41074485
 
 https://www.livescience.com/technology/artificial-intelligence/mit-gives-ai-the-power-to-reason-like-humans-by-creating-hybrid-architecture

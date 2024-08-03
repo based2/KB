@@ -25,6 +25,9 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/ SecurityNotifications
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://tracebit.com/blog/no-wildcard-how-i-discovered-the-organization-id-of-any-aws-account
+> https://old.reddit.com/r/netsec/comments/1eacbaq/no_wildcard_how_we_discovered_the_aws/
+
 https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7
 > https://news.ycombinator.com/item?id=41086679
 

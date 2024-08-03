@@ -101,6 +101,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://blog.davidv.dev/posts/first-contact-with-k8s/
+> https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes
+
 https://news.ycombinator.com/item?id=40699278
 
 https://blog.janissary.xyz/posts/homelab-4

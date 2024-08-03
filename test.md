@@ -136,6 +136,8 @@ https://www.evanmiller.org/how-not-to-run-an-ab-test.html
 https://posthog.com/blog/ab-testing-mistakes
 > https://news.ycombinator.com/item?id=36354280
 
+https://news.ycombinator.com/item?id=41099028
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 > https://news.ycombinator.com/item?id=27923631

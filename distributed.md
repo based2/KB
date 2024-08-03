@@ -131,6 +131,9 @@ https://interjectedfuture.com/crdts-turned-inside-out/
 https://interjectedfuture.com/trade-offs-between-different-crdts/
 > https://news.ycombinator.com/item?id=38916647
 
+https://loro.dev/blog/movable-tree
+> https://news.ycombinator.com/item?id=41099901
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

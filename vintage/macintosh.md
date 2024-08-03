@@ -136,6 +136,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://news.ycombinator.com/item?id=41128409
+
 http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf Preliminary Macintosh Business Plan (12 July 1981) [pdf]
 > https://news.ycombinator.com/item?id=40261451
 

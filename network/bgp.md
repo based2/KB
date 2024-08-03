@@ -34,6 +34,8 @@ https://aaka.sh/posts/20230129-bgp-at-home.html
 
 https://www.bleepingcomputer.com/news/security/all-dutch-govt-networks-to-use-rpki-to-prevent-bgp-hijacking/
 
+https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath
+
 # Incident
 https://old.reddit.com/r/netsec/comments/1dtroyt/kirin_hitting_the_internet_with_distributed_bgp/
 

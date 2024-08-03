@@ -1,3 +1,5 @@
+https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/
+
 https://www.bleepingcomputer.com/news/security/phishing-emails-abuse-windows-search-protocol-to-push-malicious-scripts/
 
 https://github.com/TracecatHQ/tracecat
@@ -1571,6 +1573,7 @@ https://0xbigshaq.github.io/2022/12/30/luajit-sandbox-escape/
 https://0xsp.com/security%20research%20%20development%20srd/backdoor-discovered-in-pldt-home-fiber-routers/
 
 https://canarytokens.org
+> https://news.ycombinator.com/item?id=41107209
 > https://news.ycombinator.com/item?id=34157751
 
 https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass

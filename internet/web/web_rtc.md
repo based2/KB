@@ -91,3 +91,5 @@ https://news.ycombinator.com/item?id=40083641
 
 https://github.com/bitwhip/bitwhip 30ms latency screen sharing in Rust
 > https://news.ycombinator.com/item?id=40916326
+
+https://news.ycombinator.com/item?id=41146393

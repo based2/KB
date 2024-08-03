@@ -43,6 +43,8 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 https://news.ycombinator.com/item?id=40014724
 
 # News
+https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/
+
 https://arxiv.org/abs/2401.17618 Exploring Novel File System Objects for Data-Only Attacks on Linux Systems
 > https://news.ycombinator.com/item?id=40940555
 

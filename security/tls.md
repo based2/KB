@@ -155,6 +155,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # I
+https://news.ycombinator.com/item?id=41108465
+
 https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake
 > https://news.ycombinator.com/item?id=38902414
 

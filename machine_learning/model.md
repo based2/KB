@@ -279,7 +279,15 @@ https://news.ycombinator.com/item?id=40988076
 
 https://news.ycombinator.com/item?id=40976593
 
+https://arxiv.org/abs/2407.15811
+> https://news.ycombinator.com/item?id=41105779
+
+https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
+> https://news.ycombinator.com/item?id=41105881
+
 # News
+https://news.ycombinator.com/item?id=41110884
+
 https://jackcook.com/2023/09/08/predictive-text.html apple
 
 https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/

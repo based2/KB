@@ -154,3 +154,5 @@ https://github.com/remileduc/sherver
 
 https://argbash.dev/
 > https://news.ycombinator.com/item?id=35230766
+
+https://news.ycombinator.com/item?id=41097241 ps

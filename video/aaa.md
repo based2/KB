@@ -128,6 +128,9 @@ https://news.ycombinator.com/item?id=39593256
 https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview
 
 # News
+https://github.com/alexta69/metube
+> https://news.ycombinator.com/item?id=41098974
+
 https://news.ycombinator.com/item?id=41091163
 
 https://typesetinthefuture.com/2018/12/04/walle/

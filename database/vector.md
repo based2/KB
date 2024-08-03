@@ -91,3 +91,5 @@ https://news.ycombinator.com/item?id=40972130
 https://superlinked.com/vector-db-comparison
 
 https://news.ycombinator.com/item?id=41030716
+
+https://news.ycombinator.com/item?id=41137658

@@ -359,6 +359,8 @@ https://applied-langua.ge/posts/zero-feet.html
 
 https://news.ycombinator.com/item?id=36704396
 
+https://news.ycombinator.com/item?id=41093719
+
 # Book
 https://news.ycombinator.com/item?id=32788281
 
