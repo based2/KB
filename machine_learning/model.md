@@ -285,6 +285,12 @@ https://arxiv.org/abs/2407.15811
 https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
 > https://news.ycombinator.com/item?id=41105881
 
+https://news.ycombinator.com/item?id=41148160
+
+https://news.ycombinator.com/item?id=41129195
+
+https://news.ycombinator.com/item?id=41118609
+
 # News
 https://news.ycombinator.com/item?id=41110884
 

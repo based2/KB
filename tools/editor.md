@@ -141,6 +141,8 @@ https://github.com/csdvrx/CuteVim
 https://github.com/SebastianMuskalla/ModelessVim
 > https://news.ycombinator.com/item?id=39008533
 
+https://news.ycombinator.com/item?id=41144843
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341

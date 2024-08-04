@@ -59,6 +59,10 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://news.ycombinator.com/item?id=41130901
+
+https://news.ycombinator.com/item?id=41138085
+
 https://thenewstack.io/ai-gateways-transform-experimentation-into-scalable-production/
 > https://thenewstack.io/ai-gateways-vs-api-gateways-whats-the-difference/
 

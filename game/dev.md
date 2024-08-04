@@ -164,6 +164,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=41154135
+
 https://news.ycombinator.com/item?id=41089161
 
 https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/

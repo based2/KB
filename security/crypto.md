@@ -144,6 +144,8 @@ https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler
 https://azeemba.com/posts/homomorphic-encryption-with-images.html
 > https://lobste.rs/s/epk42u/homomorphic_encryption_with_images
 
+https://news.ycombinator.com/item?id=41111129
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

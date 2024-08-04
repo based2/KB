@@ -97,3 +97,5 @@ https://news.ycombinator.com/item?id=40679809
 
 https://www2.dmst.aueb.gr/dds/blog/20131211/index.html The Birth of Standard Error (2013)
 > https://news.ycombinator.com/item?id=40953268
+
+https://news.ycombinator.com/item?id=41142686

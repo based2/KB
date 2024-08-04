@@ -155,6 +155,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://news.ycombinator.com/item?id=41146860
+
 https://www.cs.cornell.edu/~asampson/blog/bril.html
 > https://news.ycombinator.com/item?id=41084318
 

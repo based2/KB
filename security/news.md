@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=41127446
+
+`https://www.anarsec.guide/posts/tamper/ Make your electronics tamper-evident
+> https://news.ycombinator.com/item?id=41148650
+
 https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/
 
 https://www.bleepingcomputer.com/news/security/phishing-emails-abuse-windows-search-protocol-to-push-malicious-scripts/

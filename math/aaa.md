@@ -177,6 +177,12 @@ https://news.ycombinator.com/item?id=41069829
 https://news.ycombinator.com/item?id=41096486
 
 # News
+https://news.ycombinator.com/item?id=41117451
+
+https://news.ycombinator.com/item?id=41143559
+
+https://news.ycombinator.com/item?id=41150249
+
 https://github.com/sarah-ek/faer-rs
 
 https://linear.axler.net/

@@ -48,6 +48,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=41114569
+
 https://github.com/metal3d/bashsimplecurses
 
 https://news.ycombinator.com/item?id=40907581

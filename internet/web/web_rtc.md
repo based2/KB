@@ -93,3 +93,8 @@ https://github.com/bitwhip/bitwhip 30ms latency screen sharing in Rust
 > https://news.ycombinator.com/item?id=40916326
 
 https://news.ycombinator.com/item?id=41146393
+
+https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-1/
+> https://news.ycombinator.com/item?id=41152654
+
+https://news.ycombinator.com/item?id=41135671

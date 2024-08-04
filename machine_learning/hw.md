@@ -7,6 +7,14 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=41139894
+
+https://news.ycombinator.com/item?id=41150278
+
+https://news.ycombinator.com/item?id=41118928
+
+https://news.ycombinator.com/item?id=41148532
+
 https://news.ycombinator.com/item?id=40508797
 
 https://arxiv.org/abs/2404.16158 The Feasibility of Implementing Large-Scale Transformers on Multi-FPGA Platforms

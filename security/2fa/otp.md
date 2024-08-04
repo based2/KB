@@ -57,6 +57,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://news.ycombinator.com/item?id=41118468
+
 https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/
 > https://news.ycombinator.com/item?id=41081435
 

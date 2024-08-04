@@ -59,3 +59,5 @@ https://news.ycombinator.com/item?id=38515082
 
 https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/
 > https://news.ycombinator.com/item?id=39717815
+
+https://news.ycombinator.com/item?id=41146687
