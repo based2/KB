@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://news.ycombinator.com/item?id=41162397
+
 https://thenewstack.io/infrastructure-from-code-gives-ops-needed-freedom/
 
 https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure

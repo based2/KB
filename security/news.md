@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41161098
+
 https://news.ycombinator.com/item?id=41127446
 
 `https://www.anarsec.guide/posts/tamper/ Make your electronics tamper-evident
