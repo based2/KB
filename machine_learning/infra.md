@@ -59,6 +59,10 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://medium.com/@kevin30101999/machine-learning-pipeline-using-argo-workflow-be91feb07c41
+
+https://news.ycombinator.com/item?id=41162664
+
 https://news.ycombinator.com/item?id=41130901
 
 https://news.ycombinator.com/item?id=41138085

@@ -54,6 +54,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://www.bleepingcomputer.com/news/security/samsung-to-pay-1-000-000-for-rces-on-galaxys-secure-vault/
+
 https://www.bleepingcomputer.com/news/google/google-fixes-chrome-password-manager-bug-that-hides-credentials/
 
 https://www.bleepingcomputer.com/news/security/lastpass-says-12-hour-outage-caused-by-bad-chrome-extension-update/

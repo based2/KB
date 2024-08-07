@@ -11,6 +11,8 @@ https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://blog.cloudflare.com/backbone2024
+
 https://news.ycombinator.com/item?id=39029961
 
 https://github.com/gfodor/p2pcf

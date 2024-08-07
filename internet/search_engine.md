@@ -103,6 +103,8 @@ https://news.ycombinator.com/item?id=40175395
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://news.ycombinator.com/item?id=41173288
+
 https://news.ycombinator.com/item?id=41028795
 
 https://news.ycombinator.com/item?id=41009021

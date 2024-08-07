@@ -50,3 +50,7 @@ https://news.ycombinator.com/item?id=40711447
 
 https://go.googlesource.com/oscar/+/refs/heads/master/README.md Oscar, an open-source contributor agent architecture
 > https://news.ycombinator.com/item?id=41135240
+
+https://news.ycombinator.com/item?id=41174559
+
+https://news.ycombinator.com/item?id=41184559

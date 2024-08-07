@@ -198,6 +198,8 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/
+
 https://news.ycombinator.com/item?id=40003743
 
 https://news.ycombinator.com/item?id=38779443 CGI

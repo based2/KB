@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=41184420
+
+https://news.ycombinator.com/item?id=41173161
+
 https://news.ycombinator.com/item?id=41161098
 
 https://news.ycombinator.com/item?id=41127446
@@ -23,6 +27,7 @@ https://news.ycombinator.com/item?id=41002195
 > https://www.crowdstrike.com/blog/technical-details-on-todays-outage/
 > > https://news.ycombinator.com/item?id=41013198
 > https://www.heise.de/hintergrund/Fataler-Fehler-bei-CrowdStrike-Schuld-war-ein-Null-Pointer-9807896.html
+https://news.ycombinator.com/item?id=41172347
 
 https://news.ycombinator.com/item?id=41085555
 

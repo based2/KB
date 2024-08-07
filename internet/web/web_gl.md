@@ -72,5 +72,9 @@ https://gpuweb.github.io/gpuweb/explainer/
 
 https://tympanus.net/codrops/2023/10/10/progressively-enhanced-webgl-lens-refraction/
 
+https://news.ycombinator.com/item?id=41162036
+
+https://news.ycombinator.com/item?id=41156872
+
 
 

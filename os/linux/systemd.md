@@ -84,3 +84,5 @@ https://fosdem.org/2024/schedule/event/fosdem-2024-1987-systemd-boot-systemd-stu
 
 https://uyha.github.io/technical/dbus-systemd.html
 > https://news.ycombinator.com/item?id=40496894
+
+https://news.ycombinator.com/item?id=41175105

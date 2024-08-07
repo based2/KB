@@ -17,6 +17,8 @@ https://github.com/ax/apk.sh/releases
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/
+
 https://promon.co/app-threat-reports/snowblind
 
 https://old.reddit.com/r/netsec/comments/1di2f3z/exfiltrate_whatsapp_chat_or_internal_data_of_any/

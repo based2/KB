@@ -13,3 +13,5 @@ http://tunes.org/~iepos/joy.html theory of concatenative combinators (2007)
 > https://news.ycombinator.com/item?id=39203404
 
 https://news.ycombinator.com/item?id=40056166
+
+https://news.ycombinator.com/item?id=41169244
