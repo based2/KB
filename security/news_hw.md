@@ -10,6 +10,14 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=41204160
+
+https://www.bleepingcomputer.com/news/security/exploit-released-for-cisco-ssm-bug-allowing-admin-password-changes/
+
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-zero-days-in-end-of-life-ip-phones/
+
+https://www.bleepingcomputer.com/news/security/new-amd-sinkclose-flaw-helps-install-nearly-undetectable-malware/
+
 https://www.binarly.io/blog/pkfail-untrusted-platform-keys-undermine-secure-boot-on-uefi-ecosystem
 
 https://arxiv.org/pdf/2406.08719v1

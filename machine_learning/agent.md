@@ -54,3 +54,5 @@ https://go.googlesource.com/oscar/+/refs/heads/master/README.md Oscar, an open-s
 https://news.ycombinator.com/item?id=41174559
 
 https://news.ycombinator.com/item?id=41184559
+
+https://news.ycombinator.com/item?id=41202064

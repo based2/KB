@@ -1,3 +1,8 @@
+https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
+> https://www.bleepingcomputer.com/news/security/18-year-old-security-flaw-in-firefox-and-chrome-exploited-in-attacks/
+
+https://news.ycombinator.com/item?id=41197300
+
 https://news.ycombinator.com/item?id=41184420
 
 https://news.ycombinator.com/item?id=41173161

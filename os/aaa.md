@@ -26,6 +26,8 @@ https://wiki.alopex.li/TernaryComputer
 
 https://louis-dr.github.io/ternalu3.html
 
+https://news.ycombinator.com/item?id=41201922
+
 # News
 https://news.ycombinator.com/item?id=41088592
 

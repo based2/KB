@@ -292,6 +292,9 @@ https://news.ycombinator.com/item?id=41129195
 https://news.ycombinator.com/item?id=41118609
 
 # News
+https://arxiv.org/abs/2407.21075 Apple Intelligence Foundation Language Models
+> https://news.ycombinator.com/item?id=41204287
+
 https://news.ycombinator.com/item?id=41110884
 
 https://jackcook.com/2023/09/08/predictive-text.html apple

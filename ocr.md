@@ -96,6 +96,8 @@ https://arefmalek.github.io/blog/Airdraw/
 # ML
 https://news.ycombinator.com/item?id=41048194
 
+https://news.ycombinator.com/item?id=41203306
+
 # News
 https://news.ycombinator.com/item?id=41000760
 
