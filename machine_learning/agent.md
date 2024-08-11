@@ -56,3 +56,7 @@ https://news.ycombinator.com/item?id=41174559
 https://news.ycombinator.com/item?id=41184559
 
 https://news.ycombinator.com/item?id=41202064
+
+https://arxiv.org/abs/2407.16741
+> https://news.ycombinator.com/item?id=41215593
+> https://github.com/OpenDevin/OpenDevin

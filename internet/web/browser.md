@@ -53,6 +53,10 @@ https://news.ycombinator.com/item?id=39706004
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://news.ycombinator.com/item?id=41214762
+
+https://news.ycombinator.com/item?id=41215727
+
 https://news.ycombinator.com/item?id=41192118
 
 https://github.com/webui-dev/webui

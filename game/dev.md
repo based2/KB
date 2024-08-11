@@ -164,6 +164,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=41214369
+
 https://news.ycombinator.com/item?id=41169437
 
 https://ivanish.ca/jerk/

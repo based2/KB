@@ -2,8 +2,6 @@ https://antonio-cooler.gitbook.io/coolervoid-tavern/ WAF from the scratch, Tips 
 
 https://www.ipfire.org/
 
-128.0.0.0/2
-
 https://blog.ipfire.org/post/security-announcement-mitigating-nat-slipstreaming
 
 https://blog.ipfire.org/post/beyond-the-far-side-thoughts-on-secure-and-private-machines-behind-ipfire
@@ -77,11 +75,12 @@ https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SP
 
 https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/
 
-CVE-2023-28771 CVE-2023-33009 CVE-2023-33010 Zyxel
-
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://github.com/evilsocket/opensnitch
+> https://news.ycombinator.com/item?id=41209688
+
 https://news.ycombinator.com/item?id=40007120
 
 https://ahelwer.ca/post/2018-02-13-z3-firewall/

@@ -1,3 +1,8 @@
+https://blog.orange.tw/2024/08/confusion-attacks-en.html Apache HTTPD
+> https://news.ycombinator.com/item?id=41199092
+
+https://news.ycombinator.com/item?id=41213064
+
 https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
 > https://www.bleepingcomputer.com/news/security/18-year-old-security-flaw-in-firefox-and-chrome-exploited-in-attacks/
 

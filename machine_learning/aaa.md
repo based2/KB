@@ -432,6 +432,8 @@ https://news.ycombinator.com/item?id=40573097
 https://www.theregister.com/2024/06/04/openai_chatgpt_outage/
 > https://news.ycombinator.com/item?id=40576356
 
+https://www.bleepingcomputer.com/news/security/hackers-exploit-ray-framework-flaw-to-breach-servers-hijack-resources/
+
 https://huggingface.co/blog/space-secrets-disclosure
 > https://news.ycombinator.com/item?id=40544875
 

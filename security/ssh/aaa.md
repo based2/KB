@@ -130,6 +130,9 @@ https://github.com/MegaManSec/SSH-Snake
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incident
+https://i.blackhat.com/BH-US-24/Presentations/REVISED02-US24_Moore_Secure_Shells_in_Shambles_Wednesday.pdf
+> https://news.ycombinator.com/item?id=41213064
+
 https://sysdig.com/blog/crystalray-rising-threat-actor-exploiting-oss-tools/
 > https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/
 

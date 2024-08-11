@@ -135,6 +135,12 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2024
+
+https://www.bleepingcomputer.com/news/security/18-year-old-security-flaw-in-firefox-and-chrome-exploited-in-attacks/
+> https://wicg.github.io/private-network-access/ PNA
+
+CrowdStrike
+
 BatBadBut
 
 xz backdoor

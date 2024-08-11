@@ -70,6 +70,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and
+> https://news.ycombinator.com/item?id=41215201
+
 https://news.ycombinator.com/item?id=40959787
 
 https://blog.paradedb.com/pages/iceberg_lakehouse postgres duckdb

@@ -202,6 +202,9 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.rfc-editor.org/rfc/rfc9180.html RFC 9180: Hybrid Public Key Encryption (2022)
+> https://news.ycombinator.com/item?id=41213442
+
 https://news.ycombinator.com/item?id=40941463
 
 https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae MD5 Collision with CRC32 Preimage
