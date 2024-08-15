@@ -48,6 +48,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://news.ycombinator.com/item?id=41247982
+
 https://news.ycombinator.com/item?id=40055239
 
 https://thewalrus.ca/norval-morrisseau/

@@ -496,6 +496,8 @@ https://svelte-native.technology/
 
 https://news.ycombinator.com/item?id=40212014
 
+https://news.ycombinator.com/item?id=41255788
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -505,6 +507,8 @@ https://hyperscript.org/comparison/
 > https://news.ycombinator.com/item?id=26873682
 
 ## JQuery $
+https://blog.jqueryui.com/2024/08/jquery-ui-1-14-0-released/
+
 http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
 > https://news.ycombinator.com/item?id=26318872
 

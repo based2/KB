@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://chair6.net/lets-encrypt-renewal-failures-and-aws-traffic-hijacking.html
+
 https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/
 
 https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce
@@ -154,6 +156,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes
+
 https://news.ycombinator.com/item?id=40975289
 
 https://news.ycombinator.com/item?id=40955946

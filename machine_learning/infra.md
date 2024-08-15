@@ -59,6 +59,9 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://github.com/onnx/onnx
+> https://news.ycombinator.com/item?id=41256692
+
 https://medium.com/@kevin30101999/machine-learning-pipeline-using-argo-workflow-be91feb07c41
 
 https://news.ycombinator.com/item?id=41162664

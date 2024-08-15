@@ -296,6 +296,8 @@ https://blog.trl.sn/blog/typespec-for-openapi/
 
 https://news.ycombinator.com/item?id=40161794
 
+https://news.ycombinator.com/item?id=41244423
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

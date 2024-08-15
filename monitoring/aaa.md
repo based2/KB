@@ -122,6 +122,10 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://morio.it/
+> https://github.com/certeu/morio
+> https://cert.europa.eu/blog/announcing-morio-your-comprehensive-observability-solution
+
 https://github.com/dicksites/KUtrace Low-overhead Linux kernel tracing facility
 > https://news.ycombinator.com/item?id=40972099
 

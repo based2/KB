@@ -1228,8 +1228,12 @@ block from any to 5.101.1.60
 block from any to 5.101.4.196
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ homedevice(.)pro
 block from any to 5.101.48.183
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs scratchedcards(.)com
+block from any to 5.101.51.0/24
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ nebulaquestcorporation(.)cc scratchedcards(.)com divorcelawyeroxnard(.)com lajollaautorepairs(.)com offshorenergytoday.com
 block from any to 5.101.51.52
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs scratchedcards(.)com offshorenergytoday(.)com nebulaquestcorporation(.)cc lajollaautorepairs(.)com divorcelawyeroxnard(.)com
+block from any to 5.101.51.199
 # https://www.abuseipdb.com/
 block from any to 5.101.157.79
 # https://research.checkpoint.com/2024/rafel-rat-android-malware-from-espionage-to-ransomware-operations/ uni2phish[.]ru
@@ -4766,6 +4770,8 @@ block from any to 35.203.210.181
 block from any to 35.203.210.188
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.210.190
+# UK https://www.abuseipdb.com/check/
+block from any to 35.203.210.192
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.210.193
 # UK https://www.abuseipdb.com/check/
@@ -12519,6 +12525,8 @@ block from any to 52.187.9.8
 block from any to 52.188.84.174
 # US https://www.abuseipdb.com/check/
 block from any to 52.190.22.24
+# US https://www.abuseipdb.com/check/
+block from any to 52.191.18.251
 # abuse.ch TF
 block from any to 52.192.163.129
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/h/social-media-malvertising-campaign/ioc-social-media-malvertising -campaign-fake-ai-editor-website-credential-theft.txt itstrq.itsm-us1.comodo(.)com
@@ -13621,7 +13629,7 @@ block from any to 62.122.184.83
 block from any to 62.122.184.194
 # A.ch TF
 block from any to 62.122.213.56
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 62.133.60.182
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 62.133.61.0/24
@@ -13898,6 +13906,8 @@ block from any to 64.62.197.85
 block from any to 64.62.197.95
 # US https://www.abuseipdb.com/check/
 block from any to 64.62.197.114
+# US https://www.abuseipdb.com/check/
+block from any to 64.62.197.144
 # https://www.abuseipdb.com/check/
 block from any to 64.62.197.162
 # https://www.abuseipdb.com/check/
@@ -14688,14 +14698,14 @@ block from any to 69.115.197.2
 block from any to 69.136.48.108
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 69.157.7.226
-# Hong Kong https://github.com/eset/malware-ioc/blob/master/mozi/README.adoc
-block from any to 69.172.75.177
 # https://www.abuseipdb.com/check/
 block from any to 69.160.30.171
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ www.femmetech(.)org
 block from any to 69.163.179.25
 # Hong Kong https://github.com/eset/malware-ioc/blob/master/mozi/README.adoc
 block from any to 69.172.75.177
+# US https://www.abuseipdb.com/check/
+block from any to 69.172.195.105
 # https://threatfox.abuse.ch/browse/malware/win.pony/
 block from any to 69.194.196.39
 block from any to 69.197.160.0/24
@@ -15747,6 +15757,8 @@ block from any to 78.153.130.0/24
 block from any to 78.153.130.72
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 78.153.130.249
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+block from any to 78.153.139.202
 # UK https://www.akamai.com/blog/security-research/2024-redtail-cryptominer-pan-os-cve-exploit#iocs
 block from any to 78.153.140.0/24
 # https://www.akamai.com/blog/security-research/2024-redtail-cryptominer-pan-os-cve-exploit#iocs
@@ -15997,7 +16009,7 @@ block from any to 79.137.117.24
 block from any to 79.137.162.53
 # https://threatfox.abuse.ch/browse/malware/osx.amos/ https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 79.137.192.0/24
-# https://threatfox.abuse.ch/browse/malware/osx.amos/
+# https://threatfox.abuse.ch/browse/malware/osx.poseidonstealer/ https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 79.137.192.4
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 79.137.192.15
@@ -16961,7 +16973,11 @@ block from any to 83.220.169.98
 # https://www.abuseipdb.com/check/
 block from any to 83.222.49.63
 # Bulgaria https://www.abuseipdb.com/check/
+block from any to 83.222.190.0/24
+# Bulgaria https://www.abuseipdb.com/check/
 block from any to 83.222.190.210
+# Bulgaria https://www.abuseipdb.com/check/
+block from any to 83.222.190.214
 # Bulgaria Sofia, Sofia (stolitsa) https://www.abuseipdb.com/check/
 block from any to 83.222.191.0/24
 # Bulgaria Sofia, Sofia (stolitsa) https://www.abuseipdb.com/check/
@@ -16990,7 +17006,7 @@ block from any to 83.229.84.160
 block from any to 83.229.124.86
 # https://www.abuseipdb.com/check/
 block from any to 83.233.217.232
-# Russia https://www.abuseipdb.com/check/
+# Russia Kanevskaya, Krasnodarskiy kray https://www.abuseipdb.com/check/
 block from any to 83.239.99.110
 # Russia https://www.abuseipdb.com/check/
 block from any to 83.239.130.2
@@ -18160,6 +18176,8 @@ block from any to 89.23.103.187
 block from any to 89.23.103.159
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 89.23.103.205
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+block from any to 89.23.103.56
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 89.23.103.208
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/ https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
@@ -18168,6 +18186,8 @@ block from any to 89.23.107.0/24
 block from any to 89.23.107.39
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 89.23.107.91
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+block from any to 89.23.107.168
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 89.23.118.243
 # https://blog.xlab.qianxin.com/catddos-derivative-en/
@@ -19441,6 +19461,10 @@ block from any to 91.191.209.38
 block from any to 91.191.209.166
 # UK https://www.abuseipdb.com/check/
 block from any to 91.191.209.198
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt abdomensafe(.)com
+block from any to 91.195.240.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt abdomensafe(.)com
+block from any to 91.195.240.94
 # https://threatfox.abuse.ch/browse/malware/win.amadey/ second.amadgood(.)com  second.amadgood(.)com https://threatfox.abuse.ch/browse/malware/win.formbook/ collegeclubapparel(.)com www.collegeclubapparel(.)com www.blueberry-breeze(.)com blueberry-breeze(.)com
 block from any to 91.195.240.117
 # https://www.abuseipdb.com/check/
@@ -19465,8 +19489,10 @@ block from any to 91.199.37.255
 block from any to 91.201.40.221
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 91.201.67.85
-# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+# https://github.com/cert-orangecyberdefense/emmenhtal/ https://threatfox.abuse.ch/browse/malware/win.amadey/ https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 91.202.233.0/24
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+block from any to 91.202.233.136
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 91.202.233.180
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -19966,6 +19992,8 @@ block from any to 92.118.112.0/24
 block from any to 92.118.112.117
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 92.118.112.135
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+block from any to 92.118.112.223
 # Russia https://www.abuseipdb.com/check
 block from any to 92.118.168.107
 # https://github.com/eset/malware-ioc/tree/master/gref
@@ -20627,7 +20655,7 @@ block from any to 94.156.64.5
 block from any to 94.156.64.24
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.64.55
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 94.156.64.76
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.156.64.90
@@ -22516,6 +22544,8 @@ block from any to 103.47.195.200
 block from any to 103.48.5.120
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 103.48.192.48
+# Indonesia https://www.abuseipdb.com/check/
+block from any to 103.49.68.9
 # Mystic Stealer https://threatfox.abuse.ch/browse/malware/win.mystic_stealer/
 block from any to 103.49.68.42
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
@@ -23615,6 +23645,8 @@ block from any to 104.18.32.0/24
 block from any to 104.18.32.238
 # https://www.virustotal.com/gui/url/cabaa45565724c76f1206fef900b1663a515ccf78e137ec7eb6a4e90166518fe/details https://www.abuseipdb.com/check/104.18.33.245
 block from any to 104.18.33.245
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ download.good-game-network(.)com
+block from any to 104.18.35.169
 # SPAM
 block from any to 104.18.37.46
 # https://www.abuseipdb.com/check/104.18.41.124
@@ -23791,6 +23823,8 @@ block from any to 104.21.16.191
 block from any to 104.21.16.251
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8000n.uqin(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.17.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-deserunt(.)com
+block from any to 104.21.17.2
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8000n.uqin(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.17.54
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ disappearsodsz.shop https://www.virustotal.com/gui/domain/disappearsodsz.shop/details
@@ -23805,6 +23839,8 @@ block from any to 104.21.17.179
 block from any to 104.21.18.0/24
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ blltly(.)com https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.18.30
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-reiciendis(.)com
+block from any to 104.21.18.52
 # DNS https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/ oast[.]com
 block from any to 104.21.18.38
 # https://red.flag.domains/posts/2024-07-07/ paiements-leboncoin[.fr] (registrar: 1API GmbH)
@@ -23933,7 +23969,7 @@ block from any to 104.21.28.32
 block from any to 104.21.28.80
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.28.104
-# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ mirocrsoft(.)info
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-malorum(.)com https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ mirocrsoft(.)info
 block from any to 104.21.28.227
 # https://red.flag.domains/posts/2024-05-31/ sackurtgeiger[.fr] (registrar: GRANSY s.r.o.
 block from any to 104.21.29.0/24
@@ -23997,6 +24033,8 @@ block from any to 104.21.34.24
 block from any to 104.21.34.84
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ bedabeda(.)top
 block from any to 104.21.34.123
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-vestibulum(.)ccom
+block from any to 104.21.34.140
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ csbuse(.)com
 block from any to 104.21.34.200
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
@@ -24019,6 +24057,8 @@ block from any to 104.21.36.0/24
 block from any to 104.21.36.4
 # https://red.flag.domains/posts/
 block from any to 104.21.36.37
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-prompta(.)com
+block from any to 104.21.36.99
 # https://red.flag.domains/posts/2024-04-20/ disney-payment[.fr] (registrar: TLD Registrar Solutions Ltd
 block from any to 104.21.36.158
 # https://threatfox.abuse.ch/browse/malware/js.clearfake/ cv2b8uz46e(.)xyz
@@ -24029,8 +24069,14 @@ block from any to 104.21.36.198
 block from any to 104.21.37.0/24
 # US cloudflare.com DNS https://red.flag.domains/posts/2024-03-16/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.37.94
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-apeirian(.)com
+block from any to 104.21.37.118
 # https://www.cleafy.com/cleafy-labs/medusa-reborn-a-new-compact-variant-discovered tony1303sock[.]top
 block from any to 104.21.37.249
+# https://tracker.viriback.com/index.php?q=Lokibot
+block from any to 104.21.38.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-nesciunt(.)com
+block from any to 104.21.38.128
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.38.0/24
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urllie(.)com
@@ -24055,6 +24101,8 @@ block from any to 104.21.39.72
 block from any to 104.21.39.208
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv wasogo.shantowd(.)com ww.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.40.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-maiorum(.)com
+block from any to 104.21.40.126
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv wasogo.shantowd(.)com ww.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.40.150
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite(.)io
@@ -24071,6 +24119,8 @@ block from any to 104.21.41.226
 block from any to 104.21.41.236
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.42.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-bistiona(.)com
+block from any to 104.21.42.15
 # https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ telegram(.)land
 block from any to 104.21.42.16
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
@@ -24121,6 +24171,8 @@ block from any to 104.21.46.149
 block from any to 104.21.47.0/24
 # DFA https://red.flag.domains/posts/2024-02-03/
 block from any to 104.21.47.80
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-molestie(.)com
+block from any to 104.21.47.118
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ celebratioopz(.)shop
 block from any to 104.21.47.141
 # DFA https://red.flag.domains/posts/2024-02-03/
@@ -24356,6 +24408,8 @@ block from any to 104.21.71.0/24
 block from any to 104.21.71.7
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 104.21.71.21
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-pulvinar(.)com
+block from any to 104.21.72.51
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv oo99v.coqqwx(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.71.88
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ cseorsm(.)com
@@ -24376,6 +24430,8 @@ block from any to 104.21.72.7
 block from any to 104.21.72.9
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ healthcares(.)life
 block from any to 104.21.72.45
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-pulvinar(.)com
+block from any to 104.21.72.51
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 812375cm.nyashkoon(.)top
 block from any to 104.21.72.134
 # https://red.flag.domains/posts/2024-07-05/ vitale-sms[.fr] (registrar: One.com A/S) https://www.virustotal.com/gui/domain/vitale-sms.fr/details
@@ -24474,6 +24530,8 @@ block from any to 104.21.80.0/24
 block from any to 104.21.80.3
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ definitonizmnx(.)shop
 block from any to 104.21.80.78
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-vortilon(.)com
+block from any to 104.21.80.97
 # https://red.flag.domains/posts/2024-07-13 kiplingfrance[.fr]
 block from any to 104.21.80.219
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ miimms[.]com
@@ -24510,6 +24568,8 @@ block from any to 104.21.83.150
 block from any to 104.21.84.0/24
 # https://red.flag.domains/posts/2024-05-07/ salomon-outlet[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
 block from any to 104.21.84.21
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-instructior(.)com
+block from any to 104.21.84.106
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tnyr.moporins(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 104.21.84.241
 # https://red.flag.domains/posts/2024-05-29/ coachsacssoldes[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
@@ -24580,6 +24640,8 @@ block from any to 104.21.92.0/24
 block from any to 104.21.92.10
 # https://red.flag.domains/posts/
 block from any to 104.21.92.11
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-vulputate(.)com
+block from any to 104.21.92.44
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 104.21.92.130
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ givemereddit(.)eu
@@ -31730,7 +31792,7 @@ block from any to 143.204.98.29
 block from any to 143.244.56.0/24
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato3.b-cdn(.)net shortcuts.b-cdn(.)net techsheck.b-cdn(.)net
 block from any to 143.244.56.49
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ zexodown-1.b-cdn(.)net
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ zexodown-1.b-cdn(.)net mato3pdf.b-cdn(.)net
 block from any to 143.244.56.50
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato-camp2.b-cdn(.)net zexodown-2.b-cdn(.)net nextomax.b-cdn(.)net
 block from any to 143.244.56.51
@@ -32194,7 +32256,11 @@ block from any to 147.45.41.14
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 147.45.41.171
 # https://tracker.viriback.com/index.php?q=Meduza
+block from any to 147.45.42.0/24
+# https://tracker.viriback.com/index.php?q=Meduza
 block from any to 147.45.42.25
+# France https://www.abuseipdb.com/check/
+block from any to 147.45.42.119
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 147.45.43.136
 # https://threatfox.abuse.ch/browse/malware/win.recordbreaker/ https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
@@ -35251,6 +35317,8 @@ block from any to 162.216.149.163
 block from any to 162.216.149.170
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.149.176
+# US https://www.abuseipdb.com/check/
+block from any to 162.216.149.179
 # https://www.abuseipdb.com/check/
 block from any to 162.216.149.181
 # US https://www.abuseipdb.com/check/
@@ -35271,6 +35339,8 @@ block from any to 162.216.149.207
 block from any to 162.216.149.209
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.149.210
+# US https://www.abuseipdb.com/check/
+block from any to 162.216.149.211
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.149.212
 # US https://www.abuseipdb.com/check/
@@ -35341,6 +35411,8 @@ block from any to 162.216.150.75
 block from any to 162.216.150.79
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.150.81
+# US https://www.abuseipdb.com/check/
+block from any to 162.216.150.86
 # https://www.abuseipdb.com/check/
 block from any to 162.216.150.87
 # US https://www.abuseipdb.com/check/
@@ -37363,6 +37435,8 @@ block from any to 172.67.151.62
 block from any to 172.67.151.66
 # https://red.flag.domains/posts/2024-06-20/ contact-neoviaretraite[.fr] (registrar: Hostinger operations UAB)
 block from any to 172.67.151.125
+# # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-maiorum(.)com
+block from any to 172.67.151.168
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ outfittydadop(.)shop
 block from any to 172.67.151.216
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ dgtread(.)com
@@ -37401,6 +37475,8 @@ block from any to 172.67.154.135
 block from any to 172.67.155.0/24
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ update.micdosoft(.)top
 block from any to 172.67.155.20
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-bistiona(.)com
+block from any to 172.67.155.25
 # https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ telegram(.)land
 block from any to 172.67.155.26
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -37461,6 +37537,8 @@ block from any to 172.67.160.72
 block from any to 172.67.161.0/24
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.161.167
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-vestibulum(.)c@om
+block from any to 172.67.161.172
 # https://blog.kandji.io/malware-cuckoo-infostealer-spyware tunesfun[.]com
 block from any to 172.67.161.191
 # https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_10.10.2023.txt relationshipties(.)com
@@ -37537,6 +37615,8 @@ block from any to 172.67.170.183
 block from any to 172.67.170.199
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ registico(.)xyz
 block from any to 172.67.171.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-molestie(.)com
+block from any to 172.67.171.33
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ registico(.)xyz
 block from any to 172.67.171.72
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ celebratioopz(.)shop
@@ -37577,6 +37657,8 @@ block from any to 172.67.175.68
 block from any to 172.67.175.98
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html secure.gdcstatic[.]com
 block from any to 172.67.175.117
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-pulvinar(.)com
+block from any to 172.67.175.164
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ bltlly(.)com
 block from any to 172.67.175.181
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ definitonizmnx(.)shop
@@ -37593,6 +37675,8 @@ block from any to 172.67.176.186
 block from any to 172.67.176.243
 # https://red.flag.domains/posts/2024-04-02/ payfacturetv[.fr] (registrar: Sarek Oy
 block from any to 172.67.177.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-vortilon(.)com
+block from any to 172.67.177.40
 # https://red.flag.domains/posts/2024-04-02/ payfacturetv[.fr] (registrar: Sarek Oy
 block from any to 172.67.177.59
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt startmast(.)shop
@@ -37619,6 +37703,8 @@ block from any to 172.67.179.240
 block from any to 172.67.180.0/24
 # DNS https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/ oast[.]com https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.180.67
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-reiciendis(.)com
+block from any to 172.67.180.105
 # https://red.flag.domains/posts/2024-07-07/ paiements-leboncoin[.fr] (registrar: 1API GmbH)
 block from any to 172.67.180.183
 # https://red.flag.domains/posts/2024-07-01/ obtenezvotreremboursement[.fr] (registrar: 1API GmbH)
@@ -37687,6 +37773,8 @@ block from any to 172.67.185.246
 block from any to 172.67.186.0/24
 # DFA https://red.flag.domains/posts/2024-02-13/ registrar: 1API GmbH
 block from any to 172.67.186.6
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-vulputate(.)com
+block from any to 172.67.186.54
 # DNS https://red.flag.domains/posts/2024-02-28/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.186.90
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/acrstealer/acrstealer_iocs_20240429.md veronicabal[.]com
@@ -37747,6 +37835,8 @@ block from any to 172.67.191.33
 block from any to 172.67.191.44
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ shoxet[.]com
 block from any to 172.67.191.74
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-instructior(.)com
+block from any to 172.67.191.96
 # https://red.flag.domains/posts/2024-04-04/ psycho-bunny[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.191.238
 # https://blog.eclecticiq.com/onnx-store-targeting-financial-institution docusign[.]multiparteurope[.]com
@@ -37757,6 +37847,8 @@ block from any to 172.67.192.39
 block from any to 172.67.192.52
 # https://blog.eclecticiq.com/onnx-store-targeting-financial-institution docusign[.]multiparteurope[.]com
 block from any to 172.67.192.66
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-prompta(.)com
+block from any to 172.67.192.79
 # https://red.flag.domains/posts/2024-06-28/ long-champ-france[.fr] (registrar: GRANSY s.r.o.)
 block from any to 172.67.192.104
 # https://www.cleafy.com/cleafy-labs/medusa-reborn-a-new-compact-variant-discovered a6a6a6a6a6a6a6[.]info
@@ -37895,6 +37987,8 @@ block from any to 172.67.207.0/24
 block from any to 172.67.207.111
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ https://www.virustotal.com/gui/domain/libarraryspzm.shop/details
 block from any to 172.67.207.183
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-apeirian(.)com
+block from any to 172.67.207.215
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html assets.watchasync[.]com
 block from any to 172.67.208.0/24
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
@@ -38007,6 +38101,8 @@ block from any to 172.67.217.60
 block from any to 172.67.217.93
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html synd.edgecdnc[.]com
 block from any to 172.67.217.142
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-deserunt(.)com
+block from any to 172.67.217.194
 # https://asec.ahnlab.com/en/63308/ qu[.]ax
 block from any to 172.67.218.0/24
 # https://asec.ahnlab.com/en/63308/ qu[.]ax
@@ -38050,6 +38146,8 @@ block from any to 172.67.222.152
 block from any to 172.67.222.22
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 172.67.222.157
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trk-nesciunt(.)com
+block from any to 172.67.222.239
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html content.gorapidcdn[.]com https://red.flag.domains/posts/2024-04-17/ totesparapluie[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.223.0/24
 # https://www.quorumcyber.com/insights/sharprhino-new-hunters-international-rat-identified-by-quorum-cyber/ cdn-server-1[.]xiren77418[.]workers[.]dev
@@ -38184,6 +38282,8 @@ block from any to 172.96.137.156
 block from any to 172.96.137.224
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 172.96.172.158
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt absentglare(.)com
+block from any to 172.99.173.41
 # https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_10.10.2023.txt conventionalservices(.)com
 block from any to 172.96.191.0/24
 # https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_10.10.2023.txt conventionalservices(.)com
@@ -39493,6 +39593,8 @@ block from any to 177.136.203.45
 block from any to 177.138.248.251
 # Brazil https://www.abuseipdb.com/check/
 block from any to 177.145.20.48
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+block from any to 177.153.60.249
 # Brazil https://www.abuseipdb.com/check/
 block from any to 177.153.69.10
 # Brazil https://www.abuseipdb.com/check/
@@ -41835,7 +41937,7 @@ block from any to 185.172.128.100
 block from any to 185.172.128.110
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 185.172.128.111
-# https://threatfox.abuse.ch/browse/malware/osx.amos/
+# https://threatfox.abuse.ch/browse/malware/osx.poseidonstealer/ https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 185.172.128.123
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 185.172.128.125
@@ -43383,8 +43485,6 @@ block from any to 187.135.178.86
 block from any to 187.135.122.0/24
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
 block from any to 187.135.122.173
-# abuse.ch TF
-block from any to 187.135.122.213
 # https://www.abuseipdb.com/check/
 block from any to 187.135.122.175
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
@@ -44391,6 +44491,8 @@ block from any to 192.0.80.241
 block from any to 192.0.80.242
 # https://www.abuseipdb.com/check/
 block from any to 192.0.101.246
+# US https://www.abuseipdb.com/check/
+block from any to 192.3.2.11
 # US Los Angeles, California https://www.abuseipdb.com/check/
 block from any to 192.3.23.224
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
@@ -45028,6 +45130,8 @@ block from any to 162.216.150.125
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.150.136
 # US https://www.abuseipdb.com/check/
+block from any to 162.216.150.161
+# US https://www.abuseipdb.com/check/
 block from any to 162.216.150.178
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.150.200
@@ -45323,7 +45427,7 @@ block from any to 193.37.145.71
 block from any to 193.37.145.73
 # https://github.com/eset/malware-ioc/tree/master/stealthfalcon easymathpath[.]com
 block from any to 193.37.213.164
-# SPAM autodiscover-redirect.ccscld(.)net
+# SPAM autodiscover-redirect.ccscld(.)net ran1.fcfy(.)com
 block from any to 193.37.239.226
 # https://tehtris.com/en/blog/our-selection-of-alerts-on-honeypots-report-22-december-2023/
 block from any to 193.41.68.95
@@ -48500,6 +48604,8 @@ block from any to 202.145.0.90
 block from any to 202.148.6.207
 # Japan https://www.abuseipdb.com/check/
 block from any to 202.149.12.164
+# Indonesia https://www.abuseipdb.com/check/
+block from any to 202.152.4.70
 # India https://www.abuseipdb.com/check/
 block from any to 202.153.42.35
 # https://threatfox.abuse.ch/browse/malware/win.coinminer/
@@ -49485,7 +49591,7 @@ block from any to 210.2.169.145
 block from any to 210.2.169.205
 # https://malpulse.com/blog/175/ Havoc
 block from any to 210.2.169.247
-# atfox.abuse.ch/browse/malware/win.havoc/
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 210.3.101.68
 # Hong Kong https://www.abuseipdb.com/check/
 block from any to 210.3.159.158
@@ -50255,6 +50361,10 @@ block from any to 216.58.213.0/24
 block from any to 216.58.213.65
 # https://www.abuseipdb.com/check/216.58.213.68
 block from any to 216.58.213.68
+# France https://www.zscaler.com/blogs/security-research/kimsuky-deploys-translatext-target-south-korean-academia onewithshare.blogspot[.]com https://www.abuseipdb.com/check/142.250.201.182
+block from any to 216.58.214.0/24
+# France https://www.zscaler.com/blogs/security-research/kimsuky-deploys-translatext-target-south-korean-academia onewithshare.blogspot[.]com https://www.abuseipdb.com/check/142.250.201.182
+block from any to 216.58.214.161
 # https://www.abuseipdb.com/check/216.58.214.163
 block from any to 216.58.214.163
 # https://www.abuseipdb.com/check

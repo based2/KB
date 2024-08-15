@@ -46,6 +46,8 @@ https://github.com/kamranahmedse/local-ses
 
 https://mailpit.axllent.org/
 
+https://news.ycombinator.com/item?id=41246211
+
 # Spam
 http://unmitigatedrisk.com/?p=752
 > https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle

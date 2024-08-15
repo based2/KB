@@ -101,6 +101,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://aws.amazon.com/en/blogs/containers/announcing-karpenter-1-0/
+
 https://news.ycombinator.com/item?id=41222101
 
 https://www.theregister.com/2024/08/12/alibaba_microservices_mesh_canal/

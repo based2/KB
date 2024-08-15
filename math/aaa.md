@@ -177,6 +177,9 @@ https://news.ycombinator.com/item?id=41069829
 https://news.ycombinator.com/item?id=41096486
 
 # News
+https://golem.ph.utexas.edu/category/2024/08/galois_theory.html
+> https://news.ycombinator.com/item?id=41255456
+
 https://news.ycombinator.com/item?id=41178388
 
 https://news.ycombinator.com/item?id=41117451

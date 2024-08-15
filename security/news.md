@@ -1,3 +1,8 @@
+https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/
+>
+
+https://github.com/markqvist/NomadNet
+
 https://news.ycombinator.com/item?id=41227987
 
 https://news.ycombinator.com/item?id=41232446

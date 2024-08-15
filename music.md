@@ -264,6 +264,12 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 # News
+https://news.ycombinator.com/item?id=41255880
+
+https://github.com/hanjuTsai/MusicTranscription
+
+https://klang.io/
+
 https://news.ycombinator.com/item?id=41235462
 
 https://news.ycombinator.com/item?id=41218811
