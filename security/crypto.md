@@ -202,6 +202,10 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=41254094
+
+https://news.ycombinator.com/item?id=41237149
+
 https://www.rfc-editor.org/rfc/rfc9180.html RFC 9180: Hybrid Public Key Encryption (2022)
 > https://news.ycombinator.com/item?id=41213442
 

@@ -49,6 +49,9 @@ https://blog.yoshuawuyts.com/tree-structured-concurrency/
 
 https://news.ycombinator.com/item?id=40896383
 
+# Actor
+https://news.ycombinator.com/item?id=41244468
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

@@ -258,6 +258,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://daniel.haxx.se/blog/2024/08/14/so-the-department-of-energy-emailed-me/
+> https://news.ycombinator.com/item?id=41252331
+
 https://news.ycombinator.com/item?id=40905849
 
 https://github.com/openkoda/openkoda

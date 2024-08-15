@@ -1,6 +1,13 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://x.com/XiaoWei___
+> https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063
+> > https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/
+> https://news.ycombinator.com/item?id=41243931
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-retires-windows-updates-causing-0x80070643-errors/
+
 https://www.bleepingcomputer.com/news/security/microsoft-discloses-unpatched-office-flaw-that-exposes-ntlm-hashes/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-support-in-60-days/

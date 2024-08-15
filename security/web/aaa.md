@@ -34,3 +34,5 @@ https://news.ycombinator.com/item?id=40960115
 
 https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide
 > https://old.reddit.com/r/netsec/comments/1e0xgqi/cors_the_ultimate_guide/
+
+https://github.com/dshieble/playwright_xss_scanner

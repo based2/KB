@@ -200,3 +200,7 @@ https://brr.fyi/posts/south-pole-water-infrastructure
 https://news.ycombinator.com/item?id=40734564
 
 https://news.ycombinator.com/item?id=41176461
+
+https://news.ycombinator.com/item?id=41228574
+
+https://news.ycombinator.com/item?id=41240300

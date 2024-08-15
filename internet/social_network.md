@@ -57,6 +57,8 @@ https://news.ycombinator.com/item?id=39638676
 https://hackersearch.net/
 > https://news.ycombinator.com/item?id=40238509 A semantic search engine for Hacker News, RAG
 
+https://news.ycombinator.com/item?id=41228935
+
 # Slashdot
 # Reddit
 

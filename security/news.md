@@ -1,3 +1,15 @@
+https://news.ycombinator.com/item?id=41227987
+
+https://news.ycombinator.com/item?id=41232446
+
+https://github.com/jokob-sk/NetAlertX
+
+https://www.bleepingcomputer.com/news/security/critical-sap-flaw-allows-remote-attackers-to-bypass-authentication/
+
+https://www.theregister.com/2024/08/10/google_quick_share_rce/
+
+https://news.ycombinator.com/item?id=41194929
+
 https://blog.orange.tw/2024/08/confusion-attacks-en.html Apache HTTPD
 > https://news.ycombinator.com/item?id=41199092
 

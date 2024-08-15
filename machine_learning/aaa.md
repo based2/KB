@@ -44,6 +44,8 @@ https://news.ycombinator.com/item?id=39543152
 
 https://systemds.apache.org/docs/3.1.0/
 
+https://github.com/mahseema/awesome-ai-tools
+
 # Biz
 https://news.ycombinator.com/item?id=39709835
 
@@ -412,6 +414,8 @@ https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at
 https://www.computer.org/csdl/proceedings-article/sp/2024/313000a221/1WPcYLpYFHy
 
 # Incident
+https://news.ycombinator.com/item?id=41224777
+
 https://nvd.nist.gov/vuln/detail/CVE-2024-34359
 
 https://news.ycombinator.com/item?id=41060559

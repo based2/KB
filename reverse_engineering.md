@@ -53,6 +53,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://github.com/avishek-sen-gupta/cobol-rekt
+
 https://news.ycombinator.com/item?id=41147643
 
 https://news.ycombinator.com/item?id=41069606

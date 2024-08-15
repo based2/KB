@@ -291,7 +291,13 @@ https://news.ycombinator.com/item?id=41129195
 
 https://news.ycombinator.com/item?id=41118609
 
+https://news.ycombinator.com/item?id=41218928
+
 # News
+https://news.ycombinator.com/item?id=41188966
+
+https://news.ycombinator.com/item?id=41180632
+
 https://arxiv.org/abs/2407.21075 Apple Intelligence Foundation Language Models
 > https://news.ycombinator.com/item?id=41204287
 

@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=41228113
+
 https://news.ycombinator.com/item?id=41204160
 
 https://www.bleepingcomputer.com/news/security/exploit-released-for-cisco-ssm-bug-allowing-admin-password-changes/

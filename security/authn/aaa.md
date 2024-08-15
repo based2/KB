@@ -87,6 +87,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://developers.login.gov/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-passkey-auth-for-personal-microsoft-accounts/
 
 https://news.ycombinator.com/item?id=40165998

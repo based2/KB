@@ -361,6 +361,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=41221292
+
+https://news.ycombinator.com/item?id=41209966
+
 https://news.ycombinator.com/item?id=41182805
 
 https://news.ycombinator.com/item?id=41139595

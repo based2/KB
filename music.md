@@ -264,6 +264,10 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 # News
+https://news.ycombinator.com/item?id=41235462
+
+https://news.ycombinator.com/item?id=41218811
+
 https://aodyo.com/anyma-v/
 > https://news.ycombinator.com/item?id=41132104
 
@@ -374,6 +378,8 @@ https://news.ycombinator.com/item?id=32924082 Show HN: The simplest drum pattern
 
 https://github.com/GuitarML/NeuralPi
 > https://news.ycombinator.com/item?id=32777549
+
+https://news.ycombinator.com/item?id=41243901
 
 https://news.ycombinator.com/item?id=32715980
 

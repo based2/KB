@@ -164,6 +164,18 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f
+
+https://news.ycombinator.com/item?id=41251499
+
+https://news.ycombinator.com/item?id=41240556 dd
+
+https://news.ycombinator.com/item?id=41241942
+
+https://news.ycombinator.com/item?id=41221186
+
+https://news.ycombinator.com/item?id=41195823
+
 https://news.ycombinator.com/item?id=41214369
 
 https://news.ycombinator.com/item?id=41169437

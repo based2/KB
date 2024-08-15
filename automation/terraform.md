@@ -332,6 +332,9 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://faun.pub/nitric-is-terraform-for-developers-9cd6cd7f0e76
+> https://news.ycombinator.com/item?id=41241373
+
 https://leanercloud.beehiiv.com/p/current-opentofu-contributors-vs-pledged-ftes
 > https://news.ycombinator.com/item?id=40252620
 

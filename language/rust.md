@@ -215,6 +215,8 @@ https://news.ycombinator.com/item?id=39981945
 https://github.com/nicholassm/disruptor-rs
 > https://news.ycombinator.com/item?id=40954104
 
+https://news.ycombinator.com/item?id=41239913
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

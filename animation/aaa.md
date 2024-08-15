@@ -64,6 +64,10 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=41252731
+
+https://news.ycombinator.com/item?id=41253461
+
 https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles
 > https://news.ycombinator.com/item?id=40902012
 

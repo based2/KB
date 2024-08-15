@@ -91,6 +91,10 @@ https://www.finitecurve.com/
 https://www.blurmatic.com/
 
 # Photography
+https://petapixel.com/2024/08/14/halides-anti-intelligent-update-makes-iphone-photos-truly-natural/
+
+https://news.ycombinator.com/item?id=41227061
+
 https://ansel.photos/en/
 > https://news.ycombinator.com/item?id=38390914
 

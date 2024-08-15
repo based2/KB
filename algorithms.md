@@ -45,6 +45,8 @@ https://github.com/cpressey/Facts-about-State-Machines
 https://archive.org/details/designinglogicsystemsusingstatemachines Designing Logic Systems Using State Machines
 > https://news.ycombinator.com/item?id=33296316
 
+https://news.ycombinator.com/item?id=41216560
+
 # Sort
 https://github.com/scandum/fluxsort
 > https://news.ycombinator.com/item?id=27948535
@@ -128,6 +130,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://news.ycombinator.com/item?id=41248460
+
 https://news.ycombinator.com/item?id=41130693
 
 https://news.ycombinator.com/item?id=41141553

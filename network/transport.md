@@ -20,6 +20,8 @@ https://github.com/claudiodangelis/qrcp
 https://github.com/mutagen-io/mutagen Fast file synchronization and network forwarding for remote development
 > https://news.ycombinator.com/item?id=33225703
 
+https://news.ycombinator.com/item?id=41185859
+
 # Connector
 https://github.com/airbytehq/airbyte
 

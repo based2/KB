@@ -53,5 +53,7 @@ https://news.ycombinator.com/item?id=40756744
 
 https://news.ycombinator.com/item?id=40802676
 
+https://thenewstack.io/expo-vs-flutter-how-to-choose-the-right-mobile-framework/
+
 
 

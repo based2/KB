@@ -46,6 +46,10 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://news.ycombinator.com/item?id=41249671
+
+https://news.ycombinator.com/item?id=41186862
+
 https://news.ycombinator.com/item?id=41047110
 
 https://news.ycombinator.com/item?id=41001780

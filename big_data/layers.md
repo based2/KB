@@ -70,6 +70,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=41224316
+
 https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and
 > https://news.ycombinator.com/item?id=41215201
 

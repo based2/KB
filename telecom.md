@@ -266,6 +266,12 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=41243697
+
+https://news.ycombinator.com/item?id=41229320
+
+https://news.ycombinator.com/item?id=41226802
+
 https://www.scmp.com/news/china/science/article/3273446/china-begins-work-setting-vast-network-internet-satellites?module=top_story&pgtype=homepage
 
 https://news.ycombinator.com/item?id=41134654

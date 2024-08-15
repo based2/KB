@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=41224686
+
 https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset
 
 https://news.ycombinator.com/item?id=41148407

@@ -25,6 +25,8 @@ https://en.wikipedia.org/wiki/Ideal_money
 https://wid.world/
 
 # Bank
+https://news.ycombinator.com/item?id=41221403
+
 https://news.ycombinator.com/item?id=40933110
 
 https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading
@@ -90,6 +92,8 @@ https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-a
 > https://news.ycombinator.com/item?id=35603168
 
 ## Trading
+https://news.ycombinator.com/item?id=41246686
+
 https://news.ycombinator.com/item?id=40616927
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311
