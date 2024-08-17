@@ -53,6 +53,8 @@ https://medium.datadriveninvestor.com/new-chunking-method-for-rag-systems-2eb352
 https://towardsdatascience.com/an-easy-way-to-comprehend-how-graphrag-works-6d53f8b540d0
 > https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
 
+https://news.ycombinator.com/item?id=41262991
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

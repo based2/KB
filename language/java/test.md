@@ -104,6 +104,8 @@ https://github.com/vitaliy-sk/PerfUnit
 https://otx.alienvault.com/indicator/cve/CVE-2023-26119 htmlunit
 
 # News
+https://old.reddit.com/r/java/comments/1elqv41/java_junit_5_features_i_wish_i_knew_earlier/
+
 https://info.michael-simons.eu/2023/07/27/the-best-way-to-use-testcontainers-from-your-spring-boot-tests/
 
 https://github.com/adobe/S3Mock

@@ -48,3 +48,5 @@ https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&
 https://github.com/msasikanth/twine
 > https://news.ycombinator.com/item?id=39201643
 
+https://news.ycombinator.com/item?id=41264730 cli
+

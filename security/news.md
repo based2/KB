@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41236430
+
 https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/
 >
 

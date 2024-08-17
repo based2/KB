@@ -204,6 +204,8 @@ https://questdb.io/blog/inner-workings-distributed-databases/
 https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database
 > https://news.ycombinator.com/item?id=40158794
 
+https://news.ycombinator.com/item?id=41268043
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

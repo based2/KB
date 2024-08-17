@@ -60,6 +60,13 @@ https://zio.dev/
 https://alvinalexander.com/scala/zio-cheatsheet/
 
 ## Akka
+https://old.reddit.com/r/scala/comments/1erzt4t/state_of_structural_typing_support_in_scala_330/
+
+https://medium.com/business4s-blog/announcing-decisions4s-when-ifs-are-not-enough-30a2071a5f27
+> https://old.reddit.com/r/scala/comments/1eqb46p/announcing_decisions4s_when_ifs_are_not_enough/
+
+https://blog.pierre-ricadat.com/the-tri-z-architecture-a-pattern-for-layering-zio-applications-in-scala
+
 https://github.com/apache/incubator-pekko
 
 https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58

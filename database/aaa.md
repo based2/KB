@@ -73,6 +73,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://mccue.dev/pages/8-16-24-just-use-postgres
+> https://news.ycombinator.com/item?id=41272854
+
 https://news.ycombinator.com/item?id=40625800
 
 https://github.com/danvergara/dblab

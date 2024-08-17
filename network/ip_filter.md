@@ -564,18 +564,165 @@ block from any to 3.79.194.172
 block from any to 3.79.230.146
 # https://www.abuseipdb.com/check/
 block from any to 3.80.5.18
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.80.62.40
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.80.79.12
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.80.165.13
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.80.165.134
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.80.234.41
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.80.248.161
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.81.5.208
+# https://threatfox.abuse.ch/browse/tag/Mythic/
+block from any to 3.81.34.172
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.81.145.45
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.81.209.254
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.82.25.233
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.82.146.0
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.82.252.248
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.2.79
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.91.131
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.95.195
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.103.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.103.156
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.103.206
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.115.123
 # https://www.abuseipdb.com/check/
 block from any to 3.83.136.172
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.154.63
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.83.234.82
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.32.42
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.44.129
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.77.204
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.129.240
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.183.243
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.211.6
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.212.154
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.216.80
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.84.217.177
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.6.1
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.36.212
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.125.224
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.173.148
 # https://www.abuseipdb.com/check/
 block from any to 3.85.185.245
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.206.237
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.233.219
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.85.240.69
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.86.52.166
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.86.99.171
+block from any to 3.86.119.9
+block from any to 3.86.119.92
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.86.203.159
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 3.86.233.198
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.86.253.226
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.77.109
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.27.154
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.81.147
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.92.15
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.93.13
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.174.94
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.87.228.56
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.19.181
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.55.138
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.64.105
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.131.75
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.137.64
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.151.145
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.88.154.111
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.89.105.95
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.89.134.202
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.90.5.77
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.90.207.41
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.91.72.222
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.91.74.84
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 3.91.99.239
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.91.133.20
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.92.43.140
 # DNS https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/ g3n[.]in
 block from any to 3.92.141.152
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.92.147.169
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 3.92.185.192
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.92.232.1
+block from any to 3.93.96.254
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.93.143.251
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.93.150.164
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.93.182.242
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.94.109.131
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.94.146.105
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.95.13.210
 # abuse.ch TF
 block from any to 3.95.172.216
 # https://red.flag.domains/posts/2024-01-31/
@@ -680,11 +827,26 @@ block from any to 3.145.172.86
 block from any to 3.145.180.193
 # https://threatfox.abuse.ch/browse/malware/unknown/ Mythic
 block from any to 3.146.206.142
-block from any to 3.162.38.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt dwarfcin(.)click
+block from any to 3.160.150.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt dwarfcin(.)click
+block from any to 3.160.150.9
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt dwarfcin(.)click
+block from any to 3.160.150.16
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt dwarfcin(.)click
+block from any to 3.160.150.71
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt dwarfcin(.)click
+block from any to 3.160.150.93
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.208.17.254
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.208.18.44
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 3.216.239.218
 # abuse.ch TF
 block from any to 3.217.28.109
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.218.110.85
 # US https://www.abuseipdb.com/check/
 block from any to 3.219.33.134
 # US https://www.abuseipdb.com/check/3.219.96.23
@@ -693,6 +855,10 @@ block from any to 3.219.96.23
 block from any to 3.220.60.95
 # abuse.ch TF
 block from any to 3.220.158.139
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.220.203.122
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 3.221.233.194
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 4.203.104.98
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/05/carnavalhiest.txt
@@ -1999,13 +2165,39 @@ block from any to 13.32.99.0/24
 block from any to 13.33.187.0/24
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ img.lovehabibi(.)com
 block from any to 13.33.187.13
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jughandle(.)store
+block from any to 13.33.187.14
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jughandle(.)store
+block from any to 13.33.187.23
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ img.lovehabibi(.)com
 block from any to 13.33.187.41
 block from any to 13.33.187.85
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jughandle(.)store
+block from any to 13.33.187.97
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jughandle(.)store
+block from any to 13.33.187.98
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ img.lovehabibi(.)com
 block from any to 13.33.187.120
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ img.lovehabibi(.)com
 block from any to 13.33.187.123
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt varnishtable(.)cfd
+block from any to 13.35.58.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt zonerwing(.)world
+block from any to 13.35.58.2
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt zonerwing(.)world
+block from any to 13.35.58.7
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt zonerwing(.)world
+block from any to 13.35.58.10
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt varnishtable(.)cfd
+block from any to 13.35.58.50
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt varnishtable(.)cfd
+block from any to 13.35.58.64
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt zonerwing(.)world
+block from any to 13.35.58.65
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt varnishtable(.)cfd
+block from any to 13.35.58.82
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt varnishtable(.)cfd
+block from any to 13.35.58.129
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 13.36.225.33
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -2527,6 +2719,16 @@ block from any to 17.33.193.247
 block from any to 17.57.146.170
 # https://github.com/volexity/threat-intel/blob/main/2024/2024-06-13%20DISGOMOJI/indicators/iocs.csv
 block from any to 18.61.80.151
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt athleterun(.)cfd
+block from any to 18.66.102.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt athleterun(.)cfd
+block from any to 18.66.102.13
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt athleterun(.)cfd
+block from any to 18.66.102.99
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt athleterun(.)cfd
+block from any to 18.66.102.117
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt athleterun(.)cfd
+block from any to 18.66.102.127
 block from any to 18.66.112.0/24
 block from any to 18.66.121.0/24
 block from any to 18.66.122.0/24
@@ -2674,16 +2876,54 @@ block from any to 18.202.147.76
 block from any to 18.202.189.198
 # https://www.abuseipdb.com/check
 block from any to 18.203.246.101
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.205.22.230
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.205.158.177
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.205.245.56
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.205.246.170
 # https://github.com/eset/malware-ioc/tree/master/grandoreiro
 block from any to 18.206.48.76
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.206.165.230
 # https://threatfox.abuse.ch/browse/malware/win.sliver/
 block from any to 18.207.197.162
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.207.201.210
 # https://www.abuseipdb.com/check/18.208.125.13
 block from any to 18.208.125.13
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.208.189.231
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 18.208.232.211
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.209.61.160
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.209.99.92
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.209.101.113
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 18.211.231.38
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.212.21.137
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.212.114.208
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.212.211.216
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.212.219.231
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.212.233.136
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.215.166.131
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.215.167.144
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.215.179.96
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.215.183.230
 # https://github.com/eset/malware-ioc/tree/master/grandoreiro
 block from any to 18.215.238.53
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -2714,10 +2954,34 @@ block from any to 18.231.93.153
 block from any to 18.231.151.211
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 18.231.222.20
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.232.86.95
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.232.99.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.232.99.84
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.232.99.248
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 18.232.250.39
+block from any to 18.233.216.67
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.234.34.111
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.234.59.102
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 18.234.140.163
 block from any to 18.244.28.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ultimadrive(.)cfd
 block from any to 18.245.31.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ultimadrive(.)cfd
+block from any to 18.245.31.2
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ultimadrive(.)cfd
+block from any to 18.245.31.7
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ultimadrive(.)cfd
+block from any to 18.245.31.103
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ultimadrive(.)cfd
+block from any to 18.245.31.128
 # https://www.abuseipdb.com/check/
 block from any to 18.245.60.0/24
 # https://www.abuseipdb.com/check/18.245.60.76
@@ -2971,8 +3235,20 @@ block from any to 23.12.198.16
 block from any to 23.15.179.0/24
 # https://blog.eclecticiq.com/onnx-store-targeting-financial-institution agchoice[.]us-hindus[.]com
 block from any to 23.20.76.132
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 23.20.113.139
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 23.20.224.134
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/h/social-media-malvertising-campaign/ioc-social-media-malvertising -campaign-fake-ai-editor-website-credential-theft.txt itstrq.itsm-us1.comodo(.)com
 block from any to 23.21.62.30
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 23.21.109.183
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 23.22.207.51
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 23.22.229.5
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 23.23.41.52
 # Japan https://www.abuseipdb.com/check/
 block from any to 23.26.34.73
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -3007,6 +3283,8 @@ block from any to 23.72.249.0/24
 #block from any to 23.72.250.0/24
 block from any to 23.77.164.0/24
 block from any to 23.77.165.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt obtusecaster(.)com
+block from any to 23.82.12.30
 block from any to 23.88.3.9
 # https://github.com/volexity/threat-intel/blob/main/2023/2023-09-22%20EvilBamboo/indicators/iocs.csv
 block from any to 23.88.28.222
@@ -3685,6 +3963,12 @@ block from any to 31.18.196.225
 block from any to 31.24.200.23
 # https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
 block from any to 31.24.250.33
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt loungelander(.)com
+block from any to 31.24.251.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt loungelander(.)com
+block from any to 31.24.251.103
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt nitricwell(.)com
+block from any to 31.24.251.254
 # https://www.abuseipdb.com/check/
 block from any to 31.25.11.24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://tracker.viriback.com/index.php?q=Unam
@@ -3936,6 +4220,16 @@ block from any to 31.220.88.155
 block from any to 31.220.96.99
 # https://www.abuseipdb.com/check/
 block from any to 31.221.217.213
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt residentpic(.)com
+block from any to 31.222.255.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt residentpic(.)com
+block from any to 31.222.255.5
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt quantispark(.)com
+block from any to 31.222.255.30
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt shortergears(.)com
+block from any to 31.222.255.72
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt donorsnare(.)com
+block from any to 31.222.255.179
 # Turkey https://www.abuseipdb.com/check/
 block from any to 31.223.48.70
 # Qatar https://www.abuseipdb.com/check/
@@ -4412,6 +4706,8 @@ block from any to 34.195.55.134
 block from any to 34.196.123.0
 # abuse.ch TF
 block from any to 34.201.97.6
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.201.169.56
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ ajax.jonheese(.)com
 block from any to 34.201.177.223
 # abuse.ch TF
@@ -4443,6 +4739,8 @@ block from any to 34.239.61.139
 block from any to 34.239.169.49
 # US https://www.abuseipdb.com/check/
 block from any to 34.239.176.151
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.239.187.120
 # abuse.ch TF
 block from any to 34.239.255.86
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -4454,6 +4752,12 @@ block from any to 34.98.74.57
 block from any to 34.160.144.0/24
 # France https://red.flag.domains/posts/2024-01-24/ https://red.flag.domains/posts/2024-01-16/
 block from any to 34.163.19.189
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.197.74.194
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.199.191.246
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.200.70.19
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/h/social-media-malvertising-campaign/ioc-social-media-malvertising -campaign-fake-ai-editor-website-credential-theft.txt itstrq.itsm-us1.comodo(.)com withthreekitties.itsm-us1.comodo(.)com
 block from any to 34.200.129.233
 # A.ch TF
@@ -4509,6 +4813,89 @@ block from any to 34.126.174.214
 block from any to 34.140.65.171
 # A.ch TF
 block from any to 34.202.112.58
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.202.238.77
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.203.173.90
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.203.202.240
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.204.17.10
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.204.37.95
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.204.40.12
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.204.88.122
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.205.78.93
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.207.166.7
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.207.225.229
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.207.242.7
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.224.37.106
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.224.57.150
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.224.68.235
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.207.94.158
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.224.102.134
+block from any to 34.224.108.15
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.226.202.183
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.226.209.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.226.209.113
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.226.209.224
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.226.219.190
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.226.222.207
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.227.8.16
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.228.10.245
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.228.39.80
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.227.53.163
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.227.227.74
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.228.59.37
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.228.146.236
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.228.233.164
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.229.46.238
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.229.126.145
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.229.191.211
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.230.15.28
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.230.84.81
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.230.86.217
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.233.162.112
+block from any to 34.238.33.83
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.238.80.117
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 34.238.247.16
+block from any to 34.246.227.123
+block from any to 34.248.87.243
+block from any to 34.250.105.9
 # https://red.flag.domains/posts/2024-04-09/ stopamende[.fr] (registrar: KEY-SYSTEMS GmbH) adidas1000stories[.fr] (registrar: IONOS SE
 block from any to 35.71.142.77
 # A.ch TF
@@ -4531,14 +4918,30 @@ block from any to 35.185.141.153
 block from any to 35.185.172.131
 # US https://www.abuseipdb.com/check/
 block from any to 35.149.87.135
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.153.166.214
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.153.209.115
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 35.157.111.131
 # A.ch TF
 block from any to 35.158.159.254
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.168.204.136
 # A.ch TF
 block from any to 35.169.28.72
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.172.227.70
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.173.179.209
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.173.187.189
 # https://www.abuseipdb.com/check/
 block from any to 35.173.234.124
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.174.152.252
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 35.175.240.58
 # https://www.abuseipdb.com/check/
 block from any to 35.176.125.255
 # US https://www.abuseipdb.com/check/
@@ -4893,6 +5296,8 @@ block from any to 35.203.211.132
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.139
 # UK https://www.abuseipdb.com/check/
+block from any to 35.203.211.145
+# UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.150
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.152
@@ -4958,6 +5363,8 @@ block from any to 35.204.5.49
 block from any to 35.204.150.5
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 35.204.253.159
+# SPAM email-eu.reputation(.)com
+block from any to 35.205.52.34
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 35.205.161.130
 # Belgium https://www.abuseipdb.com/check/
@@ -5308,6 +5715,14 @@ block from any to 37.37.149.131
 block from any to 37.37.183.28
 # https://www.abuseipdb.com/check/37.39.54.159
 block from any to 37.39.54.159
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt grapplemic(.)com
+block from any to 37.44.198.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt grapplemic(.)com
+block from any to 37.44.198.12
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt yonickind(.)com
+block from any to 37.44.198.122
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt erasingwater(.)com
+block from any to 37.44.198.249
 # France https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 37.44.238.0/24
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
@@ -7828,12 +8243,28 @@ block from any to 43.249.193.131
 block from any to 43.255.203.138
 # https://blog.sekoia.io/unplugging-plugx-sinkholing-the-plugx-usb-worm-botnet/#h-indicators-of-compromise
 block from any to 43.254.217.165
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.194.190.62
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 44.196.101.127
 # abuse.ch TF
 block from any to 44.198.148.77
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.199.116.154
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.199.152.173
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.212.31.121
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.212.113.213
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.214.235.128
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.220.131.96
 # US https://www.abuseipdb.com/check/
 block from any to 44.220.188.218
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.222.212.130
 # https://threatfox.abuse.ch/browse/tag/Mythic/
 block from any to 44.223.17.221
 # US https://www.abuseipdb.com/check/
@@ -7854,12 +8285,53 @@ block from any to 43.247.24.51
 block from any to 43.247.41.0/24
 # abuse.ch TF
 block from any to 44.198.148.77
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.201.90.199
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.201.103.91
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.201.202.187
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.201.209.196
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.201.244.200
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.202.80.205
 # https://www.abuseipdb.com/check/
 block from any to 44.202.114.12
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 44.202.197.21
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.202.219.231
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.203.37.122
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.203.73.17
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.203.136.32
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.203.219.139
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.204.153.131
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.204.185.80
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.204.241.221
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.205.250.0
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.208.36.8
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.208.111.84
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.209.117.168
+block from any to 44.209.175.166
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.210.131.85
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 44.211.3.42
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 44.211.176.196
 # US DFA https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 block from any to 44.227.65.245
 # US DFA https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
@@ -9200,6 +9672,28 @@ block from any to 45.139.104.97
 block from any to 45.139.104.237
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 45.139.122.176
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt warfbark(.)com
+block from any to 45.139.123.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt cavityslope(.)info
+block from any to 45.139.123.19
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jazzysplit(.)com
+block from any to 45.139.123.26
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt gardenferet(.)com
+block from any to 45.139.123.33
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt visionsnacker(.)com
+block from any to 45.139.123.58
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt reachleaf(.)com
+block from any to 45.139.123.66
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt rubbledart(.)com
+block from any to 45.139.123.127
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt improvehold(.)com
+block from any to 45.139.123.143
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt indigenplants(.)com
+block from any to 45.139.123.151
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt quasispunk(.)com
+block from any to 45.139.123.163
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt warfbark(.)com
+block from any to 45.139.123.180
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.139.196.71
 # https://threatfox.abuse.ch/browse/malware/win.amadey/ downloaddining(.)com
@@ -9296,6 +9790,20 @@ block from any to 45.141.215.169
 block from any to 45.141.215.173
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 45.141.215.178
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt manualscribe(.)com
+block from any to 45.141.233.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt harrierswim(.)com
+block from any to 45.141.233.39
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt holdplater(.)com
+block from any to 45.141.233.57
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt devoiddef(.)com
+block from any to 45.141.233.115
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt manualscribe(.)com
+block from any to 45.141.233.159
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt emulatorcord(.)com
+block from any to 45.141.233.185
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt maltedges(.)com
+block from any to 45.141.233.205
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 45.142.107.0/24
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
@@ -11691,6 +12199,10 @@ block from any to 50.7.61.27
 block from any to 50.7.61.28
 # https://asec.ahnlab.com/en/63308/ pixeldrain[.]com
 block from any to 50.7.236.50
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 50.17.44.120
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 50.19.24.32
 # US https://www.abuseipdb.com/check/
 block from any to 50.21.176.118
 # https://www.abuseipdb.com/check/
@@ -12403,10 +12915,14 @@ block from any to 51.255.167.42
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 51.255.200.161
 block from any to 52.0.16.118
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.1.81.217
 # NF
 #block from any to 52.1.147.205
 # A.ch TF
 block from any to 52.4.12.90
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.5.217.181
 # https://www.abuseipdb.com/check/
 block from any to 52.6.126.81
 # SPAM
@@ -12421,6 +12937,14 @@ block from any to 52.20.229.84
 block from any to 52.22.239.204
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 52.23.117.205
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.23.139.212
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.23.171.31
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.23.228.173
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.23.230.48
 # A.ch TF
 block from any to 52.28.112.211
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
@@ -12433,6 +12957,8 @@ block from any to 52.39.217.122
 block from any to 52.39.229.65
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 52.40.136.42
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.45.180.4
 # A.ch TF
 block from any to 52.45.163.230
 # https://github.com/eset/malware-ioc/tree/master/turla soligro(.)com
@@ -12441,12 +12967,26 @@ block from any to 52.45.178.122
 block from any to 52.54.9.171
 # abuse.ch TF
 block from any to 52.54.111.235
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.54.240.46
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.55.39.121
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.55.185.168
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.55.229.250
 # https://threatfox.abuse.ch/browse/malware/win.revenge_rat/
 block from any to 52.67.113.233
 # https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/
 block from any to 52.68.210.54
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.70.22.151
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 52.71.182.208
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.71.222.167
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.73.23.107
 # https://threatfox.abuse.ch/browse/malware/win.blueshell/
 block from any to 52.77.230.248
 # Korea https://www.abuseipdb.com
@@ -12463,12 +13003,42 @@ block from any to 52.84.174.106
 block from any to 52.84.174.118
 # abuse.ch TF
 block from any to 52.86.45.171
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.87.174.232
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 52.87.175.64
 # https://tehtris.com/en/blog/our-selection-of-alerts-on-honeypots-report-23-december-2023/
 block from any to 52.87.238.153
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.87.239.147
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.87.243.83
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.87.245.0
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.90.85.80
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.90.139.96
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.90.167.234
 # US https://www.abuseipdb.com
 block from any to 52.90.168.202
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.90.173.72
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.27.189
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.78.22
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.85.204
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.113.145
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.139.98
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.196.183
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.91.237.152
 # Singapore https://www.abuseipdb.com
 block from any to 52.98.71.210
 # France https://www.abuseipdb.com
@@ -12529,16 +13099,37 @@ block from any to 52.190.22.24
 block from any to 52.191.18.251
 # abuse.ch TF
 block from any to 52.192.163.129
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.200.142.92
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.201.42.159
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.201.248.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.201.248.132
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.201.248.171
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/h/social-media-malvertising-campaign/ioc-social-media-malvertising -campaign-fake-ai-editor-website-credential-theft.txt itstrq.itsm-us1.comodo(.)com
 block from any to 52.203.0.249
 # https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/ NOKNOK decorous-super-blender.glitch(.)me east-healthy-dress.glitch(.)me prism-west-candy.glitch(.)me https://github.com/volexity/threat-in
 block from any to 52.203.22.109
 # https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/ NOKNOK decorous-super-blender.glitch(.)me prism-west-candy.glitch(.)me
 block from any to 52.203.185.31
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.203.196.220
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.205.66.243
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 52.205.241.18
 # abuse.ch TF
 block from any to 52.206.84.200
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.206.126.129
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.207.218.58
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 52.207.251.81
+block from any to 52.208.254.180
 # Ireland https://www.abuseipdb.com/check/
 block from any to 52.211.64.42
 # api.put[.]io https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ransomware-data-exfiltration
@@ -12705,62 +13296,199 @@ block from any to 54.77.160.229
 block from any to 54.78.134.111
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 54.78.161.42
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.80.58.100
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.80.190.25
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.81.13.224
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.81.33.54
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.81.46.111
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.81.49.33
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.81.105.45
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.81.164.182
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.82.6.26
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.82.35.220
 # https://threatfox.abuse.ch/browse/tag/Covenant/
 block from any to 54.82.63.198
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.82.108.181
 # https://threatfox.abuse.ch/browse/tag/Mythic/
 block from any to 54.82.134.185
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.82.169.236
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.82.242.43
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.83.94.80
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.85.48.214
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.85.60.234
 # abuse.ch TF
 block from any to 54.85.136.8
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.86.40.126
 # abuse.ch TF
 block from any to 54.86.130.105
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.86.219.104
 # US https://red.flag.domains/posts/2024-01-19/
 block from any to 54.90.160.108
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.91.31.71
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.91.66.140
 # https://threatfox.abuse.ch/browse/malware/win.revenge_rat/
 block from any to 54.91.135.60
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.92.199.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.92.199.86
 # US https://www.abuseipdb.com
 block from any to 54.92.199.235
 # https://threatfox.abuse.ch/browse/malware/win.revenge_rat/
 block from any to 54.94.118.7
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.22.134
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.37.135
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.49.72
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.53.96
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.136.11
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.188.104
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.87.249.54
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 54.88.105.125
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.89.98.93
 # US https://www.abuseipdb.com
 block from any to 54.89.154.46
 # A.ch TF
 block from any to 54.89.165.37
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.89.167.72
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.89.234.250
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.89.253.237
 # US https://red.flag.domains/posts/2024-01-22/
 block from any to 54.90.160.0/24
 # US https://red.flag.domains/posts/2024-01-22/
 block from any to 54.90.160.10
 # US https://red.flag.domains/posts/2024-01-22/ 2024-01-19
 block from any to 54.90.160.108
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.90.165.35
 # https://threatfox.abuse.ch/browse/malware/unknown/ Covenant
 block from any to 54.145.56.118
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.146.156.58
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.145.59.176
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 54.145.152.164
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.146.160.11
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.147.57.123
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.147.145.52
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.147.187.28
+block from any to 54.148.127.188
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 54.148.146.229
 # US https://blog.xlab.qianxin.com/bigpanzi-exposed-hidden-cyber-threat-behind-your-stb/
 block from any to 54.149.89.70
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.152.3.255
 # DNS https://threatfox.abuse.ch/browse/malware/win.pony/ vs-t.eu(.)com https://threatfox.abuse.ch/browse/malware/apk.hydra/ taewcfas2s.com(.)de
 block from any to 54.153.56.183
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 54.153.244.10
 # https://malpulse.com/ SerpentStealer
 block from any to 54.156.182.111
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.156.225.165
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ hd.espnv2(.)online
 block from any to 54.157.24.8
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 54.157.194.229
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.159.32.2
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.159.70.179
 # A.ch TF
 block from any to 54.159.80.53
 # US https://www.abuseipdb.com/check/
 block from any to 54.159.100.172
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.158.131.195
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.159.149.1
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.159.194.79
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.159.196.12
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.160.159.102
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.160.166.43
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.160.186.87
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.160.237.180
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.161.14.175
 # https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 54.161.222.85
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.162.149.115
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.162.168.34
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.162.201.61
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.163.23.158
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.163.30.167
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.163.146.202
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.164.77.151
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.164.159.96
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.165.49.68
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.165.65.113
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.166.197.83
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.166.222.209
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.167.7.182
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.167.45.135
 # US https://www.abuseipdb.com/check/
 block from any to 54.167.66.149
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 54.167.81.159
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.167.115.197
 # abuse.ch TF
 block from any to 54.168.49.179
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
@@ -12777,6 +13505,12 @@ block from any to 54.170.216.1
 block from any to 54.171.161.22
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 54.174.87.114
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.175.29.187
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.175.104.39
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.175.151.250
 # https://www.abuseipdb.com/check/
 block from any to 54.176.246.92
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
@@ -12787,16 +13521,63 @@ block from any to 54.183.19.241
 block from any to 54.183.102.22
 # abuse.ch TF
 block from any to 54.185.217.31
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.196.69.202
 # macos parsec-fb siri https://www.reddit.com/r/MacOS/comments/adsby1/parsecfbf/ https://www.netify.ai/resources/ips/54.195.83.61 54.228.140.140 54.77.160.229
 block from any to 54.195.83.61
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.196.52.188
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.196.86.16
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.196.179.85
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.196.206.155
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.197.6.92
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.197.23.193
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.197.182.83
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.198.83.170
 # https://www.abuseipdb.com/check/
 block from any to 54.202.205.155
 # A.ch TF
 block from any to 54.204.40.27
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.204.115.247
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 54.205.8.205
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.205.33.198
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.208.45.124
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.208.57.180
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.209.104.48
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.209.154.254
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.209.251.204
 # https://www.abuseipdb.com/check/
 block from any to 54.210.144.142
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.210.163.109
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.210.177.18
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.210.254.20
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.211.74.174
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.211.126.41
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.211.203.224
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.211.231.40
+block from any to 54.214.136.98
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 54.215.94.76
 # https://www.abuseipdb.com/check/
@@ -12807,16 +13588,46 @@ block from any to 54.216.183.63
 block from any to 54.219.169.167
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 54.220.110.175
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.221.16.23
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.221.26.121
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.221.156.240
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.224.23.72
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.224.49.144
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.224.63.170
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.224.69.17
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 54.224.170.33
 # A.ch TF
 block from any to 54.224.145.107
 # US https://www.abuseipdb.com
 block from any to 54.224.242.55
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.226.22.93
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 54.226.31.121
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.226.55.122
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.226.140.40
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.226.185.119
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.226.194.99
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.226.210.44
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 54.227.37.24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.227.68.179
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.227.187.174
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 54.228.42.199
 # https://www.netify.ai/resources/ips/54.228.140.140 apple
@@ -12828,14 +13639,38 @@ block from any to 54.229.43.60
 block from any to 54.230.60.211
 # Angel Drainer https://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html  https://publicwww.com/websites/%22hostpdf.co%22/ https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/
 block from any to 54.233.103.112
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.234.87.27
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.234.112.57
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 54.234.189.192
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.234.194.232
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.234.226.7
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.234.228.167
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 54.235.77.118
 # US https://www.abuseipdb.com/check/
 block from any to 54.236.21.15
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.236.252.48
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 54.237.138.159
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.242.58.36
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.242.80.73
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.242.152.205
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.242.195.39
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.242.224.225
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 54.242.220.171
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 54.242.225.0
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
@@ -13430,7 +14265,7 @@ block from any to 61.177.172.147
 block from any to 61.177.172.157
 # China https://www.abuseipdb.com/check/
 block from any to 61.177.172.160
-# China https://www.abuseipdb.com/check/
+# China Lianyungang, Jiangsu https://www.abuseipdb.com/check/
 block from any to 61.177.172.161
 # China https://www.abuseipdb.com/check/
 block from any to 61.177.172.168
@@ -14144,6 +14979,7 @@ block from any to 65.0.98.39
 block from any to 65.0.235.96
 # https://github.com/volexity/threat-intel/blob/main/2024/2024-06-13%20DISGOMOJI/indicators/iocs.csv
 block from any to 65.1.148.138
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt partnerbike(.)cfd
 block from any to 65.9.66.0/24
 # https://symantec-enterprise-blogs.security.com/threat-intelligence/telecoms-espionage-asia
 block from any to 65.20.66.0/24
@@ -16872,6 +17708,8 @@ block from any to 82.223.169.24
 block from any to 83.0.68.0
 # https://www.abuseipdb.com/check/
 block from any to 83.21.177.215
+# Indonesia https://www.abuseipdb.com/check/
+block from any to 83.168.66.157
 # Russia https://www.abuseipdb.com/check/
 block from any to 83.219.30.30
 # A.ch TF
@@ -16974,6 +17812,8 @@ block from any to 83.220.169.98
 block from any to 83.222.49.63
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 83.222.190.0/24
+# Bulgaria https://www.abuseipdb.com/check/
+block from any to 83.222.190.126
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 83.222.190.210
 # Bulgaria https://www.abuseipdb.com/check/
@@ -19467,6 +20307,8 @@ block from any to 91.195.240.0/24
 block from any to 91.195.240.94
 # https://threatfox.abuse.ch/browse/malware/win.amadey/ second.amadgood(.)com  second.amadgood(.)com https://threatfox.abuse.ch/browse/malware/win.formbook/ collegeclubapparel(.)com www.collegeclubapparel(.)com www.blueberry-breeze(.)com blueberry-breeze(.)com
 block from any to 91.195.240.117
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt xanthofin(.)click
+block from any to 91.195.240.123
 # https://www.abuseipdb.com/check/
 block from any to 91.250.243.75
 # https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ telegcn[.]com
@@ -19733,6 +20575,8 @@ block from any to 91.235.234.251
 block from any to 91.236.136.0/24
 # https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html
 block from any to 91.236.136.25
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt icaruswaves(.)com
+block from any to 91.236.120.183
 # BianLian https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 91.236.230.0/24
 # BianLian https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -20581,6 +21425,40 @@ block from any to 94.154.172.0/24
 block from any to 94.154.172.72
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 94.154.172.154
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt wordyvoice(.)com
+block from any to 94.154.173.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt warmstring(.)com
+block from any to 94.154.173.59
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt embarkstir(.)com
+block from any to 94.154.173.69
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt mediantrail(.)com
+block from any to 94.154.173.85
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt utopiancape(.)com
+block from any to 94.154.173.100
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt offalring(.)com
+block from any to 94.154.173.131
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt kartsdirection(.)com
+block from any to 94.154.173.197
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt wordyvoice(.)com
+block from any to 94.154.173.198
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt alteredmover(.)com
+block from any to 94.154.173.199
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt hammertos(.)com
+block from any to 94.154.173.202
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt mineralflame(.)com
+block from any to 94.154.173.204
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt emmisionled(.)com
+block from any to 94.154.173.207
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt yuppyhen(.)com
+block from any to 94.154.173.218
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt eruptmuder(.)com
+block from any to 94.154.173.237
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt formalwell(.)com
+block from any to 94.154.173.234
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jumpycage(.)com
+block from any to 94.154.173.244
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt joltingsun(.)com
+block from any to 94.154.173.252
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 94.159.55.14
 # Russia https://www.abuseipdb.com/check/
@@ -23979,6 +24857,8 @@ block from any to 104.21.29.32
 block from any to 104.21.29.70
 # https://red.flag.domains/posts/2024-05-07/ long-champfrance[.fr] (registrar: GRANSY s.r.o.)
 block from any to 104.21.29.107
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt groovelake(.)sbs
+block from any to 104.21.29.145
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ livesoccer(.)sx
 block from any to 104.21.29.199
 # https://red.flag.domains/posts/2024-05-31/ sackurtgeiger[.fr] (registrar: GRANSY s.r.o.
@@ -24047,6 +24927,8 @@ block from any to 104.21.35.0/24
 block from any to 104.21.33.59
 # https://threatfox.abuse.ch/browse/malware/win.astaroth/ fazenda-sps(.)one crohal.fazenda-sps(.)one
 block from any to 104.21.35.66
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt damnbot(.)store
+block from any to 104.21.35.181
 # https://asec.ahnlab.com/en/63980/ interferencesandyshiw[.]shop
 block from any to 104.21.35.192
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv p1v12.17nor(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
@@ -24111,6 +24993,8 @@ block from any to 104.21.40.211
 block from any to 104.21.41.0/24
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ weaknessmznxo(.)shop
 block from any to 104.21.41.43
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt flashylight(.)cfd
+block from any to 104.21.41.61
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ cstasos(.)com
 block from any to 104.21.41.152
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
@@ -25823,6 +26707,41 @@ block from any to 107.14.92.119
 block from any to 107.14.92.152
 # US https://www.abuseipdb.com/check/
 block from any to 107.14.92.232
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.21.156.171
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.23.172.12
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.22.59.190
+block from any to 107.22.181.168
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.22.157.144
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.23.214.163
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.20.85.92
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 107.20.184.9
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.24.26.210
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.24.55.121
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.25.218.18
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.26.144.221
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.27.26.17
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.27.185.129
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.27.206.81
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.26.208.170
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.27.224.73
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 100.27.229.140
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 107.148.1.128
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
@@ -31311,6 +32230,14 @@ block from any to 141.95.108.252
 block from any to 141.95.109.73
 # https://threatfox.abuse.ch/browse/malware/win.darkgate/
 block from any to 141.95.114.229
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jellflank(.)com
+block from any to 141.98.1.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt drovelift(.)com
+block from any to 141.98.1.126
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt zodernature(.)com
+block from any to 141.98.1.131
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jellflank(.)com
+block from any to 141.98.1.156
 # Netherlands neterra.net https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 141.98.6.0/24
 # https://github.com/sophoslabs/IoCs/blob/master/Nitrogen%202023-07.csv https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
@@ -31790,7 +32717,7 @@ block from any to 143.198.237.101
 block from any to 143.204.98.29
 # US https://threatfox.abuse.ch/browse/tag/Emmenhtal/ amazon-gift-card.fermentechgsv(.)com mato3f.b-cdn(.)net 21centuryart(.)com ua-chrome(.)tech
 block from any to 143.244.56.0/24
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato3.b-cdn(.)net shortcuts.b-cdn(.)net techsheck.b-cdn(.)net
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato3.b-cdn(.)net shortcuts.b-cdn(.)net techsheck.b-cdn(.)net zexodown-2.b-cdn(.)net metrodown-3.b-cdn(.)net
 block from any to 143.244.56.49
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ zexodown-1.b-cdn(.)net mato3pdf.b-cdn(.)net
 block from any to 143.244.56.50
@@ -33017,6 +33944,10 @@ block from any to 151.0.169.250
 block from any to 151.11.48.25
 # https://www.abuseipdb.com/check/
 block from any to 151.11.249.34
+# Italy https://www.abuseipdb.com/check/
+block from any to 151.43.169.27
+# Italy https://www.abuseipdb.com/check/
+block from any to 151.57.229.192
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 151.64.220.95
 # https://www.abuseipdb.com/check/
@@ -33146,6 +34077,8 @@ block from any to 151.237.51.115
 block from any to 151.237.72.67
 # Iran https://www.abuseipdb.com/check/
 block from any to 151.242.194.48
+# Bulgaria https://www.abuseipdb.com/check/
+block from any to 151.237.115.208
 # Iran https://www.abuseipdb.com/check/
 block from any to 151.244.116.59
 # Iran https://www.abuseipdb.com/check/
@@ -33991,6 +34924,8 @@ block from any to 155.248.243.251
 block from any to 155.254.25.33
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 155.254.51.152
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt sealroast(.)com
+block from any to 155.254.194.59
 # Nigeria https://www.abuseipdb.com/check/
 block from any to 156.0.255.33
 # https://www.abuseipdb.com/check/
@@ -37417,6 +38352,8 @@ block from any to 172.67.148.145
 block from any to 172.67.148.206
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ livesoccer(.)sx
 block from any to 172.67.149.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt groovelake(.)sbs
+block from any to 172.67.149.99
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ livesoccer(.)sx
 block from any to 172.67.149.196
 # https://red.flag.domains/posts/2024-06-07/ nobullchaussure[.fr] (registrar: GRANSY s.r.o.)
@@ -37686,7 +38623,11 @@ block from any to 172.67.177.143
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 172.67.177.191
 # https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ 1l1l(.)to
-block from any to 172.67.177.215
+block from any to 172.67.177.215`
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt damnbot(.)store https://asec.ahnlab.com/en/63980/ interferencesandyshiw[.]shop
+block from any to 172.67.178.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt damnbot(.)store
+block from any to 172.67.178.146
 # https://asec.ahnlab.com/en/63980/ interferencesandyshiw[.]shop
 block from any to 172.67.178.216
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html js.schema-forms[.]org
@@ -37811,6 +38752,8 @@ block from any to 172.67.188.96
 block from any to 172.67.188.196
 # https://red.flag.domains/posts/2024-06-19/ gov-ca-en[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
 block from any to 172.67.188.197
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt flashylight(.)cfd
+block from any to 172.67.189.121
 # https://blog.eclecticiq.com/onnx-store-targeting-financial-institution 56789iugtfrd5t69i9ei9die9di9eidy7u889[.]rhiltons[.]com
 block from any to 172.67.190.0/24
 # tgsk(.)xyz
@@ -38280,10 +39223,34 @@ block from any to 172.96.137.155
 block from any to 172.96.137.156
 # https://threatfox.abuse.ch/browse/malware/win.sliver/
 block from any to 172.96.137.224
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt unlistedstamp(.)world https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+block from any to 172.99.172.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt unlistedstamp(.)world
+block from any to 172.99.172.28
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt unformedsalt(.)com
+block from any to 172.99.172.62
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt mails-top(.)com
+block from any to 172.99.172.150
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 172.96.172.158
-# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt absentglare(.)com
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt tandemvale(.)com
+block from any to 172.99.172.176
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt useablepie(.)com
+block from any to 172.99.172.241
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt textileglam(.)com
+block from any to 172.99.172.246
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lessenpage(.)com
+block from any to 172.99.173.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt absentglare(.)com absentglare(.)com
 block from any to 172.99.173.41
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ocluarlense(.)com
+block from any to 172.99.173.59
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jazzyrimes(.)com
+block from any to 172.99.173.63
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt kaloripack(.)com
+block from any to 172.99.173.158
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lessenpage(.)com
+block from any to 172.99.173.212
 # https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_10.10.2023.txt conventionalservices(.)com
 block from any to 172.96.191.0/24
 # https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_10.10.2023.txt conventionalservices(.)com
@@ -38537,6 +39504,12 @@ block from any to 172.217.20.195
 #block from any to 172.217.20.174
 # https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/
 block from any to 172.230.88.99
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt tempestroads(.)com restingmanager(.)com qudricsflops(.)com literalfist(.)com gunningspeed(.)com cellcrave(.)com
+block from any to 172.232.4.213
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt torentmeding(.)com tempestroads(.)com restingmanager(.)com qudricsflops(.)com literalfist(.)com gunningspeed(.)com groundingblink(.)com cellcrave(.)com bittnerlumen(.)com bittnerlumen(.)com
+block from any to 172.232.25.148
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt tempestroads(.)com restingmanager(.)com qudricsflops(.)com literalfist(.)com gunningspeed(.)com cellcrave(.)com bittnerlumen(.)com
+block from any to 172.232.31.180
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 172.232.146.231
 # https://www.abuseipdb.com/check/
@@ -38838,8 +39811,16 @@ block from any to 173.255.204.62
 block from any to 173.255.223.159
 # US https://www.abuseipdb.com/check/
 block from any to 173.255.226.218
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 174.129.86.248
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 174.129.105.79
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 174.129.128.48
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 174.129.130.149
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 174.129.165.155
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 174.135.110.233
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -39941,6 +40922,8 @@ block from any to 178.215.236.89
 block from any to 178.215.236.100
 # France https://www.abuseipdb.com/check/
 block from any to 178.215.236.116
+# France https://www.abuseipdb.com/check/
+block from any to 178.215.236.144
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 178.215.236.129
 # France https://www.abuseipdb.com/check/
@@ -40800,6 +41783,14 @@ block from any to 184.66.10.104
 block from any to 184.63.156.240
 # Canada https://www.abuseipdb.com/check/
 block from any to 184.71.214.234
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 184.72.115.157
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 184.72.182.14
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 184.72.192.155
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 184.72.212.228
 # https://www.abuseipdb.com/check/
 block from any to 184.74.212.29
 # Thailand https://www.abuseipdb.com/check/
@@ -41311,15 +42302,15 @@ block from any to 185.91.127.221
 block from any to 185.91.127.233
 # France datacamp.sk https://www.abuseipdb.com/check https://threatfox.abuse.ch/browse/tag/Emmenhtal/  mato3f.b-cdn(.)net
 block from any to 185.93.2.0/24
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ nextomax.b-cdn(.)net fatodex.b-cdn(.)net lestod.b-cdn(.)net
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ nextomax.b-cdn(.)net fatodex.b-cdn(.)net lestod.b-cdn(.)net zexodown-1.b-cdn(.)net vidstreemz.b-cdn(.)net matodown(.)b-cdn.net
 block from any to 185.93.2.244
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ vidstreemz.b-cdn(.)net downloadvalts.b-cdn(.)net matozip1.b-cdn(.)net metrodown-3.b-cdn(.)net
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ nextomax.b-cdn(.)net vidstreemz.b-cdn(.)net downloadvalts.b-cdn(.)net matozip1.b-cdn(.)net metrodown-3.b-cdn(.)net techsheck.b-cdn(.)net mato3.b-cdn(.)net lestod.b-cdn(.)net
 block from any to 185.93.2.245
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato2.b-cdn(.)net
 block from any to 185.93.2.246
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato2.b-cdn(.)net transparency.b-cdn(.)net https://www.virustotal.com/gui/ip-address/185.93.2.248
 block from any to 185.93.2.248
-# France datacamp.sk https://threatfox.abuse.ch/browse/tag/Emmenhtal/ mato3pdf.b-cdn(.)net potexo.b-cdn(.)net matodown.b-cdn(.)net https://www.abuseipdb.com/check/185.93.2.251
+# France datacamp.sk https://threatfox.abuse.ch/browse/tag/Emmenhtal/ shortcuts.b-cdn(.)net mato3pdf.b-cdn(.)net potexo.b-cdn(.)net matodown.b-cdn(.)net https://www.abuseipdb.com/check/185.93.2.251
 block from any to 185.93.2.251
 # https://threatfox.abuse.ch/browse/malware/win.icedid/ https://threatfox.abuse.ch/browse/tag/Latrodectus/ https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 185.93.221.0/24
@@ -41694,6 +42685,12 @@ block from any to 185.146.215.88
 block from any to 185.147.15.22
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.147.101.184
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt datedmelt(.)com
+block from any to 185.147.127.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt datedmelt(.)com
+block from any to 185.147.127.159
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt octopuslegs(.)com
+block from any to 185.147.127.246
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.147.212.0/24
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -42478,7 +43475,7 @@ block from any to 185.245.183.74
 block from any to 185.246.64.139
 # https://threatfox.abuse.ch/browse/malware/win.dcrat# https://threatfox.abuse.ch/browse/malware/win.dcrat//
 block from any to 185.246.67.26
-# SPAM
+# SPAM amg.anderson(.)edu
 block from any to 185.246.87.236
 # Sweden w1n.nl registrar: SCALEWAY https://red.flag.domains/posts/2023-01-30/ https://www.abuseipdb.com/check/
 block from any to 185.246.128.0/24
@@ -45305,6 +46302,24 @@ block from any to 193.19.207.173
 block from any to 193.23.55.21
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 193.23.160.13
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt omissiongrey(.)com
+block from any to 193.25.219.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt omissiongrey(.)com
+block from any to 193.25.219.10
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt krakenvent(.)com
+block from any to 193.25.219.66
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jaminospots(.)com
+block from any to 193.25.219.71
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt buffercord(.)com
+block from any to 193.25.219.149
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt bravemedal(.)com
+block from any to 193.25.219.211
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt whiskcip(.)com
+block from any to 193.25.219.240
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt nucleusfold(.)com
+block from any to 193.25.219.246
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt gratinggate(.)com
+block from any to 193.25.219.252
 # Germany AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/ https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 193.26.115.0/24
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
@@ -45557,6 +46572,18 @@ block from any to 193.122.115.146
 block from any to 193.123.61.173
 # UAE https://www.abuseipdb.com/check/
 block from any to 193.123.72.201
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt kartersofa(.)com
+block from any to 193.124.15.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt ceilingcarp(.)com
+block from any to 193.124.15.4
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt kananomad(.)com
+block from any to 193.124.15.61
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt quasisonic(.)com
+block from any to 193.124.15.75
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt elixirdrain(.)com
+block from any to 193.124.15.145
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt kartersofa(.)com
+block from any to 193.124.15.183
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 193.124.22.107
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
@@ -45673,6 +46700,20 @@ block from any to 193.163.7.39
 block from any to 193.163.7.88
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 193.163.7.156
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt solarisrains(.)com
+block from any to 193.163.199.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt solarisrains(.)com
+block from any to 193.163.199.6
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt utilekoala(.)com
+block from any to 193.163.199.44
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt mentalwaver(.)com
+block from any to 193.163.199.58
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt similarweld(.)com
+block from any to 193.163.199.161
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt mementoglasing(.)com
+block from any to 193.163.199.196
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt larynxvoice(.)com
+block from any to 193.163.199.202
 # UK London, England https://www.abuseipdb.com/check/
 block from any to 193.163.125.0/24
 # UK https://www.abuseipdb.com/check/
@@ -45739,6 +46780,12 @@ block from any to 193.163.170.166
 block from any to 193.163.125.208
 # UK https://www.abuseipdb.com/check/
 block from any to 193.163.125.224
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt willowslade(.)com
+block from any to 193.163.199.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt willowslade(.)com
+block from any to 193.163.199.122
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt wiredplanes(.)com
+block from any to 193.163.199.191
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 193.164.4.124
 # https://threatfox.abuse.ch/browse/tag/PEMBEGULISG/ https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
@@ -46246,6 +47293,14 @@ block from any to 194.26.229.219
 block from any to 194.27.78.73
 # https://www.abuseipdb.com/check/
 block from any to 194.31.135.146
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt munchcam(.)com
+block from any to 194.31.223.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt roverpress(.)com
+block from any to 194.31.223.95
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt jumpingsprint(.)com
+block from any to 194.31.223.108
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt munchcam(.)com
+block from any to 194.31.223.219
 # DNS https://red.flag.domains/posts/2024-03-08/ registrar: OVH colis-supportclient[.fr]
 block from any to 194.32.76.179
 # https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
@@ -46900,8 +47955,28 @@ block from any to 195.123.246.209
 block from any to 195.123.247.50
 # https://www.abuseipdb.com/check/
 block from any to 195.133.23.90
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt thumbzoner(.)com
+block from any to 195.133.30.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt thumbzoner(.)com
+block from any to 195.133.30.75
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt sittingclam(.)com
+block from any to 195.133.30.91
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt trainercamps(.)com
+block from any to 195.133.30.162
 # Russia https://www.abuseipdb.com/check/
 block from any to 195.133.52.215
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt unipolardore(.)com
+block from any to 195.133.83.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt napkinbars(.)com
+block from any to 195.133.83.35
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt basindrops(.)com
+block from any to 195.133.83.78
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt yardscorner(.)com
+block from any to 195.133.83.114
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt receptorstring(.)com
+block from any to 195.133.83.136
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt unipolardore(.)com
+block from any to 195.133.83.183
 # https://threatfox.abuse.ch/browse/malware/win.danabot/ https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 195.133.88.0/24
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
@@ -48170,7 +49245,7 @@ block from any to 199.59.243.0/24
 block from any to 199.59.243.22
 # DFA https://red.flag.domains/posts/ 2024-05-03 googleplay[.fr] (registrar: XNS Registrar B.V.) 2024-06-02 lille-fourriere[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-05-27 accountingservices[.fr] (registrar: XNS Registrar B.V.) 2024-05-01 creditsdunord[.fr] (registrar: XNS Registrar B.V.) 2024-04-14 bnpparibois[.fr] (registrar: XNS Registrar B.V. 2024-04-07 lidentite-numerique[.fr] (registrar: 1API GmbH) 2023-02-10/ registrar: SONEXO B.V 2024-01-19 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 199.59.243.225
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ valvoleholfmann(.)com
+# https://threatfox.abuse.ch/browse/tag/Emmenhtal/ valvoleholfmann(.)com orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt yogurttrails(.)com
 block from any to 199.59.243.226
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 199.60.103.0/24
@@ -48862,6 +49937,8 @@ block from any to 204.155.149.140
 block from any to 204.157.240.18
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ reiner.nrha(.)com
 block from any to 204.197.243.111
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
+block from any to 204.236.240.54
 # Canada https://www.abuseipdb.com/check/
 block from any to 204.237.97.146
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
@@ -49787,6 +50864,8 @@ block from any to 212.27.40.241
 block from any to 212.27.47.122
 # Spain https://www.abuseipdb.com/check/
 block from any to 212.30.33.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt medusasland(.)com
+block from any to 212.32.237.90
 # Iran Tehran, Tehran https://www.abuseipdb.com/check/
 block from any to 212.33.198.185
 # Bulgaria https://www.abuseipdb.com/check/
@@ -50509,6 +51588,8 @@ block from any to 216.131.105.4
 block from any to 216.131.105.186
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 216.137.140.236
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt habitglow(.)com
+block from any to 216.144.225.58
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 216.146.26.94
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -50704,6 +51785,16 @@ block from any to 217.76.59.48
 block from any to 217.76.57.196
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt pavicomsa(.)com
 block from any to 217.76.130.36
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt servingspec(.)com
+block from any to 217.78.233.0/24
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt decreesling(.)com
+block from any to 217.78.233.53
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt flanelfort(.)com
+block from any to 217.78.233.66
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt servingspec(.)com
+block from any to 217.78.233.95
+# https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt swimmingloft(.)com
+block from any to 217.78.233.176
 # Russia https://www.abuseipdb.com/check/
 block from any to 217.107.106.11
 # Russia https://www.abuseipdb.com/check/
@@ -51968,6 +53059,8 @@ block from any to 2a02:26f0:fd00:3::213:75a6
 block from any to 2a02:c207:2075:980::1
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 2a02:ec80:600:ed1a::1
+# Spain https://www.abuseipdb.com/check/
+block from any to 2a01:4b80:1:1:1c00:38ff:fe00:3cea
 # Germany https://www.abuseipdb.com/check/
 block from any to 2a01:4f9:c012:6365::1
 # Italy https://www.abuseipdb.com/check/2a02:4d0:0:226:fa1a:67ff:fe4d:5266

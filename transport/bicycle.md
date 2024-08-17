@@ -19,3 +19,5 @@ https://pedalcell.com/
 https://vhelio.org/
 
 https://newatlas.com/marine/seabike-swimming-propeller/
+
+https://www.usenix.org/system/files/woot24-motallebighomi.pdf

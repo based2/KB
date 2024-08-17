@@ -50,3 +50,6 @@ https://github.com/be5invis/Iosevka
 
 https://www.linyangchen.com/Typography-Fell-Types-font
 > https://news.ycombinator.com/item?id=36807108
+
+https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/
+> https://news.ycombinator.com/item?id=41245159

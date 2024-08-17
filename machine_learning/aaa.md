@@ -590,6 +590,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://probabl.ai/
+
+https://news.ycombinator.com/item?id=41270043
+
 https://news.ycombinator.com/item?id=41162676
 
 https://news.ycombinator.com/item?id=41153039

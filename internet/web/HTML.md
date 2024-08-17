@@ -105,6 +105,8 @@ https://github.com/steven-tey/novel
 
 https://news.ycombinator.com/item?id=37974321
 
+https://news.ycombinator.com/item?id=41259926
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/

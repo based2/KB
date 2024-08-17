@@ -272,6 +272,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://ishadeed.com/article/css-grid-area/
+> https://news.ycombinator.com/item?id=41262691
+
 https://news.ycombinator.com/item?id=40559015
 
 https://news.ycombinator.com/item?id=40248530

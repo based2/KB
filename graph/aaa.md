@@ -124,6 +124,9 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://neo4j.com/blog/what-is-knowledge-graph/
+> https://news.ycombinator.com/item?id=41268929
+
 https://news.ycombinator.com/item?id=40153162
 
 https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/

@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://mermaid.js.org/
+> https://news.ycombinator.com/item?id=41260127
+
 https://interactivenn.net/index.html
 > https://news.ycombinator.com/item?id=41057766
 
