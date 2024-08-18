@@ -30,7 +30,7 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
-https://eprint.iacr.org/2024/1275.pdf Backdoor discovered in several brands of RFID cards
+https://eprint.iacr.org/2024/1275.pdf MIFARE Classic: exposing the static encrypted nonce variant / Backdoor discovered in several brands of RFID cards
 > https://news.ycombinator.com/item?id=41269249
 
 https://news.ycombinator.com/item?id=41245423

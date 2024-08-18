@@ -128,6 +128,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/
+> https://news.ycombinator.com/item?id=41274850
+
 https://go.dev/doc/devel/release#go1.23.0
 > https://news.ycombinator.com/item?id=41237542
 

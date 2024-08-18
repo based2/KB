@@ -105,3 +105,6 @@ https://download.samba.org/pub/rsync/NEWS#3.3.0
 
 https://github.com/spieglt/FlyingCarpet
 
+https://github.com/magic-wormhole/magic-wormhole
+> https://news.ycombinator.com/item?id=41275920
+

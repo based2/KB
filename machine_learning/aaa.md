@@ -590,6 +590,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=41277179
+
+https://openai.com/index/introducing-swe-bench-verified/
+
 https://probabl.ai/
 
 https://news.ycombinator.com/item?id=41270043

@@ -164,6 +164,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://legendofworlds.com/blog/4 spent 2 years building my own game engine (Rust, WASM, WebGPU)
+> https://news.ycombinator.com/item?id=41278862
+> https://github.com/toxoidengine/toxoid
+
 https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f
 
 https://news.ycombinator.com/item?id=41251499

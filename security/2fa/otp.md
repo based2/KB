@@ -22,6 +22,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html
+> https://news.ycombinator.com/item?id=41275846
+
 https://cyberscoop.com/stealing-cookies-researchers-describe-how-to-bypass-modern-authentication/
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1824831 Can't sign in with FIDO2 key on office.com

@@ -114,6 +114,8 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://news.sophos.com/en-us/2021/05/13/ips-that-are-malicious-together-stay-together/
+
 https://news.ycombinator.com/item?id=41184174
 
 https://superuser.com/questions/810853/how-do-i-block-a-host-by-asn-example-as16276

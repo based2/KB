@@ -243,6 +243,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://news.ycombinator.com/item?id=41281176
+
 https://news.ycombinator.com/item?id=41152559
 
 https://intelligence.airbus.com/imagery/our-optical-and-radar-satellite-imagery/strat-observer/

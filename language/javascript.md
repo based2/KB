@@ -526,7 +526,6 @@ https://blog.jqueryui.com/2024/04/jquery-ui-1-13-3-released/
 
 https://jqueryui.com/changelog/1.13.0/ CVEs fixes
 
-
 # Oracle Jet
 https://www.oracle.com/webfolder/technetwork/jet/index.html
 
@@ -676,6 +675,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=41269321
+
 https://news.ycombinator.com/item?id=40920812
 
 https://news.ycombinator.com/item?id=40736685
