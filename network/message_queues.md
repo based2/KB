@@ -120,6 +120,8 @@ https://hatchet.run/
 
 https://news.ycombinator.com/item?id=40077233
 
+https://news.ycombinator.com/item?id=41284703
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 > https://news.ycombinator.com/item?id=28695346

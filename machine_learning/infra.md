@@ -61,6 +61,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://news.ycombinator.com/item?id=41282831
+
 https://github.com/onnx/onnx
 > https://news.ycombinator.com/item?id=41256692
 

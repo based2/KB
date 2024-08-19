@@ -70,6 +70,11 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=41278576
+
+https://github.com/TomWright/dasel Select, put and delete data from JSON, TOML, YAML, XML and CSV
+> https://news.ycombinator.com/item?id=41282495
+
 https://news.ycombinator.com/item?id=41224316
 
 https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and

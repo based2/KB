@@ -75,3 +75,5 @@ https://news.ycombinator.com/item?id=39768434
 
 https://news.ycombinator.com/item?id=40962231
 
+https://news.ycombinator.com/item?id=41285665
+

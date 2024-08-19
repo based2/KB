@@ -294,6 +294,9 @@ https://news.ycombinator.com/item?id=41118609
 https://news.ycombinator.com/item?id=41218928
 
 # News
+https://emnudge.dev/blog/markov-chains-are-funny/
+> https://news.ycombinator.com/item?id=41286203
+
 https://news.ycombinator.com/item?id=41260040
 
 https://news.ycombinator.com/item?id=41188966

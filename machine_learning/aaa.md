@@ -158,6 +158,9 @@ https://umap-learn.readthedocs.io/en/latest/basic_usage.html
 https://pair.withgoogle.com/explorables/
 > https://news.ycombinator.com/item?id=27739694
 
+https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/
+> https://news.ycombinator.com/item?id=41263928
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333

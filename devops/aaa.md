@@ -117,6 +117,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-jenkins-rce-bug-exploited-in-ransomware-attacks/
+
 https://www.bleepingcomputer.com/news/security/github-actions-artifacts-found-leaking-auth-tokens-in-popular-projects/
 
 https://cyllective.com/blog/posts/atlassian-audit-plugins

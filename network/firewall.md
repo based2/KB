@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://wafris.org/
+> https://news.ycombinator.com/item?id=41290730
+
 https://news.ycombinator.com/item?id=40326615
 
 https://news.ycombinator.com/item?id=40319635
