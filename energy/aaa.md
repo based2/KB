@@ -19,6 +19,8 @@ https://www.rte-france.com/eco2mix
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=41307166
+
 https://news.ycombinator.com/item?id=41292018
 
 https://news.ycombinator.com/item?id=41205439

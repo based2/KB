@@ -170,3 +170,5 @@ https://sin-ack.github.io/posts/jpg-loader-bork/
 > https://news.ycombinator.com/item?id=40896102
 
 https://news.ycombinator.com/item?id=41271667
+
+https://news.ycombinator.com/item?id=41311071

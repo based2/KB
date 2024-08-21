@@ -164,6 +164,12 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=41306410
+
+https://news.ycombinator.com/item?id=41307337
+
+https://news.ycombinator.com/item?id=41296274
+
 https://news.ycombinator.com/item?id=41287099
 
 https://en.esotericsoftware.com/

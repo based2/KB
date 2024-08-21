@@ -28,6 +28,8 @@ https://simonhearne.com/2021/layout-shifts-webfonts/
 > https://news.ycombinator.com/item?id=30129571
 
 #
+https://news.ycombinator.com/item?id=41298794
+
 https://www.uxtigers.com/post/41-years-in-ux
 > https://news.ycombinator.com/item?id=39173528
 

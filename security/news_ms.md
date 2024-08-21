@@ -1,6 +1,9 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/
+> https://news.ycombinator.com/item?id=41302950
+
 https://x.com/XiaoWei___
 > https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063
 > > https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/
