@@ -19,6 +19,8 @@ https://github.com/datafoodconsortium
 https://op.europa.eu/en/web/eu-vocabularies/akn4eu
 
 #
+https://news.ycombinator.com/item?id=41307011
+
 https://protege.stanford.edu/
 
 https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/

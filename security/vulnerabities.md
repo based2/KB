@@ -81,6 +81,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://news.ycombinator.com/item?id=41315068
+
 https://news.ycombinator.com/item?id=41302144
 
 https://www.theregister.com/2024/03/27/surge_in_enterprise_zero_days/

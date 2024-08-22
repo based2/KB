@@ -363,6 +363,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=41309072
+
+https://news.ycombinator.com/item?id=41322758
+
 https://pyscript.net/
 > https://news.ycombinator.com/item?id=41263843
 

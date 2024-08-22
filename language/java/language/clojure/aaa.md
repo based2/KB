@@ -97,6 +97,8 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://news.ycombinator.com/item?id=41319003
+
 https://github.com/nubank/morse
 > https://news.ycombinator.com/item?id=39486748
 

@@ -30,6 +30,8 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
   
 # News
+https://news.ycombinator.com/item?id=41311479
+
 https://news.ycombinator.com/item?id=41293847
 
 https://news.ycombinator.com/item?id=41089718

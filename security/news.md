@@ -1,3 +1,10 @@
+https://noyb.eu/en/noyb-complaints-against-eu-parliament-over-data-breach
+
+https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt
+
+https://mjg59.dreamwidth.org/70348.html
+> https://news.ycombinator.com/item?id=41318222
+
 https://phrack.org/issues/71/1.html
 
 https://news.ycombinator.com/item?id=41236430

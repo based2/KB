@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://old.reddit.com/r/netsec/comments/1et0e1x/msi_motherboards_susceptible_to_code_execution/
+
 https://news.ycombinator.com/item?id=41228113
 
 https://news.ycombinator.com/item?id=41204160
