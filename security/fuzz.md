@@ -13,6 +13,8 @@ https://thevaluable.dev/practical-guide-fzf-example/
 
 https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/
 
+https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
+
 #
 https://joshua.hu/aflplusplus-fuzzing-scripting-languages-natively
 

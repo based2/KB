@@ -164,6 +164,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/dpjudas/SurrealEngine
+> https://news.ycombinator.com/item?id=41329505
+
 https://news.ycombinator.com/item?id=41282181
 
 https://news.ycombinator.com/item?id=41306410

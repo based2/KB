@@ -1,3 +1,6 @@
+https://blog.isosceles.com/openssh-backdoors/
+> https://news.ycombinator.com/item?id=41330258
+
 https://noyb.eu/en/noyb-complaints-against-eu-parliament-over-data-breach
 
 https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt

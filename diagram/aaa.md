@@ -52,6 +52,9 @@ https://dundalek.com/grammkit/
 
 https://news.ycombinator.com/item?id=35224439
 
+# ML
+https://news.ycombinator.com/item?id=41328185
+
 #
 https://mermaid.js.org/
 > https://news.ycombinator.com/item?id=41260127
