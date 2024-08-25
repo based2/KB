@@ -55,3 +55,5 @@ https://news.ycombinator.com/item?id=39471116
 
 https://wedistribute.org/2024/03/activitypub-nomadic-identity/
 > https://news.ycombinator.com/item?id=39745072
+
+https://lobste.rs/s/z18qgz/symbol_for_fediverse

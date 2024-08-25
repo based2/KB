@@ -528,6 +528,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://donsz.nl/blog/arenas/
+> https://news.ycombinator.com/item?id=41313861
+
 https://news.ycombinator.com/item?id=41272893
 
 https://www.darpa.mil/program/translating-all-c-to-rust

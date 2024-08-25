@@ -258,6 +258,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.aniszczyk.org/2019/10/08/open-source-gerrymandering/
+
 https://daniel.haxx.se/blog/2024/08/14/so-the-department-of-energy-emailed-me/
 > https://news.ycombinator.com/item?id=41252331
 

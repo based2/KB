@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://news.ycombinator.com/item?id=41348412
+
 https://github.com/d07RiV/diabloweb
 
 https://news.ycombinator.com/item?id=41249671

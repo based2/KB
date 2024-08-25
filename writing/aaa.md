@@ -135,3 +135,7 @@ https://www.stylemanual.gov.au/
 
 https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
 > https://news.ycombinator.com/item?id=36457051
+
+# Notes
+https://github.com/flxzt/rnote
+> https://news.ycombinator.com/item?id=41348204

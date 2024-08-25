@@ -82,6 +82,10 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incident
+https://news.ycombinator.com/item?id=41347909
+
+https://news.ycombinator.com/item?id=41348149
+
 https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/
 
 https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/

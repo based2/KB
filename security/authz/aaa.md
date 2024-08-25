@@ -26,3 +26,6 @@ https://www.biscuitsec.org/
 > https://news.ycombinator.com/item?id=38635617
 
 https://www.nextlabs.com/products/technology/abac/
+
+https://github.com/Permify/permify go ASLv2
+> https://news.ycombinator.com/item?id=41311489

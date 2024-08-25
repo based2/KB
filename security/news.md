@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=41342637
+
+https://infosecwriteups.com/windows-event-ids-that-every-cybersecurity-analyst-must-know-83f863484174
+
 https://blog.isosceles.com/openssh-backdoors/
 > https://news.ycombinator.com/item?id=41330258
 

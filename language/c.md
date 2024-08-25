@@ -77,6 +77,8 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=41336762
+
 https://news.ycombinator.com/item?id=40960270
 
 https://news.ycombinator.com/item?id=40387812
