@@ -90,6 +90,9 @@ https://www.finitecurve.com/
 
 https://www.blurmatic.com/
 
+https://bannerify.co/tools/remove-bg
+> https://news.ycombinator.com/item?id=41358490
+
 # Photography
 https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/
 > https://news.ycombinator.com/item?id=41266682

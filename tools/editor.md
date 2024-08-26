@@ -143,6 +143,8 @@ https://github.com/SebastianMuskalla/ModelessVim
 
 https://news.ycombinator.com/item?id=41144843
 
+https://news.ycombinator.com/item?id=41347051
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -379,6 +381,9 @@ https://www.tatatap.com/
 > > https://en.wikipedia.org/wiki/TECO_(text_editor)
 
 https://en.wikipedia.org/wiki/MORE_(application)
+
+# AI
+https://news.ycombinator.com/item?id=41353835
 
 # News
 https://news.ycombinator.com/item?id=41068719

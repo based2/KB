@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-access-control-flaw-in-sonicos/
+
 https://wafris.org/
 > https://news.ycombinator.com/item?id=41290730
 
