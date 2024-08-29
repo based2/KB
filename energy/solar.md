@@ -18,6 +18,10 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://news.ycombinator.com/item?id=41389176
+
+https://news.ycombinator.com/item?id=41390884
+
 https://news.ycombinator.com/item?id=40761837
 
 https://news.ycombinator.com/item?id=40690718

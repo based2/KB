@@ -68,6 +68,8 @@ https://thenewstack.io/gpt-4o-and-sql-how-well-can-an-llm-alter-its-own-schema/
 https://news.ycombinator.com/item?id=37240363 sql
 
 # News
+https://news.ycombinator.com/item?id=41389185
+
 https://news.ycombinator.com/item?id=41269791
 
 https://github.com/patched-codes/patchwork?tab=readme-ov-file automate development gruntwwork like PR reviews, bug fixing, security patching, and more using a self-hosted CLI agent and your preferred LLMs.

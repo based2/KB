@@ -17,6 +17,8 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://news.ycombinator.com/item?id=41391822
+
 https://news.ycombinator.com/item?id=40901623
 
 https://news.ycombinator.com/item?id=40697831

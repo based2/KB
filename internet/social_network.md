@@ -59,6 +59,8 @@ https://hackersearch.net/
 
 https://news.ycombinator.com/item?id=41228935
 
+https://news.ycombinator.com/item?id=41393005
+
 # Slashdot
 # Reddit
 
@@ -149,6 +151,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=41391868
+
 https://news.ycombinator.com/item?id=41275600
 
 https://news.ycombinator.com/item?id=40957346
