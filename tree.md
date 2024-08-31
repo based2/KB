@@ -106,6 +106,8 @@ https://news.ycombinator.com/item?id=32721317
 
 https://www.unixsheikh.com/tutorials/poor-mans-mind-mapping-tool-with-just-the-terminal.html
 
+https://news.ycombinator.com/item?id=41369231
+
 # Real tree
 https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/
 > https://news.ycombinator.com/item?id=27934824

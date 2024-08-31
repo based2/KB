@@ -147,6 +147,8 @@ https://news.ycombinator.com/item?id=40287341
 
 https://pykka.readthedocs.io/stable/
 
+https://news.ycombinator.com/item?id=41404020
+
 # Profiler
 
 https://github.com/bloomberg/memray
@@ -363,6 +365,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=41403286
+
 https://pypy.org/posts/2024/08/pypy-v7317-release.html
 
 https://news.ycombinator.com/item?id=41309072

@@ -46,6 +46,8 @@ https://native.live/
 https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
 > https://news.ycombinator.com/item?id=26989577
 
+https://news.ycombinator.com/item?id=41403971
+
 https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
 
 https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/

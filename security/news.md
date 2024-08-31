@@ -1,3 +1,6 @@
+https://github.com/robinmoisson/staticrypt
+> https://news.ycombinator.com/item?id=41404064
+
 https://news.ycombinator.com/item?id=41401224
 
 https://ian.sh/tsa

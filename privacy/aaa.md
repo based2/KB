@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://news.ycombinator.com/item?id=41409522
+
 https://news.ycombinator.com/item?id=41330007
 
 https://www.bleepingcomputer.com/news/legal/uber-fined-325-million-for-moving-driver-data-from-europe-to-us/
