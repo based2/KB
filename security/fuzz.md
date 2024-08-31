@@ -16,6 +16,8 @@ https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-hand
 https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
 
 #
+https://blog.fadyothman.com/meta-bug-bounty-fuzzing-netconsd-for-fun-and-profit-part-1-6ffe96eb1419
+
 https://joshua.hu/aflplusplus-fuzzing-scripting-languages-natively
 
 https://news.ycombinator.com/item?id=40742014

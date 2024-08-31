@@ -6,3 +6,5 @@ https://dotfiles.github.io/
 
 https://www.chezmoi.io/
 > https://news.ycombinator.com/item?id=32636051
+
+https://news.ycombinator.com/item?id=41400500

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41401224
+
 https://ian.sh/tsa
 > https://news.ycombinator.com/item?id=41392128
 

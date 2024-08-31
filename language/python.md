@@ -363,6 +363,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://pypy.org/posts/2024/08/pypy-v7317-release.html
+
 https://news.ycombinator.com/item?id=41309072
 
 https://news.ycombinator.com/item?id=41322758

@@ -156,6 +156,11 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 # News
+https://news.ycombinator.com/item?id=41379149
+
+https://dl.acm.org/doi/pdf/10.1145/63039.63045 Calendar Queues: A Fast O(1) Priority Queue Implementation (1988)
+> https://news.ycombinator.com/item?id=41397873
+
 https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy
 > https://news.ycombinator.com/item?id=39092849
 

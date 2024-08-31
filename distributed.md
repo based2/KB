@@ -206,6 +206,8 @@ https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memor
 
 https://news.ycombinator.com/item?id=41268043
 
+https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

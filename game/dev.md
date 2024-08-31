@@ -164,6 +164,13 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=41396260
+
+https://github.com/lukky-nl/Pocket-Godot
+> https://news.ycombinator.com/item?id=41401237
+
+https://news.ycombinator.com/item?id=41395413
+
 https://news.ycombinator.com/item?id=41327933
 
 https://github.com/dpjudas/SurrealEngine

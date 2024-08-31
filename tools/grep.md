@@ -71,3 +71,5 @@ https://ugrep.com/
 > https://news.ycombinator.com/item?id=38819262
 
 https://news.ycombinator.com/item?id=39770908
+
+https://news.ycombinator.com/item?id=41380065
