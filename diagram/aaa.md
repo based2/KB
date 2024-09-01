@@ -269,6 +269,8 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://news.ycombinator.com/item?id=41417024
+
 https://github.com/AlexITC/collabuml
 > https://news.ycombinator.com/item?id=34555283
 

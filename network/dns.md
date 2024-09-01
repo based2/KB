@@ -100,6 +100,8 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 > https://news.ycombinator.com/item?id=40254688
 
 # Incident
+https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/
+
 https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/
 > https://news.ycombinator.com/item?id=41058424
 
