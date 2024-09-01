@@ -1,5 +1,7 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://www.nature.com/articles/s41467-024-51175-2
+
 https://scitechdaily.com/mit-uncovers-photomolecular-effect-light-can-vaporize-water-without-heat/
 
 https://phydemo.app/ray-optics/

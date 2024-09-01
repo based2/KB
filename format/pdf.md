@@ -23,6 +23,8 @@ https://tabula.technology/
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
 
 #
+https://news.ycombinator.com/item?id=41377960
+
 https://github.com/latex3/tagging-project/discussions/72
 > https://news.ycombinator.com/item?id=40587934
 

@@ -117,6 +117,10 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-chip-capabilities-just-3-years-behind-TSMC-teardown-shows
+
+https://news.ycombinator.com/item?id=41412154
+
 https://news.ycombinator.com/item?id=41287031
 
 https://syzygyfpga.io/
@@ -479,6 +483,8 @@ https://www.theregister.com/2022/08/29/waferscale_photonics_interconnect/
 https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/
 
 https://www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/
+
+https://news.ycombinator.com/item?id=41386667 hdmi amd oss
 
 https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/
 > https://news.ycombinator.com/item?id=33201931

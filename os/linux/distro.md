@@ -98,6 +98,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.debian.org/News/2024/20240831 Debian releases 12.7 with 55 security updates and stability improvements
+> https://news.ycombinator.com/item?id=41411724
+
 https://news.ycombinator.com/item?id=41150091
 
 https://news.ycombinator.com/item?id=41006492

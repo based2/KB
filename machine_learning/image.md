@@ -399,6 +399,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://gamengen.github.io/
+> https://news.ycombinator.com/item?id=41375548
+
 https://techxplore.com/news/2024-05-plain-sight-ai-confidential-images.html
 
 https://latent-consistency-models.github.io/ https://huggingface.co/papers/2310.04378

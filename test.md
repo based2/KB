@@ -254,6 +254,8 @@ https://brie.dev/2022-http-testing-hurl/
 
 https://redis.com/blog/datasets-for-test-databases/
 
+https://news.ycombinator.com/item?id=41405364 expect
+
 https://blog.janestreet.com/the-joy-of-expect-tests/
 > https://www.reddit.com/r/programming/comments/12de37u/what_if_writing_tests_was_a_joyful_experience/
 

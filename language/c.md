@@ -77,6 +77,9 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://lucidar.me/en/c-class/learn-c-programming/
+> https://news.ycombinator.com/item?id=41415498
+
 https://news.ycombinator.com/item?id=41336762
 
 https://news.ycombinator.com/item?id=40960270

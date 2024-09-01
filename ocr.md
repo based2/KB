@@ -47,6 +47,8 @@ https://news.ycombinator.com/item?id=28680136
 https://github.com/vegarsti/extract-table
 
 # QR
+https://news.ycombinator.com/item?id=41410442
+
 https://antfu.me/posts/ai-qrcode-refine
 
 https://blog.qartis.com/decoding-small-qr-codes-by-hand/

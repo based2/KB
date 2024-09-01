@@ -37,3 +37,5 @@ https://blog.emojipedia.org/new-emojis-in-2023/
 
 https://spiffy.tech/is-this-an-emoji
 > https://news.ycombinator.com/item?id=36923235
+
+https://news.ycombinator.com/item?id=41379902

@@ -62,10 +62,14 @@ https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Gu
 https://forum.misra.org.uk/thread-1668.html
 > https://news.ycombinator.com/item?id=38674158
 
+https://news.ycombinator.com/item?id=41398780
+
 # Test
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=41415238
+
 https://news.ycombinator.com/item?id=41074703
 
 https://github.com/Jaysmito101/rusty.hpp Borrow Checker and Memory Ownership System for C++20
