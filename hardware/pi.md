@@ -17,6 +17,8 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://lobste.rs/s/wzfrud/extreme_pi_boot_optimization
+
 https://news.ycombinator.com/item?id=41391822
 
 https://news.ycombinator.com/item?id=40901623

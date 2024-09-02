@@ -528,6 +528,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://lobste.rs/s/ci470u/place_expressions_value_expressions
+
 https://donsz.nl/blog/arenas/
 > https://news.ycombinator.com/item?id=41313861
 

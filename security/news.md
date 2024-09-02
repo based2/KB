@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41416327
+
 https://github.com/robinmoisson/staticrypt
 > https://news.ycombinator.com/item?id=41404064
 

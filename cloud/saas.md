@@ -42,3 +42,6 @@ https://www.infoq.com/news/2024/04/saas-cloud-native-qcon-london/
 
 https://news.ycombinator.com/item?id=41399859
 
+https://news.ycombinator.com/item?id=41426998
+
+

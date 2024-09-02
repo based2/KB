@@ -367,6 +367,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://git.peppe.rs/languages/tbsp/ Tbsp – treesitter-based source processing language
+> https://news.ycombinator.com/item?id=41421650
+
 https://news.ycombinator.com/item?id=41146278
 
 https://news.ycombinator.com/item?id=41084338

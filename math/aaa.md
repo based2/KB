@@ -177,6 +177,8 @@ https://news.ycombinator.com/item?id=41069829
 https://news.ycombinator.com/item?id=41096486
 
 # News
+https://news.ycombinator.com/item?id=41415207
+
 https://news.ycombinator.com/item?id=41407774
 
 https://news.ycombinator.com/item?id=41336657
