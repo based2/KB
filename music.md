@@ -264,6 +264,9 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 #
+https://chromatone.center/ Visual Music Language
+> https://news.ycombinator.com/item?id=41436158
+
 https://cardinal.kx.studio/
 
 https://www.osar.fr/notes/justintonation/

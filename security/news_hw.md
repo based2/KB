@@ -10,6 +10,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://ninjalab.io/eucleak/
+> https://news.ycombinator.com/item?id=41434500
+
 https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf
 > https://news.ycombinator.com/item?id=41398633
 
