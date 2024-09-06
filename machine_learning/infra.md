@@ -55,6 +55,8 @@ https://towardsdatascience.com/an-easy-way-to-comprehend-how-graphrag-works-6d53
 
 https://news.ycombinator.com/item?id=41262991
 
+https://news.ycombinator.com/item?id=41435899
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

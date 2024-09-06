@@ -1,3 +1,7 @@
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-backdoor-admin-account-in-smart-licensing-utility/
+
+https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/
+
 https://news.ycombinator.com/item?id=41416327
 
 https://github.com/robinmoisson/staticrypt

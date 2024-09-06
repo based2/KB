@@ -263,6 +263,9 @@ https://altair-viz.github.io/index.html
 https://circos.ca/
 > https://news.ycombinator.com/item?id=40914958
 
+https://zeppelin.apache.org/
+> https://news.ycombinator.com/item?id=41431888
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/

@@ -56,6 +56,9 @@ https://news.ycombinator.com/item?id=35224439
 https://news.ycombinator.com/item?id=41328185
 
 #
+https://dagitty.net/ draw and analyze causal diagrams
+> https://news.ycombinator.com/item?id=41443493
+
 https://mermaid.js.org/
 > https://news.ycombinator.com/item?id=41260127
 

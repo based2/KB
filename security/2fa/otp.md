@@ -22,6 +22,8 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/new-eucleak-attack-lets-threat-actors-clone-yubikey-fido-keys/
+
 https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html
 > https://news.ycombinator.com/item?id=41275846
 

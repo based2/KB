@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://news.ycombinator.com/item?id=41444855
+
 https://news.ycombinator.com/item?id=41415187
 
 https://defrag-game.com/

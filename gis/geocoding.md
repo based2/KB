@@ -28,6 +28,8 @@ https://news.ycombinator.com/item?id=41326604
 https://github.com/thampiman/reverse-geocoder
 > https://news.ycombinator.com/item?id=9281222
 
+https://news.ycombinator.com/item?id=41464585
+
 # Geolocation
 https://fabiensanglard.net/lte/index.html
 
