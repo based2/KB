@@ -100,6 +100,8 @@ Apache Airflow
 https://columns.ai/chatgpt
 > https://news.ycombinator.com/item?id=40405380
 
+https://news.ycombinator.com/item?id=41445445
+
 # Algo
 https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 > https://news.ycombinator.com/item?id=27294401

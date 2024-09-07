@@ -132,3 +132,5 @@ https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numb
 > https://news.ycombinator.com/item?id=36413260
 
 https://ihateregex.io/
+
+https://news.ycombinator.com/item?id=41454870

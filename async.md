@@ -57,6 +57,8 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 > https://news.ycombinator.com/item?id=29489815
 
 #
+https://news.ycombinator.com/item?id=41471707
+
 https://huonw.github.io/blog/2024/08/async-hazard-mmap/
 > https://news.ycombinator.com/item?id=41312124
 

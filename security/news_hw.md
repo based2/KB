@@ -10,6 +10,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://arxiv.org/pdf/2409.02292
+> https://www.bleepingcomputer.com/news/security/new-rambo-attack-steals-data-using-ram-in-air-gapped-computers/
+
 https://ninjalab.io/eucleak/
 > https://news.ycombinator.com/item?id=41434500
 

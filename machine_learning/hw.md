@@ -7,6 +7,9 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://arxiv.org/abs/2409.03384 Hardware Acceleration of LLMs: A comprehensive survey and comparison
+> https://news.ycombinator.com/item?id=41470074
+
 https://news.ycombinator.com/item?id=41411397
 
 https://news.ycombinator.com/item?id=41139894

@@ -118,6 +118,8 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://news.ycombinator.com/item?id=41460610
+
 https://farm.bot/
 > https://news.ycombinator.com/item?id=41150095
 
