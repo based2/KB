@@ -30,6 +30,8 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/
+
 https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/
 
 https://www.bleepingcomputer.com/news/security/d-link-says-it-is-not-fixing-four-rce-flaws-in-dir-846w-routers/

@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/
+> https://news.ycombinator.com/item?id=41475177
+
 https://news.ycombinator.com/item?id=41220549
 
 https://news.ycombinator.com/item?id=40958937

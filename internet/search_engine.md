@@ -105,6 +105,8 @@ https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-
 # ml
 https://news.ycombinator.com/item?id=41458083
 
+https://news.ycombinator.com/item?id=41448985 kagi
+
 # News
 https://news.ycombinator.com/item?id=41393475
 

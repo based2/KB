@@ -63,6 +63,9 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://github.com/Mintplex-Labs/anything-llm
+> https://news.ycombinator.com/item?id=41457633
+
 https://news.ycombinator.com/item?id=41407544
 
 https://news.ycombinator.com/item?id=41302782

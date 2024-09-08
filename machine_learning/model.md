@@ -294,6 +294,8 @@ https://news.ycombinator.com/item?id=41118609
 https://news.ycombinator.com/item?id=41218928
 
 # News
+https://news.ycombinator.com/item?id=41479431
+
 https://news.ycombinator.com/item?id=41432396
 
 https://aclanthology.org/2024.acl-long.245/ Graph Language Models

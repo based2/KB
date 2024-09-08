@@ -57,9 +57,15 @@ https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/
 > https://news.ycombinator.com/item?id=40954497
 
-https://news.ycombinator.com/item?id=40947540`
+https://news.ycombinator.com/item?id=40947540
+
+https://news.ycombinator.com/item?id=41448439
+
+https://news.ycombinator.com/item?id=41457331
 
 # News
+https://news.ycombinator.com/item?id=41459865
+
 https://news.ycombinator.com/item?id=41401941
 
 https://github.com/chrxh/alien

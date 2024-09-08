@@ -73,6 +73,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://news.ycombinator.com/item?id=41446916
+
 https://github.com/miciwan/PaintMixing
 > https://news.ycombinator.com/item?id=39515478
 

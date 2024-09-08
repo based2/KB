@@ -272,6 +272,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://piccalil.li/blog/building-a-breakout-element-with-container-units/
+
 https://news.ycombinator.com/item?id=41448740
 
 https://ishadeed.com/article/css-grid-area/

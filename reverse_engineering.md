@@ -55,6 +55,10 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://patricklam.ca/papers/24.onward.abs-debug.pdf
+
+https://news.ycombinator.com/item?id=41461251
+
 https://news.ycombinator.com/item?id=41318133
 
 https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html

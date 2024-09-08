@@ -11,6 +11,9 @@ https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-
 
 https://news.ycombinator.com/item?id=40688138
 
+https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html
+> https://news.ycombinator.com/item?id=41437611
+
 #
 https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html
 

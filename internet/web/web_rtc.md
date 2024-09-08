@@ -98,3 +98,5 @@ https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-1/
 > https://news.ycombinator.com/item?id=41152654
 
 https://news.ycombinator.com/item?id=41135671
+
+https://arunraghavan.net/2024/09/gstreamer-and-webrtc-http-signalling/

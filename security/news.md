@@ -1,3 +1,8 @@
+https://www.assertly.com/ scriptable monitoring for infosec, IT, compliance, DevOps
+> https://news.ycombinator.com/item?id=41456371
+
+https://news.ycombinator.com/item?id=41447458
+
 https://www.bleepingcomputer.com/news/security/cisco-warns-of-backdoor-admin-account-in-smart-licensing-utility/
 
 https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/

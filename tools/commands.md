@@ -42,6 +42,8 @@ https://cronprompt.com/
 https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/ Schedule Cronjob for the First Monday of Every Month, the Funky Way
 > https://news.ycombinator.com/item?id=32949338
 
+https://news.ycombinator.com/item?id=41460944
+
 # Awk
 https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
