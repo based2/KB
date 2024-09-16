@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=41547951
+
 https://www.airgradient.com/blog/airgradient-vs-airthings/
 > https://news.ycombinator.com/item?id=41279665
 

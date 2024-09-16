@@ -68,6 +68,8 @@ https://thenewstack.io/gpt-4o-and-sql-how-well-can-an-llm-alter-its-own-schema/
 https://news.ycombinator.com/item?id=37240363 sql
 
 # News
+https://news.ycombinator.com/item?id=41547841
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566
 > https://news.ycombinator.com/item?id=41465081
 

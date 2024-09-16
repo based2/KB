@@ -48,5 +48,7 @@ https://www.santafe.edu/research/results/working-papers/the-future-of-time-serie
 
 https://news.ycombinator.com/item?id=38252963 Bitemporal – Binary JSON database system and event store
 
+https://news.ycombinator.com/item?id=41539288
+
 # ml
 https://news.ycombinator.com/item?id=39787176

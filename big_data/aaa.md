@@ -349,6 +349,11 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=41530190
+
+https://www.ssp.sh/brain/data-engineering/
+> https://www.ssp.sh/brain/data-engineering/
+
 https://www.inkandswitch.com/jacquard/notebook/ Jacquard lab notebook: Version control and provenance for empirical research
 > https://news.ycombinator.com/item?id=41448545
 > > https://quarto.org/docs/manuscripts/authoring/rstudio.html

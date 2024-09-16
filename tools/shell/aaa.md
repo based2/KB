@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts
+> https://news.ycombinator.com/item?id=41512899
+
 https://news.ycombinator.com/item?id=41336497
 
 https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed

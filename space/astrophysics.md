@@ -73,6 +73,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=41522670
+
 https://news.ycombinator.com/item?id=41282416
 
 https://www.nasa.gov/get-involved/backyard-worlds-planet-9/

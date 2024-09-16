@@ -94,6 +94,8 @@ https://k6.io/ JS, Go
 > https://github.com/grafana/k6
 > https://dev.to/mxglt/k6-outil-simple-et-rapide-de-load-testing-1oad
 
+https://news.ycombinator.com/item?id=41519459
+
 # CDC
 https://martinfowler.com/articles/consumerDrivenContracts.html
 

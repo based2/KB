@@ -294,6 +294,15 @@ https://news.ycombinator.com/item?id=41118609
 https://news.ycombinator.com/item?id=41218928
 
 # News
+https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/
+> https://news.ycombinator.com/item?id=41514727
+
+https://news.ycombinator.com/item?id=41508695
+
+https://news.ycombinator.com/item?id=41544969
+
+https://news.ycombinator.com/item?id=41550364
+
 https://news.ycombinator.com/item?id=41479431
 
 https://news.ycombinator.com/item?id=41432396

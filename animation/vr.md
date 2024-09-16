@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41559144
+
 https://news.ycombinator.com/item?id=41446248 lovr
 
 https://news.ycombinator.com/item?id=41400475

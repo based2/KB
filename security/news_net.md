@@ -30,6 +30,16 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/
+> https://news.ycombinator.com/item?id=41520516
+
+https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption
+> https://news.ycombinator.com/item?id=41531699
+
+https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/
+
+https://www.bleepingcomputer.com/news/security/exploit-code-released-for-critical-ivanti-rce-flaw-patch-now/
+
 https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/
 
 https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/

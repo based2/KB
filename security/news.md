@@ -1,3 +1,10 @@
+https://news.ycombinator.com/item?id=41520246 Java
+
+https://news.ycombinator.com/item?id=41544364
+
+https://www.aquasec.com/blog/hadooken-malware-targets-weblogic-applications/
+> https://www.bleepingcomputer.com/news/security/new-linux-malware-hadooken-targets-oracle-weblogic-servers/
+
 https://www.assertly.com/ scriptable monitoring for infosec, IT, compliance, DevOps
 > https://news.ycombinator.com/item?id=41456371
 

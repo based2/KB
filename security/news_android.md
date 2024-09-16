@@ -16,6 +16,8 @@ https://github.com/ax/apk.sh/releases
 https://blog.isosceles.com/the-legacy-of-stagefright/
 
 # IOC
+https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.adoc
+
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #

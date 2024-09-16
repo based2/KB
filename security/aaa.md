@@ -1,3 +1,7 @@
+https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/
+
+https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/
+
 https://www.forbes.com/sites/thomasbrewster/2024/05/14/police-car-surveillance-tech-uncovers-phones-pet-trackers-and-library-books/?sh=1ff795413786
 
 https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/

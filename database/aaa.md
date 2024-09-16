@@ -73,6 +73,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/
+> https://news.ycombinator.com/item?id=41557345
+
 https://news.ycombinator.com/item?id=41309997
 
 https://github.com/buffdb/buffdb

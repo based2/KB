@@ -182,6 +182,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://crzphil.github.io/posts/ssh-obfuscation-bypass/
+> https://news.ycombinator.com/item?id=41508530
+
 https://github.com/quackduck/devzat Chat over SSH, with some nice quality-of-life features
 > https://news.ycombinator.com/item?id=40998158
 

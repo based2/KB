@@ -15,6 +15,12 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b
+> https://news.ycombinator.com/item?id=41532946
+
+https://jacobbartlett.substack.com/p/jailbreak-enemies-with-a-link-remote-execution
+> https://news.ycombinator.com/item?id=41557832
+
 https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html
 
 https://news.ycombinator.com/item?id=41184553

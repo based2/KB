@@ -29,6 +29,13 @@ https://louis-dr.github.io/ternalu3.html
 https://news.ycombinator.com/item?id=41201922
 
 # News
+https://news.ycombinator.com/item?id=41515447
+
+https://news.ycombinator.com/item?id=41557030
+
+https://wiki.xxiivv.com/site/fractran.html
+> https://news.ycombinator.com/item?id=41547008
+
 https://news.ycombinator.com/item?id=41472855
 
 https://news.ycombinator.com/item?id=41343444

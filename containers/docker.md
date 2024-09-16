@@ -56,6 +56,8 @@ https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-w
 https://github.com/iximiuz/docker-to-linux
 
 # I
+https://news.ycombinator.com/item?id=41524691
+
 https://news.ycombinator.com/item?id=41101494
 
 https://www.bleepingcomputer.com/news/security/docker-fixes-critical-5-year-old-authentication-bypass-flaw/
