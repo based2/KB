@@ -63,6 +63,13 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://news.ycombinator.com/item?id=41578446
+
+https://github.com/zml/zml
+> https://news.ycombinator.com/item?id=41566542
+
+https://news.ycombinator.com/item?id=41569175
+
 https://news.ycombinator.com/item?id=41512142
 
 https://github.com/Mintplex-Labs/anything-llm

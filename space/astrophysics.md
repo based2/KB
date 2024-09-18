@@ -52,6 +52,8 @@ https://arxiv.org/abs/2112.05829 Self-lensing flares from black hole binaries II
 
 https://www.mpifr-bonn.mpg.de/pressreleases/2024/4
 
+https://news.ycombinator.com/item?id=41566287
+
 ###
 https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
 

@@ -111,6 +111,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=41569151
+
 https://news.ycombinator.com/item?id=41178455
 
 https://news.ycombinator.com/item?id=40940784

@@ -150,6 +150,11 @@ https://github.com/xetdata/xetcache
 
 https://news.ycombinator.com/item?id=41045834
 
+https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/
+> https://news.ycombinator.com/item?id=41580166
+
+https://news.ycombinator.com/item?id=41579517
+
 ##
 http://zeppelin.apache.org/
 

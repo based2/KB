@@ -3,6 +3,8 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 #
+https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8
+
 https://news.ycombinator.com/item?id=40927076
 
 https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/

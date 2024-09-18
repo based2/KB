@@ -84,6 +84,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incident
+https://news.ycombinator.com/item?id=41583782
+
 https://www.reuters.com/world/middle-east/turkish-woman-arrested-criticising-instagram-ban-media-says-2024-08-13/
 
 https://news.ycombinator.com/item?id=41347909

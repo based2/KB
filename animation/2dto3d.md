@@ -39,3 +39,6 @@ https://www.capturingreality.com/introducing-realityscan
 https://www.r3dphoto.app/
 > https://news.ycombinator.com/item?id=30971542
 > > https://alicevision.org/#meshroom NVIDIA CUDA, oss
+
+https://kovenyu.com/wonderworld/
+> https://news.ycombinator.com/item?id=41569544

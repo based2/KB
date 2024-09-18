@@ -122,6 +122,10 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://news.ycombinator.com/item?id=41547596
+
+https://jeremymorrell.dev/blog/minimal-js-tracing/
+
 https://news.ycombinator.com/item?id=41535516
 
 https://hazelweakly.me/blog/why-is-browser-observability-hard/

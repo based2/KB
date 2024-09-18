@@ -202,6 +202,10 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=41569402
+
+https://news.ycombinator.com/item?id=41569056
+
 https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/
 
 https://news.ycombinator.com/item?id=41474828

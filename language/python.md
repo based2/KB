@@ -365,6 +365,11 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=41567711
+
+https://www.graalvm.org/python/ high-performance embeddable Python 3 runtime for Java
+> https://news.ycombinator.com/item?id=41570708
+
 https://www.b-list.org/weblog/2023/dec/24/python-container-types/
 
 https://news.ycombinator.com/item?id=41443012 libreoffice spreadsheet

@@ -264,6 +264,10 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 #
+https://news.ycombinator.com/item?id=41561647
+
+https://pbat.ch/sndkit/
+
 https://news.ycombinator.com/item?id=41443468
 
 https://chromatone.center/ Visual Music Language

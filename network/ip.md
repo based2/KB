@@ -111,6 +111,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 #
+https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726
+> https://news.ycombinator.com/item?id=41585249
+
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News

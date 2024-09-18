@@ -12,6 +12,8 @@ https://twobithistory.org/2021/03/08/arpanet-protocols.html
 > https://news.ycombinator.com/item?id=34637863
 
 # News
+https://news.ycombinator.com/item?id=41562287
+
 https://news.ycombinator.com/item?id=41453713
 
 https://news.ycombinator.com/item?id=41095429

@@ -33,6 +33,8 @@ https://github.com/confident-ai/deepeval
 
 https://news.ycombinator.com/item?id=39109304
 
+https://news.ycombinator.com/item?id=41567192
+
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -194,6 +196,9 @@ https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 > https://news.ycombinator.com/item?id=38533105
 
 # Meta
+https://mistral.ai/news/pixtral-12b/
+> https://news.ycombinator.com/item?id=41569723
+
 https://news.ycombinator.com/item?id=41009803
 
 https://blog.j11y.io/2023-11-22_multifaceted/
@@ -294,6 +299,10 @@ https://news.ycombinator.com/item?id=41118609
 https://news.ycombinator.com/item?id=41218928
 
 # News
+https://news.ycombinator.com/item?id=41583062
+
+https://news.ycombinator.com/item?id=41582180
+
 https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/
 > https://news.ycombinator.com/item?id=41514727
 
