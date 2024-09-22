@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://news.ycombinator.com/item?id=41593809
+
 https://news.ycombinator.com/item?id=41584486
 
 https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about

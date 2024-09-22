@@ -66,6 +66,9 @@ https://news.ycombinator.com/item?id=41457331
 https://news.ycombinator.com/item?id=41506157
 
 # News
+https://www.trebeljahr.com/posts/diatoms
+> https://news.ycombinator.com/item?id=41590807
+
 https://news.ycombinator.com/item?id=41459865
 
 https://news.ycombinator.com/item?id=41401941

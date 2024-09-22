@@ -4,6 +4,8 @@ https://www.simutrans.com/en/
 https://news.ycombinator.com/item?id=39323601
 
 #
+https://news.ycombinator.com/item?id=41597929
+
 https://www.fastcompany.com/91185144/the-worlds-largest-wind-powered-cargo-ship-just-made-its-first-delivery-across-the-atlantic
 
 https://www.popsci.com/technology/hydrogen-power-air-taxi/

@@ -70,6 +70,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=41587461
+
 https://clickhouse.com/blog/chdb-pandas-dataframes-87x-faster
 
 https://news.ycombinator.com/item?id=41278576

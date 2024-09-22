@@ -57,6 +57,8 @@ https://news.ycombinator.com/item?id=41262991
 
 https://news.ycombinator.com/item?id=41435899
 
+https://news.ycombinator.com/item?id=41602474
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

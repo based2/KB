@@ -38,3 +38,5 @@ https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide
 https://github.com/dshieble/playwright_xss_scanner
 
 https://lobste.rs/s/98rp8f/cors_is_stupid
+
+https://github.com/juice-shop/juice-shop

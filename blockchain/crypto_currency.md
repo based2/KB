@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bleepingcomputer.com/news/security/germany-seizes-47-crypto-exchanges-used-by-ransomware-gangs/
+
 https://news.ycombinator.com/item?id=41554066
 
 https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/

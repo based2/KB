@@ -1,3 +1,6 @@
+https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/
+> https://news.ycombinator.com/item?id=41586031
+
 https://news.ycombinator.com/item?id=40738534
 
 https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak

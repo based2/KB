@@ -1,3 +1,8 @@
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-apache-hugegraph-server-bug/
+
+https://www.greynoise.io/blog/greynoise-reveals-new-internet-noise-storm-secret-messages-and-the-china-connection
+> https://github.com/GreyNoise-Intelligence/2024-09-noise-storms
+
 https://news.ycombinator.com/item?id=41520246 Java
 
 https://news.ycombinator.com/item?id=41544364

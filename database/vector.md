@@ -37,6 +37,8 @@ https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984
 
 https://news.ycombinator.com/item?id=38420554
 
+https://news.ycombinator.com/item?id=41599605
+
 https://news.ycombinator.com/item?id=38416994
 
 https://montyanderson.net/writing/embeddings
