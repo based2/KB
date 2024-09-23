@@ -89,6 +89,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://blog.jim-nielsen.com/2024/sanding-ui/
+> https://news.ycombinator.com/item?id=41612154
+
 https://news.ycombinator.com/item?id=41389642
 
 https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e
