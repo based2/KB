@@ -108,3 +108,5 @@ https://github.com/spieglt/FlyingCarpet
 https://github.com/magic-wormhole/magic-wormhole
 > https://news.ycombinator.com/item?id=41275920
 
+https://news.ycombinator.com/item?id=41690701
+

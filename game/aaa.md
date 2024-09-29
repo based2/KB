@@ -46,6 +46,9 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/
+> https://news.ycombinator.com/item?id=41648048
+
 https://crpgbook.wordpress.com/
 > https://news.ycombinator.com/item?id=41669990
 

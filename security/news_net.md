@@ -30,6 +30,8 @@ https://engineering.purdue.edu/kak/compsec/
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
 #
+https://news.ycombinator.com/item?id=41683888
+
 https://news.ycombinator.com/item?id=41605680
 
 https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/

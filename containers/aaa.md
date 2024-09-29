@@ -61,7 +61,12 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
+#
+https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
+
 # News
+https://news.ycombinator.com/item?id=41689159
+
 https://dev.37signals.com/kamal-2/
 
 https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html

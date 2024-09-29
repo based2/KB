@@ -598,6 +598,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
+> https://news.ycombinator.com/item?id=41684082
+
 https://news.ycombinator.com/item?id=41638199 AI Real Estate Agent for Home Buyers
 
 https://blog.mozilla.org/en/mozilla/14-ai-projects-to-watch-mozillas-first-builders-accelerator-cohort-kicks-off/

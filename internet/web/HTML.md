@@ -163,6 +163,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=41683144
+> https://hotwired.dev/
+
 https://news.ycombinator.com/item?id=41512213
 
 https://lobste.rs/s/oeprnw/i_html_inline_html_import_element

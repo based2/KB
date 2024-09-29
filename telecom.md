@@ -266,6 +266,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/
+> https://news.ycombinator.com/item?id=41645523
+
 https://hack-gpon.org/
 > https://news.ycombinator.com/item?id=41642487
 

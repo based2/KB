@@ -182,6 +182,8 @@ https://news.ycombinator.com/item?id=41096486
 https://news.ycombinator.com/item?id=41540902
 
 # News
+https://github.com/ManimCommunity/manim
+
 https://news.ycombinator.com/item?id=41476809
 
 https://news.ycombinator.com/item?id=41470518

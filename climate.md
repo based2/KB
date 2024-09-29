@@ -71,6 +71,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/
+> https://news.ycombinator.com/item?id=41685296
+
 https://www.theverge.com/2024/9/26/24255325/zillow-real-estate-climate-risk-insurance
 
 https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/

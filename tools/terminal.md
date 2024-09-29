@@ -86,7 +86,6 @@ https://news.ycombinator.com/item?id=39975887
 https://news.ycombinator.com/item?id=39966918
 
 https://xd1.dev/2024/03/hyprland-crash-course
->
 
 https://github.com/Victormeriqui/Consol3
 > https://news.ycombinator.com/item?id=39488529
@@ -248,3 +247,4 @@ https://github.com/maaslalani/slides go
 https://github.com/charmbracelet/gum
 > https://news.ycombinator.com/item?id=39572528
 
+https://news.ycombinator.com/item?id=41639976

@@ -183,6 +183,11 @@ https://mmapped.blog/posts/25-domain-types.html
 https://www.inner-product.com/posts/direct-style-effects/
 > https://news.ycombinator.com/item?id=40156508
 
+https://www.roc-lang.org/
+
+>34.107.243.93:443                      en8   Established        1249 B          2222 B       0 B       0 B       0 B    25.06 ms   128 KiB
+   tcp4 192.168.1.10:49585<->96.17.206.24:80
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

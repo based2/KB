@@ -144,6 +144,9 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://gitlab.com/zephray/sitina1
+> https://news.ycombinator.com/item?id=41688018
+
 https://github.com/rejunity/z80-open-silicon
 > https://news.ycombinator.com/item?id=40187656
 
