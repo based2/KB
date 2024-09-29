@@ -7,6 +7,14 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey)
+> https://news.ycombinator.com/item?id=41630913
+
+https://www.semafor.com/article/09/27/2024/elon-musks-new-memphis-data-center-hits-an-ai-milestone-with-nvidia-chips
+> https://news.ycombinator.com/item?id=41677481
+
+https://news.ycombinator.com/item?id=41669522
+
 https://arxiv.org/abs/2409.03384 Hardware Acceleration of LLMs: A comprehensive survey and comparison
 > https://news.ycombinator.com/item?id=41470074
 

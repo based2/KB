@@ -67,3 +67,5 @@ https://blog.carlana.net/post/2023/web-component-alternative-futures/
 https://blog.jim-nielsen.com/2023/html-web-components/
 
 https://news.ycombinator.com/item?id=39987735
+
+https://news.ycombinator.com/item?id=41644099

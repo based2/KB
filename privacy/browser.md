@@ -30,6 +30,9 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
   
 # News
+https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature
+> https://news.ycombinator.com/item?id=41643991
+
 https://news.ycombinator.com/item?id=41311479
 
 https://news.ycombinator.com/item?id=41293847

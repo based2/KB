@@ -680,6 +680,11 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://www.scala-js.org/news/2024/09/28/announcing-scalajs-1.17.0/
+
+https://github.com/nginx/njs
+> https://news.ycombinator.com/item?id=41671294
+
 https://news.ycombinator.com/item?id=41539033
 
 https://news.ycombinator.com/item?id=41554177

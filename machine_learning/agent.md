@@ -62,3 +62,5 @@ https://arxiv.org/abs/2407.16741
 > https://github.com/OpenDevin/OpenDevin
 
 https://news.ycombinator.com/item?id=41195988
+
+https://news.ycombinator.com/item?id=41631948

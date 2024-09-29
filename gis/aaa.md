@@ -125,6 +125,8 @@ https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-
 > https://news.ycombinator.com/item?id=37015290
 
 # Maps
+https://news.ycombinator.com/item?id=41602519
+
 https://www.abc.net.au/news/2023-12-28/google-maps-sending-people-wrong-way-quairading-shire/103207090
 > https://news.ycombinator.com/item?id=38791519
 
@@ -243,6 +245,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://news.ycombinator.com/item?id=41635592
+
 https://news.ycombinator.com/item?id=41532958
 
 https://news.ycombinator.com/item?id=41283675

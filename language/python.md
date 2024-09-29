@@ -51,6 +51,9 @@ https://github.com/robusta-dev/debug-toolkit
 https://blog.koehntopp.info/2023/03/14/tracing-python.html
 > https://news.ycombinator.com/item?id=36054868
 
+https://github.com/cle-b/httpdbg
+> https://news.ycombinator.com/item?id=41650905
+
 # Testing
 https://news.ycombinator.com/item?id=26565785
 
@@ -338,6 +341,8 @@ https://news.ycombinator.com/item?id=39732932
 
 https://news.ycombinator.com/item?id=40054531
 
+https://simonwillison.net/2024/Sep/24/nanodjango/
+
 # Interop
 https://news.ycombinator.com/item?id=35651791 go
 
@@ -365,6 +370,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://kristoff.it/blog/python-training-wheels/
+> https://news.ycombinator.com/item?id=41629698
+
 https://news.ycombinator.com/item?id=41567711
 
 https://www.graalvm.org/python/ high-performance embeddable Python 3 runtime for Java

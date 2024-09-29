@@ -13,6 +13,8 @@ https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://blog.cloudflare.com/gen-12-servers/
+
 https://blog.cloudflare.com/backbone2024
 
 https://news.ycombinator.com/item?id=39029961

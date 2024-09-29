@@ -53,3 +53,5 @@ https://news.ycombinator.com/item?id=40092449
 
 https://news.ycombinator.com/item?id=41581504
 
+https://opensourcewatch.beehiiv.com/p/valkey-8-sets-a-new-bar-for-open-source-in-memory-nosql-data-storage
+

@@ -115,6 +115,9 @@ https://news.ycombinator.com/item?id=39611662
 
 https://news.ycombinator.com/item?id=41086060
 
+https://coe.psu.ac.th/ad/invhyper/
+> https://news.ycombinator.com/item?id=41675029
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=41649983
+
+https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/
+> https://news.ycombinator.com/item?id=41650047
+
 https://news.ycombinator.com/item?id=41559144
 
 https://news.ycombinator.com/item?id=41446248 lovr

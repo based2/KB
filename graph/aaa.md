@@ -126,6 +126,9 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://graphcoloringmethods.com/
+> https://news.ycombinator.com/item?id=41608784
+
 https://neo4j.com/blog/what-is-knowledge-graph/
 > https://news.ycombinator.com/item?id=41268929
 

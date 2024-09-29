@@ -344,6 +344,8 @@ https://github.com/squaredtechnologies/thread AI-powered Jupyter Notebook built 
 
 https://news.ycombinator.com/item?id=41083726
 
+https://news.ycombinator.com/item?id=41622080
+
 # sec
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
 
@@ -354,6 +356,11 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://vutr.substack.com/p/how-clickhouse-built-their-internal
+>  https://news.ycombinator.com/item?id=41639994
+
+https://news.ycombinator.com/item?id=41671606 Quadratic – native JavaScript support in a spreadsheet
+
 https://news.ycombinator.com/item?id=41602056
 
 https://news.ycombinator.com/item?id=41590682

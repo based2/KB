@@ -598,6 +598,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=41638199 AI Real Estate Agent for Home Buyers
+
+https://blog.mozilla.org/en/mozilla/14-ai-projects-to-watch-mozillas-first-builders-accelerator-cohort-kicks-off/
+
+https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639
+> https://news.ycombinator.com/item?id=41655954
+
 https://news.ycombinator.com/item?id=41404554
 
 https://news.ycombinator.com/item?id=41411478

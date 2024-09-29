@@ -128,6 +128,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation
+> https://news.ycombinator.com/item?id=41654078
+
 https://news.ycombinator.com/item?id=41542504
 
 https://news.ycombinator.com/item?id=41542409

@@ -1,5 +1,8 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://smoothbrains.net/posts/2024-09-26-hypercomputation-without-bothering-the-cactus-people.html
+> https://news.ycombinator.com/item?id=41664550
+
 https://www.nature.com/articles/s41467-024-51175-2
 
 https://scitechdaily.com/mit-uncovers-photomolecular-effect-light-can-vaporize-water-without-heat/

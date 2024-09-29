@@ -73,6 +73,10 @@ https://www.dol.gov/agencies/eta/tradeact/petitioners
 https://www.gouvernement.fr/actualite/agora-lappli-pour-dialoguer-avec-le-gouvernement
 
 # News
+https://news.ycombinator.com/item?id=41675987
+
+https://news.ycombinator.com/item?id=41659324
+
 https://news.ycombinator.com/item?id=41393172
 
 https://news.ycombinator.com/item?id=41348173

@@ -71,6 +71,13 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.theverge.com/2024/9/26/24255325/zillow-real-estate-climate-risk-insurance
+
+https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/
+> https://news.ycombinator.com/item?id=41620955
+
+https://interactive.carbonbrief.org/coal-phaseout-UK/
+
 https://news.ycombinator.com/item?id=41547951
 
 https://www.airgradient.com/blog/airgradient-vs-airthings/

@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 #
+https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident
+> https://news.ycombinator.com/item?id=41656032
+
 https://www.devever.net/~hl/traintoilet
 > https://news.ycombinator.com/item?id=39163797
 

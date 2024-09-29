@@ -242,3 +242,5 @@ https://www.microsoft.com/en-us/research/project/vasa-1/
 
 https://videogigagan.github.io/
 > https://news.ycombinator.com/item?id=40130803
+
+https://getdecipher.com/blog/lessons-from-using-google-gemini-for-video-analysis

@@ -1,3 +1,6 @@
+https://shizuku.rikka.app/ App that lets you use system APIs with higher privileges without root
+> https://news.ycombinator.com/item?id=41616023
+
 https://waydro.id/ to linux
 
 https://margin.re/2024/05/dalvik-disassembly/
@@ -24,3 +27,7 @@ https://skydoves.medium.com/7-android-resources-to-level-up-as-a-developer-4ce6d
 > https://news.ycombinator.com/item?id=33942293
 
 https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development
+
+https://linuxphoneapps.org/
+
+https://news.ycombinator.com/item?id=41619131

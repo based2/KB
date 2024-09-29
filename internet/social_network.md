@@ -84,6 +84,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incident
+https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/
+
 https://news.ycombinator.com/item?id=41583782
 
 https://www.reuters.com/world/middle-east/turkish-woman-arrested-criticising-instagram-ban-media-says-2024-08-13/

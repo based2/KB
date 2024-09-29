@@ -1,3 +1,5 @@
+An introduction to large language models and their relevance for statistical https://op.europa.eu/en/publication-detail/-/publication/f4a703b3-ea60-11ee-bf53-01aa75ed71a1/language-en
+
 https://mistral.ai/news/announcing-mistral-7b/
 
 https://huggingface.co/
@@ -50,6 +52,9 @@ https://nightshade.cs.uchicago.edu/whatis.html
 > https://glaze.cs.uchicago.edu/what-is-glaze.html
 
 # llama Facebook - Forbids commercial use, weights required
+https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1
+> https://news.ycombinator.com/item?id=41649763
+
 https://llama.meta.com/llama3/ v3
 > https://news.ycombinator.com/item?id=40077533
 
@@ -301,6 +306,13 @@ https://news.ycombinator.com/item?id=41218928
 https://news.ycombinator.com/item?id=41598404
 
 # News
+https://www.amazon.science/blog/how-task-decomposition-and-smaller-llms-can-make-ai-more-affordable
+
+https://www.amazon.science/blog/accounting-for-cognitive-bias-in-human-evaluation-of-large-language-models
+
+https://molmo.allenai.org/blog
+> https://news.ycombinator.com/item?id=41647649
+
 https://news.ycombinator.com/item?id=41573013
 
 https://news.ycombinator.com/item?id=41583062

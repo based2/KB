@@ -10,6 +10,8 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://news.ycombinator.com/item?id=41642193
+
 https://news.ycombinator.com/item?id=41565056 debug
 
 https://news.ycombinator.com/item?id=41413662

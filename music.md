@@ -264,6 +264,11 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 #
+https://midinous.com/
+> https://news.ycombinator.com/item?id=41644620
+
+https://news.ycombinator.com/item?id=41656381
+
 https://news.ycombinator.com/item?id=41561647
 
 https://pbat.ch/sndkit/

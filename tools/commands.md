@@ -44,6 +44,8 @@ https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/ Schedule C
 
 https://news.ycombinator.com/item?id=41460944
 
+https://news.ycombinator.com/item?id=41654723
+
 # Awk
 https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
@@ -61,6 +63,8 @@ https://drew.shoes/posts/sup/ net send win
 https://news.ycombinator.com/item?id=40764113
 
 # News
+https://news.ycombinator.com/item?id=41639019 fd
+
 https://news.ycombinator.com/item?id=41420744 dc
 
 https://codeberg.org/201984/dut

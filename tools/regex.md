@@ -134,3 +134,6 @@ https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numb
 https://ihateregex.io/
 
 https://news.ycombinator.com/item?id=41454870
+
+https://rosie-lang.org/
+> https://news.ycombinator.com/item?id=41675337

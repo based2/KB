@@ -64,3 +64,5 @@ https://www.scryer.pl/
 > https://news.ycombinator.com/item?id=34640416
 
 https://news.ycombinator.com/item?id=35623625
+
+https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/

@@ -39,6 +39,8 @@ https://frida.re/news/2023/06/23/frida-16-1-0-released/
 
 https://news.ycombinator.com/item?id=41509742
 
+https://news.ycombinator.com/item?id=41648711
+
 # Legacy
 https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
@@ -57,6 +59,11 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=41681514
+
+https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/
+> https://news.ycombinator.com/item?id=41627027
+
 https://news.ycombinator.com/item?id=41564003
 
 https://patricklam.ca/papers/24.onward.abs-debug.pdf

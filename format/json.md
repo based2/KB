@@ -75,6 +75,8 @@ http://argonaut.io/doc/quickstart/ scala
 # Visu
 https://github.com/AykutSarac/jsoncrack.com
 
+https://news.ycombinator.com/item?id=41634356
+
 # News
 https://bump.sh/blog/how-to-use-json-path
 > https://news.ycombinator.com/item?id=40245637

@@ -1,13 +1,16 @@
 
 https://sonomotors.com/ solar
+
 https://lightyear.one/
+
+https://www.eff.org/deeplinks/2024/03/how-figure-out-what-your-car-knows-about-you-and-opt-out-sharing-when-you-can
 
 # CAN bus
 
 # CAM
 https://github.com/grbl/grbl
 
-# autonomy
+# Autonomy
 https://once-for-auto-driving.github.io/index.html
 > https://news.ycombinator.com/item?id=27587316
 
@@ -16,6 +19,10 @@ https://news.ycombinator.com/item?id=27580744
 # Charging Network
 https://www.reuters.com/business/autos-transportation/tesla-opens-charging-network-other-evs-netherlands-2021-11-01/
 > https://news.ycombinator.com/item?id=29078287
+
+#
+https://samcurry.net/hacking-kia
+> https://news.ycombinator.com/item?id=41658733
 
 # News
 https://news.ycombinator.com/item?id=41085806

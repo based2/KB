@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/nobuyuki83/floor_plan
+> https://news.ycombinator.com/item?id=41627549
+
 https://news.ycombinator.com/item?id=41406281
 
 https://news.ycombinator.com/item?id=41252731

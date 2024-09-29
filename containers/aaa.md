@@ -62,6 +62,8 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://dev.37signals.com/kamal-2/
+
 https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html
 > https://old.reddit.com/r/netsec/comments/1ebq5ya/unfashionably_secure_why_we_use_isolated_vms/
 >

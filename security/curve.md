@@ -37,6 +37,12 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography
+
+https://keymaterial.net/2024/09/14/unbindable-kemmy-schmidt/
+
+https://old.reddit.com/r/crypto/comments/1fo6di2/reason_for_not_using_curve_448/
+
 https://news.ycombinator.com/item?id=41527675
 
 https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/

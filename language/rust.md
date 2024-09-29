@@ -321,6 +321,9 @@ https://danielkeep.github.io/tlborm/book/README.html macros
 # Interop
 https://news.ycombinator.com/item?id=26565444 CXX C++
 
+https://github.com/astonbitecode/j4rs
+> https://news.ycombinator.com/item?id=41662779
+
 https://www.fluvio.io/blog/2021/05/java-client/
 > https://www.reddit.com/r/java/comments/n4wf6h/embedding_rust_code_in_java_jar_for_distribution/
 
@@ -528,6 +531,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=41654871
+
 https://news.ycombinator.com/item?id=41541883
 
 https://news.ycombinator.com/item?id=41535354

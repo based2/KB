@@ -367,6 +367,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html
+> https://news.ycombinator.com/item?id=41668304
+
 https://git.peppe.rs/languages/tbsp/ Tbsp – treesitter-based source processing language
 > https://news.ycombinator.com/item?id=41421650
 

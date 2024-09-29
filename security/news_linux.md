@@ -43,6 +43,12 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 https://news.ycombinator.com/item?id=40014724
 
 # News
+https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/
+> https://news.ycombinator.com/item?id=41662596
+> https://news.ycombinator.com/item?id=41668622
+
+https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/ bosslinux DirtyPipe CVE-2022-0847
+
 https://news.ycombinator.com/item?id=41560659
 
 https://news.ycombinator.com/item?id=41446428

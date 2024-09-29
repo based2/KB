@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 #
+https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html
+> https://news.ycombinator.com/item?id=41678840
+
 https://owasp.org/www-community/attacks/Password_Spraying_Attack
 
 https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/
@@ -35,6 +38,8 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://arstechnica.com/security/2024/09/nist-proposes-barring-some-of-the-most-nonsensical-password-rules/
+
 https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/
 
 https://news.ycombinator.com/item?id=41073006

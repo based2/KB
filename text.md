@@ -145,6 +145,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.bibtex.com/e/entry-types/
+
 https://eggcorns.lascribe.net/
 > https://news.ycombinator.com/item?id=40720548
 

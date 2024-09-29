@@ -266,6 +266,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://hack-gpon.org/
+> https://news.ycombinator.com/item?id=41642487
+
 https://news.ycombinator.com/item?id=41423303
 
 https://news.ycombinator.com/item?id=41398351

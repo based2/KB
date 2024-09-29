@@ -73,6 +73,9 @@ http://harelba.github.io/q/
 https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 
 # News
+https://github.com/ben-n93/SQL-tips-and-tricks
+> https://news.ycombinator.com/item?id=41643651
+
 https://news.ycombinator.com/item?id=41291321
 
 https://news.ycombinator.com/item?id=41230169

@@ -54,3 +54,5 @@ https://www.rfc-editor.org/rfc/rfc9518.html
 > https://news.ycombinator.com/item?id=38814367
 
 https://news.ycombinator.com/item?id=40184916
+
+https://www.rfc-editor.org/rfc/rfc9659.txt Window Sizing for Zstandard Content Encoding

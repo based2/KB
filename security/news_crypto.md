@@ -1,3 +1,5 @@
+https://www.zellic.io/blog/gnark-bug-groth16-commitments/
+
 https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/
 > https://news.ycombinator.com/item?id=41586031
 

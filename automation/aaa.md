@@ -31,6 +31,10 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://www.systeminit.com/blog-system-initiative-is-the-future
+> https://news.ycombinator.com/item?id=41648483
+> > https://github.com/systeminit/si ASL Rust Erlang
+
 https://news.ycombinator.com/item?id=41567387
 
 https://news.ycombinator.com/item?id=41235038

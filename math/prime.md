@@ -40,3 +40,5 @@ https://glitchcomet.com/articles/1024-bit-primes/
 https://news.ycombinator.com/item?id=40981272
 
 https://news.ycombinator.com/item?id=41126944
+
+https://old.reddit.com/r/crypto/comments/1f909hl/encryption_question/

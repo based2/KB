@@ -111,6 +111,9 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/
+> https://news.ycombinator.com/item?id=41657833
+
 https://news.ycombinator.com/item?id=41593809
 
 https://news.ycombinator.com/item?id=41584486

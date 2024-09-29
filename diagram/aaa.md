@@ -56,6 +56,14 @@ https://news.ycombinator.com/item?id=35224439
 https://news.ycombinator.com/item?id=41328185
 
 #
+https://www.systeminit.com/blog-system-initiative-is-the-future
+> https://news.ycombinator.com/item?id=41648483
+> > https://github.com/systeminit/si ASL Rust Erlang
+
+https://news.ycombinator.com/item?id=41675638
+
+https://news.ycombinator.com/item?id=41649509
+
 https://dagitty.net/ draw and analyze causal diagrams
 > https://news.ycombinator.com/item?id=41443493
 

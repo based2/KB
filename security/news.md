@@ -1,3 +1,19 @@
+https://www.thestack.technology/british-library-ransomware/
+
+https://www.nationaldefensemagazine.org/articles/2023/8/8/cmmc-20-a--well-intentioned--misstep-in--cybersecurity
+
+https://larslofgren.com/cnn-usa-today-forbes-marketplace/
+> https://news.ycombinator.com/item?id=41670210
+
+https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/
+> https://news.ycombinator.com/item?id=41669934
+
+https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/
+> https://news.ycombinator.com/item?id=41649134
+
+https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html
+> https://news.ycombinator.com/item?id=41650647
+
 https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-apache-hugegraph-server-bug/
 
 https://www.greynoise.io/blog/greynoise-reveals-new-internet-noise-storm-secret-messages-and-the-china-connection

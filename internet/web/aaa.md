@@ -200,6 +200,11 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://blog.cloudflare.com/new-standards/
+
+https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents
+> https://news.ycombinator.com/item?id=41670140
+
 https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/
 
 https://news.ycombinator.com/item?id=40003743

@@ -202,6 +202,15 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://old.reddit.com/r/crypto/comments/1f51994/falcon_vs_dilithium_vs_sphincs/
+
+https://words.filippo.io/dispatches/fips-hkdf/
+
+https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/
+
+https://www.meme.net.au/nkrypt/
+> https://news.ycombinator.com/item?id=41658766
+
 https://news.ycombinator.com/item?id=41569402
 
 https://news.ycombinator.com/item?id=41569056

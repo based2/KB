@@ -46,6 +46,11 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://crpgbook.wordpress.com/
+> https://news.ycombinator.com/item?id=41669990
+
+https://news.ycombinator.com/item?id=41608496
+
 https://news.ycombinator.com/item?id=41537889
 
 https://news.ycombinator.com/item?id=41536003
