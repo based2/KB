@@ -198,6 +198,8 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 
 https://news.ycombinator.com/item?id=38610253
 
+https://news.ycombinator.com/item?id=41668896
+
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
 

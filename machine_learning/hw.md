@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=41669522
+
 https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey)
 > https://news.ycombinator.com/item?id=41630913
 

@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=41696046
+
 https://quoteinvestigator.com/2024/09/16/hot-sf/ google name
 > https://news.ycombinator.com/item?id=41567301
 

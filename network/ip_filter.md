@@ -1485,6 +1485,8 @@ block from any to 3.219.33.134
 block from any to 3.219.96.23
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 3.219.215.164
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/web.j-ic.co/details
+block from any to 3.218.219.100
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 3.219.234.172
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -2657,8 +2659,12 @@ block from any to 5.161.231.57
 block from any to 5.161.242.2
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 5.161.245.54
+# https://threatfox.abuse.ch/browse/tag/QakBot/
+block from any to 5.163.116.174
 # A.ch TF
 block from any to 5.163.160.142
+# https://threatfox.abuse.ch/browse/tag/QakBot/
+block from any to 5.163.239.151
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 5.163.244.86
 # https://threatfox.abuse.ch/browse/tag/QakBot/
@@ -3821,6 +3827,8 @@ block from any to 13.248.169.48
 block from any to 13.248.213.45
 # https://red.flag.domains/posts/2024-06-25/ credltmutuel[.fr] (registrar: KEY-SYSTEMS GmbH)
 block from any to 13.248.243.5
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/details
+block from any to 13.248.252.114
 # https://unit42.paloaltonetworks.com/malicious-apks-steal-pii-from-chinese-users/
 block from any to 13.250.172.152
 # abuse.ch TF
@@ -5124,6 +5132,8 @@ block from any to 23.94.255.161
 block from any to 23.95.6.204
 # US https://www.abuseipdb.com/check/
 block from any to 23.95.11.219
+# https://blog.sekoia.io/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites/
+block from any to 23.95.14.63
 # https://malpulse.com/blog/175/ Havoc
 block from any to 23.95.48.151
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -5572,6 +5582,8 @@ block from any to 24.222.52.172
 block from any to 24.226.148.214
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 24.229.64.109
+# https://blog.sekoia.io/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites/
+block from any to 24.246.223.228
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 27.0.235.26
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -7102,6 +7114,8 @@ block from any to 34.213.221.29
 block from any to 34.226.28.43
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 34.230.177.18
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/web.j-ic.co/details
+block from any to 34.232.108.216
 # https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-scam-strikes-back-exploiting-the-crowdstrike-outage/ pay.crowdstrikerecovery(.)com pay.clown-strike(.)com pay.strikeralliance().com
 block from any to 34.234.126.233
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/h/social-media-malvertising-campaign/ioc-social-media-malvertising -campaign-fake-ai-editor-website-credential-theft.txt itstrq.itsm-us1.comodo(.)com
@@ -7137,6 +7151,8 @@ block from any to 34.202.112.58
 block from any to 34.203.226.105
 # https://red.flag.domains/posts/ 2024-04-27 securpass-verificationsocgen[.fr] (registrar: AMEN / Agence des Médias Numériques dossier-amendes[.fr] (registrar: AMEN / Agence des Médias Numériques 2024-04-15/ aide-remboursement[.fr] (registrar: AMEN / Agence des Médias Numériques
 block from any to 34.229.175.179
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/web.j-ic.co/details
+block from any to 34.231.162.48
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 34.239.169.49
 # abuse.ch TF
@@ -8076,6 +8092,8 @@ block from any to 35.224.58.250
 block from any to 35.224.102.153
 # US https://www.abuseipdb.com/check/
 block from any to 35.224.155.46
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html cloud.dnx(.)capital
+block from any to 35.225.54.236
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 35.225.180.133
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
@@ -12321,6 +12339,8 @@ block from any to 44.208.36.8
 block from any to 44.208.111.84
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
 block from any to 44.209.117.168
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/relations
+block from any to 44.208.124.139
 block from any to 44.209.175.166
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
 block from any to 44.210.131.85
@@ -12328,9 +12348,9 @@ block from any to 44.210.131.85
 block from any to 44.211.3.42
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
 block from any to 44.211.176.196
-# US DFA https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
+# US DFA https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html one.microshare(.)cloud https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 block from any to 44.227.65.245
-# US DFA https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
+# US DFA https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html one.microshare(.)cloud https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 block from any to 44.227.76.166
 # abuse.ch TF
 block from any to 44.237.77.84
@@ -12862,7 +12882,9 @@ block from any to 45.64.241.90
 block from any to 45.65.9.79
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 45.65.159.95
-# https://threatfox.abuse.ch/browse/malware/win.remcos/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 45.66.217.106
+# https://threatfox.abuse.ch/browse/malware/win.redline_stealer/ https://threatfox.abuse.ch/browse/malware/win.remcos/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 45.66.231.0/24
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 45.66.231.39
@@ -13053,6 +13075,8 @@ block from any to 45.76.196.164
 block from any to 45.76.202.187
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.76.209.51
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 45.76.222.130
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/goloser.ru/relations https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 45.76.232.0/24
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/goloser.ru/relations
@@ -13067,12 +13091,18 @@ block from any to 45.76.254.236
 block from any to 45.77.9.96
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.77.11.52
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 45.77.12.212
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 45.77.18.127
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 45.77.36.13
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 45.77.40.77
+# https://blog.sekoia.io/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets/ https://asec.ahnlab.com/en/66843/
+block from any to 45.77.44.0/24
+# https://blog.sekoia.io/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets/
+block from any to 45.77.44.119
 # https://asec.ahnlab.com/en/66843/
 block from any to 45.77.44.127
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
@@ -13115,6 +13145,10 @@ block from any to 45.77.170.22
 block from any to 45.77.170.174
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.77.174.46
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html https://threatfox.abuse.ch/browse/malware/win.shadowpad/
+block from any to 45.77.183.0/24
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 45.77.183.161
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 45.77.183.245
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -14535,6 +14569,8 @@ block from any to 45.150.67.118
 block from any to 45.150.67.229
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 45.151.44.159
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 45.151.62.238
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 45.151.180.220
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -15285,6 +15321,8 @@ block from any to 46.29.163.28
 block from any to 46.29.163.195
 # https://github.com/eset/malware-ioc/tree/master/gamaredon
 block from any to 46.29.234.46
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 46.29.234.129
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/rieturc.ru/relations
 block from any to 46.29.234.154
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
@@ -18378,6 +18416,8 @@ block from any to 51.255.62.12
 block from any to 51.255.109.175
 # France https://www.abuseipdb.com/check/
 block from any to 51.255.167.42
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/ irc.bashgo[.]pw
+block from any to 51.255.171.23
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 51.255.200.161
 block from any to 52.0.16.118
@@ -19586,6 +19626,8 @@ block from any to 54.235.61.26
 block from any to 54.235.61.214
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 54.235.77.118
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/web.j-ic.co/details
+block from any to 54.235.218.64
 # US https://www.abuseipdb.com/check/
 block from any to 54.236.21.15
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -20506,6 +20548,8 @@ block from any to 62.84.100.0/24
 block from any to 62.84.100.129
 # Netherlands https://github.com/eset/malware-ioc/tree/master/grandoreiro
 block from any to 62.84.100.225
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 62.84.103.154
 # https://threatfox.abuse.ch/browse/tag/Mythic/
 block from any to 62.84.121.110
 # Spain https://www.abuseipdb.com/check/
@@ -20599,12 +20643,46 @@ block from any to 62.122.213.56
 block from any to 62.133.60.182
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 62.133.61.0/24
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.26
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Stealit
+block from any to 62.133.61.37
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 62.133.61.43
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.49
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.56
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.69
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ XWORM https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 62.133.61.73
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.79
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.90
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 62.133.61.97
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.98
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Asyncrat
+block from any to 62.133.61.101
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ ACR Stealer
+block from any to 62.133.61.104
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.106
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.148
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.155
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.168
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.189
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.207
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 62.133.61.240
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/havxcq.ru/relations
 block from any to 62.133.62.50
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/havxcq.ru/relations
@@ -21036,6 +21114,8 @@ block from any to 64.176.178.205
 block from any to 64.176.179.67
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 64.176.194.7
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 64.176.214.51
 # A.ch TF
 block from any to 64.176.218.254
 # A.ch TF
@@ -21162,6 +21242,8 @@ block from any to 64.227.158.157
 block from any to 64.227.162.229
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 64.227.166.207
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/ run.on-demand[.]pw
+block from any to 64.227.170.227
 # India https://www.abuseipdb.com/check/
 block from any to 64.227.172.0
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -22077,6 +22159,8 @@ block from any to 72.27.170.148
 block from any to 72.45.14.185
 # Mexico https://www.abuseipdb.com/check/
 block from any to 72.46.242.87
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/relations
+block from any to 72.52.178.23
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 72.66.32.219
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
@@ -22254,6 +22338,8 @@ block from any to 74.208.100.45
 block from any to 74.208.123.12
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 74.208.205.101
+# SPAM www.wndmasterclasses(.)com
+block from any to 74.208.235.171
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ justinpgrier(.)com
 block from any to 74.208.236.0/24
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ justinpgrier(.)com
@@ -22747,6 +22833,8 @@ block from any to 77.221.149.0/24
 block from any to 77.221.149.178
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 77.221.149.184
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/ play.sck-dns[.]cc
+block from any to 77.221.149.212
 # https://threatfox.abuse.ch/browse/malware/win.risepro/ https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 77.221.151.0/24
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
@@ -22769,6 +22857,8 @@ block from any to 77.221.151.56
 block from any to 77.221.151.59
 # https://threatfox.abuse.ch/browse/malware/win.vidar/
 block from any to 77.221.151.87
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/
+block from any to 77.221.151.174
 # France https://threatfox.abuse.ch/browse/tag/UNAM/ api.degenen.webtm(.)ru https://www.abuseipdb.com
 block from any to 77.221.153.0/24
 # France https://www.abuseipdb.com
@@ -23120,7 +23210,7 @@ block from any to 78.153.139.61
 block from any to 78.153.139.86
 # https://cert.gov.ua/article/6278521 https://www.virustotal.com/gui/domain/biches-yeah.co.ua/details
 block from any to 78.153.139.110
-# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
 block from any to 78.153.139.202
 # UK https://www.akamai.com/blog/security-research/2024-redtail-cryptominer-pan-os-cve-exploit#iocs
 block from any to 78.153.140.0/24
@@ -23518,6 +23608,8 @@ block from any to 79.137.202.152
 block from any to 79.137.202.236
 # Germany https://threatfox.abuse.ch/browse/malware/win.meduza/ https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 79.137.203.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 79.137.203.158
 # Germany https://www.abuseipdb.com/check/
 block from any to 79.137.203.160
 # https://www.abuseipdb.com/check/
@@ -23762,7 +23854,7 @@ block from any to 80.77.23.52
 block from any to 80.77.23.102
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 80.78.22.18
-# https://github.com/Cisco-Talos/IOCs/blob/main/2024/06/darkgate-remote-template-injection.txt buassinnndm(.)net
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/ c4k-ircd.pwndns[.]pw https://github.com/Cisco-Talos/IOCs/blob/main/2024/06/darkgate-remote-template-injection.txt buassinnndm(.)net
 block from any to 80.78.24.30
 # https://threatfox.abuse.ch/browse/malware/win.sliver/
 block from any to 80.78.25.152
@@ -23798,7 +23890,7 @@ block from any to 80.82.76.0/24
 block from any to 80.82.76.8
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 80.82.76.124
-# Netherlands https://www.abuseipdb.com/check/
+# Netherlands https://threatfox.abuse.ch/browse/malware/win.havoc/ https://www.abuseipdb.com/check/
 block from any to 80.82.77.0/24
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 80.82.77.33
@@ -24319,6 +24411,8 @@ block from any to 82.115.223.152
 block from any to 82.115.223.203
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 82.115.223.218
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 82.115.223.234
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 82.115.223.244
 # https://threatfox.abuse.ch/browse/malware/win.nanocore/
@@ -24918,6 +25012,8 @@ block from any to 84.247.179.77
 block from any to 84.247.179.88
 # https://threatfox.abuse.ch/browse/tag/Havoc/
 block from any to 84.247.185.157
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 84.247.187.231
 # Swiss https://www.abuseipdb.com/check/
 block from any to 85.1.248.231
 # https://threatfox.abuse.ch/browse/malware/win.whitesnake/
@@ -26019,32 +26115,64 @@ block from any to 89.23.102.149
 block from any to 89.23.102.221
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ https://threatfox.abuse.ch/browse/malware/win.stealc/ https://threatfox.abuse.ch/browse/malware/apk.hook/ https://tracker.viriback.com/index.php?q=Amadey https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 89.23.103.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.8
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.15
 # https://tracker.viriback.com/index.php?q=Amadey
 block from any to 89.23.103.42
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Cryptbot https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+block from any to 89.23.103.56
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.57
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 89.23.103.75
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.97
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.118
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.123
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 89.23.103.159
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 89.23.103.187
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.188
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 89.23.103.159
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 89.23.103.205
 # https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
 block from any to 89.23.103.56
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 89.23.103.208
-# https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/ https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.103.253
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/ https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 89.23.107.0/24
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 89.23.107.39
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Guloader
+block from any to 89.23.107.67
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 89.23.107.91
-# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.107.113
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
 block from any to 89.23.107.168
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.107.181
 # https://github.com/eset/malware-ioc/tree/master/gamaredon
 block from any to 89.23.107.188
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.107.240
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Remcos
+block from any to 89.23.107.244
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.107.251
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.23.113.140
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 89.23.115.35
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
@@ -26185,6 +26313,10 @@ block from any to 89.108.102.58
 block from any to 89.110.74.220
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 89.110.76.194
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
+block from any to 89.110.78.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 89.110.78.58
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 89.110.78.222
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
@@ -26428,6 +26560,8 @@ block from any to 89.223.125.229
 block from any to 88.229.10.198
 # https://threatfox.abuse.ch/browse/malware/win.orcus_rat/
 block from any to 89.232.195.236
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 89.233.109.69
 # Saudi Arabia https://www.abuseipdb.com/check/
 block from any to 89.237.144.158
 # https://threatfox.abuse.ch/browse/malware/win.recordbreaker/
@@ -26592,6 +26726,8 @@ block from any to 91.92.137.249
 block from any to 91.92.240.0/24
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 91.92.240.13
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.240.29
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 91.92.240.41
 # https://threatfox.abuse.ch/browse/malware/apk.hook/ https://threatfox.abuse.ch/browse/malware/elf.moobot/ trembolone.zapto(.)org https://threatfox.abuse.ch/browse/malware/elf.mirai/
@@ -26632,10 +26768,14 @@ block from any to 91.92.240.205
 block from any to 91.92.240.218
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 91.92.240.220
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.240.234
 # https://threatfox.abuse.ch/browse/malware/apk.hook/ aramex-online(.)cc https://threatfox.abuse.ch/browse/malware/apk.ermac/
 block from any to 91.92.240.238
 # https://www.abuseipdb.com/check/
 block from any to 91.92.240.245
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.240.247
 # Netherlands https://threatfox.abuse.ch/browse/malware/win.redline_stealer/ https://threatfox.abuse.ch/browse/malware/win.quasar_rat/ https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://threatfox.abuse.ch/browse/malware/win.venom/ https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 91.92.241.0/24
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
@@ -26728,6 +26868,8 @@ block from any to 91.92.242.243
 block from any to 91.92.243.0/24
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 91.92.243.6
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Lumma
+block from any to 91.92.243.74
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 91.92.243.79
 # Netherlands https://www.abuseipdb.com/check/
@@ -26748,6 +26890,8 @@ block from any to 91.92.243.156
 block from any to 91.92.243.191
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 91.92.243.195
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Lumma
+block from any to 91.92.243.198
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 91.92.243.245
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
@@ -26846,10 +26990,14 @@ block from any to 91.92.245.168
 block from any to 91.92.245.171
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.172
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.245.185
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.196
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.221
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.245.222
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.245.225
 # Netherlands https://www.abuseipdb.com/check/
@@ -26870,8 +27018,20 @@ block from any to 91.92.245.251
 block from any to 91.92.246.0/24
 # https://threatfox.abuse.ch/browse/malware/win.mars_stealer/
 block from any to 91.92.246.39
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.246.102
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 91.92.246.111
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.248.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.248.50
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.248.77
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.248.90
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.248.129
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 91.92.246.148
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -27024,6 +27184,8 @@ block from any to 91.92.250.20
 block from any to 91.92.250.21
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.250.38
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.250.44
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 91.92.250.47
 # Netherlands https://www.abuseipdb.com/check/
@@ -27040,10 +27202,14 @@ block from any to 91.92.250.101
 block from any to 91.92.250.106
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.250.114
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.250.123
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.250.148
 # https://threatfox.abuse.ch/browse/malware/win.mars_stealer/
 block from any to 91.92.250.149
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.250.150
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 91.92.250.167
 # Netherlands https://red.flag.domains/posts/2024-01-11/
@@ -27066,6 +27232,8 @@ block from any to 91.92.251.22
 block from any to 91.92.251.28
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 91.92.251.31
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ SelfAU3
+block from any to 91.92.251.35
 # Netherlands https://www.abuseipdb.com/
 block from any to 91.92.251.38
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
@@ -27200,6 +27368,8 @@ block from any to 91.92.253.14
 block from any to 91.92.253.107
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 91.92.253.115
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.253.126
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 91.92.253.177
 # https://threatfox.abuse.ch/browse/tag/Havoc/
@@ -27286,6 +27456,8 @@ block from any to 91.92.254.113
 block from any to 91.92.254.149
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 91.92.254.155
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.254.167
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.254.174
 # https://threatfox.abuse.ch/browse/malware/win.houdini/ harold.jetos(.)com harold.ns01(.)info https://threatfox.abuse.ch/browse/malware/jar.strrat/
@@ -27298,6 +27470,8 @@ block from any to 91.92.254.204
 block from any to 91.92.254.209
 # Netherlands https://www.abuseipdb.com/
 block from any to 91.92.254.218
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 91.92.254.225
 # https://unit42.paloaltonetworks.com/snipbot-romcom-malware-variant/ cethernet[.]com sitepanel[.]top
 block from any to 91.92.254.234
 # Netherlands https://threatfox.abuse.ch/browse/malware/win.purelogs/ https://threatfox.abuse.ch/browse/malware/win.venom/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/ https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://tracker.viriback.com/index.php?q=Risepro
@@ -27640,7 +27814,7 @@ block from any to 91.202.233.0/24
 block from any to 91.202.233.16
 # Russia https://www.abuseipdb.com/check/
 block from any to 91.202.233.20
-# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
 block from any to 91.202.233.136
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 91.202.233.138
@@ -28267,8 +28441,12 @@ block from any to 92.118.112.0/24
 block from any to 92.118.112.117
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 92.118.112.135
-# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 94.131.112.206
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs
 block from any to 92.118.112.223
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ DEERSTEALER
+block from any to 92.118.112.253
 # Russia https://www.abuseipdb.com/check
 block from any to 92.118.168.107
 # https://github.com/eset/malware-ioc/tree/master/gref
@@ -29046,6 +29224,8 @@ block from any to 94.156.8.14
 block from any to 94.156.8.15
 # https://red.flag.domains/posts/2024-04-25/ remboursement-trop-percu[.fr] (registrar: AMEN / Agence des Médias Numériques
 block from any to 94.156.8.16
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 94.156.8.31
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 94.156.8.37
 # Bulgaria https://www.abuseipdb.com/check/
@@ -29100,7 +29280,7 @@ block from any to 94.156.8.217
 block from any to 94.156.8.227
 # https://red.flag.domains/posts/ 2024-07-13 espace-amendesgouv[.fr] (registrar: EPAG Domainservices GmbH) 2024-07-08 votrerenouvellement[.fr] (registrar: EPAG Domainservices GmbH) https://www.virustotal.com/gui/domain/votrerenouvellement.fr/details 2024-06-25 assuranceameli[.fr] (registrar: One.com A/S) 2024-06-17 information-ameli[.fr] (registrar: AMEN / Agence des Médias Numériques) cartevitale-renouvellement[.fr] (registrar: AMEN / Agence des Médias Numériques) 2024-06-11/ vitale-renouvellement[.fr] (registrar: AMEN / Agence des Médias Numériques)
 block from any to 94.156.8.235
-# Germany https://threatfox.abuse.ch/browse/malware/win.quasar_rat/ https://www.abuseipdb.com/check/
+# Germany https://threatfox.abuse.ch/browse/malware/win.quasar_rat/ https://tracker.viriback.com/index.php?q=Meduza https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://threatfox.abuse.ch/browse/malware/elf.mirai/ https://www.abuseipdb.com/check/
 block from any to 94.156.10.0/24
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 94.156.10.119
@@ -29116,7 +29296,9 @@ block from any to 94.156.64.5
 block from any to 94.156.64.24
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.64.55
-# https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ MeduzaStealer
+block from any to 94.156.64.74
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/  https://github.com/cert-orangecyberdefense/emmenhtal/blob/main/iocs https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 94.156.64.76
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.156.64.90
@@ -29162,6 +29344,10 @@ block from any to 94.156.65.0/24
 block from any to 94.156.65.97
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.65.102
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 94.156.65.126
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 94.156.65.130
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 94.156.65.137
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
@@ -29314,6 +29500,8 @@ block from any to 94.156.68.158
 block from any to 94.156.68.253
 # Netherlands https://threatfox.abuse.ch/browse/malware/win.asyncrat/ https://threatfox.abuse.ch/browse/malware/jar.strrat/ https://threatfox.abuse.ch/browse/malware/win.venom/ https://www.abuseipdb.com/check/
 block from any to 94.156.69.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 94.156.69.6
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.69.23
 # Netherlands https://www.abuseipdb.com/check/
@@ -29324,6 +29512,8 @@ block from any to 94.156.69.39
 block from any to 94.156.69.64
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 94.156.69.92
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 94.156.69.111
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 94.156.69.115
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -30124,6 +30314,8 @@ block from any to 95.85.78.2
 block from any to 95.85.78.18
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 95.85.78.25
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 95.85.91.15
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 95.86.227.200
 # https://www.abuseipdb.com/check/
@@ -30215,6 +30407,8 @@ block from any to 95.164.46.199
 block from any to 95.164.47.211
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 95.164.63.81
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 95.164.68.24
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/08/moonpeak-infrastructure-north-korea.txt
 block from any to 95.164.86.148
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
@@ -30679,6 +30873,8 @@ block from any to 99.83.178.7
 block from any to 99.83.179.4
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
 block from any to 99.83.190.128
+# ttps://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/details
+block from any to 99.83.138.213
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
 block from any to 99.83.229.219
 # A.ch TF
@@ -30723,6 +30919,8 @@ block from any to 100.24.47.87
 block from any to 100.24.71.221
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 100.24.122.53
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/web.j-ic.co/details
+block from any to 100.24.173.87
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 100.25.40.158
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -31623,6 +31821,8 @@ block from any to 103.57.221.218
 block from any to 103.57.224.61
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 103.57.232.95
+# https://blog.sekoia.io/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets/
+block from any to 103.57.248.202
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 103.57.249.42
 # India https://www.abuseipdb.com/check/
@@ -32060,6 +32260,8 @@ block from any to 103.140.73.45
 block from any to 103.140.73.104
 # https://threatfox.abuse.ch/browse/malware/win.ghost_rat/ www.twrata(.)com
 block from any to 103.140.238.181
+# https://blog.sekoia.io/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets/
+block from any to 103.140.239.63
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 103.140.250.83
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -34119,6 +34321,8 @@ block from any to 104.21.70.79
 block from any to 104.21.70.117
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html metrics.gocloudmaps[.]com
 block from any to 104.21.70.168
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/sck-dns[.]cc
+block from any to 104.21.70.218
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware https://red.flag.domains/posts/2024-01-31/
 block from any to 104.21.71.0/24
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
@@ -34189,6 +34393,8 @@ block from any to 104.21.74.224
 block from any to 104.21.75.0/24
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ chippyfroggsyhz(.)shop
 block from any to 104.21.75.39
+# https://blog.sekoia.io/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites/ https://www.virustotal.com/gui/domain/nuceciwan129.xyz/details
+block from any to 104.21.75.94
 # https://www.welivesecurity.com/en/eset-research/tap-estry-threats-targeting-hamster-kombat-players/ distincttangyflippan[.]shop
 block from any to 104.21.75.100
 # https://red.flag.domains/posts/2024-07-13 amiparisfrance[.fr] (registrar: GRANSY s.r.o.)
@@ -34616,6 +34822,8 @@ block from any to 104.129.21.104
 block from any to 104.129.21.231
 # Cobalt Strike https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 104.129.182.226
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 104.131.7.207
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/ botnet.goelites(.)cc https://threatfox.abuse.ch/browse/malware/win.tofsee/ patmushta(.)info
 block from any to 104.131.68.180
 # US https://www.abuseipdb.com/check/
@@ -34923,6 +35131,8 @@ block from any to 104.200.72.22
 block from any to 104.200.72.113
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
 block from any to 104.200.72.120
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html
+block from any to 104.200.137.32
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 104.205.207.55
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
@@ -35261,7 +35471,7 @@ block from any to 104.254.246.59
 block from any to 104.255.69.164
 # https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
 block from any to 104.255.172.52
-# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+# # https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/web.j-ic.co/details https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
 block from any to 104.255.172.56
 # https://www.abuseipdb.com/check/
 block from any to 105.28.108.165
@@ -36224,6 +36434,8 @@ block from any to 107.189.1.0/24
 block from any to 107.189.1.9
 # https://www.abuseipdb.com/check/
 block from any to 107.189.1.75
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.1.9
 # Luxembourg https://www.abuseipdb.com/check/
 block from any to 107.189.3.186
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -36358,6 +36570,8 @@ block from any to 108.62.141.161
 block from any to 108.87.254.103
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 108.160.128.66
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 108.160.130.45
 # US https://www.abuseipdb.com/check/
 block from any to 108.162.192.0/24
 # US https://www.abuseipdb.com/check/
@@ -39217,6 +39431,8 @@ block from any to 120.24.249.254
 block from any to 120.25.2.115
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 120.26.48.63
+# https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/
+block from any to 120.26.97.135
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 120.26.136.167
 # China https://www.abuseipdb.com/check/
@@ -42414,7 +42630,7 @@ block from any to 141.98.233.99
 block from any to 141.98.234.0/24
 # https://threatfox.abuse.ch/browse/malware/win.socks5_systemz/
 block from any to 141.98.234.31
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 141.98.234.166
 # https://www.abuseipdb.com/check/141.101.24.141
 block from any to 141.101.24.141
@@ -43506,6 +43722,26 @@ block from any to 147.45.47.192
 block from any to 147.45.47.251
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 147.45.47.253
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Redline
+block from any to 147.45.50.23
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.26
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.34
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Redline
+block from any to 147.45.50.57
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.86
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.142
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.144
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.50.172
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ Bash File Dropping ZgRAT, DCRAT, PureLogs, XWORM
+block from any to 147.45.50.214
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/ https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 147.45.68.0/24
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
@@ -43566,6 +43802,8 @@ block from any to 147.45.136.226
 block from any to 147.45.149.10
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 147.45.152.159
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 147.45.178.54
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 147.45.197.82
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
@@ -44033,7 +44271,7 @@ block from any to 149.28.197.120
 block from any to 149.28.201.102
 # https://misp.cert.ssi.gouv.fr/feed-misp/64be448c-53f0-4e74-a53d-4c3d0abe1822.json
 block from any to 149.28.213.157
-# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/www.capmarketreport.com/relations https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
 block from any to 149.28.247.34
 # abuse.ch TF
 block from any to 149.40.49.119
@@ -44485,10 +44723,14 @@ block from any to 151.236.16.44
 block from any to 151.236.16.211
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 151.236.16.232
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ DANABOT
+block from any to 151.236.17.180
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 151.236.18.179
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government
 block from any to 151.236.19.91
+# https://blog.sekoia.io/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets/
+block from any to 151.236.20.30
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 151.236.25.0/24
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -45342,6 +45584,8 @@ block from any to 154.213.187.0/24
 block from any to 154.213.187.52
 # https://www.abuseipdb.com/check/
 block from any to 154.213.187.244
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/
+block from any to 154.213.192.44
 #https://threatfox.abuse.ch/browse/malware/win.xworm/ https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://threatfox.abuse.ch/browse/malware/apk.coper/ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 154.216.17.0/24
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
@@ -45917,6 +46161,8 @@ block from any to 157.230.9.233
 block from any to 157.230.19.140
 # Germany https://www.abuseipdb.com/check/
 block from any to 157.230.25.253
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/ run.on-demand[.]pw
+block from any to 157.230.29.135
 # Singapore https://www.abuseipdb.com/check/
 block from any to 157.230.37.156
 # Singapore https://www.abuseipdb.com/check/
@@ -46143,6 +46389,8 @@ block from any to 158.220.124.192
 block from any to 158.222.3.139
 # https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech myfunbmdablo99[.]hosthampster[.]com
 block from any to 158.247.7.206
+# https://blog.sekoia.io/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets/
+block from any to 158.247.194.125
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 158.247.198.34
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
@@ -48378,6 +48626,8 @@ block from any to 167.94.146.55
 # US https://www.abuseipdb.com/check/
 block from any to 167.94.146.56
 # US https://www.abuseipdb.com/check/
+block from any to 167.94.146.57
+# US https://www.abuseipdb.com/check/
 block from any to 167.94.146.61
 # Germany https://www.abuseipdb.com/check/
 block from any to 167.94.146.74
@@ -48752,8 +49002,12 @@ block from any to 168.76.123.59
 block from any to 168.76.172.111
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 168.100.8.42
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 168.100.8.103
 # https://tracker.viriback.com/index.php?q=Fenix
 block from any to 168.100.8.151
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 168.100.9.199
 # https://threatfox.abuse.ch/browse/malware/win.nimplant/ https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 168.100.10.0/24
 # https://threatfox.abuse.ch/browse/malware/win.nimplant/
@@ -49026,6 +49280,8 @@ block from any to 170.64.220.0/24
 block from any to 170.64.220.95
 # https://www.abuseipdb.com/check/
 block from any to 170.64.220.104
+# https://blog.sekoia.io/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites/
+block from any to 170.75.161.102
 # https://www.abuseipdb.com/check/
 block from any to 170.79.220.0/24
 # https://www.abuseipdb.com/check/
@@ -49479,6 +49735,8 @@ block from any to 172.67.139.142
 block from any to 172.67.139.83
 # https://threatfox.abuse.ch/browse/malware/win.amadey/ finachcial(.)com
 block from any to 172.67.139.141
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/sck-dns[.]cc
+block from any to 172.67.139.243
 # DFA https://red.flag.domains/posts/2023-02-26/ registrar: SAS Ligne Web Services - LWS
 block from any to 172.67.139.176
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urlca(.)com
@@ -51102,6 +51360,12 @@ block from any to 172.234.92.6
 block from any to 172.235.29.35
 # AsynRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 172.234.95.198
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/relations
+block from any to 172.234.222.0/24
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/relations
+block from any to 172.234.222.138
+# https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/cloud.espcapital.pro/relations
+block from any to 172.234.222.143
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 172.234.244.102
 # https://threatfox.abuse.ch/browse/malware/win.pikabot/
@@ -52684,6 +52948,8 @@ block from any to 178.208.94.213
 block from any to 178.208.235.89
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 178.209.51.211
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 178.209.51.222
 # Russia https://www.abuseipdb.com/check/
 block from any to 178.210.42.115
 # https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/proxy-pol.depo.com.ru/relations
@@ -54689,6 +54955,8 @@ block from any to 185.143.223.64
 block from any to 185.143.223.148
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 185.143.223.186
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 185.143.223.188
 # https://github.com/eset/malware-ioc/tree/master/windigo https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf
 block from any to 185.145.245.167
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt aspe(.)ro
@@ -55301,6 +55569,8 @@ block from any to 185.196.8.126
 block from any to 185.196.8.128
 # Swiss https://www.abuseipdb.com/check/
 block from any to 185.196.8.151
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 185.196.8.158
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 185.196.8.176
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
@@ -56976,6 +57246,8 @@ block from any to 187.212.142.163
 # Mexico https://www.abuseipdb.com/check/
 block from any to 187.212.246.38
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 187.213.193.180
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 187.213.203.252
 # Mexico https://www.abuseipdb.com/check/
 block from any to 187.217.183.149
@@ -57061,6 +57333,8 @@ block from any to 188.50.174.224
 block from any to 188.54.14.24
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 188.54.56.236
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 188.54.98.85
 # abuse.ch TF
 block from any to 188.54.123.236
 # Turkiye https://www.abuseipdb.com/check/
@@ -57575,6 +57849,8 @@ block from any to 189.179.102.216
 block from any to 189.187.162.173
 # Mexico https://www.abuseipdb.com/check/
 block from any to 189.190.61.254
+# https://threatfox.abuse.ch/browse/malware/win.smokeloader/ epohe(.)ru
+block from any to 189.195.132.134
 # Mexico https://www.abuseipdb.com/check/
 block from any to 189.217.130.86
 # Mexico https://www.abuseipdb.com/check/
@@ -57945,6 +58221,8 @@ block from any to 191.242.106.71
 block from any to 191.242.194.172
 # Brazil https://www.abuseipdb.com/check/
 block from any to 191.242.244.30
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 191.243.196.114
 # Brazil https://www.abuseipdb.com/check/
 block from any to 191.246.242.228
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
@@ -59179,7 +59457,7 @@ block from any to 193.124.22.107
 block from any to 193.124.33.0/24
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/ foxthreatnointel(.)africa
 block from any to 193.124.33.3
-# https://threatfox.abuse.ch/browse/tag/Emmenhtal/
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 193.124.33.71
 # https://cert.gov.ua/article/6279366 https://www.virustotal.com/gui/domain/rafraystore.ru/relations https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 193.124.41.0/24
@@ -59632,6 +59910,10 @@ block from any to 193.233.48.86
 block from any to 193.233.48.235
 # https://threatfox.abuse.ch/browse/malware/win.mars_stealer/ moscow-post(.)ru
 block from any to 193.233.63.132
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/  https://threatfox.abuse.ch/browse/malware/win.nimplant/
+block from any to 193.233.75.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 193.233.75.13
 # https://threatfox.abuse.ch/browse/malware/win.nimplant/
 block from any to 193.233.75.241
 # US https://www.abuseipdb.com/check/
@@ -60511,6 +60793,8 @@ block from any to 194.87.216.33
 block from any to 194.87.236.115
 # https://threatfox.abuse.ch/browse/malware/win.cryptbot/ eihtv18sb(.)top sevtv17ht(.)top tventyv20pt(.)top
 block from any to 194.87.248.136
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 194.87.252.22
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 194.88.207.226
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb348a-cb74-40eb-9678-7c1d0aba047c.json
@@ -60786,8 +61070,12 @@ block from any to 194.187.176.191
 block from any to 194.187.177.43
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 194.187.251.115
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 194.190.152.0/24
 # abuse.ch
 block from any to 194.190.152.81
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 194.190.152.108
 # abuse.ch
 block from any to 194.33.191.206
 # US https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/prometei-botnet-improves.txt
@@ -61078,7 +61366,7 @@ block from any to 195.201.97.156
 block from any to 195.201.110.110
 # https://threatfox.abuse.ch/browse/malware/win.whitesnake/
 block from any to 195.201.135.141
-# DFA Germany hetzner.de https://red.flag.domains/posts/2024-02-15/ registrar: IONOS SE
+# DFA Germany hetzner.de https://red.flag.domains/posts/2024-02-15/ registrar: IONOS SE https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/kapilapiii.com/relations
 block from any to 195.201.179.80
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ kfzsoeder(.)de
 block from any to 195.201.212.24
@@ -62005,6 +62293,8 @@ block from any to 198.185.159.144
 block from any to 198.185.159.145
 # US https://www.abuseipdb.com/check/
 block from any to 198.199.80.46
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/ run.on-demand[.]pw
+block from any to 198.199.85.230
 # US https://www.abuseipdb.com/check/
 block from any to 198.199.92.0/24
 # https://www.abuseipdb.com/check/
@@ -62581,6 +62871,8 @@ block from any to 200.125.167.170
 block from any to 200.138.18.41
 # https://www.abuseipdb.com/check/
 block from any to 200.148.42.50
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 200.150.194.109
 # Brazil https://www.abuseipdb.com/check/
 block from any to 200.155.104.29
 # https://www.abuseipdb.com/check/
@@ -63145,7 +63437,7 @@ block from any to 204.10.161.0/24
 block from any to 204.10.161.136
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 204.10.161.137
-# DFA https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
+# DFA https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html https://www.virustotal.com/gui/domain/www.capmarketreport.com/details https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 204.11.56.48
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt hadjer(.)boutique
 block from any to 204.11.59.216
@@ -63537,6 +63829,8 @@ block from any to 206.168.34.186
 block from any to 206.168.191.31
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
 block from any to 206.188.196.0/24
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/ DarkGate
+block from any to 206.188.196.28
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 206.188.196.86
 # https://www.welivesecurity.com/en/eset-research/scarabs-colon-izing-vulnerable-servers/ https://www.virustotal.com/gui/domain/akamaicdnup.com/relations
@@ -63741,12 +64035,18 @@ block from any to 207.148.69.28
 block from any to 207.148.74.250
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt
 block from any to 207.148.75.122
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 207.148.90.45
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 207.148.95.161
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 207.148.97.235
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 207.148.99.69
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 207.148.100.49
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 207.148.103.42
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ https://threatfox.abuse.ch/browse/malware/unknown/ MetaSploit
 block from any to 207.148.109.8
 # https://github.com/blacklotuslabs/IOCs/blob/main/Raptor_Train_IOCs.txt
@@ -64343,6 +64643,8 @@ block from any to 212.18.46.166
 block from any to 212.18.104.0/24
 # https://github.com/eset/malware-ioc/tree/master/gamaredon
 block from any to 212.18.104.56
+# https://blog.sekoia.io/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution/
+block from any to 212.18.104.111
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/
 block from any to 212.18.104.197
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -66822,6 +67124,8 @@ block from any to 2a00:f940:4::10
 block from any to 2a0f:9407:9bb8:a0b8:7ed2:b7e0:980b:741f
 # UK
 block from any to 2a0f:9407:9578:495c:b87b:fb3b:7ef1:c7d7
+# https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/tanja-yaman.de/details https://www.virustotal.com/gui/domain/www.affilate-pirat.de/details
+block from any to 2a01:4f8:c2c:a10d::1
 # US https://www.abuseipdb.com/check/2a01:111:f400:7eab::209
 block from any to 2a01:111:f400:7eab::209
 # France https://www.abuseipdb.com/check/
@@ -67086,10 +67390,16 @@ block from any to 2a0b:2fc5:cbcc:a12b:135f:a287:8a65:8dff
 block from any to 2a0b:f4c2::24
 # Romania https://www.abuseipdb.com/check/
 block from any to 2a02:2f01:b201:f300:20e7:c370:1189:4246
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 2a12:a300:3600::31b5:2e02
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 2a12:a300:3700::5d9f:b451
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 2a12:5940:75c9::2
 # Australia https://www.abuseipdb.com/check/
 block from any to 2001:dcd:1::14
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 2001:19f0:7001:2ae2:5400:4ff:fe0a:5566
 # https://red.flag.domains/posts/2024-07-02/ assurance-renouvellement[.fr] (registrar: IONOS SE) https://www.virustotal.com/gui/domain/assurance-renouvellement.fr/details bnpparibasprivate[.fr] (registrar: IONOS SE) https://www.virustotal.com/gui/domain/bnpparibasprivate.fr/details
 block from any to 2001:8d8:100f:f000::200
 # https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/
@@ -67273,6 +67583,8 @@ block from any to 2003:f3:f1b:3300:851e:219:364d:c31a
 block from any to { 2400:52e0:1:1:1:1:1:1/31 }
 # Singapore https://www.abuseipdb.com/check/
 block from any to 2400:6180:0:d1::525:8001
+# https://blogs.jpcert.or.jp/en/2024/07/mirrorface-attack-against-japanese-organisations.html
+block from any to 2400:8902::f03c:93ff:fe8a:5327
 # India https://www.abuseipdb.com/check/
 block from any to 2401:4900:216a:9697:accc:7542:76d1:79f4
 # China https://www.abuseipdb.com/check/
@@ -67344,6 +67656,7 @@ block from any to 2606:2800:233:1cb7:261b:1f9c:2074:3c
 block from any to { 2604:a880:1:1:1:1:1:1/31 }
 # US https://www.abuseipdb.com/check/
 block from any to 2604:a880:800:10::c56:b001
+# US Cloudflare
 block from any to { 2606:4700:1:1:1:1:1:1/31 }
 # US https://www.abuseipdb.com/check/
 block from any to 2606:4700:50::adf5:3a8c
