@@ -179,6 +179,9 @@ https://news.ycombinator.com/item?id=40176738
 
 https://news.ycombinator.com/item?id=40913736
 
+https://github.com/bjesus/pipet
+> https://news.ycombinator.com/item?id=41695549
+
 ## ML
 https://news.ycombinator.com/item?id=41268759
 

@@ -57,6 +57,9 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 > https://news.ycombinator.com/item?id=29489815
 
 #
+https://justine.lol/mutex/
+> https://news.ycombinator.com/item?id=41721668
+
 https://matklad.github.io/2024/09/24/watermelon-operator.html
 
 https://news.ycombinator.com/item?id=41471707

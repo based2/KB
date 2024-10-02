@@ -28,6 +28,9 @@ https://simonhearne.com/2021/layout-shifts-webfonts/
 > https://news.ycombinator.com/item?id=30129571
 
 #
+https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md
+> https://news.ycombinator.com/item?id=41679149
+
 https://news.ycombinator.com/item?id=41298794
 
 https://www.uxtigers.com/post/41-years-in-ux

@@ -64,3 +64,6 @@ https://arxiv.org/abs/2407.16741
 https://news.ycombinator.com/item?id=41195988
 
 https://news.ycombinator.com/item?id=41631948
+
+https://github.com/neural-maze/agentic_patterns
+> https://news.ycombinator.com/item?id=41695722
