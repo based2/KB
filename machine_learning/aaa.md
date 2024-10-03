@@ -598,6 +598,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://github.com/bryanmcnett/sdf_hardware
+> https://news.ycombinator.com/item?id=41718779
+
+https://news.ycombinator.com/item?id=41732853
+
 https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
 > https://news.ycombinator.com/item?id=41684082
 

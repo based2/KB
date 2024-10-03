@@ -3051,6 +3051,8 @@ block from any to 5.248.216.191
 block from any to 5.249.165.126
 # France https://www.abuseipdb.com/
 block from any to 5.250.177.234
+# Spain https://www.abuseipdb.com/
+block from any to 5.250.188.211
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 5.250.232.108
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -3684,6 +3686,8 @@ block from any to 13.55.236.179
 block from any to 13.57.11.77
 # US https://www.abuseipdb.com/check/
 block from any to 13.58.48.116
+# US https://www.abuseipdb.com/check/
+block from any to 13.59.91.49
 # https://www.abuseipdb.com/check/
 block from any to 13.59.168.154
 # https://github.com/eset/malware-ioc/tree/master/virtual_invaders 3.tcp.ngrok[.]io
@@ -7941,6 +7945,8 @@ block from any to 35.203.211.71
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.74
 # UK https://www.abuseipdb.com/check/
+block from any to 35.203.211.75
+# UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.81
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.83
@@ -8112,8 +8118,12 @@ block from any to 35.221.12.2
 block from any to 35.221.117.199
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 35.221.150.166
+# US https://www.abuseipdb.com/check/
+block from any to 35.223.121.55
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt qi-code(.)com
 block from any to 35.224.41.144
+# US https://www.abuseipdb.com/check/
+block from any to 35.224.42.65
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 35.224.58.250
 # US https://www.abuseipdb.com/check/
@@ -13650,6 +13660,8 @@ block from any to 45.95.147.69
 block from any to 45.95.147.138
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.95.147.219
+# Netherlands https://www.abuseipdb.com
+block from any to 45.95.147.235
 # Netherlands https://www.abuseipdb.com/check/ https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 45.95.147.236
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
@@ -14917,6 +14929,8 @@ block from any to 45.156.129.95
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.129.123
 # Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.129.127
+# Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.130.0/24
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.130.14
@@ -15113,6 +15127,8 @@ block from any to 45.195.76.26
 block from any to 45.195.198.15
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
 block from any to 45.200.8.75
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 45.200.148.115
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 45.200.149.0/24
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
@@ -16101,6 +16117,8 @@ block from any to 46.246.4.16
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 46.246.6.9
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
+block from any to 46.246.4.22
+# https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://threatfox.abuse.ch/browse/malware/win.njrat/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 46.246.6.0/24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 46.246.6.2
@@ -18755,6 +18773,16 @@ block from any to 52.179.190.179
 block from any to 52.182.143.208
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 52.185.161.226
+# US https://www.abuseipdb.com/check/
+block from any to 52.189.74.241
+# US https://www.abuseipdb.com/check/
+block from any to 52.189.75.0/24
+# US https://www.abuseipdb.com/check/
+block from any to 52.189.75.167
+# US https://www.abuseipdb.com/check/
+block from any to 52.189.75.192
+# US https://www.abuseipdb.com/check/
+block from any to 52.189.75.200
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 52.189.253.111
 # Singapore https://www.abuseipdb.com/check/
@@ -27708,6 +27736,10 @@ block from any to 91.107.200.181
 block from any to 91.107.221.88
 # https://www.abuseipdb.com/check/
 block from any to 91.107.225.250
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 91.108.98.52
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 91.108.101.102
 # India https://www.abuseipdb.com/check/
 block from any to 91.108.110.215
 # https://red.flag.domains/posts/2024-06-18/ servicesfrance-amendes[.fr] (registrar: One.com A/S)
@@ -30464,6 +30496,8 @@ block from any to 95.106.210.220
 block from any to 95.108.213.127
 # Russia https://www.abuseipdb.com/check/
 block from any to 95.108.213.165
+# Russia https://www.abuseipdb.com/check/
+block from any to 95.108.213.232
 # https://threatfox.abuse.ch/browse/malware/win.nimplant/ www.kamssa(.)com
 block from any to 95.111.196.95
 # Germany https://www.abuseipdb.com/check/
@@ -31455,6 +31489,8 @@ block from any to 101.200.192.48
 block from any to 101.200.214.198
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 101.201.29.209
+# China https://www.abuseipdb.com/check/
+block from any to 101.201.38.226
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 101.201.46.105
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -32356,6 +32392,8 @@ block from any to 103.126.85.176
 block from any to 103.127.65.53
 # Indonesia https://www.abuseipdb.com/check/
 block from any to 103.127.135.144
+# https://www.abuseipdb.com/check/
+block from any to 103.127.243.23
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 103.130.89.20
 # Vietnam https://www.abuseipdb.com/check/
@@ -34104,6 +34142,8 @@ block from any to 104.21.44.34
 block from any to 104.21.44.57
 # https://red.flag.domains/posts/2024-04-01/ verifier-auth[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
 block from any to 104.21.44.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ ithostprotocol[.]com
+block from any to 104.21.44.51
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ reagoofydwqioo(.)shop
 block from any to 104.21.44.118
 # https://red.flag.domains/posts/2024-07-16/ filamagasin[.fr] (registrar: GRANSY s.r.o.)
@@ -34919,7 +34959,11 @@ block from any to 104.40.73.132
 # US https://www.abuseipdb.com/check/
 block from any to 104.40.73.150
 # US https://www.abuseipdb.com/check/
+block from any to 104.40.75.0/24
+# US https://www.abuseipdb.com/check/
 block from any to 104.40.75.140
+# US https://www.abuseipdb.com/check/
+block from any to 104.40.75.145
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/05/carnavalhiest.txt
 block from any to 104.41.51.80
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -35357,6 +35401,8 @@ block from any to 104.234.147.28
 block from any to 104.234.147.45
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 104.234.147.134
+# https://www.proofpoint.com/us/blog/threat-insight/security-brief-actor-uses-compromised-accounts-customized-social-engineering idessit[.]com
+block from any to 104.234.171.40
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 104.234.204.161
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -37038,6 +37084,8 @@ block from any to 109.230.199.99
 block from any to 109.230.199.126
 # https://threatfox.abuse.ch/browse/malware/apk.sharkbot/
 block from any to 109.230.199.150
+# https://www.abuseipdb.com/check/
+block from any to 109.237.98.97
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 109.237.99.23
 # Georgia https://www.abuseipdb.com/check/
@@ -41461,6 +41509,8 @@ block from any to 131.129.158.167
 block from any to 131.186.56.94
 # https://www.abuseipdb.com/check/
 block from any to 132.145.115.97
+# US https://www.abuseipdb.com/check/
+block from any to 132.145.185.47
 # https://www.abuseipdb.com/check/
 block from any to 132.145.208.65
 # US https://www.abuseipdb.com/check/
@@ -44535,6 +44585,8 @@ block from any to 149.88.78.227
 block from any to 149.88.85.23
 # Portugal https://www.abuseipdb.com/check
 block from any to 149.90.64.71
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 149.100.143.195
 # France https://red.flag.domains/posts/2024-01-17/ https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_29.04.2024.txt alsiga(.)com
 block from any to 149.100.144.0/24
 # https://red.flag.domains/posts/2024-06-28/ techmiseajour[.fr] (registrar: Hostinger operations UAB)
@@ -45556,6 +45608,138 @@ block from any to 154.41.240.0/24
 block from any to 154.41.240.115
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt dpmpommini(.)com penjualanpommini(.)com
 block from any to 154.41.240.144
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.249.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.249.92
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.249.124
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.0
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.1
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.5
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.8
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.15
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.16
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.18
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.23
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.31
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.38
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.45
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.48
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.55
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.56
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.57
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.69
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.79
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.87
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.88
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.90
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.92
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.97
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.100
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.101
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.102
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.105
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.123
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.126
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.128
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.132
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.140
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.141
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.142
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.146
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.147
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.148
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.152
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.153
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.156
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.159
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.160
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.162
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.163
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.166
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.167
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.168
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.169
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.172
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.176
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.178
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.182
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.196
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.201
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.204
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.205
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.210
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.214
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.215
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.217
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.225
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.229
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.41.250.232
 # Germany https://www.abuseipdb.com
 block from any to 154.47.19.84
 # US https://www.abuseipdb.com
@@ -45610,6 +45794,108 @@ block from any to 154.61.74.33
 block from any to 154.61.77.210
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 154.61.80.57
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.0
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.12
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.15
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.18
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.28
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.30
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.31
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.35
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.42
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.44
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.47
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.51
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.61
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.62
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.66
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.71
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.73
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.84
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.87
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.90
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.95
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.101
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.109
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.110
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.118
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.122
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.124
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.128
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.153
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.154
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.155
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.158
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.159
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.168
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.170
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.171
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.177
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.190
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.200
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.204
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.206
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.207
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.211
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.230
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.232
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.235
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.236
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.244
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 154.62.106.249
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt didacweb(.)xyz
 block from any to 154.62.111.56
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -45806,6 +46092,10 @@ block from any to 154.213.187.108
 block from any to 154.213.187.111
 # https://www.abuseipdb.com/check/
 block from any to 154.213.187.244
+# https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/
+block from any to 154.213.192.0/24
+# https://www.abuseipdb.com/check/
+block from any to 154.213.192.35
 # https://blog.sekoia.io/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal/
 block from any to 154.213.192.44
 #https://threatfox.abuse.ch/browse/malware/win.xworm/ https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://threatfox.abuse.ch/browse/malware/apk.coper/ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -46477,6 +46767,8 @@ block from any to 157.245.89.23
 block from any to 157.245.94.27
 # US https://www.abuseipdb.com/check/
 block from any to 157.245.99.230
+# India https://www.abuseipdb.com/check/
+block from any to 157.245.100.228
 # US https://www.abuseipdb.com/check/
 block from any to 157.245.102.141
 # https://symantec-enterprise-blogs.security.com/threat-intelligence/telecoms-espionage-asia
@@ -47700,6 +47992,8 @@ block from any to 162.216.150.0/24
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.150.3
 # US https://www.abuseipdb.com/check/
+block from any to 162.216.150.6
+# US https://www.abuseipdb.com/check/
 block from any to 162.216.150.7
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.150.16
@@ -47719,6 +48013,8 @@ block from any to 162.216.150.28
 block from any to 162.216.150.37
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.150.38
+# US https://www.abuseipdb.com/check/
+block from any to 162.216.150.40
 # US
 block from any to 162.216.150.41
 # US https://www.abuseipdb.com/check/
@@ -50688,6 +50984,8 @@ block from any to 172.67.194.253
 block from any to 172.67.195.0/24
 # https://go.recordedfuture.com/hubfs/reports/cta-2024-0917.pdf partyroyale(.)io
 block from any to 172.67.195.37
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ ithostprotocol[.]com
+block from any to 172.67.195.98
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 172.67.195.100
 # https://red.flag.domains/posts/2024-04-20/ drmartenss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -53212,6 +53510,8 @@ block from any to 178.215.224.78
 block from any to 178.215.236.0/24
 # France https://www.abuseipdb.com/check/
 block from any to 178.215.236.19
+# France https://www.abuseipdb.com/check/
+block from any to 178.215.236.32
 # US Ashburn, Virginia  https://www.abuseipdb.com/check/
 block from any to 178.215.236.52
 # France https://www.abuseipdb.com/check/
@@ -55923,6 +56223,8 @@ block from any to 185.196.10.124
 block from any to 185.196.10.129
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 185.196.10.139
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 185.196.10.147
 #
 block from any to 185.196.10.155
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
@@ -58405,8 +58707,94 @@ block from any to 191.96.79.24
 block from any to 191.96.79.89
 # US https://www.abuseipdb.com/check/
 block from any to 191.96.106.151
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.0
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.4
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.9
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.10
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.23
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.28
 # https://red.flag.domains/posts/2024-07-04/ paiementsecuriser[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/paiementsecuriser.fr/details
 block from any to 191.96.144.33
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.36
+# https://red.flag.domains/posts/2024-07-04/ paiementsecuriser[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/paiementsecuriser.fr/details
+block from any to 191.96.144.42
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.58
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.62
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.76
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.87
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.91
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.110
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.112
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.119
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.125
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.133
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.136
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.141
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.155
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.162
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.163
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.164
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.175
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.188
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.190
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.193
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.198
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.199
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.200
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.206
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.217
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.221
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.234
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.236
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.237
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.241
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.244
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.246
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.253
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.96.144.254
 # US https://www.abuseipdb.com/check/
 block from any to 191.96.165.25
 # https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech
@@ -58425,12 +58813,102 @@ block from any to 191.100.25.45
 block from any to 191.101.1.19
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/05/new-horabot-targets-americas.txt
 block from any to 191.101.2.101
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.0
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.1
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.8
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.15
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.17
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.19
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.39
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.43
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.45
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.47
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.51
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.52
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.53
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.54
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.58
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.70
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.75
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.76
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.77
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.83
 # https://red.flag.domains/posts/2024-07-02/ leboncoinpaiement[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/leboncoinpaiement.fr/details
 block from any to 191.101.104.87
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.89
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.106
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.109
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.110
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.114
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.115
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.125
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.136
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.139
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.140
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.142
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.157
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.159
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.163
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.175
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.180
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.182
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.218
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.221
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.222
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.226
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.233
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.104.234
 # Germany https://www.abuseipdb.com/check/
 block from any to 191.101.157.76
 # A.ch TF
 block from any to 191.101.206.72
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 191.101.228.169
 # US https://www.abuseipdb.com/check/
 block from any to 191.102.151.155
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
@@ -58673,6 +59151,8 @@ block from any to 192.64.86.243
 block from any to 192.64.117.218
 # https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/ defaultbluemarker[.]info
 block from any to 192.64.119.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 192.64.119.238
 # https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/ defaultbluemarker[.]info https://github.com/volexity/threat-intel/blob/main/2024/2024-02-13%20CharmingCypress/iocs.csv
 block from any to 192.64.119.243
 # SPAM
@@ -60196,6 +60676,10 @@ block from any to 193.233.75.13
 block from any to 193.233.75.241
 # US https://www.abuseipdb.com/check/
 block from any to 193.233.89.165
+# https://threatfox.abuse.ch/browse/malware/win.stealc/ https://threatfox.abuse.ch/browse/malware/win.sectop_rat/
+block from any to 193.233.112.0/24
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 193.233.112.44
 # https://threatfox.abuse.ch/browse/malware/win.sectop_rat/
 block from any to 193.233.112.219
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
@@ -62416,6 +62900,8 @@ block from any to 199.45.155.52
 # US https://www.abuseipdb.com/check/
 block from any to 199.45.155.53
 # US https://www.abuseipdb.com/check/
+block from any to 199.45.155.68
+# US https://www.abuseipdb.com/check/
 block from any to 199.45.155.97
 # US https://www.abuseipdb.com/check/
 block from any to 199.45.155.99
@@ -62515,6 +63001,22 @@ block from any to 198.54.116.181
 block from any to 198.54.116.234
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 198.54.116.236
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.210
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.211
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.212
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.215
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.216
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.217
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/relations
+block from any to 198.54.117.218
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ theelegant.co(.)uk
 block from any to 198.54.119.251
 # https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader seeceafcleaners[.]co[.]uk https://misp.cert.ssi.gouv.fr/feed-misp/65df11f4-0cf0-4f14-9c7c-4ef00abe1822.json
@@ -63333,6 +63835,8 @@ block from any to 201.202.13.159
 block from any to 201.202.13.165
 # Thailand https://www.abuseipdb.com/check/
 block from any to 201.202.13.229
+# Thailand https://www.abuseipdb.com/check/
+block from any to 201.205.119.10
 # https://www.abuseipdb.com/check/
 block from any to 201.208.120.28
 # https://www.abuseipdb.com/check/
@@ -64658,7 +65162,11 @@ block from any to 209.141.49.178
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 209.141.49.233
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
+block from any to 209.141.50.0/24
+# https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 209.141.50.43
+# US https://www.abuseipdb.com/check/
+block from any to 209.141.50.47
 # US https://www.abuseipdb.com/check/
 block from any to 209.141.52.5
 # US https://www.abuseipdb.com/check/
@@ -66344,6 +66852,8 @@ block from any to 217.160.0.188
 block from any to 217.160.0.190
 # https://red.flag.domains/posts/ 2024-06-29 mes-asure-renouvellement-enligne[.fr] (registrar: IONOS SE) 2024-04-18/ fr-epsilon-france[.fr] (registrar: IONOS SE
 block from any to 217.160.0.193
+# https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/ki.xxx9.info/relations
+block from any to 217.160.0.196
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt espaciodiseno(.)es
 block from any to 217.160.0.206
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ www.cap-berriat(.)com
@@ -67402,6 +67912,8 @@ block from any to 233.175.187.96
 block from any to 237.250.131.153
 # Reserved https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
 block from any to 239.255.255.250
+# SPAM
+block from any to ::ffff:88f3:ed10
 # Swiss https://www.abuseipdb.com/check/
 block from any to 2a00:1128:200:5:b7be:c88c:56f2:3e3d
 block from any to { 2a00:1288:1:1:1:1:1:1/31 }
@@ -67507,6 +68019,12 @@ block from any to 2a02:4780:11:1501:0:2b95:a279:2
 block from any to 2a02:4780:21:443d:6b44:2a0a:74b3:a32b
 # https://red.flag.domains/posts/2024-07-04/ paiementsecuriser[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/paiementsecuriser.fr/details
 block from any to 2a02:4780:21:7adc:d8ae:4013:9ec1:bc0d
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/details
+block from any to 2a02:4780:22:2b64:b79d:f8aa:6396:e1df
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+block from any to 2a02:4780:27:1525:0:3af1:ced8:2
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/details
+block from any to 2a02:4780:27:1525:0:3af1:ced8:4
 block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
 # France
 block from any to 2a02:26f0:9100:13af::2a1

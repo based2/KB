@@ -35,6 +35,8 @@ https://github.com/flipt-io/reverst go
 https://openreplay.com/
 
 # News
+https://blog.cloudflare.com/wildcard-rules/
+
 https://github.com/hmgle/graftcp
 
 https://news.ycombinator.com/item?id=40514367

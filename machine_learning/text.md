@@ -76,6 +76,9 @@ https://news.ycombinator.com/item?id=40252569 Show HN: I built a free in-browser
 https://www.anthropic.com/research/claude-character
 
 # News
+https://replicate.com/black-forest-labs/flux-1.1-pro text2img
+> https://news.ycombinator.com/item?id=41730822
+
 https://news.ycombinator.com/item?id=41307815
 
 https://news.ycombinator.com/item?id=41118609

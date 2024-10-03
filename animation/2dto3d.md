@@ -42,3 +42,5 @@ https://www.r3dphoto.app/
 
 https://kovenyu.com/wonderworld/
 > https://news.ycombinator.com/item?id=41569544
+
+https://news.ycombinator.com/item?id=41729891

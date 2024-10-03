@@ -306,6 +306,8 @@ https://news.ycombinator.com/item?id=41218928
 https://news.ycombinator.com/item?id=41598404
 
 # News
+https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
+
 https://www.amazon.science/blog/how-task-decomposition-and-smaller-llms-can-make-ai-more-affordable
 
 https://www.amazon.science/blog/accounting-for-cognitive-bias-in-human-evaluation-of-large-language-models
