@@ -65,6 +65,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://news.ycombinator.com/item?id=41730983
+
 https://news.ycombinator.com/item?id=41578446
 
 https://github.com/zml/zml

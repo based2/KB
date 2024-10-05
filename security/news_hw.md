@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=41735871
+
 https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/
 > https://news.ycombinator.com/item?id=41655382
 

@@ -15,6 +15,8 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://www.theregister.com/2024/10/04/apple_voiceover_password_bug/
+
 https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b
 > https://news.ycombinator.com/item?id=41532946
 

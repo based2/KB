@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=41730574
+
 https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/
 > https://news.ycombinator.com/item?id=41685296
 
