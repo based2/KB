@@ -10,6 +10,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a Exploiting DRAM bitflips to get a root shell
+> https://news.ycombinator.com/item?id=41748861
+
 https://news.ycombinator.com/item?id=41735871
 
 https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/

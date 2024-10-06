@@ -49,3 +49,5 @@ https://claroty.com/team82/research/threat-modeling-industrial-environments-usin
 https://cyber.gouv.fr/la-methode-ebios-risk-manager
 
 https://github.com/RedDrip7/APT_Digital_Weapon
+
+https://rules.emergingthreatspro.com/open/

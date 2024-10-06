@@ -53,6 +53,8 @@ https://news.ycombinator.com/item?id=39706004
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://news.ycombinator.com/item?id=41738502
+
 https://support.mozilla.org/en-US/kb/firefox-blocked-macos-15-sequoia-firewall-what-you
 > https://bugzilla.mozilla.org/show_bug.cgi?id=1919173&_gl=1*1u5vynz*_ga*NDUzMDkwMTUyLjE3MjY5NDMzMTY.*_ga_2VC139B3XV*MTcyNjk0MzMxNS4xLjEuMTcyNjk0MzM2Mi4wLjAuMA..
 > > /usr/libexec/ApplicationFirewall/socketfilterfw --add /Applications/Firefox.app

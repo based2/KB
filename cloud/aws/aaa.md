@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
+
 https://chair6.net/lets-encrypt-renewal-failures-and-aws-traffic-hijacking.html
 
 https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/

@@ -64,6 +64,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://github.com/xroche/httrack
+> https://news.ycombinator.com/item?id=41733714
+
 https://news.ycombinator.com/item?id=41424533
 
 https://news.ycombinator.com/item?id=41141349

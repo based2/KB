@@ -59,6 +59,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=41738552
+
 https://news.ycombinator.com/item?id=41681514
 
 https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/

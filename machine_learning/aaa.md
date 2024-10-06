@@ -598,6 +598,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb
+> https://news.ycombinator.com/item?id=41745788
+> > https://github.com/shaungallagher/cheryls-murder/blob/master/cheryls-murder.ipynb
+
+https://news.ycombinator.com/item?id=41749371
+
 https://github.com/bryanmcnett/sdf_hardware
 > https://news.ycombinator.com/item?id=41718779
 

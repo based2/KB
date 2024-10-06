@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41744434
+
 https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/
 
 https://www.thestack.technology/british-library-ransomware/

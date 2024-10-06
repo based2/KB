@@ -114,6 +114,8 @@ https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html
 https://blog.pgpkeys.eu/critique-critique.html
 > https://news.ycombinator.com/item?id=38554943
 
+https://news.ycombinator.com/item?id=41748168
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 

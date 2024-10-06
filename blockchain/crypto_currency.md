@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=41736012
+
 https://www.bleepingcomputer.com/news/security/germany-seizes-47-crypto-exchanges-used-by-ransomware-gangs/
 
 https://news.ycombinator.com/item?id=41554066

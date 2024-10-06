@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://news.ycombinator.com/item?id=41734863
+
 https://news.ycombinator.com/item?id=40682401
 
 https://news.ycombinator.com/item?id=40318356

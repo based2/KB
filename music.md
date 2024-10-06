@@ -263,7 +263,9 @@ https://github.com/jcard0na/haxo-hw
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks for fundamentals of music processing
 > https://news.ycombinator.com/item?id=40550830
 
-#
+# News
+https://news.ycombinator.com/item?id=41746075
+
 https://midinous.com/
 > https://news.ycombinator.com/item?id=41644620
 

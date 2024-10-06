@@ -182,6 +182,9 @@ https://news.ycombinator.com/item?id=41096486
 https://news.ycombinator.com/item?id=41540902
 
 # News
+https://stuffmatic.com/chebyshev/
+> https://news.ycombinator.com/item?id=41740568
+
 https://news.ycombinator.com/item?id=41741963
 
 https://github.com/ManimCommunity/manim

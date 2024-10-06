@@ -101,6 +101,8 @@ https://news.ycombinator.com/item?id=41048194
 https://news.ycombinator.com/item?id=41203306
 
 # News
+https://news.ycombinator.com/item?id=41741177
+
 https://news.ycombinator.com/item?id=41000760
 
 https://github.com/RajSolai/TextSnatcher Copy text from images, for the Linux Desktop
