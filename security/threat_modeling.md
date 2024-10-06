@@ -51,3 +51,5 @@ https://cyber.gouv.fr/la-methode-ebios-risk-manager
 https://github.com/RedDrip7/APT_Digital_Weapon
 
 https://rules.emergingthreatspro.com/open/
+
+https://news.ycombinator.com/item?id=41701733

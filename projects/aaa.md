@@ -170,6 +170,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://news.ycombinator.com/item?id=41711527
+
 https://news.ycombinator.com/item?id=41636761 Measuring Developers' Jobs-to-be-done
 
 https://news.ycombinator.com/item?id=41550017

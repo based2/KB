@@ -318,6 +318,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://threedots.tech/post/distributed-transactions-in-go
+> https://news.ycombinator.com/item?id=41720846
+
 https://news.ycombinator.com/item?id=41518698
 
 https://github.com/sirupsen/napkin-math

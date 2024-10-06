@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://rodarmor.com/blog/whence-newline/
+> https://news.ycombinator.com/item?id=41748664
+
 https://news.ycombinator.com/item?id=41462494
 
 https://news.ycombinator.com/item?id=41281555

@@ -146,6 +146,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/
+
 https://blog.cloudflare.com/impact-of-verizons-september-30-outage-on-internet-traffic/
 
 https://news.ycombinator.com/item?id=41007396
@@ -268,6 +270,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=41756023
+
 https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/
 > https://news.ycombinator.com/item?id=41645523
 

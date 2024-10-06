@@ -370,6 +370,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=41755183
+
 https://news.ycombinator.com/item?id=41677131
 
 https://kristoff.it/blog/python-training-wheels/

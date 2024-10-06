@@ -1,3 +1,5 @@
+https://scott-scott.com/sec-investigation/crowdstrike-holdings-inc/
+
 https://news.ycombinator.com/item?id=41744434
 
 https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/

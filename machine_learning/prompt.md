@@ -111,3 +111,6 @@ https://llmlingua.com/llmlingua2.html
 https://github.com/microsoft/LLMLingua/blob/main/DOCUMENT.md
 
 https://docs.anthropic.com/claude/prompt-library
+
+https://github.com/ListfulAl/gpl
+> https://news.ycombinator.com/item?id=41717546

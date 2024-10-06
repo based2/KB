@@ -48,6 +48,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=41735761
+
 https://jvns.ca/blog/2024/10/01/terminal-colours/
 > https://news.ycombinator.com/item?id=41727971
 

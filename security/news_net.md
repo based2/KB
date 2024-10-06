@@ -29,6 +29,9 @@ https://engineering.purdue.edu/kak/compsec/
 
 https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
 
+https://routersecurity.org/
+> https://news.ycombinator.com/item?id=41752327
+
 #
 https://news.ycombinator.com/item?id=41683888
 

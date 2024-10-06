@@ -1,3 +1,6 @@
+https://slatedb.io/
+> https://news.ycombinator.com/item?id=41714858
+
 https://github.com/event-driven-io/Pongo
 > https://news.ycombinator.com/item?id=40897518
 

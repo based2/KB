@@ -59,6 +59,9 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://arnaud-carre.github.io/2024-10-06-vpternlogd/
+> https://news.ycombinator.com/item?id=41759112
+
 https://news.ycombinator.com/item?id=41738552
 
 https://news.ycombinator.com/item?id=41681514

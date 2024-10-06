@@ -531,6 +531,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://www.possiblerust.com/pattern/rust-lints-you-may-not-know
+
+https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html
+
 https://news.ycombinator.com/item?id=41681344 IPC
 
 https://news.ycombinator.com/item?id=41654871

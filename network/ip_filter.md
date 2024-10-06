@@ -749,6 +749,8 @@ block from any to 2.144.192.183
 block from any to 2.144.192.86
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 2.147.49.51
+# https://www.group-ib.com/blog/dragonforce-ransomware/
+block from any to 2.147.68.96
 # Spain https://www.abuseipdb.com/check/
 block from any to 2.155.43.2
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -823,6 +825,10 @@ block from any to 3.0.93.185
 block from any to 3.0.146.221
 # https://threatfox.abuse.ch/browse/malware/win.nimplant/
 block from any to 3.0.147.54
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ ms2ve[.]cc
+block from any to 3.0.153.116
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ t8bc[.]xyz
+block from any to 3.1.177.42
 # https://asec.ahnlab.com/ko/82554/ app-dimensiona[.]s3[.]sa-east-1[.]amazonaws[.]com
 block from any to 3.5.233.189
 # https://asec.ahnlab.com/ko/82554/ app-dimensiona[.]s3[.]sa-east-1[.]amazonaws[.]com
@@ -944,6 +950,8 @@ block from any to 3.70.101.28
 block from any to 3.70.102.150
 # abuse.ch TF
 block from any to 3.71.107.73
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ instagram-cutequeen57[.]netlify.app
+block from any to 3.72.140.173
 # https://www.abuseipdb.com/check/3.73.173.154
 block from any to 3.73.173.154
 # abuse.ch TF
@@ -3236,6 +3244,8 @@ block from any to 8.14.134.2
 block from any to 8.28.32.252
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 8.29.155.251
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 8.30.182.17
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ americanbussales(.)net
 block from any to 8.36.41.105
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
@@ -3396,6 +3406,8 @@ block from any to 8.147.234.137
 block from any to 8.148.4.69
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 8.152.170.232
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 8.193.13.148
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 8.208.15.65
 # https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/correos-2.com/relations
@@ -3428,6 +3440,8 @@ block from any to 8.210.100.19
 block from any to 8.210.101.116
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/ www.stdhgd(.)com
 block from any to 8.210.134.47
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 8.210.150.125
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 8.210.167.64
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
@@ -3440,6 +3454,8 @@ block from any to 8.210.174.140
 block from any to 8.210.174.168
 # https://threatfox.abuse.ch/browse/malware/win.ghost_rat/
 block from any to 8.210.206.52
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 8.210.212.20
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 8.210.221.119
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ 102bd03.r9.cpolar(.)top
@@ -3858,6 +3874,8 @@ block from any to 13.212.214.23
 block from any to 13.213.38.171
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 13.213.45.189
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ nnzf1[.]cc
+block from any to 13.213.211.232
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 13.214.93.225
 # https://www.abuseipdb.com/check/
@@ -4366,6 +4384,12 @@ block from any to 18.135.30.45
 block from any to 18.136.148.247
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 18.139.1.152
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ zu7kt[.]cc
+block from any to 18.139.164.24
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ bv8k[.]xyz app[.]re6s[.]xyz
+block from any to 18.142.101.169
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ t8bc[.]xyz
+block from any to 18.142.163.73
 # Singapore https://www.abuseipdb.com/check
 block from any to 18.143.186.57
 # https://unit42.paloaltonetworks.com/malicious-apks-steal-pii-from-chinese-users/
@@ -4464,6 +4488,8 @@ block from any to 18.192.93.0/24
 block from any to 18.192.93.86
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 18.192.93.230
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ instagram-cutequeen57[.]netlify.app
+block from any to 18.192.94.96
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ smallders(.)com
 block from any to 18.194.28.240
 # abuse.ch TF
@@ -6044,6 +6070,8 @@ block from any to 31.7.78.225
 block from any to 31.7.102.7
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 31.7.117.42
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 31.7.171.11
 # Russia https://www.abuseipdb.com/check/
 block from any to 31.8.30.214
 # Syrian Arab Republic https://www.abuseipdb.com/check/31.9.57.208
@@ -6790,6 +6818,8 @@ block from any to 34.75.3.142
 block from any to 34.75.65.218
 # https://www.abuseipdb.com/check/
 block from any to 34.76.151.47
+# https://unit42.paloaltonetworks.com/dynamics-of-deepfake-scams/ https://www.virustotal.com/gui/domain/griffinware-tm.cloud/details https://www.virustotal.com/gui/domain/invest-toolavenue.shop/details https://www.virustotal.com/gui/domain/capitalflow-skillful.shop/details
+block from any to 34.76.205.124
 # US https://www.abuseipdb.com/check/
 block from any to 34.77.4.135
 # US https://www.abuseipdb.com/check/
@@ -9646,6 +9676,8 @@ block from any to 38.180.5.251
 block from any to 38.180.6.129
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 38.180.9.93
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.services/details
+block from any to 38.180.18.66
 # https://unit42.paloaltonetworks.com/cve-2024-3400/
 block from any to 38.180.41.251
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
@@ -9658,6 +9690,8 @@ block from any to 38.180.58.99
 block from any to 38.180.72.54
 # https://github.com/eset/malware-ioc/tree/master/winter_vivern recsecas[.]com
 block from any to 38.180.76.31
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.me/details
+block from any to 38.180.86.201
 # abuse.ch TF
 block from any to 38.180.91.62
 # https://x.com/GenThreatLabs/status/1840762181668741130
@@ -12826,8 +12860,10 @@ block from any to 45.15.156.33
 block from any to 45.15.156.168
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 45.15.156.173
-# https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/ https://threatfox.abuse.ch/browse/malware/win.venom/
+# https://www.group-ib.com/blog/ajina-malware/ https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/ https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 45.15.157.0/24
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 45.15.157.38
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 45.15.157.71
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -12862,6 +12898,8 @@ block from any to 45.32.32.252
 block from any to 45.32.33.17
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 45.32.62.242
+# https://www.group-ib.com/blog/0ktapus/
+block from any to 45.32.66.165
 # https://github.com/blacklotuslabs/IOCs/blob/main/Raptor_Train_IOCs.txt zdacasdc.w8510(.)com lyblqwesfawe.w8510(.)com
 block from any to 45.32.67.198
 # https://threatfox.abuse.ch/browse/malware/win.pikabot/
@@ -13282,6 +13320,8 @@ block from any to 45.76.22.139
 block from any to 45.76.53.110
 # https://malpulse.com/blog/175/ Havoc
 block from any to 45.76.71.236
+# https://www.group-ib.com/blog/0ktapus/
+block from any to 45.76.80.199
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 45.76.83.253
 # A.ch TF
@@ -13322,6 +13362,8 @@ block from any to 45.76.232.0/24
 block from any to 45.76.232.100
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 45.76.232.247
+# https://www.group-ib.com/blog/0ktapus/
+block from any to 45.76.238.53
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/calendas.ru/details
 block from any to 45.76.251.193
 # https://www.bitdefender.com/blog/labs/ai-meets-next-gen-info-stealers-in-social-media-malvertising-campaigns/
@@ -14376,6 +14418,8 @@ block from any to 45.137.126.16
 block from any to 45.137.126.18
 # https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/ VPN Endpoints
 block from any to 45.137.126.41
+# https://threatfox.abuse.ch/browse/malware/win.remcos/
+block from any to 45.137.116.128
 # https://cert.gov.ua/article/6279366 https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 45.137.155.0/24
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -16295,6 +16339,10 @@ block from any to 46.217.112.120
 block from any to 46.219.101.229
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ intermissionhostel(.)no
 block from any to 46.226.10.68
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 46.226.160.0/24
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 46.226.160.19
 # https://www.abuseipdb.com/check/
 block from any to 46.226.160.26
 # https://threatfox.abuse.ch/browse/malware/win.recordbreaker/
@@ -16321,6 +16369,8 @@ block from any to 46.226.166.245
 block from any to 46.226.167.0/24
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 46.226.167.10
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 46.226.167.24
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 46.226.167.205
 # US https://threatfox.abuse.ch/browse/
@@ -16343,6 +16393,8 @@ block from any to 46.242.245.230
 block from any to 46.243.64.142
 # Iran https://www.abuseipdb.com/check/
 block from any to 46.245.65.17
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.services/relations
+block from any to 46.246.1.187
 # https://threatfox.abuse.ch/browse/malware/win.remcos/ https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 46.246.4.0/24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -18076,6 +18128,8 @@ block from any to 51.38.46.250
 block from any to 51.38.51.236
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 51.38.57.226
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/pro.riccardomalisano.com/relations
+block from any to 51.38.59.34
 # DFA SPAM France track.mei-zazamail(.)fr
 block from any to 51.38.62.159
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ www.eurotranschanet(.)fr
@@ -18358,6 +18412,8 @@ block from any to 51.83.170.23
 block from any to 51.83.172.83
 # https://unit42.paloaltonetworks.com/detecting-dns-tunneling-campaigns/ lustypartnersfinder[.]com
 block from any to 51.89.16.177
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 51.89.17.207
 # Germany https://www.abuseipdb.com/check/
 block from any to 51.89.33.96
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
@@ -19141,6 +19197,8 @@ block from any to 52.208.254.180
 block from any to 52.211.64.42
 # api.put[.]io https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ransomware-data-exfiltration
 block from any to 52.215.248.237
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ hzc5[.]xyz
+block from any to 52.220.8.57
 # https://unit42.paloaltonetworks.com/malicious-apks-steal-pii-from-chinese-users/
 block from any to 52.221.181.208
 # France https://www.abuseipdb.com
@@ -19189,6 +19247,8 @@ block from any to 52.236.34.161
 block from any to 52.237.243.229
 # US https://www.abuseipdb.com/
 block from any to 52.242.94.169
+# US https://www.abuseipdb.com/
+block from any to 52.249.35.104
 # https://blogs.blackberry.com/en/2023/09/silent-skimmer-online-payment-scraping-campaign-shifts-targets-from-apac-to-nala
 block from any to 52.253.105.171
 # https://www.abuseipdb.com/
@@ -19372,6 +19432,8 @@ block from any to 54.82.242.43
 block from any to 54.83.55.100
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
 block from any to 54.83.94.80
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/6627c220b5daa507c6cca1c5--votedme.netlify.app/details
+block from any to 54.84.236.175
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
 block from any to 54.85.48.214
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt
@@ -20099,6 +20161,8 @@ block from any to 54.248.167.251
 block from any to 54.250.13.251
 # https://www.cyfirma.com/research/threat-actors-actively-exploiting-cve-2024-3273-underground-forums-share-ip-addresses-of-vulnerable-d-link-nas-devices/
 block from any to 54.254.93.204
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ ks8cb[.]cc
+block from any to 54.255.91.81
 # abuse.ch TF
 block from any to 57.128.103.99
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -22114,6 +22178,10 @@ block from any to 64.229.116.2
 block from any to 64.229.116.44
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/larecetta.com/relations
 block from any to 64.233.171.26
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 64.233.181.132
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 64.233.182.132
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 64.237.212.192
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -22282,6 +22350,8 @@ block from any to 65.108.21.23
 block from any to 65.108.26.147
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt
 block from any to 65.108.43.126
+# https://www.group-ib.com/blog/teamtnt/
+block from any to 65.108.48.150
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 65.108.52.46
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
@@ -22422,6 +22492,10 @@ block from any to 66.42.95.123
 block from any to 66.42.99.86
 # abuse.ch TF
 block from any to 66.42.105.125
+# https://www.group-ib.com/blog/0ktapus/
+block from any to 66.42.107.233
+# SPAM oops.damen(.)com
+block from any to 66.42.117.108
 # https://github.com/blacklotuslabs/IOCs/blob/main/KVbotnet_IOCs.txt
 block from any to 66.42.124.155
 # https://www.abuseipdb.com/check/
@@ -22804,6 +22878,8 @@ block from any to 68.233.170.14
 block from any to 68.235.39.225
 # US https://www.abuseipdb.com/check/
 block from any to 68.235.43.151
+# https://www.group-ib.com/blog/dragonforce-ransomware/
+block from any to 69.4.234.20
 # https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/kapilapiii.com/relations
 block from any to 69.10.43.21
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -23317,14 +23393,18 @@ block from any to 74.91.112.81
 block from any to 74.95.13.185
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 74.101.122.87
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 74.109.1.159
 # US https://www.abuseipdb.com/check/
 block from any to 74.115.3.120
 # US https://www.abuseipdb.com/check/
 block from any to 74.119.194.4
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 74.119.195.78
 # https://unit42.paloaltonetworks.com/i-soon-data-leaks/
 block from any to 74.120.172.10
-# VT ghs-vip-any-c46.ghs-ssl.googlehosted.com
-#block from any to 74.125.34.46
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 74.125.126.132
 # https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
 block from any to 74.125.132.132
 # https://www.abuseipdb.com/check/
@@ -23333,12 +23413,16 @@ block from any to 74.125.181.150
 block from any to 74.132.65.25
 # US https://www.abuseipdb.com/check/
 block from any to 74.133.80.76
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 74.137.141.157
 # US https://www.abuseipdb.com/check/
 block from any to 74.138.64.46
 # US https://www.abuseipdb.com/check/
 block from any to 74.138.246.65
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 74.201.28.103
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 74.206.140.35
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 74.207.231.13
 # https://www.abuseipdb.com/check/74.207.244.170
@@ -23389,12 +23473,20 @@ block from any to 75.2.115.196
 block from any to 75.8.34.171
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 75.56.111.148
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 75.61.147.161
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 75.71.77.59
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.77.181.165
 # US https://www.abuseipdb.com/check/
 block from any to 75.84.7.10
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 75.86.4.24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.88.137.184
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 75.101.199.33
 # US https://www.abuseipdb.com/check/
 block from any to 75.114.100.166
 # Germany https://www.abuseipdb.com/check/
@@ -23405,6 +23497,8 @@ block from any to 75.119.153.250
 block from any to 75.119.203.215
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 75.132.35.60
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 75.133.142.7
 # https://github.com/volexity/threat-intel/blob/main/2024/2024-01-10%20Ivanti%20Connect%20Secure/indicators/iocs.csv
 block from any to 75.145.224.109
 # https://github.com/volexity/threat-intel/blob/main/2024/2024-01-10%20Ivanti%20Connect%20Secure/indicators/iocs.csv
@@ -23417,6 +23511,8 @@ block from any to 75.161.225.3
 block from any to 75.161.228.223
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 75.173.34.175
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 76.29.69.108
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ langtonhowarth.co(.)uk
 block from any to 76.56.62.71
 # https://asec.ahnlab.com/ko/83358/ https://www.virustotal.com/gui/domain/controlvisualch.com/details
@@ -23443,12 +23539,18 @@ block from any to 76.76.21.142
 block from any to 76.76.21.164
 # https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/ https://www.virustotal.com/gui/domain/bitping.com/relations
 block from any to 76.76.21.241
-# https://threatfox.abuse.ch/browse/malware/win.venom/
-block from any to 76.29.69.108
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.77.181.165
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.88.137.184
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.100.111.243
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.104.147.210
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 76.123.5.92
-# US https://www.abuseipdb.com/check/
-block from any to 74.119.194.4
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 76.175.153.210
 # DNS https://red.flag.domains/posts/2024-03-04/ registrar: KEY-SYSTEMS GmbH allocationfamiliales[.fr] https://github.com/Orange-Cyberdefense/russia-ukraine_IOs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt www.get.adobe.com.aspx(.)io ua.aspx(.)io mil.ua.aspx(.)io gov.mil.ua.aspx(.)io aspx(.)io
 block from any to 76.223.54.146
 # DNS https://go.recordedfuture.com/hubfs/reports/cta-2024-0917.pdf elonmuskhouse[.]com mcxncdextips[.]com cancelspacecoastdaily[.]com https://threatfox.abuse.ch/browse/malware/win.shadowpad/ sdfsj3h1s54-yh.foy9dong(.)com https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/ https://threatfox.abuse.ch/browse/malware/win.amadey/ rubyonthewal(.)xyz https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt rivertimad(.)com
@@ -23463,6 +23565,8 @@ block from any to 76.223.122.69
 block from any to 76.223.126.88
 # Germany https://www.abuseipdb.com/check/
 block from any to 77.2.222.75
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.6.52.82
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 77.8.150.104
 # https://www.abuseipdb.com/check/
@@ -23471,6 +23575,12 @@ block from any to 77.20.215.114
 block from any to 77.20.253.53
 # North Macedonia https://www.abuseipdb.com/check/
 block from any to 77.28.129.71
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.28.199.53
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.28.207.109
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.34.2.133
 # https://threatfox.abuse.ch/browse/malware/unknown/ Covenant
 block from any to 77.37.43.47
 # https://threatfox.abuse.ch/browse/malware/apk.ermac/
@@ -23509,6 +23619,8 @@ block from any to 77.37.127.56
 block from any to 77.37.168.42
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 77.37.239.252
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.37.246.115
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.40.3.0/24
 # Russia https://www.abuseipdb.com/check/
@@ -23517,8 +23629,12 @@ block from any to 77.40.3.13
 block from any to 77.40.3.240
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 77.47.142.96
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.48.17.165
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 77.48.237.20
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.50.107.86
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.50.195.196
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -23569,8 +23685,14 @@ block from any to 77.73.131.0/24
 block from any to 77.73.131.144
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 77.73.131.239
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.75.147.129
 # https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
 block from any to 77.75.230.164
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.75.230.100
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.76.47.44
 # Bosnia and Herzegovina https://www.abuseipdb.com/check/
 block from any to 77.77.226.90
 # https://red.flag.domains/posts/2024-06-02/ secutekshop[.fr] (registrar: GRANSY s.r.o.
@@ -23598,6 +23720,8 @@ block from any to 77.83.246.46
 block from any to 77.83.246.55
 # https://www.abuseipdb.com/check/
 block from any to 77.85.156.16
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.87.98.25
 # https://www.abuseipdb.com/check/
 block from any to 77.89.220.210
 # Germany https://www.abuseipdb.com/check/
@@ -23610,6 +23734,46 @@ block from any to 77.90.44.31
 block from any to 77.90.185.0/24
 # Germany https://www.abuseipdb.com/check/
 block from any to 77.90.185.72
+# Germany https://www.abuseipdb.com/check/
+block from any to 77.90.185.0/24
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.14
+# Germany https://www.abuseipdb.com/check/
+block from any to 77.90.185.72
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.59
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.90
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.100
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.120
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.126
+# https://www.abuseipdb.com/check/77.90.185.144
+block from any to 77.90.185.144
+# https://www.abuseipdb.com/check/77.90.185.145
+block from any to 77.90.185.145
+# https://www.abuseipdb.com/check/77.90.185.146
+block from any to 77.90.185.146
+# https://www.abuseipdb.com/check/77.90.185.147
+block from any to 77.90.185.147
+# https://www.abuseipdb.com/check/77.90.185.148
+block from any to 77.90.185.148
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.154
+# https://www.abuseipdb.com/check/77.90.185.158
+block from any to 77.90.185.158
+# https://www.abuseipdb.com/check/77.90.185.162
+block from any to 77.90.185.162
+# https://www.abuseipdb.com/check/77.90.185.176
+block from any to 77.90.185.176
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.182
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.186
+# https://www.abuseipdb.com/check/
+block from any to 77.90.185.191
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 77.91.68.0/24
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
@@ -23694,58 +23858,18 @@ block from any to 77.91.124.14
 block from any to 77.91.124.37
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 77.91.124.57
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.93.46.154
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.93.115.75
-# Germany https://www.abuseipdb.com/check/
-block from any to 77.90.185.0/24
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.14
-# Germany https://www.abuseipdb.com/check/
-block from any to 77.90.185.72
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.59
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.90
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.100
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.120
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.126
-# https://www.abuseipdb.com/check/77.90.185.144
-block from any to 77.90.185.144
-# https://www.abuseipdb.com/check/77.90.185.145
-block from any to 77.90.185.145
-# https://www.abuseipdb.com/check/77.90.185.146
-block from any to 77.90.185.146
-# https://www.abuseipdb.com/check/77.90.185.147
-block from any to 77.90.185.147
-# https://www.abuseipdb.com/check/77.90.185.148
-block from any to 77.90.185.148
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.154
-# https://www.abuseipdb.com/check/77.90.185.158
-block from any to 77.90.185.158
-# https://www.abuseipdb.com/check/77.90.185.162
-block from any to 77.90.185.162
-# https://www.abuseipdb.com/check/77.90.185.176
-block from any to 77.90.185.176
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.182
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.186
-# https://www.abuseipdb.com/check/
-block from any to 77.90.185.191
-# https://www.abuseipdb.com/check/
-block from any to 77.91.68.247
-# https://www.abuseipdb.com/check/
-block from any to 77.91.74.226
-# Russia https://www.abuseipdb.com/check/
-block from any to 77.93.115.75
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.94.25.216
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.94.197.27
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 77.95.113.180
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.100.4.30
 # https://threatfox.abuse.ch/browse/malware/win.risepro/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/ ttps://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 77.105.132.0/24
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
@@ -23826,10 +23950,14 @@ block from any to 77.105.164.24
 block from any to 77.105.164.59
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 77.105.166.152
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 77.105.166.215
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 77.105.167.115
 # https://www.abuseipdb.com/check/
 block from any to 77.105.182.66
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.109.22.98
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 77.109.32.245
 # Hungary https://www.abuseipdb.com/check/
@@ -23850,14 +23978,62 @@ block from any to 77.111.241.0/24
 block from any to 77.111.241.70
 # https://red.flag.domains/posts/2024-04-06/ mon-abonnement-netfiix[.fr] (registrar: One.com A/S
 block from any to 77.111.241.72
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.114.67.194
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.120.40.95
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.121.235.39
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.121.70.53
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.102.80
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.182.113
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.188.73
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.192.58
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.228.42
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.8.179
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.122.89.142
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.123.100.47
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.123.14.31
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.123.20.173
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 77.124.100.196
 # https://www.abuseipdb.com/check/
 block from any to 77.125.87.113
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.125.143.71
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 77.126.87.0/24
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 77.126.87.47
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.136.119.243
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.157.62.205
 # SPAM surveys.thelinks(.)fr
 block from any to 77.158.200.24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.159.73.198
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.159.92.125
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.220.51.97
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.220.52.6
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 77.220.196.253
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 77.221.136.21
 # https://cert.gov.ua/article/6279366
 block from any to 77.221.147.48
 # https://tracker.viriback.com/index.php?q=Meduza
@@ -23926,18 +24102,24 @@ block from any to 77.221.157.163
 block from any to 77.221.158.250
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ atvtrade(.)ru
 block from any to 77.222.61.237
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.222.100.63
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.222.108.69
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.222.109.193
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.222.110.140
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.222.116.143
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.222.118.9
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.223.90.238
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.223.252.21
 # Spain https://www.abuseipdb.com/check/
 block from any to 77.224.233.141
-# https://threatfox.abuse.ch/browse/malware/win.qakbot/
-block from any to 77.126.87.0/24
-# https://threatfox.abuse.ch/browse/malware/win.qakbot/
-block from any to 77.126.87.47
-# https://www.abuseipdb.com/check/
-block from any to 77.125.87.113
 # https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_29.04.2024.txt abd.com(.)tr
 block from any to 77.223.142.161
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
@@ -23948,6 +24130,8 @@ block from any to 77.232.39.226
 block from any to 77.232.40.96
 # https://threatfox.abuse.ch/browse/malware/win.tofsee/ nidavellir(.)top muspelheim(.)be vanaheim(.)cn
 block from any to 77.232.41.29
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.232.123.136
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.232.128.152
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -23962,6 +24146,12 @@ block from any to 77.232.142.189
 block from any to 77.232.143.114
 # https://www.abuseipdb.com/check/
 block from any to 77.237.11.59
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.237.184.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.237.184.28
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.237.184.177
 block from any to 77.238.180.0/24
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 77.238.231.212
@@ -23987,8 +24177,16 @@ block from any to 77.239.253.27
 block from any to 77.240.33.101
 # https://www.abuseipdb.com/check/
 block from any to 77.242.241.218
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.243.191.121
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.243.23.158
 # https://red.flag.domains/posts/2024-04-16/ arret-maladie24[.fr] (registrar: ASCIO TECHNOLOGIES Inc.
 block from any to 77.244.243.43
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.243.191.121
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 77.247.126.247
 # https://github.com/eset/malware-ioc/tree/master/grandoreiro
 block from any to 77.246.96.204
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
@@ -24003,6 +24201,8 @@ block from any to 77.247.127.230
 block from any to 77.254.88.1
 # https://www.abuseipdb.com/check/
 block from any to 78.4.254.135
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.11.17.2
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 78.16.61.94
 # A.ch TF
@@ -24021,12 +24221,22 @@ block from any to 78.24.205.142
 block from any to 78.24.217.201
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 78.24.220.122
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.26.133.73
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.26.209.228
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.27.177.67
 # Russia https://www.abuseipdb.com/check/
 block from any to 78.29.45.22
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.37.203.42
 # Iran https://www.abuseipdb.com/check/
 block from any to 78.38.46.93
 # Iran https://www.abuseipdb.com/check/
 block from any to 78.38.71.183
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.38.102.129
 # https://www.abuseipdb.com/check/
 block from any to 78.39.51.126
 # https://threatfox.abuse.ch/browse/malware/win.danabot/ https://threatfox.abuse.ch/browse/malware/elf.mirai/
@@ -24102,14 +24312,40 @@ block from any to 78.58.53.183
 block from any to 78.61.92.204
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 78.62.155.249
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.19.99
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.60.185
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.68.14
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.184.127
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.214.168
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.215.92
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.253.140
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.84.33.198
 # Russia https://www.abuseipdb.com/check/
 block from any to 78.85.48.75
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.87.87.112
 # Hungary https://www.abuseipdb.com/check/
 block from any to 78.92.38.68
 # Germany https://www.abuseipdb.com/check/
 block from any to 78.94.76.242
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 78.94.148.92
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.101.146.76
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.107.206.10
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.107.206.114
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.107.238.59
 # https://www.abuseipdb.com/check/
 block from any to 78.108.177.50
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
@@ -24180,8 +24416,14 @@ block from any to 78.128.114.126
 block from any to 78.128.114.166
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 78.128.114.170
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.128.115.7
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.130.149.170
 # Hungary https://www.abuseipdb.com/check/
 block from any to 78.131.9.31
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.131.95.226
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 78.134.89.167
 # https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
@@ -24201,8 +24443,12 @@ block from any to 78.135.100.87
 block from any to 78.135.100.157
 # https://red.flag.domains/posts/2024-03-14/ registrar: SAS Ligne Web Services - LWS triliad-free[.fr]
 block from any to 78.138.58.31
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.139.44.237
 # https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf op3f1libgh[.]biz larfj7g1vaz3y[.]net
 block from any to 78.140.134.9
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.140.241.42
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 78.141.224.44
 # https://unit42.paloaltonetworks.com/cve-2024-3400/
@@ -24263,6 +24509,8 @@ block from any to 78.153.140.177
 block from any to 78.153.140.179
 # https://www.abuseipdb.com/check/
 block from any to 78.153.140.219
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.153.144.169
 # https://threatfox.abuse.ch/browse/malware/win.nanocore/ airlineagancy.casacam(.)net jacksonnnn233.theworkpc(.)com
 block from any to 78.159.112.29
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -24275,6 +24523,8 @@ block from any to 78.161.190.78
 block from any to 78.162.135.191
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 78.162.198.143
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.163.48.96
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 78.166.52.0/24
 # https://threatfox.abuse.ch/browse/tag/QakBot/
@@ -24285,12 +24535,28 @@ block from any to 78.166.52.204
 block from any to 78.167.158.62
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 78.168.2.118
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.168.23.94
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 78.168.80.155
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.169.162.97
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 78.171.0.125
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.172.122.57
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.172.240.75
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.173.5.87
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 78.173.22.60
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.173.36.167
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.173.59.212
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.174.64.139
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 78.175.96.107
 # Turkiye https://www.abuseipdb.com/check/
@@ -24303,6 +24569,8 @@ block from any to 78.178.154.228
 block from any to 78.179.0.23
 # A.ch TF
 block from any to 78.180.86.46
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.182.151.211
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 78.183.223.252
 # https://www.abuseipdb.com/check/
@@ -24311,34 +24579,76 @@ block from any to 78.185.95.223
 block from any to 78.185.193.7
 # https://www.abuseipdb.com/check/
 block from any to 78.186.11.240
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.186.35.18
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.186.117.231
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.186.137.117
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.186.172.199
 # https://www.abuseipdb.com/check/
 block from any to 78.187.21.105
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 78.187.211.85
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.187.198.52
 # https://www.abuseipdb.com/check/
 block from any to 78.188.15.74
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.188.39.56
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.189.110.165
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 78.189.239.19
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.190.41.152
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.190.181.233
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.191.177.72
 # https://www.abuseipdb.com/check/
 block from any to 78.203.127.100
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 78.246.4.25
 # https://www.abuseipdb.com/check/
 block from any to 79.2.173.23
 # https://www.abuseipdb.com/check/
 block from any to 79.11.176.155
 # https://www.abuseipdb.com/check/
 block from any to 79.16.42.151
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.20.158.199
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.22.41.81
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.27.74.131
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.30.218.188
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.50.213.93
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.54.32.219
 # https://www.abuseipdb.com/check/
 block from any to 79.33.249.141
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
 block from any to 79.36.28.36
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.55.82.12
 # https://www.abuseipdb.com/check/
 block from any to 79.56.103.129
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
 block from any to 79.56.208.137
 # https://www.abuseipdb.com/check/
 block from any to 79.56.245.247
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.61.78.240
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.78.137.238
 # France https://www.abuseipdb.com/check/
 block from any to 79.80.37.111
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.100.230.134
 # https://www.abuseipdb.com/check/
 block from any to 79.101.120.42
 # Russia https://www.abuseipdb.com/check/
@@ -24481,6 +24791,10 @@ block from any to 79.110.62.213
 block from any to 79.110.62.232
 # UK https://www.abuseipdb.com/check/
 block from any to 79.110.62.247
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.111.152.5
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.112.92.70
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 79.113.86.126
 # Belgium https://www.abuseipdb.com/check/
@@ -24552,25 +24866,13 @@ block from any to 79.124.76.0/24
 block from any to 79.124.76.30
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
 block from any to 79.124.76.237
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.124.78.126
 # https://threatfox.abuse.ch/browse/malware/win.koiloader/
 block from any to 79.124.78.197
 block from any to 79.125.114.92
 # https://threatfox.abuse.ch/browse/tag/QakBot/
 block from any to 79.130.53.226
-# https://threatfox.abuse.ch/browse/malware/apk.hook/ https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
-block from any to 79.133.51.234
-# https://threatfox.abuse.ch/browse/malware/jar.strrat/
-block from any to 79.134.225.0/24
-# https://threatfox.abuse.ch/browse/malware/jar.strrat/
-block from any to 79.134.225.42
-# https://threatfox.abuse.ch/browse/malware/jar.strrat/
-block from any to 79.134.225.43
-# https://threatfox.abuse.ch/browse/malware/jar.strrat/
-block from any to 79.134.225.71
-# Russia https://www.abuseipdb.com/check/
-block from any to 79.172.8.22
-# Belgium https://www.abuseipdb.com/check/
-block from any to 78.128.113.250
 # https://www.abuseipdb.com/check/
 block from any to 79.132.125.226
 # https://www.esentire.com/blog/esentire-threat-intelligence-malware-analysis-resident-campaign C2 https://threatfox.abuse.ch/browse/malware/apk.sharkbot/
@@ -24595,6 +24897,18 @@ block from any to 79.132.133.244
 block from any to 79.132.213.187
 # https://www.abuseipdb.com/check/
 block from any to 79.132.249.34
+# https://threatfox.abuse.ch/browse/malware/apk.hook/ https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 79.133.51.234
+# https://threatfox.abuse.ch/browse/malware/jar.strrat/
+block from any to 79.134.225.0/24
+# https://threatfox.abuse.ch/browse/malware/jar.strrat/
+block from any to 79.134.225.42
+# https://threatfox.abuse.ch/browse/malware/jar.strrat/
+block from any to 79.134.225.43
+# https://threatfox.abuse.ch/browse/malware/jar.strrat/
+block from any to 79.134.225.71
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.135.195.0
 # https://threatfox.abuse.ch/browse
 block from any to 79.137.36.193
 # https://cert.gov.ua/article/6280563
@@ -24647,6 +24961,8 @@ block from any to 79.137.199.253
 block from any to 79.137.202.0/24
 # https://threatfox.abuse.ch/browse/malware/osx.amos/ # https://go.recordedfuture.com/hubfs/reports/cta-2024-0917.pdf rafaelsuarezlopez[.]com myfirstlovemusicfestival[.]com TidyMe.dmg
 block from any to 79.137.202.22
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 79.137.202.32
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 79.137.202.60
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
@@ -24669,12 +24985,16 @@ block from any to 79.137.203.173
 block from any to 79.137.203.139
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 79.137.203.159
-# https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
-block from any to 79.137.205.173
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 79.137.203.196
+# https://www.group-ib.com/blog/ajina-malware/ https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/ https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
+block from any to 79.137.205.0/24
+# https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
+block from any to 79.137.205.173
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 79.137.205.182
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 79.137.205.212
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/ https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 79.137.206.0/24
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
@@ -24709,6 +25029,12 @@ block from any to 79.137.207.237
 block from any to 79.137.207.240
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 79.137.248.105
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.139.163.234
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.139.209.207
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.141.219.74
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 79.141.162.184
 # https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/proxy-pol.depo.com.ru/relations
@@ -24719,16 +25045,28 @@ block from any to 79.141.165.176
 block from any to 79.141.170.34
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/ genifyart(.)com
 block from any to 79.141.173.31
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.142.69.160
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 79.143.87.166
 # Spain https://www.abuseipdb.com/check/
 block from any to 79.143.92.103
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb348a-cb74-40eb-9678-7c1d0aba047c.json
 block from any to 79.143.178.194
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.146.189.175
 # Spain https://www.abuseipdb.com/check/
 block from any to 79.152.38.111
 # Spain https://www.abuseipdb.com/check/
 block from any to 79.153.43.166
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.165.151.139
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.168.8.78
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.171.118.241
+# Russia https://www.abuseipdb.com/check/
+block from any to 79.172.8.22
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 79.174.94.0/24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -24749,42 +25087,44 @@ block from any to 79.175.129.177
 block from any to 79.175.176.225
 # Iran https://www.abuseipdb.com/check/
 block from any to 79.175.189.64
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.186.129.200
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.217.20.121
 # https://www.abuseipdb.com/check/
 block from any to 79.224.103.57
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.234.176.213
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.234.179.95
 # https://threatfox.abuse.ch/browse/malware/win.netsupportmanager_rat/
 block from any to 79.241.100.193
 # https://threatfox.abuse.ch/browse/malware/win.netsupportmanager_rat/
 block from any to 79.241.107.168
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 79.250.140.211
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 79.253.237.105
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 80.0.65.0
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.11.30.15
 # France https://www.abuseipdb.com/check/
 block from any to 80.13.153.140
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.13.74.81
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.14.156.1
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.14.244.85
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 80.15.113.188
 # Italy https://www.abuseipdb.com/check/
 block from any to 80.19.129.243
-# https://www.abuseipdb.com/check/
-block from any to 80.21.208.94
-# https://threatfox.abuse.ch/browse/malware/win.poshc2/
-block from any to 80.203.15.24
-# Italy https://www.abuseipdb.com/check/
-block from any to 80.211.29.145
-# https://threatfox.abuse.ch/browse/malware/elf.bashlite/
-block from any to 80.211.91.145
-# https://threatfox.abuse.ch/browse/malware/elf.bashlite/
-block from any to 80.211.103.184
-# https://threatfox.abuse.ch/browse/malware/win.dcrat/ 26314cm.n9sh.top moscowteslaclub(.)top
-block from any to 80.211.144.156
-# https://threatfox.abuse.ch/browse/malware/elf.bashlite/
-block from any to 80.211.184.72
-# https://threatfox.abuse.ch/browse/tag/QakBot/
-block from any to 80.214.112.151
-# Sweden https://www.abuseipdb.com/check/
-block from any to 80.217.242.125
 # Spain https://www.abuseipdb.com/check/
 block from any to 80.28.122.97
+# https://www.abuseipdb.com/check/
+block from any to 80.21.208.94
 # Russia https://threatfox.abuse.ch/browse/malware/win.amadey/ https://asec.ahnlab.com/en/64921/ remcos
 block from any to 80.66.75.0/24
 # https://threatfox.abuse.ch/browse/malware/win.tofsee/
@@ -24813,6 +25153,8 @@ block from any to 80.66.77.15
 block from any to 80.66.77.52
 # SPAM DNS DGA e5vnbtmt11zl(.)com maa9kaa1mmm2nmm(.)com joje0g3rf59z(.)com w0hw1k9yi65c(.)com o1i978kzrhex(.)com ttvnalz9du2b(.)com xsg1jjxoyc8m(.)com faa0nnn5ter2mmm6tt(.)com i faa3nnn6ter2mmm1tt(.)com ittvnalz9du2b(.)com oovooytt3(.)com rodaremos(.)com esong-i(.)com betsmat(.)com utopia-il(.)com halochainofficial(.)com sangwaari(.)com horang002(.)com ominousband(.)com betoandsally(.)com socaltradesmen(.)com boli-agenzia(.)com
 block from any to 80.66.77.56
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.66.79.105
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 80.66.81.55
 # Poland .ru Aleksandr Valerevich Mokhonko https://www.abuseipdb.com/check/
@@ -24837,6 +25179,8 @@ block from any to 80.66.85.61
 block from any to 80.66.88.0/24
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 80.66.88.86
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.66.88.134
 # https://www.elastic.co/security-labs/dipping-into-danger https://threatfox.abuse.ch/browse/malware/win.warmcookie/
 block from any to 80.66.88.146
 # https://github.com/sophoslabs/IoCs/blob/master/2023-12%20Akira%20followup.csv
@@ -24902,9 +25246,17 @@ block from any to 80.76.49.239
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/ xijinping(.)mov
 block from any to 80.76.49.247
 # https://threatfox.abuse.ch/browse/malware/win.houdini/
+block from any to 80.76.51.0/24
+# https://threatfox.abuse.ch/browse/malware/win.houdini/
 block from any to 80.76.51.33
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.76.51.36
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
 block from any to 80.76.176.23
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.76.238.235
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.240.210
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/ https://threatfox.abuse.ch/browse/malware/apk.sharkbot/
 block from any to 80.77.23.0/24
 # https://threatfox.abuse.ch/browse/malware/apk.sharkbot/
@@ -24920,25 +25272,67 @@ block from any to 80.78.25.152
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/ https://www.abuseipdb.com/check/
 block from any to 80.78.26.69
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
+block from any to 80.78.241.0/24
+# https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 80.78.241.15
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.241.88
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.241.253
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 80.78.243.49
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.244.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.244.124
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.244.199
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.245.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.245.89
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.245.223
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 80.78.245.226
 # https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/abdurs.space/relations https://www.virustotal.com/gui/domain/abies.space/relations https://www.virustotal.com/gui/domain/acutifolia.space/relations https://www.virustotal.com/gui/domain/aganta.space/relations
 block from any to 80.78.246.128
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.248.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.248.22
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.248.222
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.251.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.251.4
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.251.191
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.251.231
 # https://cert.gov.ua/article/10702 https://www.virustotal.com/gui/domain/apoxipodes.ru/details https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 80.78.253.0/24
 # https://cert.gov.ua/article/10702 https://www.virustotal.com/gui/domain/apoxipodes.ru/details
 block from any to 80.78.253.26
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 80.78.253.31
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.253.86
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 80.78.253.247
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.254.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.78.254.238
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt
 block from any to 80.78.254.253
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 80.79.7.197
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.80.194.112
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.80.196.49
 # Russia https://www.abuseipdb.com/check/
 block from any to 80.82.37.71
 # Netherlands https://www.abuseipdb.com/check/
@@ -24965,6 +25359,8 @@ block from any to 80.82.77.211
 block from any to 80.83.21.149
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ systra-logistik(.)de
 block from any to 80.83.115.8
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.83.235.82
 # https://www.abuseipdb.com/check/80.84.120.191
 block from any to 80.84.120.191
 # SpyNote https://threatfox.abuse.ch/browse/malware/apk.spynote/
@@ -25003,10 +25399,14 @@ block from any to 80.87.206.197
 block from any to 80.87.206.203
 # https://github.com/eset/malware-ioc/tree/master/gamaredon
 block from any to 80.90.181.107
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.91.171.83
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/ foxthreatnointel(.)africa foxthreatnigger.botnetrealsexo.com
 block from any to 80.91.223.72
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/ https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 80.92.204.0/24
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.92.8.3
 # https://threatfox.abuse.ch/browse/malware/win.njrat/ https://threatfox.abuse.ch/browse/malware/win.darkcomet/
 block from any to 80.92.204.233
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
@@ -25051,8 +25451,18 @@ block from any to 80.94.95.248
 block from any to 80.94.95.249
 # Hungary https://www.abuseipdb.com/check/
 block from any to 80.95.88.161
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.94.250.33
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.95.44.213
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.95.44.55
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.99.96.122
 # Spain https://www.abuseipdb.com/check/
 block from any to 80.103.63.114
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.104.8.156
 # Greece https://www.abuseipdb.com/check/
 block from any to 80.106.230.108
 # Greece https://www.abuseipdb.com/check/
@@ -25061,6 +25471,8 @@ block from any to 80.107.50.128
 block from any to 80.112.42.92
 # Italy https://www.abuseipdb.com/check/
 block from any to 80.116.184.228
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.123.223.98
 # Germany https://www.abuseipdb.com/check/
 block from any to 80.132.237.48
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
@@ -25077,14 +25489,34 @@ block from any to 80.179.114.175
 block from any to 80.186.144.129
 # Iran https://www.abuseipdb.com/check/
 block from any to 80.191.243.211
+# https://threatfox.abuse.ch/browse/malware/win.poshc2/
+block from any to 80.203.15.24
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 80.209.225.170
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 80.209.238.116
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.210.6.143
 # Iran https://www.abuseipdb.com/check/
 block from any to 80.210.21.126
 # Iran https://www.abuseipdb.com/check/
 block from any to 80.210.32.153
+# Italy https://www.abuseipdb.com/check/
+block from any to 80.211.29.145
+# https://threatfox.abuse.ch/browse/malware/elf.bashlite/
+block from any to 80.211.91.145
+# https://threatfox.abuse.ch/browse/malware/elf.bashlite/
+block from any to 80.211.103.184
+# https://threatfox.abuse.ch/browse/malware/win.dcrat/ 26314cm.n9sh.top moscowteslaclub(.)top
+block from any to 80.211.144.156
+# https://threatfox.abuse.ch/browse/malware/elf.bashlite/
+block from any to 80.211.184.72
+# https://threatfox.abuse.ch/browse/tag/QakBot/
+block from any to 80.214.112.151
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.216.78.155
+# Sweden https://www.abuseipdb.com/check/
+block from any to 80.217.242.125
 # https://www.abuseipdb.com/check/
 block from any to 80.221.139.60
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
@@ -25127,6 +25559,8 @@ block from any to 80.244.11.191
 block from any to 80.244.168.40
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 80.246.28.54
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.248.243.202
 # https://threatfox.abuse.ch/browse/malware/win.cryptbot/ twov2sb(.)top https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 80.249.144.0/24
 # https://threatfox.abuse.ch/browse/malware/win.cryptbot/ twov2sb(.)top
@@ -25151,6 +25585,10 @@ block from any to 80.253.246.96
 block from any to 80.253.246.232
 # Russia https://www.abuseipdb.com/check/
 block from any to 80.254.127.9
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.255.7.105
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 80.255.12.232
 # Czechia https://red.flag.domains/posts/2024-01-23/
 block from any to 81.0.237.69
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
@@ -25166,6 +25604,8 @@ block from any to 81.4.177.118
 block from any to 81.4.236.221
 # Spain https://www.abuseipdb.com/check/
 block from any to 81.9.198.212
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 81.10.28.50
 # Egypt https://www.abuseipdb.com/check/
 block from any to 81.10.85.242
 # Egypt https://www.abuseipdb.com/check/
@@ -25206,6 +25646,8 @@ block from any to 81.19.135.17
 block from any to 81.19.135.226
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 81.19.137.171
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 81.138.39.164
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 81.19.140.77
 # https://tracker.viriback.com/index.php?q=Sarwent
@@ -25768,7 +26210,7 @@ block from any to 83.212.126.41
 block from any to 83.213.157.103
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: EPAG Domainservices GmbH espacefidelitefree[.fr]
 block from any to 83.217.9.9/24
-# DNS https://github.com/eset/malware-ioc/tree/master/gamaredon https://red.flag.domains/posts/2024-03-02/ registrar: EPAG Domainservices GmbH espacefidelitefree[.fr]
+# DNS https://github.com/eset/malware-ioc/tree/master/gamaredon https://www.virustotal.com/gui/domain/tolofa.ru/relations https://red.flag.domains/posts/2024-03-02/ registrar: EPAG Domainservices GmbH espacefidelitefree[.fr]
 block from any to 83.217.9.28
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 83.217.9.199
@@ -26472,8 +26914,12 @@ block from any to 85.239.52.71
 block from any to 85.239.53.246
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 85.239.53.248
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/ matrixane(.)com
+block from any to 85.239.54.0/24
 # https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/ matrixane(.)com
 block from any to 85.239.54.125
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations
+block from any to 85.239.54.177
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 85.239.237.148
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
@@ -27460,6 +27906,12 @@ block from any to 89.116.159.0/24
 block from any to 89.116.159.101
 # https://threatfox.abuse.ch/browse/tag/Hookbot%20Pegasus/
 block from any to 89.116.159.203
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 89.116.213.0/24
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 89.116.213.60
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 89.116.213.122
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt meilinhotels(.)com
 block from any to 89.117.9.165
 # https://threatfox.abuse.ch/browse/malware/win.remcos/ https://threatfox.abuse.ch/browse/malware/elf.mirai/ https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -28915,6 +29367,8 @@ block from any to 91.191.209.166
 block from any to 91.191.209.198
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt abdomensafe(.)com
 block from any to 91.195.240.0/24
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ bweri6[.]cc blsdk5[.]cc
+block from any to 91.195.240.12
 # https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/kapilapiii.com/relations
 block from any to 91.195.240.45
 # https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt abdomensafe(.)com zoromangare(.)com unipolarding(.)com umiddleway(.)com travelerstudy(.)com thematicswing(.)com quinolsboat(.)com quarrelwest(.)com quanticsmend(.)com myeasyjump(.)com meumnomen(.)com marquisswim(.)com locomotorsalt(.)com kinetinsands(.)com kiddushes(.)com jazzyscraper(.)com harmonicsomp(.)com hardborded(.)com gloomytime(.)com fishingrains(.)com atlilacstreet(.)com animatedroad(.)com agricompress(.)com abdomensafe(.)com case-n-point(.)net chance-impression(.)com daily-exchange(.)net daily-feed(.)net downright-direct(.)com matter-of-fact(.)net ocular-echo(.)com open-effect(.)com open-transfer(.)com open-transfer.net open-transfer(.)net optimal-effect(.)net passing-action(.)net passing-effect(.)com passing-impression(.)com passing-impression(.)net point-blank-impression(.)net reserved-effect(.)com reserved-effect(.)net sd-advance(.)net sd-echo(.)com sd-echo(.)net sd-emagine(.)com sd-emagine(.)net unambiguous-effect(.)net visual-express(.)net visual-feedback(.)net visual-marvels(.)com visual-return(.)com visual-return(.)net widely-considered(.)com widely-considered(.)net widely-known(.)com widely-known(.)net
@@ -28929,8 +29383,14 @@ block from any to 91.250.243.75
 block from any to 91.195.240.0/24
 # https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ telegcn[.]com
 block from any to 91.195.240.12
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 91.195.240.94
 # https://threatfox.abuse.ch/browse/malware/win.amadey/ second.amadgood(.)com https://threatfox.abuse.ch/browse/malware/win.formbook/ collegeclubapparel(.)com www.collegeclubapparel(.)com www.blueberry-breeze(.)com blueberry-breeze(.)com
 block from any to 91.195.240.117
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/service-proton.me/relations
+block from any to 91.196.70.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/service-proton.me/relations
+block from any to 91.196.70.47
 # https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/
 block from any to 91.196.70.49
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ brainyworkslogos(.)com
@@ -34793,6 +35253,8 @@ block from any to 104.21.10.22
 block from any to 104.21.10.25
 # https://blog.eclecticiq.com/onnx-store-targeting-financial-institution 56789iugtfrd5t69i9ei9die9di9eidy7u889[.]rhiltons[.]com
 block from any to 104.21.10.181
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations
+block from any to 104.21.10.136
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/07/hidden-between-the-tags-insights-into-evasion-techniques-in-html-smuggling.txt 9mYtT.ntypenti.com
 block from any to 104.21.10.217
 # US https://red.flag.domains/posts/2024-01-10/ https://tracker.viriback.com/index.php?q=Lokibot
@@ -35365,12 +35827,16 @@ block from any to 104.21.45.152
 block from any to 104.21.46.0/24
 # https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 104.21.46.21
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]js6kk[.]xyz
+block from any to 104.21.46.96
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.46.100
 # https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/correos-gov.com/details
 block from any to 104.21.46.144
 # https://www.abuseipdb.com/check/104.21.46.149
 block from any to 104.21.46.149
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]bc2k[.]xyz
+block from any to 104.21.46.159
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ celebratioopz(.)shop
 block from any to 104.21.47.0/24
 # DFA https://red.flag.domains/posts/2024-02-03/
@@ -35760,6 +36226,8 @@ block from any to 104.21.73.0/24
 block from any to 104.21.73.43
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ unwielldyzpwo(.)shop
 block from any to 104.21.73.56
+# https://unit42.paloaltonetworks.com/dynamics-of-deepfake-scams/ https://www.virustotal.com/gui/domain/aitfinside.shop/details
+block from any to 104.21.73.92
 # https://asec.ahnlab.com/en/65426/ mysystemes(.)com
 block from any to 104.21.73.137
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tycoongroup(.)ws https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
@@ -35950,7 +36418,7 @@ block from any to 104.21.86.112
 block from any to 104.21.86.117
 # https://red.flag.domains/posts/2024-04-11/ adidas-ozweego[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.86.191
-# https://threatfox.abuse.ch/browse/malware/win.lactrodectus/ godfaetret(.)com
+# https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/giftboxedwines.com/details https://threatfox.abuse.ch/browse/malware/win.lactrodectus/ godfaetret(.)com
 block from any to 104.21.86.208
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ urluss(.)com
 block from any to 104.21.87.0/24
@@ -38253,6 +38721,8 @@ block from any to 109.116.71.248
 block from any to 109.117.91.172
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 109.120.133.115
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 109.120.135.42
 # Turkiye https://www.abuseipdb.com/check/
 block from any to 109.120.150.109
 # https://threatfox.abuse.ch/browse/malware/win.privateloader/ https://threatfox.abuse.ch/browse/malware/win.meduza/
@@ -38496,6 +38966,8 @@ block from any to 108.177.15.0/24
 block from any to 108.177.15.156
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/larecetta.com/details
 block from any to 108.177.98.26
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 108.177.111.132
 # https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
 block from any to 108.177.121.132
 # https://www.abuseipdb.com/check/109.116.210.54
@@ -39351,6 +39823,8 @@ block from any to 113.252.250.222
 block from any to 114.27.205.191
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 114.29.237.119
+# https://www.group-ib.com/blog/pig-butchering/ www.upstoxcalculator[.]com www.yupstocks[.]com
+block from any to 114.29.252.97
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 114.32.79.63
 # Taiwan https://www.abuseipdb.com/check/
@@ -42944,6 +43418,8 @@ block from any to 134.35.5.133
 block from any to 134.119.186.198
 # https://threatfox.abuse.ch/browse/malware/win.danabot/
 block from any to 134.119.186.199
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 134.119.212.195
 # https://cloud.google.com/blog/topics/threat-intelligence/unc4393-goes-gently-into-silentnight/?hl=en https://www.virustotal.com/gui/collection/bfca45cf637ebcbf24fc67f8b6602ae7239df5784588608c0eee47d8631be05f/iocs
 block from any to 134.122.0.0/17
 # https://www.abuseipdb.com/check/
@@ -44516,10 +44992,14 @@ block from any to 142.171.228.22
 # https://www.abuseipdb.com/check/
 block from any to 142.247.239.248
 block from any to 142.250.0.0/31
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 142.250.1.132
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/larecetta.com/relations
 block from any to 142.250.115.27
 # https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/details
 block from any to 142.250.125.132
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 142.250.128.132
 # US https://www.abuseipdb.com/check/
 block from any to 142.250.75.225
 # google US https://www.abuseipdb.com/check/
@@ -45310,6 +45790,8 @@ block from any to 147.45.41.171
 block from any to 147.45.42.0/24
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 147.45.42.25
+# https://www.group-ib.com/blog/ajina-malware/
+block from any to 147.45.42.85
 # France https://www.abuseipdb.com/check/
 block from any to 147.45.42.119
 # https://go.recordedfuture.com/hubfs/reports/cta-2024-0917.pdf rafaelsuarezlopez[.]com
@@ -45578,6 +46060,8 @@ block from any to 147.78.103.219
 block from any to 147.78.103.233
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 147.78.103.240
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/www.freeconference.io/relations
+block from any to 147.79.105.8
 # SPAM getyourride(.)jp
 block from any to 147.79.116.110
 # https://go.recordedfuture.com/hubfs/reports/cta-2024-0917.pdf an4nt[.]com NightVerse
@@ -45945,6 +46429,8 @@ block from any to 149.28.16.63
 block from any to 149.28.26.2
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
 block from any to 149.28.28.9
+# https://www.group-ib.com/blog/0ktapus/
+block from any to 149.28.37.137
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 149.28.83.171
 # US https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/
@@ -46047,6 +46533,10 @@ block from any to 149.88.78.227
 block from any to 149.88.85.23
 # Portugal https://www.abuseipdb.com/check
 block from any to 149.90.64.71
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/www.freeconference.io/relations
+block from any to 149.100.143.0/24
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/www.freeconference.io/relations
+block from any to 149.100.143.41
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 149.100.143.195
 # France https://red.flag.domains/posts/2024-01-17/ https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_29.04.2024.txt alsiga(.)com
@@ -46063,12 +46553,14 @@ block from any to 149.100.144.67
 block from any to 149.100.144.181
 # https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_29.04.2024.txt alsiga(.)com
 block from any to 149.100.144.225
-# France https://red.flag.domains/posts/ 2024-02-02 2024-01-20
+# France https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations https://red.flag.domains/posts/ 2024-02-02 2024-01-20
 block from any to 149.100.153.0/24
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt dolasimuka(.)com
 block from any to 149.100.153.2
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ tophomenews(.)com
 block from any to 149.100.153.32
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 149.100.153.54
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt subwaymenu(.)uk
 block from any to 149.100.153.48
 # https://red.flag.domains/posts/2024-06-11 france-gouvedpl-etranger[.fr] (registrar: Hostinger operations UAB)
@@ -46083,6 +46575,8 @@ block from any to 149.100.153.110
 block from any to 149.100.153.113
 # https://red.flag.domains/posts/2024-02-02/
 block from any to 149.100.153.139
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 149.100.153.147
 # France https://red.flag.domains/posts/2024-01-20/
 block from any to 149.100.153.152
 # https://red.flag.domains/posts/2024-05-31/ chaussures-samson[.fr] (registrar: Hostinger operations UAB
@@ -46168,6 +46662,8 @@ block from any to 149.210.130.162
 block from any to 149.210.153.185
 # https://threatfox.abuse.ch/browse/tag/Mythic/
 block from any to 149.224.90.120
+# https://www.group-ib.com/blog/0ktapus/
+block from any to 149.248.1.50
 # https://threatfox.abuse.ch/browse/malware/win.meterpreter/
 block from any to 149.248.17.69
 # CobaltStrike https://threatfox.abuse.ch/browse/
@@ -47092,48 +47588,76 @@ block from any to 154.41.249.92
 block from any to 154.41.249.124
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.0/24
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 154.41.250.0
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.1
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.2
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.4
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.5
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.8
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.9
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.11
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.15
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.16
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.18
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.41.250.23
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 154.41.250.26
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.31
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.36
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.38
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.45
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.48
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.54
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.55
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.56
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.57
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.61
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.69
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.72
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.74
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.79
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 154.41.250.82
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.87
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.88
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.90
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.91
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.92
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.93
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.95
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.97
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -47142,15 +47666,21 @@ block from any to 154.41.250.100
 block from any to 154.41.250.101
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.102
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 154.41.250.105
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.106
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.111
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.123
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.126
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.128
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.129
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.41.250.132
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.140
@@ -47158,19 +47688,21 @@ block from any to 154.41.250.140
 block from any to 154.41.250.141
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.142
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.145
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.146
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.147
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.148
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.41.250.152
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.153
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.156
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.41.250.159
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.160
@@ -47190,12 +47722,24 @@ block from any to 154.41.250.169
 block from any to 154.41.250.172
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.176
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.177
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.178
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.182
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 154.41.250.186
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.193
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.194
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.41.250.196
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.198
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.199
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.201
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -47204,9 +47748,11 @@ block from any to 154.41.250.204
 block from any to 154.41.250.205
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.210
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.213
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.214
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
 block from any to 154.41.250.215
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.217
@@ -47216,6 +47762,10 @@ block from any to 154.41.250.225
 block from any to 154.41.250.229
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.41.250.232
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.41.250.241
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.41.250.252
 # Germany https://www.abuseipdb.com
 block from any to 154.47.19.84
 # US https://www.abuseipdb.com
@@ -47274,14 +47824,24 @@ block from any to 154.61.80.57
 block from any to 154.62.106.0/24
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.0
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.7
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.12
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.14
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.15
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.17
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.62.106.18
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.23
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.24
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.26
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.28
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -47304,8 +47864,12 @@ block from any to 154.62.106.61
 block from any to 154.62.106.62
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.66
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.70
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.71
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.72
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.73
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/xsltweemat.org/relations
@@ -47318,6 +47882,10 @@ block from any to 154.62.106.87
 block from any to 154.62.106.90
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.95
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 154.62.106.96
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.99
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.101
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/xsltweemat.org/relations
@@ -47326,6 +47894,12 @@ block from any to 154.62.106.104
 block from any to 154.62.106.109
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.110
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.114
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.116
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.117
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.118
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -47334,11 +47908,15 @@ block from any to 154.62.106.122
 block from any to 154.62.106.124
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.128
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.139
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 154.62.106.151
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.153
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.154
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 154.62.106.155
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.158
@@ -47352,32 +47930,50 @@ block from any to 154.62.106.170
 block from any to 154.62.106.171
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.177
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.179
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.190
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.192
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.193
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.200
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 154.62.106.202
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/xsltweemat.org/relations
 block from any to 154.62.106.203
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.204
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 154.62.106.206
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.207
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 154.62.106.208
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.211
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.216
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.230
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/www.freeconference.io/relations
+block from any to 154.62.106.231
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.232
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.235
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.236
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.238
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.244
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 154.62.106.249
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 154.62.106.252
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt didacweb(.)xyz
 block from any to 154.62.111.56
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -50324,6 +50920,8 @@ block from any to 165.154.221.0/24
 block from any to 165.154.221.151
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 165.154.221.171
+# https://www.group-ib.com/blog/pig-butchering/ a.gold-blockchain[.]cc
+block from any to 165.154.233.181
 # HK https://www.abuseipdb.com/check/
 block from any to 165.154.225.168
 # https://www.abuseipdb.com/check/
@@ -51625,7 +52223,7 @@ block from any to 172.64.33.0/24
 block from any to 172.64.33.64
 # US https://www.abuseipdb.com/check/
 block from any to 172.64.33.135
-# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/ https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com 2024-04-12 adidasforum[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
+# https://unit42.paloaltonetworks.com/dynamics-of-deepfake-scams/ https://www.virustotal.com/gui/domain/fortunatenews.com/relations https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/ https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com 2024-04-12 adidasforum[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.64.80.1
 # https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/ https://www.virustotal.com/gui/domain/bitping.com/relations
 block from any to 172.64.96.13
@@ -51669,6 +52267,8 @@ block from any to 172.64.199.17
 block from any to 172.64.206.25
 # https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/ https://www.virustotal.com/gui/domain/bitping.com/relations
 block from any to 172.64.207.25
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]js6kk[.]xyz
+block from any to 172.65.190.172
 # https://www.abuseipdb.com/check/172.65.251.78
 block from any to 172.65.251.78
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ convertkit(.)com
@@ -51767,6 +52367,8 @@ block from any to 172.67.131.87
 block from any to 172.67.131.93
 # https://threatfox.abuse.ch/browse/malware/win.lumma/ knowwnysipm(.)shop
 block from any to 172.67.131.112
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations
+block from any to 172.67.131.125
 # https://threatfox.abuse.ch/browse/malware/js.clearfake/ peskpdfgif(.)shop
 block from any to 172.67.131.161
 # https://threatfox.abuse.ch/browse/tag/RobotDropper/ cleanactiveapp(.)monster
@@ -51833,7 +52435,7 @@ block from any to 172.67.136.70
 block from any to 172.67.136.147
 # https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ gts794(.)com
 block from any to 172.67.136.150
-# https://threatfox.abuse.ch/browse/malware/win.lactrodectus/ godfaetret(.)com
+# https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/giftboxedwines.com/relations https://threatfox.abuse.ch/browse/malware/win.lactrodectus/ godfaetret(.)com
 block from any to 172.67.136.221
 # https://tracker.viriback.com/index.php?q=Lokibot https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 172.67.137.0/24
@@ -51843,6 +52445,8 @@ block from any to 172.67.137.7
 block from any to 172.67.137.48
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 172.67.137.54
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]js6kk[.]xyz
+block from any to 172.67.137.86
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html go.syndcloud[.]com
 block from any to 172.67.137.142
 # https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html metrics.gocloudmaps[.]com
@@ -51889,9 +52493,11 @@ block from any to 172.67.140.13
 block from any to 172.67.140.31
 # https://red.flag.domains/posts/2024-04-16/ cotopaxisoldes[.fr] (registrar: GRANSY s.r.o.
 block from any to 172.67.140.64
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]bc2k[.]xyz
+block from any to 172.67.140.110
 # https://red.flag.domains/posts/2024-06-18/ boursoinvestissement[.fr] (registrar: 1API GmbH)
 block from any to 172.67.140.125
-# https://cert.gov.ua/article/6280563 https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+# https://cert.gov.ua/article/6280563 https://www.virustotal.com/gui/domain/griselda.co.ua/details https://cert.gov.ua/article/6280563 https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.141.0/24
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.141.67
@@ -52338,7 +52944,7 @@ block from any to 172.67.174.239
 block from any to 172.67.175.0/24
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ healthcares(.)life
 block from any to 172.67.175.21
-# DFA https://red.flag.domains/posts/2023-02-22/ registrar: 1API GmbH
+# DFA https://threatfox.abuse.ch/browse/tag/UNAM/ https://www.virustotal.com/gui/domain/post-cch.shop/details https://red.flag.domains/posts/2023-02-22/ registrar: 1API GmbH
 block from any to 172.67.175.55
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 25rw2.canweal(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 172.67.175.68
@@ -54571,6 +55177,8 @@ block from any to 176.226.180.65
 block from any to 176.236.79.238
 # https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
 block from any to 176.31.18.153
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 176.31.37.247
 # https://threatfox.abuse.ch/browse/malware/win.warmcookie/
 block from any to 176.31.45.36
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
@@ -54946,6 +55554,8 @@ block from any to 178.22.168.219
 block from any to 178.22.168.219
 # France https://www.abuseipdb.com/check/
 block from any to 178.32.228.195
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 178.33.32.158
 # https://cert.gov.ua/article/6278521 https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 178.33.57.0/24
 # https://cert.gov.ua/article/6278521
@@ -56688,6 +57298,8 @@ block from any to 185.56.83.83
 block from any to 185.59.74.254
 # https://github.com/eset/malware-ioc/tree/master/windigo https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf
 block from any to 185.59.103.8
+# https://www.group-ib.com/blog/dragonforce-ransomware/
+block from any to 185.59.221.75
 # FB spider https://www.abuseipdb.com/check/185.60.219.3
 block from any to 185.60.219.2
 block from any to 185.60.219.3
@@ -56745,6 +57357,8 @@ block from any to 185.68.93.169
 block from any to 185.68.93.221
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.68.146.244
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations
+block from any to 185.70.42.45
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 185.70.184.32
 # https://red.flag.domains/posts/2024-07-16/ reglementmonamende[.fr] (registrar: One.com A/S)
@@ -58358,6 +58972,8 @@ block from any to 185.247.69.2
 block from any to 185.247.172.242
 # https://red.flag.domains/posts/2024-02-02/
 block from any to 185.247.184.175
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations
+block from any to 185.247.224.39
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 185.247.226.166
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
@@ -58419,6 +59035,8 @@ block from any to 185.212.47.207
 block from any to 185.212.61.84
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt ebs-company(.)xyz
 block from any to 185.212.70.89
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 185.212.108.195
 # Virgin Islands https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
 block from any to 185.212.128.28
 # Spain https://www.abuseipdb.com
@@ -59824,10 +60442,10 @@ block from any to 188.112.63.67
 # https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 188.114.96.0/24
 # https://threatfox.abuse.ch/browse/tag/Emmenhtal/ motorsit(.)com mensualgeneratr(.)com file.botcahx.eu(.)org https://github.com/gsmith257-cyber/Smishing-Triad/blob/main/URLsToServiceURLs uspsoie(.)com mausps(.)com uscaess(.)top https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ tgsk(.)xyz closedjuruwk(.)shop https://www.welivesecurity.com/2023/03/16/not-so-private- messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ api.oktask88[.]com
-#  https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lunaticpic(.)sbs https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lunaticpic(.)sbs https://red.flag.domains/posts/ 2024-06-30 merrellsoldes[.fr] (registrar: GRANSY s.r.o.) 2024-06-15 tevaesoldes[.fr] (registrar: GRANSY s.r.o.)  2024-06-13 pass-connecte[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) bearpawfrance[.fr] (registrar: GRANSY s.r.o.) 2024-06-10 tickets-en[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) 2024-06-08 jacquemuss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) boursobankinvestissement[.fr] (registrar: 1API GmbH) 2024-06-07 chicosboutique[.fr] (registrar: GRANSY s.r.o.) 2024-06-06 ralphlauren-france[.fr] (registrar: GRANSY s.r.o.) 2024-06-06 espaces-personnel[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com)  2024-06-05 securipass-agricole[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-05-31/ apple-photos[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com https://asec.ahnlab.com/en/65426/ xboxwindows(.)com  https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt www.darkknight-media(.)com jarinamaers(.)shop https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ agrama(.)xyz csdirectonline(.)com csdirectonline(.)com csgizer(.)com csgrit(.)com cserrs(.)com csvese(.)com csjojo(.)com cslopst(.)com csspets(.)com vittuv[.]com ssurll[.]com shurll[.]com jinyurl[.]com gohhs[.]com geags[.]com fancli[.]com cinurl[.]com imgfil(.)com urlgoal(.)com urlcod(.)com tiurll[.]com tinurll(.)com bytlly(.)com https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com https://red.flag.domains/posts/2024-04-24/ mailloteuropa[.fr] (registrar: GRANSY s.r.o. 2024-04-23 adidasterrex[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-03-28 vanss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_09.10.2023.txt dominoqq401(.)com https://threatfox.abuse.ch/browse/malware/js.gootloader/ krushinews18(.)com mysmartbox(.)solutions https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite.tv redditsoccerstreams(.)org redditsoccerstreams(.)xyz hesgoals(.)top bitestreams(.)net reddit.soccerstreamshd(.)com hesgoal(.)world livetv705(.)me tarjetarojatvhd(.)com 1.ivesoccer(.)sx embx214374.apl275(.)me embx210801.apl275(.)me hesgoal(.)name https://threatfox.abuse.ch/browse/malware/js.gootloader/ javtorrent(.)me https://www.cleafy.com/cleafy-labs/medusa-reborn-a-new-compact-variant-discovered baahhhs21[.]info bimtambir[.]top topisbim[.]top https://github.com/Cisco-Talos/IOCs/blob/main/2024/07/hidden-between-the-tags-insights-into-evasion-techniques-in-html-smuggling.txt cyyfy.itonadalat.ru https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ tgsk(.)xyz closedjuruwk(.)shop https://www.welivesecurity.com/2023/03/16/not-so-private- messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ api.oktask88[.]com
+#  https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lunaticpic(.)sbs https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lunaticpic(.)sbs https://github.com/cert-orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt lunaticpic(.)sbs https://red.flag.domains/posts/ 2024-06-30 merrellsoldes[.fr] (registrar: GRANSY s.r.o.) 2024-06-15 tevaesoldes[.fr] (registrar: GRANSY s.r.o.)  2024-06-13 pass-connecte[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) bearpawfrance[.fr] (registrar: GRANSY s.r.o.) 2024-06-10 tickets-en[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) 2024-06-08 jacquemuss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider) boursobankinvestissement[.fr] (registrar: 1API GmbH) 2024-06-07 chicosboutique[.fr] (registrar: GRANSY s.r.o.) 2024-06-06 ralphlauren-france[.fr] (registrar: GRANSY s.r.o.) 2024-06-06 espaces-personnel[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com)  2024-06-05 securipass-agricole[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-05-31/ apple-photos[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com https://asec.ahnlab.com/en/65426/ xboxwindows(.)com  https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt www.darkknight-media(.)com jarinamaers(.)shop https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/ agrama(.)xyz csdirectonline(.)com csdirectonline(.)com csgizer(.)com csgrit(.)com cserrs(.)com csvese(.)com csjojo(.)com cslopst(.)com csspets(.)com vittuv[.]com ssurll[.]com shurll[.]com jinyurl[.]com gohhs[.]com geags[.]com fancli[.]com cinurl[.]com imgfil(.)com urlgoal(.)com urlcod(.)com tiurll[.]com tinurll(.)com bytlly(.)com https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/ help-lastpass[.]com https://red.flag.domains/posts/2024-04-24/ mailloteuropa[.fr] (registrar: GRANSY s.r.o. 2024-04-23 adidasterrex[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-03-28 vanss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider https://github.com/pr0xylife/DarkGate/blob/main/DarkGate_09.10.2023.txt dominoqq401(.)com https://threatfox.abuse.ch/browse/malware/js.gootloader/ krushinews18(.)com mysmartbox(.)solutions https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ footybite.tv redditsoccerstreams(.)org redditsoccerstreams(.)xyz hesgoals(.)top bitestreams(.)net reddit.soccerstreamshd(.)com hesgoal(.)world livetv705(.)me tarjetarojatvhd(.)com 1.ivesoccer(.)sx embx214374.apl275(.)me embx210801.apl275(.)me hesgoal(.)name https://threatfox.abuse.ch/browse/malware/js.gootloader/ javtorrent(.)me https://www.cleafy.com/cleafy-labs/medusa-reborn-a-new-compact-variant-discovered baahhhs21[.]info bimtambir[.]top topisbim[.]top https://github.com/Cisco-Talos/IOCs/blob/main/2024/07/hidden-between-the-tags-insights-into-evasion-techniques-in-html-smuggling.txt cyyfy.itonadalat.ru https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ tgsk(.)xyz closedjuruwk(.)shop https://www.welivesecurity.com/2023/03/16/not-so-private- messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/ api.oktask88[.]com
 block from any to 188.114.96.2
 # https://www.virustotal.com/gui/domain/sideindexfollowragelrew.pw/relations
-# https://red.flag.domains/posts/2024-04-12/ adidasforum[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
+# https://unit42.paloaltonetworks.com/detecting-dns-tunneling-campaigns/ codeaddon[.]net https://red.flag.domains/posts/2024-04-12/ adidasforum[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 188.114.96.3
 # https://red.flag.domains/posts/2024-04-12/ adidasoriginalss[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 188.114.96.4
@@ -60607,24 +61225,54 @@ block from any to 191.96.144.28
 block from any to 191.96.144.33
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.36
-# https://red.flag.domains/posts/2024-07-04/ paiementsecuriser[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/paiementsecuriser.fr/details
+# https://red.flag.domains/posts/2024-07-04/ paiementsecuriser[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/paiementsecuriser.fr/details https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.96.144.42
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.46
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.48
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 191.96.144.55
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.56
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.58
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.59
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.60
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.61
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.62
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.63
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.72
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.74
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.76
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.87
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.91
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.96
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.100
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.104
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.107
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.110
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.112
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.119
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.121
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.125
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -60633,36 +61281,66 @@ block from any to 191.96.144.133
 block from any to 191.96.144.136
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.141
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.149
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.155
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.158
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.160
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.162
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.163
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.164
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.165
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.166
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.170
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.175
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.176
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.182
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.188
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.96.144.190
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.193
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.96.144.197
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.198
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.199
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.200
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.204
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.205
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.206
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.207
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.211
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.217
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.221
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.227
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.234
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.96.144.235
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.236
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -60675,7 +61353,7 @@ block from any to 191.96.144.244
 block from any to 191.96.144.246
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.96.144.253
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
 block from any to 191.96.144.254
 # US https://www.abuseipdb.com/check/
 block from any to 191.96.165.25
@@ -60697,36 +61375,60 @@ block from any to 191.101.1.19
 block from any to 191.101.2.101
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.0/24
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.101.104.0
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.1
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.2
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.3
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.8
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.13
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 191.101.104.15
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.17
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.101.104.19
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.25
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.27
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.35
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.38
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.39
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.42
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.43
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.45
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.47
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 191.101.104.51
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.52
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.53
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 191.101.104.54
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.58
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 191.101.104.60
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.61
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.64
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.68
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.70
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -60735,24 +61437,42 @@ block from any to 191.101.104.75
 block from any to 191.101.104.76
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.77
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.82
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.83
-# https://red.flag.domains/posts/2024-07-02/ leboncoinpaiement[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/leboncoinpaiement.fr/details
+# https://red.flag.domains/posts/2024-07-02/ leboncoinpaiement[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/leboncoinpaiement.fr/details https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.101.104.87
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.89
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.91
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 191.101.104.92
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 191.101.104.99
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.105
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.106
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.109
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.110
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.101.104.114
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.115
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.116
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.121
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.124
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.125
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.127
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.136
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
@@ -60765,28 +61485,54 @@ block from any to 191.101.104.142
 block from any to 191.101.104.157
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.159
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 191.101.104.163
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.175
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/xsltweemat.org/details
 block from any to 191.101.104.176
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.178
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.180
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.101.104.182
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.186
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.197
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.201
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/www.freeconference.io/relations
+block from any to 191.101.104.202
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.204
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.209
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.virustotal.com/gui/domain/matalangit.org/relations
 block from any to 191.101.104.218
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.221
-# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
 block from any to 191.101.104.222
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.223
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.226
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.232
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.233
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 191.101.104.234
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.239
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 191.101.104.242
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.247
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 191.101.104.249
 # Germany https://www.abuseipdb.com/check/
 block from any to 191.101.157.76
 # A.ch TF
@@ -61061,12 +61807,16 @@ block from any to 192.64.86.243
 block from any to 192.64.117.218
 # https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/ defaultbluemarker[.]info
 block from any to 192.64.119.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.me/relations
+block from any to 192.64.119.131
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations
 block from any to 192.64.119.238
 # https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/ defaultbluemarker[.]info https://github.com/volexity/threat-intel/blob/main/2024/2024-02-13%20CharmingCypress/iocs.csv
 block from any to 192.64.119.243
 # SPAM
 block from any to 192.64.119.252
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 192.64.119.254
 # US https://www.abuseipdb.com/check/
 block from any to 192.68.29.52
 # https://threatfox.abuse.ch/browse/malware/win.shadowpad/
@@ -62039,8 +62789,10 @@ block from any to 193.57.41.76
 block from any to 193.57.41.184
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 193.57.41.185
-# https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt dickypommini(.)com
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt dickypommini(.)com
 block from any to 193.58.105.0/24
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 193.58.105.53
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt www.wonderwritings(.)com
 block from any to 193.58.105.67
 # https://go.recordedfuture.com/hubfs/reports/cta-2024-0917.pdf columbuskitchenpros[.]com Room.dmg
@@ -63058,6 +63810,8 @@ block from any to 104.36.180.172
 block from any to 104.36.180.183
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 104.36.180.189
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/service-proton.me/relations
+block from any to 194.36.189.125
 # https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ www.righttrak[.]net
 block from any to 194.36.191.49
 # https://github.com/gsmith257-cyber/Smishing-Triad/blob/main/URLsToServiceURLs usdjliups(.)com
@@ -63910,6 +64664,20 @@ block from any to 195.35.44.44
 block from any to 195.35.44.238
 # https://raw.githubusercontent.com/pr0xylife/Latrodectus/main/Latrodectus_29.04.2024.txt digitalssystems(.)com
 block from any to 195.35.49.107
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 195.35.60.0/24
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 195.35.60.23
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 195.35.60.94
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/details
+block from any to 195.35.60.104
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 195.35.60.110
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 195.35.60.152
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 195.35.60.235
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 195.43.142.35
 # https://github.com/eset/malware-ioc/tree/master/operation_texonto
@@ -64981,6 +65749,8 @@ block from any to 198.54.115.76
 block from any to 198.54.115.86
 # https://asec.ahnlab.com/ko/83358/ confidable[.]com
 block from any to 198.54.115.110
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/matalangit.org/relations
+block from any to 198.54.116.120
 # https://www.bitdefender.com/blog/labs/ai-meets-next-gen-info-stealers-in-social-media-malvertising-campaigns/
 block from any to 198.54.115.220
 # DNS https://red.flag.domains/posts/2023-03-25/ registrar: Name.com LLC securepaylbc[.fr]
@@ -65487,10 +66257,10 @@ block from any to 199.59.243.0/24
 block from any to 199.59.243.22
 # DFA https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/egenre.net/relations https://red.flag.domains/posts/ 2024-05-03 googleplay[.fr] (registrar: XNS Registrar B.V.) 2024-06-02 lille-fourriere[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-05-27 accountingservices[.fr] (registrar: XNS Registrar B.V.) 2024-05-01 creditsdunord[.fr] (registrar: XNS Registrar B.V.) 2024-04-14 bnpparibois[.fr] (registrar: XNS Registrar B.V. 2024-04-07 lidentite-numerique[.fr] (registrar: 1API GmbH) 2023-02-10/ registrar: SONEXO B.V 2024-01-19 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 199.59.243.225
-# https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort pubs[.]infinityfreeapp[.]com https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-android-spyagent-campaign-steals-crypto-credentials-via-image-recognition/ etr(.)lat https://threatfox.abuse.ch/browse/tag/Emmenhtal/ valvoleholfmann(.)com orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt yogurttrails(.)com https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt ao3.hmgo(.)pw - use.fontawesone(.)com
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ free-fire-reward-garena-bd-nepazl[.]epizy[.]com https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort pubs[.]infinityfreeapp[.]com https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-android-spyagent-campaign-steals-crypto-credentials-via-image-recognition/ etr(.)lat https://threatfox.abuse.ch/browse/tag/Emmenhtal/ valvoleholfmann(.)com orangecyberdefense/R0bl0ch0n_TDS/blob/main/IoC.txt yogurttrails(.)com https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-URLS.txt ao3.hmgo(.)pw - use.fontawesone(.)com
 block from any to 199.59.243.226
-# https://threatfox.abuse.ch/browse/malware/win.smokeloader/ https://www.virustotal.com/gui/domain/yosoborno.com/relations
-block from any to 199.59.243.227
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/service-proton.me/relations https://threatfox.abuse.ch/browse/malware/win.smokeloader/ https://www.virustotal.com/gui/domain/yosoborno.com/relations
+block from any to  199.59.243.227
 # Canada https://www.abuseipdb.com/check/
 block from any to 199.59.247.87
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -66634,6 +67404,8 @@ block from any to 206.166.251.107
 # US https://www.abuseipdb.com/check/
 block from any to 206.168.34.0/24
 # US https://www.abuseipdb.com/check/
+block from any to 206.168.34.60
+# US https://www.abuseipdb.com/check/
 block from any to 206.168.34.128
 # US https://www.abuseipdb.com/check/
 block from any to 206.168.34.135
@@ -67174,6 +67946,8 @@ block from any to 209.85.128.54
 # https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
 block from any to 209.85.145.132
 # https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
+block from any to 209.85.146.132
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/facebookbusiness0078.blogspot.be/relations
 block from any to 209.85.200.132
 # DFA liquidweb.com registrar: AMEN / Agence des Médias Numériques https://red.flag.domains/posts/2023-01-26/
 block from any to 209.87.149.241
@@ -67499,6 +68273,18 @@ block from any to 211.253.9.49
 block from any to 211.253.37.225
 # https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-scam-strikes-back-exploiting-the-crowdstrike-outage/ crowdstrikedoomsday(.)com
 block from any to 212.1.210.95
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/details
+block from any to 212.1.212.0/24
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/details
+block from any to 212.1.212.86
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/www.freeconference.io/relations
+block from any to 212.1.212.100
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 212.1.212.124
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/mirotalk.io/relations
+block from any to 212.1.212.126
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/relations
+block from any to 212.1.212.135
 # https://www.abuseipdb.com/check/
 block from any to 212.3.142.243
 # https://www.zscaler.com/blogs/security-research/trade-with-caution
@@ -69527,6 +70313,8 @@ block from any to 220.250.11.241
 # China https://www.abuseipdb.com/check/
 block from any to 220.250.11.246
 # China https://www.abuseipdb.com/check/
+block from any to 220.250.41.11
+# China https://www.abuseipdb.com/check/
 block from any to 221.1.226.225
 # China https://www.abuseipdb.com/check/
 block from any to 221.7.46.242
@@ -70087,6 +70875,8 @@ block from any to 2a01:4b80:1:1:1c00:38ff:fe00:3cea
 block from any to 2a01:4f9:c012:6365::1
 # Italy https://www.abuseipdb.com/check/2a02:4d0:0:226:fa1a:67ff:fe4d:5266
 block from any to 2a02:4d0:0:226:fa1a:67ff:fe4d:526
+# https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/protondrive.online/relations
+block from any to 2a02:4780:2b:1555:0:2799:40c6:6
 # https://red.flag.domains/posts/2024-07-14/ creditsecour[.fr] (registrar: Hostinger operations UAB)
 block from any to 2a02:4780:8:879:0:1af3:3081:2
 # https://red.flag.domains/posts/2024-07-11/ sms-carte-amelie[.fr] (registrar: One.com A/S) https://www.virustotal.com/gui/domain/service-verbalisation.fr/details
@@ -70099,6 +70889,8 @@ block from any to 2a02:4780:11:1501:0:2b95:a279:2
 block from any to 2a02:4780:21:443d:6b44:2a0a:74b3:a32b
 # https://red.flag.domains/posts/2024-07-04/ paiementsecuriser[.fr] (registrar: Hostinger operations UAB) https://www.virustotal.com/gui/domain/paiementsecuriser.fr/details
 block from any to 2a02:4780:21:7adc:d8ae:4013:9ec1:bc0d
+# https://www.group-ib.com/blog/apt-lazarus-python-scripts/ https://www.virustotal.com/gui/domain/freeconference.io/details
+block from any to 2a02:4780:21:bb3d:3897:577:511a:1971
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/www.egenre.net/details
 block from any to 2a02:4780:22:2b64:b79d:f8aa:6396:e1df
 # https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ https://www.virustotal.com/gui/domain/xsltweemat.org/details
@@ -70638,6 +71430,8 @@ block from any to 2606:4700:3031::ac43:b90a
 block from any to 2606:4700:3031::ac43:bf08
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/datifyny.com/details
 block from any to 2606:4700:3031::ac43:dd07
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]bc2k[.]xyz
+block from any to 2606:4700:3030::ac43:8c6e
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/codecarawan.com/details
 block from any to 2606:4700:3030::ac43:94d3
 # https://unit42.paloaltonetworks.com/dynamics-of-deepfake-scams/ https://www.virustotal.com/gui/domain/untamedal.top/details
@@ -70714,6 +71508,8 @@ block from any to 2606:4700:3032::ac43:d35b
 block from any to 2606:4700:3033::ac43:d532
 # https://unit42.paloaltonetworks.com/dynamics-of-deepfake-scams/ https://www.virustotal.com/gui/domain/belmar-marketing.online/details
 block from any to 2606:4700:3034::6815:14f9
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/ app[.]bc2k[.]xyz
+block from any to 2606:4700:3034::6815:2e9f
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/mercadoespiao.com.br/details
 block from any to 2606:4700:3034::6815:4fb1
 # https://sansec.io/research/cosmicsting#timeline https://www.virustotal.com/gui/domain/bytesbazar.com/details
