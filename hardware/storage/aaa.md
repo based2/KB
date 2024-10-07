@@ -40,6 +40,8 @@ https://news.ycombinator.com/item?id=39360870
 
 https://news.ycombinator.com/item?id=39656657
 
+https://news.ycombinator.com/item?id=41765435
+
 # Block Storage
 onTAP
 # SMB Microsoft

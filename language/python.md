@@ -370,6 +370,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://docs.python.org/3.13/whatsnew/3.13.html
+> https://news.ycombinator.com/item?id=41766035
+
 https://news.ycombinator.com/item?id=41755183
 
 https://news.ycombinator.com/item?id=41677131

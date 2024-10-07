@@ -37,6 +37,8 @@ https://www.bleepingcomputer.com/news/security/all-dutch-govt-networks-to-use-rp
 https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath
 
 # Incident
+https://www.theregister.com/2024/10/02/rpki_immaturity_study/
+
 https://old.reddit.com/r/netsec/comments/1dtroyt/kirin_hitting_the_internet_with_distributed_bgp/
 
 https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/

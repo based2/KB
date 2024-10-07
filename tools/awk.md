@@ -11,3 +11,5 @@ https://benhoyt.com/writings/goawk-compiler-vm/
 > https://news.ycombinator.com/item?id=30190436
 
 https://news.ycombinator.com/item?id=40988837
+
+https://news.ycombinator.com/item?id=41755920

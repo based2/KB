@@ -111,6 +111,12 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/
+
+https://www.theregister.com/2024/10/05/irish_dpc_ryanair_probe/
+
+https://www.theregister.com/2024/10/07/cookie_opinion/
+
 https://news.ycombinator.com/item?id=41753983
 
 https://news.ycombinator.com/item?id=41745181

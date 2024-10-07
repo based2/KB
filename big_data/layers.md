@@ -70,6 +70,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/
+
 https://ngrok.com/blog-post/how-we-built-ngroks-data-platform
 > https://news.ycombinator.com/item?id=41694504
 

@@ -15,3 +15,5 @@ https://github.com/ZigEmbeddedGroup/microzig
 https://news.ycombinator.com/item?id=39591694
 
 https://news.ycombinator.com/item?id=40695165
+
+https://news.ycombinator.com/item?id=41767150

@@ -146,6 +146,11 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2024-bulletin.html
+> https://www.bleepingcomputer.com/news/security/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/
+
+https://www.theregister.com/2024/10/07/verizon_att_lumen_salt_typhoon/
+
 https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/
 
 https://blog.cloudflare.com/impact-of-verizons-september-30-outage-on-internet-traffic/

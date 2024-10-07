@@ -207,6 +207,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=41762468
+
 https://github.com/darrenburns/posting
 > https://news.ycombinator.com/item?id=40926211
 

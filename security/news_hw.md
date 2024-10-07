@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=41765716
+
 https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a Exploiting DRAM bitflips to get a root shell
 > https://news.ycombinator.com/item?id=41748861
 

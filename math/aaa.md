@@ -157,6 +157,8 @@ https://github.com/fellerts/procal
 https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/
 > https://news.ycombinator.com/item?id=40754624
 
+https://news.ycombinator.com/item?id=41765904
+
 # ML
 https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
 > https://mizar.org/language/

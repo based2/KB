@@ -182,6 +182,8 @@ https://news.ycombinator.com/item?id=40913736
 https://github.com/bjesus/pipet
 > https://news.ycombinator.com/item?id=41695549
 
+https://news.ycombinator.com/item?id=41764670
+
 ## ML
 https://news.ycombinator.com/item?id=41268759
 
@@ -203,6 +205,9 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://szymonkaliski.com/projects/cartographist/
+> https://news.ycombinator.com/item?id=41738502
+
 https://blog.cloudflare.com/new-standards/
 
 https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents

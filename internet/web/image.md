@@ -95,6 +95,8 @@ https://bannerify.co/tools/remove-bg
 
 https://news.ycombinator.com/item?id=41648965 merge
 
+https://news.ycombinator.com/item?id=41756205
+
 # Photography
 https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/
 > https://news.ycombinator.com/item?id=41266682

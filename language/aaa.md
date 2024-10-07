@@ -185,8 +185,8 @@ https://www.inner-product.com/posts/direct-style-effects/
 
 https://www.roc-lang.org/
 
->34.107.243.93:443                      en8   Established        1249 B          2222 B       0 B       0 B       0 B    25.06 ms   128 KiB
-   tcp4 192.168.1.10:49585<->96.17.206.24:80
+https://blog.drewolson.org/gleam-is-pragmatic/
+> https://news.ycombinator.com/item?id=41758915
 
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf

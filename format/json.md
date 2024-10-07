@@ -78,6 +78,9 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://sq.io/ jq for databases and more
+> https://news.ycombinator.com/item?id=41760697
+
 https://bump.sh/blog/how-to-use-json-path
 > https://news.ycombinator.com/item?id=40245637
 
