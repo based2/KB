@@ -12,5 +12,7 @@ https://github.com/pistazie/cdk-dia
 https://portswigger.net/daily-swig/aws-cloudfront-api-research-reveals-leak-of-partial-account-ids
 
 # News
+https://aws.amazon.com/en/blogs/aws/convert-aws-console-actions-to-reusable-code-with-aws-console-to-code-now-generally-available/
+
 https://aws.amazon.com/en/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/
 > https://news.ycombinator.com/item?id=29419874

@@ -75,6 +75,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 #
+https://news.ycombinator.com/item?id=41818459
+
 https://www.blastradius.fail/attack-details
 > https://www.bleepingcomputer.com/news/security/new-blast-radius-attack-bypasses-widely-used-radius-authentication/
 

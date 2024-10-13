@@ -318,6 +318,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=41811298
+
 https://threedots.tech/post/distributed-transactions-in-go
 > https://news.ycombinator.com/item?id=41720846
 

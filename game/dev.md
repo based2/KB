@@ -166,6 +166,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=41800764
+
 https://news.ycombinator.com/item?id=41700559
 
 https://news.ycombinator.com/item?id=41646629

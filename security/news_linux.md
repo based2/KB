@@ -43,6 +43,8 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 https://news.ycombinator.com/item?id=40014724
 
 # News
+https://news.ycombinator.com/item?id=41788426
+
 https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
 > https://news.ycombinator.com/item?id=41736470
 

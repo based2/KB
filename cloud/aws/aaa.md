@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://permiso.io/blog/exploiting-hosted-models
+> https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/
+
 https://news.ycombinator.com/item?id=41770111
 
 https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/

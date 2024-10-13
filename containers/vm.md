@@ -66,3 +66,6 @@ https://news.ycombinator.com/item?id=40182251
 https://codesandbox.io/blog/how-we-scale-our-microvm-infrastructure-using-low-latency-memory-decompression
 
 https://proxmox-helper-scripts.vercel.app/
+
+https://100r.co/site/uxn.html
+> https://news.ycombinator.com/item?id=41777995

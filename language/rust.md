@@ -505,6 +505,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 # Quiz
 https://dtolnay.github.io/rust-quiz/33
 
+# Profiling
+https://news.ycombinator.com/item?id=41828611
+
 # ml
 https://github.com/huggingface/candle
 

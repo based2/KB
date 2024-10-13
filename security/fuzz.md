@@ -16,6 +16,8 @@ https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-hand
 https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
 
 #
+https://github.com/google/oss-fuzz-gen
+
 https://github.com/antonio-morales/Fuzzing101
 > https://news.ycombinator.com/item?id=41747979
 

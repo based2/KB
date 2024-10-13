@@ -183,7 +183,11 @@ https://news.ycombinator.com/item?id=41096486
 
 https://news.ycombinator.com/item?id=41540902
 
+https://news.ycombinator.com/item?id=41808683
+
 # News
+https://news.ycombinator.com/item?id=41784521
+
 https://www.gambit-project.org/
 
 https://stuffmatic.com/chebyshev/

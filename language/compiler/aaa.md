@@ -155,6 +155,10 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://news.ycombinator.com/item?id=41814622
+
+https://news.ycombinator.com/item?id=41784263
+
 https://news.ycombinator.com/item?id=41227716
 
 https://news.ycombinator.com/item?id=41146860

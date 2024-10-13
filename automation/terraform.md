@@ -332,6 +332,9 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://registry.terraform.io/providers/MNThomson/dominos/latest/docs
+> https://news.ycombinator.com/item?id=41813358
+
 https://faun.pub/nitric-is-terraform-for-developers-9cd6cd7f0e76
 > https://news.ycombinator.com/item?id=41241373
 

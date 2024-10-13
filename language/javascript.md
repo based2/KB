@@ -629,6 +629,8 @@ https://codesandbox.io/blog/announcing-sandpack-2
 
 https://news.ycombinator.com/item?id=40148716
 
+https://news.ycombinator.com/item?id=41828542
+
 ## NPM
 
 https://overreacted.io/npm-audit-broken-by-design/

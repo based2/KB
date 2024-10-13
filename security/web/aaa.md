@@ -40,3 +40,5 @@ https://github.com/dshieble/playwright_xss_scanner
 https://lobste.rs/s/98rp8f/cors_is_stupid
 
 https://github.com/juice-shop/juice-shop
+
+https://web.stanford.edu/class/cs253/

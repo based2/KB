@@ -26,6 +26,9 @@ https://kai-greshake.de/posts/inject-my-pdf/
 https://www.chatpdf.com/
 > https://news.ycombinator.com/item?id=35626312
 
+# Summarizer
+https://news.ycombinator.com/item?id=41810507
+
 # Chatbot
 https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/
 > https://news.ycombinator.com/item?id=36918435

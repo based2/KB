@@ -71,3 +71,5 @@ https://github.com/neural-maze/agentic_patterns
 https://github.com/BeehiveHQ/beehive-ai
 
 https://www.nextplatform.com/2024/10/03/accenture-melds-smarts-and-wares-with-nvidia-for-agentic-ai-push/
+
+https://news.ycombinator.com/item?id=41815173

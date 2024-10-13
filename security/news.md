@@ -1,3 +1,10 @@
+https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/
+> eliminating 730,000 unused apps. We eliminated 5.75 million inactive tenant
+
+https://www.theregister.com/2024/10/12/russia_is_targeting_you_for/
+
+https://news.ycombinator.com/item?id=41818459
+
 https://scott-scott.com/sec-investigation/crowdstrike-holdings-inc/
 
 https://news.ycombinator.com/item?id=41744434
