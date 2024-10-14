@@ -75,6 +75,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://doi.org/10.1051/0004-6361/202449862
+> https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html
+
 https://www.eso.org/public/news/eso2413/
 
 https://news.ycombinator.com/item?id=41522670

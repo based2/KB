@@ -206,4 +206,6 @@ https://news.ycombinator.com/item?id=41228574
 https://news.ycombinator.com/item?id=41240300
 
 # Ocean
+https://news.ycombinator.com/item?id=41828864
+
 https://news.ycombinator.com/item?id=41631177
