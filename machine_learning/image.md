@@ -401,8 +401,10 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=41885231
+
 https://diamond-wm.github.io/
->https://news.ycombinator.com/item?id=41826402
+> https://news.ycombinator.com/item?id=41826402
 
 https://news.ycombinator.com/item?id=41729891
 

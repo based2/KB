@@ -258,6 +258,13 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/
+> https://news.ycombinator.com/item?id=41830699
+> > https://github.com/GraphiteEditor/Graphite
+
+https://savannah.gnu.org/news/?id=10684
+> https://news.ycombinator.com/item?id=41890307
+
 https://www.aniszczyk.org/2019/10/08/open-source-gerrymandering/
 
 https://daniel.haxx.se/blog/2024/08/14/so-the-department-of-energy-emailed-me/

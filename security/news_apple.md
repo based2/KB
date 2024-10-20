@@ -1,3 +1,5 @@
+https://iyanmv.medium.com/setting-up-correctly-packet-filter-pf-firewall-on-any-macos-from-sierra-to-big-sur-47e70e062a0e
+
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
 https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database

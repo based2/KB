@@ -313,6 +313,8 @@ https://twitter.com/ethanhs/status/1464308141105967104 webassembly
 https://cython.readthedocs.io/en/latest/src/changes.html
 > https://news.ycombinator.com/item?id=36778617
 
+https://news.ycombinator.com/item?id=41868168
+
 # Django
 https://spookylukey.github.io/django-views-the-right-way/index.html
 > https://news.ycombinator.com/item?id=36273892

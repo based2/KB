@@ -10,6 +10,13 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=41892763
+
+https://comsec.ethz.ch/research/microarch/breaking-the-barrier/ IBPB
+> https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/
+
+https://news.ycombinator.com/item?id=41881487
+
 https://news.ycombinator.com/item?id=41765716
 
 https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a Exploiting DRAM bitflips to get a root shell

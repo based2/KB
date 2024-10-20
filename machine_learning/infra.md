@@ -65,6 +65,10 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html
+> https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
+> > https://news.ycombinator.com/item?id=41889414
+
 https://news.ycombinator.com/item?id=41805446
 
 https://news.ycombinator.com/item?id=41765395

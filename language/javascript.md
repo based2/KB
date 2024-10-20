@@ -506,6 +506,9 @@ https://news.ycombinator.com/item?id=40212014
 
 https://news.ycombinator.com/item?id=41255788
 
+https://www.npmjs.com/package/svelte 5
+> https://news.ycombinator.com/item?id=41889674
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -685,6 +688,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://evanhahn.com/set-big-timeout/ > 24.9 days
+> https://news.ycombinator.com/item?id=41872010
+
 https://www.scala-js.org/news/2024/09/28/announcing-scalajs-1.17.0/
 
 https://github.com/nginx/njs

@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://www.555-timer-circuits.com/
+> https://news.ycombinator.com/item?id=41872314
+
 https://news.ycombinator.com/item?id=40751020
 
 https://www.cocotb.org/ coroutine-based cosimulation testbench environment for verifying VHDL and SystemVerilog RTL using Python

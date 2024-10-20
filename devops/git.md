@@ -283,6 +283,11 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://github.com/awslabs/git-remote-s3
+> https://news.ycombinator.com/item?id=41887004
+
+https://news.ycombinator.com/item?id=41890480
+
 https://news.ycombinator.com/item?id=41653191
 
 https://news.ycombinator.com/item?id=41546769

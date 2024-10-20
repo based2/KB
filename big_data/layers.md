@@ -70,6 +70,12 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet
+> https://news.ycombinator.com/item?id=41871068
+
+https://dvc.org/ Data Version Control
+> https://news.ycombinator.com/item?id=41888937
+
 https://www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/
 
 https://ngrok.com/blog-post/how-we-built-ngroks-data-platform

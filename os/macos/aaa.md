@@ -47,6 +47,9 @@ https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.h
 > https://news.ycombinator.com/item?id=35311293
 
 # Security
+https://iyanmv.medium.com/setting-up-correctly-packet-filter-pf-firewall-on-any-macos-from-sierra-to-big-sur-47e70e062a0e
+> sudo pfctl -s info | grep Status
+
 https://www.zdnet.com/article/apple-removes-feature-that-allowed-its-apps-to-bypass-macos-firewalls-and-vpns/
 
 https://lapcatsoftware.com/articles/2023/6/1.html

@@ -5,6 +5,9 @@ https://mlu-explain.github.io/
 https://jalammar.github.io/illustrated-word2vec/
 > https://news.ycombinator.com/item?id=40075813
 
+https://arxiv.org/abs/2402.01502 Why do random forests work? They are self-regularizing adaptive smoothers
+> https://news.ycombinator.com/item?id=41873968
+
 https://arxiv.org/abs/2108.02497 How to avoid machine learning pitfalls
 
 https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
@@ -345,6 +348,9 @@ https://news.ycombinator.com/item?id=40069298
 
 https://news.ycombinator.com/item?id=40625823
 
+https://dl.acm.org/doi/pdf/10.1145/987452.987458
+> https://dl.acm.org/doi/pdf/10.1145/987452.987458
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
@@ -598,6 +604,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning
+> https://news.ycombinator.com/item?id=41831735
+
 https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb
 > https://news.ycombinator.com/item?id=41745788
 > > https://github.com/shaungallagher/cheryls-murder/blob/master/cheryls-murder.ipynb

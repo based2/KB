@@ -97,6 +97,8 @@ https://news.ycombinator.com/item?id=41648965 merge
 
 https://news.ycombinator.com/item?id=41756205
 
+https://github.com/hoppergee/heic-to
+
 # Photography
 https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/
 > https://news.ycombinator.com/item?id=41266682
