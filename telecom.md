@@ -146,6 +146,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=41908231
+
 https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2024-bulletin.html
 > https://www.bleepingcomputer.com/news/security/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/
 

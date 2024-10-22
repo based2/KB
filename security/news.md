@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41906970
+
 https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/
 > eliminating 730,000 unused apps. We eliminated 5.75 million inactive tenant
 

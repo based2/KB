@@ -1,7 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/
+> https://news.ycombinator.com/item?id=41907350
+
 https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/
+
+https://news.ycombinator.com/item?id=41898723
 
 https://news.ycombinator.com/item?id=41554157
 

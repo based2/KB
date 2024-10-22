@@ -12,6 +12,9 @@ https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
 https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/
 > https://news.ycombinator.com/item?id=29909475
 
+https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html
+> https://news.ycombinator.com/item?id=41890486
+
 # Persistence
 https://www.infoq.com/articles/Testing-With-Persistence-Layers/
 

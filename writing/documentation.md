@@ -50,6 +50,8 @@ https://vlmantova.github.io/bookml/
 https://news.ycombinator.com/item?id=38201995
 
 #
+https://news.ycombinator.com/item?id=41894631
+
 https://news.ycombinator.com/item?id=41218696
 
 https://news.ycombinator.com/item?id=40917358

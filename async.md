@@ -57,6 +57,8 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 > https://news.ycombinator.com/item?id=29489815
 
 #
+https://news.ycombinator.com/item?id=41890497
+
 https://justine.lol/mutex/
 > https://news.ycombinator.com/item?id=41721668
 

@@ -20,6 +20,8 @@ https://hakibenita.com/sql-for-data-analysis
 https://ggcarvalho.dev/posts/montecarlo/
 > https://news.ycombinator.com/item?id=27023930
 
+https://news.ycombinator.com/item?id=41894528
+
 # Data
 https://datasetsearch.research.google.com/
 > https://news.ycombinator.com/item?id=27068551
