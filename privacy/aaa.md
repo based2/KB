@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://www.bleepingcomputer.com/news/legal/ireland-fines-linkedin-310-million-over-targeted-advertising/
+
 https://www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/
 
 https://www.theregister.com/2024/10/05/irish_dpc_ryanair_probe/

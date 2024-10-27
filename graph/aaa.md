@@ -126,6 +126,8 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://news.ycombinator.com/item?id=41947355
+
 https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/
 > https://news.ycombinator.com/item?id=41721318
 

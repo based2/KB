@@ -25,6 +25,8 @@ https://github.com/bridgecrewio/checkov
 
 https://github.com/ossf/scorecard#goals github
 
+https://github.com/Orange-Cyberdefense/grepmarx
+
 # SBOM
 https://scvs.owasp.org/scvs/v2-software-bill-of-materials/
 

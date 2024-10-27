@@ -1,6 +1,9 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.safebreach.com/blog/update-on-windows-downdate-downgrade-attacks/
+> https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/
+
 https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/
 > https://news.ycombinator.com/item?id=41907350
 

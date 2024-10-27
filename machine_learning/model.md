@@ -306,6 +306,9 @@ https://news.ycombinator.com/item?id=41218928
 https://news.ycombinator.com/item?id=41598404
 
 # News
+
+> https://news.ycombinator.com/item?id=41947566
+
 https://www.anthropic.com/news/3-5-models-and-computer-use
 > https://news.ycombinator.com/item?id=41914989
 

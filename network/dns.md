@@ -161,6 +161,11 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://unit42.paloaltonetworks.com/tracking-newly-released-top-level-domains/
+
+https://news.ycombinator.com/item?id=41951131
+> https://dnsblacklist.org/
+
 https://news.ycombinator.com/item?id=41897214
 
 https://news.ycombinator.com/item?id=41471510

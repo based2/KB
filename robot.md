@@ -118,6 +118,8 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://news.ycombinator.com/item?id=41951408
+
 https://community.gazebosim.org/t/gazebo-ionic-release/3088
 
 https://rekep-robot.github.io/  ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
