@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=41959498
+
 https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html
 > https://news.ycombinator.com/item?id=39746625
 

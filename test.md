@@ -30,6 +30,9 @@ https://mockoon.com/
 https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
+# ML
+https://news.ycombinator.com/item?id=41936855
+
 #
 https://www.reapi.com/playground/tests
 

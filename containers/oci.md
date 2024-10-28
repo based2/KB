@@ -3,6 +3,8 @@
 https://opencontainers.org/
 
 # Formats
+https://kitops.ml/docs/modelkit/intro.html
+> https://news.ycombinator.com/item?id=41963890
 
 #
 https://ochagavia.nl/blog/using-s3-as-a-container-registry/

@@ -267,6 +267,8 @@ https://news.ycombinator.com/item?id=39426753
 
 https://news.ycombinator.com/item?id=41258932
 
+https://news.ycombinator.com/item?id=41959428
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
