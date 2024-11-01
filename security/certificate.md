@@ -1,3 +1,5 @@
+https://owasp.org/www-community/controls/Certificate_and_Public_Key_Pinning
+
 https://certbot.eff.org/
 
 https://github.com/FiloSottile/mkcert

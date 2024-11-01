@@ -1,3 +1,5 @@
+https://piotrminkowski.com/2024/10/28/spring-boot-with-saml2-and-keycloak/
+
 https://blog.brakmic.com/keycloak-templating/
 
 https://thenewstack.io/red-hats-keycloak-identity-access-management-bids-to-join-cncf/

@@ -1,3 +1,4 @@
+https://delta.io/blog/delta-lake-medallion-architecture/
 
 https://gradientflow.com/what-is-dataops/
 

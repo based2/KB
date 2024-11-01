@@ -126,6 +126,9 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://arxiv.org/abs/2410.17258 Representing web applications as knowledge graphs
+> https://news.ycombinator.com/item?id=41996213
+
 https://news.ycombinator.com/item?id=41947355
 
 https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/

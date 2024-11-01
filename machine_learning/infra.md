@@ -59,12 +59,18 @@ https://news.ycombinator.com/item?id=41435899
 
 https://news.ycombinator.com/item?id=41602474
 
+https://news.ycombinator.com/item?id=41968366
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://old.reddit.com/r/java/comments/1g8qwxt/jlama_llm_engine_for_java_20/
+
+https://news.ycombinator.com/item?id=41968173
+
 https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html
 > https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
 > > https://news.ycombinator.com/item?id=41889414

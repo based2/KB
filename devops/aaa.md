@@ -117,6 +117,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://sysdig.com/blog/emeraldwhale/
+
 https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-arbitrary-branch-pipeline-execution-flaw/
 
 https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/

@@ -69,3 +69,5 @@ https://proxmox-helper-scripts.vercel.app/
 
 https://100r.co/site/uxn.html
 > https://news.ycombinator.com/item?id=41777995
+
+https://news.ycombinator.com/item?id=42006253
