@@ -306,6 +306,7 @@ https://news.ycombinator.com/item?id=41218928
 https://news.ycombinator.com/item?id=41598404
 
 # News
+https://news.ycombinator.com/item?id=42009290
 
 > https://news.ycombinator.com/item?id=41947566
 
