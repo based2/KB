@@ -37,6 +37,8 @@ https://news.ycombinator.com/item?id=39109304
 
 https://news.ycombinator.com/item?id=41567192
 
+https://news.ycombinator.com/item?id=41997727
+
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -305,7 +307,11 @@ https://news.ycombinator.com/item?id=41218928
 
 https://news.ycombinator.com/item?id=41598404
 
+https://news.ycombinator.com/item?id=42013762
+
 # News
+https://news.ycombinator.com/item?id=42022335
+
 https://news.ycombinator.com/item?id=42009290
 
 > https://news.ycombinator.com/item?id=41947566

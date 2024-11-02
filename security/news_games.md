@@ -1,3 +1,6 @@
+https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
+
+#
 https://asec.ahnlab.com/ko/83402/
 
 https://www.bleepingcomputer.com/news/security/outlast-game-development-delayed-after-red-barrels-cyberattack/

@@ -61,6 +61,8 @@ https://github.com/k8tz/k8tz
 https://time.fyi/timezones
 > https://news.ycombinator.com/item?id=38876707
 
+https://news.ycombinator.com/item?id=41992314
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 

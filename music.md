@@ -149,6 +149,8 @@ https://news.ycombinator.com/item?id=40164310
 
 https://news.ycombinator.com/item?id=40954679
 
+https://news.ycombinator.com/item?id=41987352
+
 #
 https://cruncher.ch/blog/printing-music-with-css-grid/
 > https://news.ycombinator.com/item?id=40216057

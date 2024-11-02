@@ -118,6 +118,8 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://news.ycombinator.com/item?id=41995549
+
 https://news.ycombinator.com/item?id=41951408
 
 https://community.gazebosim.org/t/gazebo-ionic-release/3088

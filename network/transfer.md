@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Rsync
 
+https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/
+
 https://github.com/claytongulick/bit-sync JS
 > https://news.ycombinator.com/item?id=27172849
 

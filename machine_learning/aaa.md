@@ -164,6 +164,8 @@ https://pair.withgoogle.com/explorables/
 https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/
 > https://news.ycombinator.com/item?id=41263928
 
+https://github.com/aishwaryanr/awesome-generative-ai-guide
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -604,6 +606,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=41980894
+
 https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning
 > https://news.ycombinator.com/item?id=41831735
 

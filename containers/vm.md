@@ -73,3 +73,5 @@ https://100r.co/site/uxn.html
 https://news.ycombinator.com/item?id=42006253
 
 https://news.ycombinator.com/item?id=42013032
+
+https://news.ycombinator.com/item?id=42016605
