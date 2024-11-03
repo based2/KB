@@ -219,6 +219,9 @@ https://news.ycombinator.com/item?id=41239913
 
 https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html
 
+## Actor
+https://news.ycombinator.com/item?id=42030625
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

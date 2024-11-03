@@ -245,6 +245,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://news.ycombinator.com/item?id=41981886
+
 https://news.ycombinator.com/item?id=41895356
 
 https://news.ycombinator.com/item?id=41635592

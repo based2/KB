@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=42030463
+
 https://news.ycombinator.com/item?id=41892763
 
 https://comsec.ethz.ch/research/microarch/breaking-the-barrier/ IBPB

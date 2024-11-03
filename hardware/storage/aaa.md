@@ -67,6 +67,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://github.com/williambl/blockblockdevice
+
 https://news.ycombinator.com/item?id=41715277
 
 https://www.phoronix.com/news/Linux-6.12-NFS LOCALIO protocol
