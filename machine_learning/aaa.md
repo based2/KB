@@ -275,6 +275,8 @@ https://arxiv.org/abs/2401.15883
 https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/
 > https://news.ycombinator.com/item?id=39575308
 
+https://arxiv.org/pdf/2410.15650 Voice-Enabled AI Agents can Perform Common Scams
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582

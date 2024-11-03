@@ -386,6 +386,8 @@ https://en.wikipedia.org/wiki/MORE_(application)
 https://news.ycombinator.com/item?id=41353835
 
 # News
+https://news.ycombinator.com/item?id=42033432
+
 https://news.ycombinator.com/item?id=41068719
 
 https://github.com/face-hh/griddycode

@@ -56,6 +56,8 @@ https://news.ycombinator.com/item?id=35224439
 https://news.ycombinator.com/item?id=41328185
 
 #
+https://d2lang.com/
+
 https://www.systeminit.com/blog-system-initiative-is-the-future
 > https://news.ycombinator.com/item?id=41648483
 > > https://github.com/systeminit/si ASL Rust Erlang
