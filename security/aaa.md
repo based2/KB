@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42043939
+
 https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/
 
 https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/

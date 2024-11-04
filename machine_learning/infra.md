@@ -69,6 +69,9 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://github.com/iterative/datachain
+> https://news.ycombinator.com/item?id=42043948
+
 https://old.reddit.com/r/java/comments/1g8qwxt/jlama_llm_engine_for_java_20/
 
 https://news.ycombinator.com/item?id=41968173

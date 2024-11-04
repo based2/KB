@@ -159,6 +159,8 @@ https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/
 
 https://news.ycombinator.com/item?id=41765904
 
+https://news.ycombinator.com/item?id=42043747
+
 # ML
 https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
 > https://mizar.org/language/
@@ -186,6 +188,8 @@ https://news.ycombinator.com/item?id=41540902
 https://news.ycombinator.com/item?id=41808683
 
 # News
+https://news.ycombinator.com/item?id=42036536
+
 https://news.ycombinator.com/item?id=42028569
 
 https://news.ycombinator.com/item?id=41876943
