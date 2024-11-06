@@ -155,6 +155,11 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://github.com/llvm/llvm-project/tree/main/bolt#bolt
+> https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/ Kernel optimization with BOLT
+> > https://news.ycombinator.com/item?id=42005429
+> https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45290.pdf
+
 https://news.ycombinator.com/item?id=42027767
 
 https://news.ycombinator.com/item?id=41922295

@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://www.nongnu.org/lzip/xz_inadequate.html#glossary
+
 https://github.com/xroche/httrack
 > https://news.ycombinator.com/item?id=41733714
 
