@@ -17,6 +17,11 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/
+> https://news.ycombinator.com/item?id=42084588
+
+https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-against-crypto-firms/
+
 https://lapcatsoftware.com/articles/2024/10/4.html
 > https://news.ycombinator.com/item?id=42014588
 

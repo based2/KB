@@ -372,6 +372,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/
+> https://news.ycombinator.com/item?id=42085273
+
 https://news.ycombinator.com/item?id=41816545
 
 https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html

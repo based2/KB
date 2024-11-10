@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://news.ycombinator.com/item?id=42085036
+
 https://news.ycombinator.com/item?id=42025469
 
 https://lukerissacher.com/battleships

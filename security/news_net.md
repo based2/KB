@@ -33,6 +33,8 @@ https://routersecurity.org/
 > https://news.ycombinator.com/item?id=41752327
 
 #
+https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/
+
 https://news.ycombinator.com/item?id=41683888
 
 https://news.ycombinator.com/item?id=41605680

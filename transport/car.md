@@ -21,6 +21,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 #
+https://infosec.exchange/@infosecdj
+> https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/
+
 https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
