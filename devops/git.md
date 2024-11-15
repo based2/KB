@@ -285,6 +285,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://news.ycombinator.com/item?id=42093756
+
 https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers
 > https://news.ycombinator.com/item?id=41947513
 

@@ -31,3 +31,6 @@ https://github.com/inovex/illuminatio
 https://www.armosec.io/blog/kubernetes-ingress-security/
 
 https://www.learncloudnative.com/blog/2023-05-31-kubeproxy-iptables
+
+https://github.com/Veinar/dracan enhance filtering and validation capabilities within Kubernetes (k8s) environments
+> https://news.ycombinator.com/item?id=42097735

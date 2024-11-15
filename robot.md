@@ -118,6 +118,9 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://readymag.website/u2481798807/5057562/ pichess
+> https://news.ycombinator.com/item?id=42101742
+
 https://news.ycombinator.com/item?id=41995549
 
 https://news.ycombinator.com/item?id=41951408

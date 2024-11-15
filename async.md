@@ -57,6 +57,9 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 > https://news.ycombinator.com/item?id=29489815
 
 #
+https://thomascothran.tech/2024/10/a-new-paradigm/ Bthreads: A Simple and Easy Paradigm for Clojure
+> https://news.ycombinator.com/item?id=42060215
+
 https://news.ycombinator.com/item?id=41890497
 
 https://justine.lol/mutex/

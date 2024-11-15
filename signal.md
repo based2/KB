@@ -33,6 +33,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://destevez.net/2024/11/decoding-hera/
+
 https://www.cryptomuseum.com/covert/bugs/masking/
 > https://news.ycombinator.com/item?id=41647923
 

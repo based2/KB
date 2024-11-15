@@ -24,3 +24,5 @@ https://github.com/YS-L/csvlens
 https://news.ycombinator.com/item?id=39867412
 
 https://whattheduck.incentius.com/
+
+https://news.ycombinator.com/item?id=42096837

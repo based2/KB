@@ -372,6 +372,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=42051197
+
 https://lobste.rs/s/q56kxd/don_t_return_named_tuples_new_apis
 
 https://news.ycombinator.com/item?id=42025951

@@ -310,6 +310,8 @@ https://news.ycombinator.com/item?id=41598404
 https://news.ycombinator.com/item?id=42013762
 
 # News
+https://news.ycombinator.com/item?id=42052194
+
 https://news.ycombinator.com/item?id=42022335
 
 https://news.ycombinator.com/item?id=42009290

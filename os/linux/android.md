@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42026251
+
 https://shizuku.rikka.app/ App that lets you use system APIs with higher privileges without root
 > https://news.ycombinator.com/item?id=41616023
 

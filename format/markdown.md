@@ -107,3 +107,5 @@ https://news.ycombinator.com/item?id=40695628
 https://news.ycombinator.com/item?id=40982118
 
 https://news.ycombinator.com/item?id=41407993
+
+https://news.ycombinator.com/item?id=42102262 mdbook

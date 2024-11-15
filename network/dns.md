@@ -161,6 +161,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=42102881
+
 https://github.com/pubky/pkdns
 
 https://news.ycombinator.com/item?id=41962822

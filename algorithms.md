@@ -130,6 +130,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://buttondown.com/jaffray/archive/the-cvm-algorithm/
+> https://news.ycombinator.com/item?id=42109629
+
 https://news.ycombinator.com/item?id=41248460
 
 https://news.ycombinator.com/item?id=41130693

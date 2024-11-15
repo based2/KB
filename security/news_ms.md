@@ -1,5 +1,7 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
+
 #
 https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/
 

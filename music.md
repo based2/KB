@@ -152,6 +152,9 @@ https://news.ycombinator.com/item?id=40954679
 https://news.ycombinator.com/item?id=41987352
 
 #
+https://matthew-bird.com/blogs/Audio-Decomposition.html open-source separation of music to constituent instruments
+> https://news.ycombinator.com/item?id=42098491
+
 https://cruncher.ch/blog/printing-music-with-css-grid/
 > https://news.ycombinator.com/item?id=40216057
 
