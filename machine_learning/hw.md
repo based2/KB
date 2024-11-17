@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=42156516
+
 https://github.com/slashml/amd_inference
 > https://news.ycombinator.com/item?id=41718030
 

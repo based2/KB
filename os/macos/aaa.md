@@ -268,6 +268,8 @@ https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/
 https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/
 > https://news.ycombinator.com/item?id=37200909
 
+https://news.ycombinator.com/item?id=42157086
+
 https://news.ycombinator.com/item?id=36889092
 
 https://github.com/utmapp/UTM/releases/tag/v4.1.5
@@ -465,6 +467,8 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://news.ycombinator.com/item?id=42156933
+
 https://www.macworld.com/article/2285650/macos-sonoma-14-5-features-security-fixes-install.html
 > https://support.apple.com/en-us/HT214106
 

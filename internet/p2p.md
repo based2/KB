@@ -62,6 +62,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://yggdrasil-network.github.io/
+> https://news.ycombinator.com/item?id=42155780
+
 https://github.com/szimek/sharedrop
 > https://news.ycombinator.com/item?id=40899507
 

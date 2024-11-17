@@ -46,6 +46,9 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 https://news.ycombinator.com/item?id=40014724
 
 # News
+https://nvd.nist.gov/vuln/detail/CVE-2024-50252
+> https://news.ycombinator.com/item?id=42121365
+
 https://klecko.github.io/posts/selinux-bypasses/
 > https://news.ycombinator.com/item?id=41946453
 

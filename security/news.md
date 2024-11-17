@@ -1,3 +1,7 @@
+https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/
+
+https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/
+
 https://news.ycombinator.com/item?id=42012301
 
 https://security.apple.com/blog/pcc-security-research/
