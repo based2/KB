@@ -310,6 +310,9 @@ https://news.ycombinator.com/item?id=41598404
 https://news.ycombinator.com/item?id=42013762
 
 # News
+https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/
+> https://news.ycombinator.com/item?id=42162622
+
 https://news.ycombinator.com/item?id=42052194
 
 https://news.ycombinator.com/item?id=42022335

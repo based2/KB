@@ -19,6 +19,10 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 
 https://news.ycombinator.com/item?id=37180017
 
+# Security
+https://github.com/NVIDIA/garak LLM Vulnerability Scanner
+> https://news.ycombinator.com/item?id=42163591
+
 # Test
 https://docs.ragas.io/en/stable/
 > https://news.ycombinator.com/item?id=39780114
@@ -69,6 +73,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/
+
 https://github.com/iterative/datachain
 > https://news.ycombinator.com/item?id=42043948
 

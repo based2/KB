@@ -43,6 +43,9 @@ https://lwn.net/Articles/824380/
 https://github.com/corsix/polyfill-glibc/
 > https://lobste.rs/s/azasse/polyfill_glibc_patch_linux_executables
 
+#
+https://github.com/oracle/bpftune
+> https://news.ycombinator.com/item?id=42163597
 
 #
 https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199
