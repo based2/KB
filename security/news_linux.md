@@ -45,7 +45,13 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 
 https://news.ycombinator.com/item?id=40014724
 
+https://arxiv.org/abs/2411.11017
+
 # News
+https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/
+
+https://news.ycombinator.com/item?id=42199671
+
 https://nvd.nist.gov/vuln/detail/CVE-2024-50252
 > https://news.ycombinator.com/item?id=42121365
 

@@ -134,6 +134,8 @@ https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-esti
 https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
 > https://news.ycombinator.com/item?id=36720573
 
+https://news.ycombinator.com/item?id=42173575
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -170,6 +172,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://lea.verou.me/blog/2023/eigensolutions/
+
 https://tidyfirst.substack.com/p/slow-deployment-causes-meetings
 
 https://news.ycombinator.com/item?id=41711527

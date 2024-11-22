@@ -1,3 +1,5 @@
+https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay
+
 https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/
 
 https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/

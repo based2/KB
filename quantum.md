@@ -103,6 +103,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=42196841
+
 https://www.theregister.com/2024/10/07/quantum_firms_risk_being_delisted/
 
 https://news.ycombinator.com/item?id=41687874

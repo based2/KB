@@ -537,6 +537,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/
+
+https://news.ycombinator.com/item?id=42193793
+
 https://news.ycombinator.com/item?id=41766551
 
 https://www.possiblerust.com/pattern/rust-lints-you-may-not-know

@@ -67,6 +67,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=42174204
+
 https://github.com/williambl/blockblockdevice
 
 https://news.ycombinator.com/item?id=41715277

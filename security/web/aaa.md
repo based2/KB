@@ -42,3 +42,9 @@ https://lobste.rs/s/98rp8f/cors_is_stupid
 https://github.com/juice-shop/juice-shop
 
 https://web.stanford.edu/class/cs253/
+
+https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/
+> https://news.ycombinator.com/item?id=42206556
+
+https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work
+> https://news.ycombinator.com/item?id=42206955

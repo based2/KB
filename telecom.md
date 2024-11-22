@@ -146,6 +146,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=42177543
+
 https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/
 
 https://news.ycombinator.com/item?id=41908231

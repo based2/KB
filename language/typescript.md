@@ -109,6 +109,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=42199486
+
 https://news.ycombinator.com/item?id=41291700
 
 https://news.ycombinator.com/item?id=41226548
