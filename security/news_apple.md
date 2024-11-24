@@ -17,6 +17,10 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://unit42.paloaltonetworks.com/unique-popular-techniques-lateral-movement-macos/ November 22, 2024
+
+https://unit42.paloaltonetworks.com/gatekeeper-bypass-macos/ 2022
+
 https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/
 
 https://news.ycombinator.com/item?id=42081874

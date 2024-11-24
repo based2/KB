@@ -46,6 +46,9 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://5-million-devs.netlify.com
+> https://news.ycombinator.com/item?id=42212644
+
 https://news.ycombinator.com/item?id=42085036
 
 https://news.ycombinator.com/item?id=42025469

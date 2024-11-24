@@ -1,3 +1,5 @@
+https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/
+
 https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay
 
 https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/

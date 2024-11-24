@@ -166,6 +166,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://rapier.rs
+
 https://news.ycombinator.com/item?id=42161223 godot ipad
 
 https://news.ycombinator.com/item?id=42053031 mmo

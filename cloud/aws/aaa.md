@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://unit42.paloaltonetworks.com/shinyhunters-ransomware-extortion/
+
 https://permiso.io/blog/exploiting-hosted-models
 > https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/
 
