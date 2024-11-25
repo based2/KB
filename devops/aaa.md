@@ -544,6 +544,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://lupyuen.github.io/articles/ci4 Continuous Integration Dashboard for Apache NuttX RTOS - Prometheus and Grafana
+
 https://news.ycombinator.com/item?id=41768457
 
 https://news.ycombinator.com/item?id=41708174

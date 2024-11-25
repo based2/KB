@@ -145,6 +145,9 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 #
+https://news.ycombinator.com/item?id=42225481
+> https://www.tyleo.com/html-glass.html
+
 https://news.ycombinator.com/item?id=41189637
 
 https://ishadeed.com/article/css-cap-unit/

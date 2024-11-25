@@ -522,6 +522,8 @@ https://hyperscript.org/comparison/
 > https://news.ycombinator.com/item?id=26873682
 
 ## JQuery $
+https://news.ycombinator.com/item?id=42212106
+
 https://blog.jqueryui.com/2024/08/jquery-ui-1-14-0-released/
 
 http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/

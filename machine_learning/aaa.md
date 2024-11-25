@@ -608,6 +608,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=42224264
+
 https://news.ycombinator.com/item?id=41980894
 
 https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning

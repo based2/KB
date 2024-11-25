@@ -89,6 +89,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/golemcloud/golem
+> https://learn.golem.cloud/
+
 https://news.ycombinator.com/item?id=42095879
 
 https://thenewstack.io/introduction-to-virgil-a-new-language-by-wasms-co-creator/

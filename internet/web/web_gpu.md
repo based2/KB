@@ -55,3 +55,6 @@ https://developer.chrome.com/blog/new-in-webgpu-121
 https://news.ycombinator.com/item?id=40099974
 
 https://news.ycombinator.com/item?id=40379982
+
+https://developer.chrome.com/blog/next-for-webgpu
+> https://news.ycombinator.com/item?id=42209272

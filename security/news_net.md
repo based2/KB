@@ -32,6 +32,11 @@ https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap8
 https://routersecurity.org/
 > https://news.ycombinator.com/item?id=41752327
 
+https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
+> https://news.ycombinator.com/item?id=42219749
+
+https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
+
 #
 https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/
 

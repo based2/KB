@@ -155,6 +155,10 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://arxiv.org/abs/2411.11469 Deegen: A JIT-Capable VM Generator for Dynamic Languages
+> https://news.ycombinator.com/item?id=42186507
+> https://news.ycombinator.com/item?id=42227233
+
 https://github.com/llvm/llvm-project/tree/main/bolt#bolt
 > https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/ Kernel optimization with BOLT
 > > https://news.ycombinator.com/item?id=42005429

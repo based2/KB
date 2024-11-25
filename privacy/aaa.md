@@ -111,6 +111,10 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://www.wired.com/video/watch/we-tracked-every-visitor-to-epstein-island
+
+https://news.ycombinator.com/item?id=42192237
+
 https://www.bleepingcomputer.com/news/legal/ireland-fines-linkedin-310-million-over-targeted-advertising/
 
 https://www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/
