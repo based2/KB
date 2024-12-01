@@ -53,6 +53,8 @@ https://news.ycombinator.com/item?id=36931344 x
 
 https://medium.com/@jasonmesut/a-24-year-dance-of-decoding-ux-851fae35c582
 
+https://news.ycombinator.com/item?id=42267725
+
 # Gesture
 http://depts.washington.edu/acelab/proj/dollar/index.html
 > https://news.ycombinator.com/item?id=27046822

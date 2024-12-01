@@ -112,6 +112,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # Releases
+https://news.ycombinator.com/item?id=42277344
+
 https://news.ycombinator.com/item?id=41522092
 
 https://news.ycombinator.com/item?id=40232896
@@ -166,6 +168,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/
+
+https://news.ycombinator.com/item?id=42278295
+
 https://rapier.rs
 
 https://news.ycombinator.com/item?id=42161223 godot ipad

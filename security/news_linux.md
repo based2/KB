@@ -48,6 +48,10 @@ https://news.ycombinator.com/item?id=40014724
 https://arxiv.org/abs/2411.11017
 
 # News
+https://news.ycombinator.com/item?id=42256409
+
+https://news.ycombinator.com/item?id=42270424
+
 https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/
 
 https://news.ycombinator.com/item?id=42199671

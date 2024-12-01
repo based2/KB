@@ -102,3 +102,6 @@ https://github.com/gabotechs/dep-tree Visualize the entropy of a codebase with a
 
 https://www.flyde.dev/
 >  https://news.ycombinator.com/item?id=39628285
+
+https://github.com/IndiePython/nodezator
+> https://news.ycombinator.com/item?id=42274399 python

@@ -5,6 +5,9 @@ http://tunguska.sourceforge.net/about.html
 https://arxiv.org/abs/2105.05398 Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers
 
 #
+https://funktionale-programmierung.de/2024/11/25/sums-products-english.html
+> https://news.ycombinator.com/item?id=42245927
+
 https://news.ycombinator.com/item?id=39318774
 
 https://jointhefreeworld.org/blog/articles/development/System%20Interaction%20Model.html

@@ -429,6 +429,8 @@ https://www.computer.org/csdl/proceedings-article/sp/2024/313000a221/1WPcYLpYFHy
 https://news.ycombinator.com/item?id=41519502
 
 # Incident
+https://news.ycombinator.com/item?id=42273817
+
 https://www.lasso.security/blog/exploiting-huggingfaces-assistants-to-extract-users-data
 > https://old.reddit.com/r/netsec/comments/1euis5q/exploiting_huggingfaces_assistants_to_extract/
 

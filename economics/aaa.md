@@ -96,6 +96,9 @@ https://www.reuters.com/breakingviews/how-risky-bank-debt-makes-customers-safer-
 https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield?leadSource=uverify%20wall
 > https://news.ycombinator.com/item?id=35603168
 
+https://www.formance.com/blog/engineering/color-of-money
+> https://news.ycombinator.com/item?id=42280641
+
 ## Trading
 https://news.ycombinator.com/item?id=41730612
 
@@ -261,6 +264,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://news.ycombinator.com/item?id=42243755
+
 https://news.ycombinator.com/item?id=41583327
 
 https://commoncog.com/cash-flow-games/

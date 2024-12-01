@@ -13,6 +13,8 @@ https://arxiv.org/abs/2308.02945
 https://github.com/chipsalliance/riscv-dv
 
 # News
+https://spectrum.ieee.org/flexible-risc-v
+
 https://github.com/agra-uni-bremen/BinSym
 
 https://www.nature.com/articles/s41586-024-07976-y Bendable non-silicon RISC-V microprocessor

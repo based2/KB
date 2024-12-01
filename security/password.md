@@ -38,6 +38,8 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://arstechnica.com/security/2024/09/nist-proposes-barring-some-of-the-most-nonsensical-password-rules/
+
 https://news.ycombinator.com/item?id=41878290
 
 https://arstechnica.com/security/2024/09/nist-proposes-barring-some-of-the-most-nonsensical-password-rules/

@@ -63,6 +63,8 @@ https://drew.shoes/posts/sup/ net send win
 https://news.ycombinator.com/item?id=40764113
 
 # News
+https://news.ycombinator.com/item?id=42229003 ls
+
 https://news.ycombinator.com/item?id=41639019 fd
 
 https://news.ycombinator.com/item?id=41420744 dc

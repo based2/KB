@@ -112,6 +112,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://sqlitestudio.pl/
+> https://news.ycombinator.com/item?id=42232000
+
 https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/
 > https://news.ycombinator.com/item?id=41832547
 

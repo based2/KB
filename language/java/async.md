@@ -8,6 +8,9 @@ https://micronaut.io/ MS
 
 https://projectreactor.io/
 
+# News
+https://news.ycombinator.com/item?id=42213845 IPC
+
 https://netty.io/news/2023/01/12/4-1-87-Final.html
 
 https://vertx.io/ Reactor pattern, Eclipse

@@ -43,6 +43,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://yangchris11.github.io/samurai/ Adapting Segment Anything Model for Zero-Shot Visual Tracking
+> https://news.ycombinator.com/item?id=42244326
+
 LLaVA-O1: Let Vision Language Models Reason Step-by-Step
 > https://news.ycombinator.com/item?id=42171043
 

@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://blog.frost.kiwi/analytical-anti-aliasing/
+> https://news.ycombinator.com/item?id=42191709
+
 https://news.ycombinator.com/item?id=41818779
 
 https://github.com/nobuyuki83/floor_plan

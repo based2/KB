@@ -177,6 +177,8 @@ https://www.imperialviolet.org/2023/07/29/voice-recognition.html
 https://github.com/huggingface/distil-whisper
 > https://news.ycombinator.com/item?id=38093353
 
+https://news.ycombinator.com/item?id=42208964
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

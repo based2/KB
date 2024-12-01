@@ -91,6 +91,8 @@ https://news.ycombinator.com/item?id=40171383
 
 https://news.ycombinator.com/item?id=41147933
 
+https://news.ycombinator.com/item?id=42232424
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

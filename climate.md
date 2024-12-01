@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.technologyreview.com/2024/10/21/1105171/air-protein-biotech-solar-foods-novonutrients-alternative-protein/
+
 https://news.ycombinator.com/item?id=42166030
 
 https://news.ycombinator.com/item?id=41907353

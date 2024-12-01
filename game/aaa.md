@@ -46,6 +46,9 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://www.oranlooney.com/post/genji-ko/
+> https://news.ycombinator.com/item?id=42256394
+
 https://5-million-devs.netlify.com
 > https://news.ycombinator.com/item?id=42212644
 

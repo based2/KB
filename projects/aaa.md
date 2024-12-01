@@ -485,6 +485,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html
+> https://news.ycombinator.com/item?id=42244482
+
 https://ieeexplore.ieee.org/document/10372494 Developer Productivity for Humans: Software Quality
 > https://news.ycombinator.com/item?id=38791489
 

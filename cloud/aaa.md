@@ -148,6 +148,10 @@ https://serverlesshorrors.com/
 
 https://modal.com/blog/serverless-http rust
 
+https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute
+
+https://www.golem.cloud/post/exploring-the-potential-of-stonebreaker-s-new-dbos
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 
@@ -170,6 +174,12 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=42279055
+
+https://news.ycombinator.com/item?id=42241851
+
+https://www.bleepingcomputer.com/news/security/cloudflare-says-it-lost-55-percent-of-logs-pushed-to-customers-for-35-hours/
+
 https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security
 > https://news.ycombinator.com/item?id=40990768
 
@@ -382,6 +392,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=42264427
+
 https://news.ycombinator.com/item?id=42206990
 
 https://brokencloudstorage.info/

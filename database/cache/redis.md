@@ -55,3 +55,5 @@ https://news.ycombinator.com/item?id=41581504
 
 https://opensourcewatch.beehiiv.com/p/valkey-8-sets-a-new-bar-for-open-source-in-memory-nosql-data-storage
 
+https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/
+

@@ -53,6 +53,9 @@ https://news.ycombinator.com/item?id=39706004
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://github.com/tonghohin/screen-sharing
+> https://news.ycombinator.com/item?id=42269897
+
 https://news.ycombinator.com/item?id=42022649
 
 https://news.ycombinator.com/item?id=41908885

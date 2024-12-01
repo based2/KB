@@ -21,6 +21,8 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://news.ycombinator.com/item?id=42278148
+
 https://news.ycombinator.com/item?id=41531738
 
 https://www.universetoday.com/168388/china-will-launch-its-mars-sample-return-mission-in-2028/

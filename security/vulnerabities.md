@@ -81,6 +81,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://cloud.google.com/blog/topics/threat-intelligence/time-to-exploit-trends-2023
+
 https://news.ycombinator.com/item?id=41315068
 
 https://news.ycombinator.com/item?id=41302144

@@ -3,6 +3,9 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://research.checkpoint.com/2024/gaming-engines-an-undetected-playground-for-malware-loaders/
+> https://www.bleepingcomputer.com/news/security/new-godloader-malware-infects-thousands-of-gamers-using-godot-scripts/
+
 https://asec.ahnlab.com/ko/83402/
 
 https://www.bleepingcomputer.com/news/security/outlast-game-development-delayed-after-red-barrels-cyberattack/
@@ -74,6 +77,8 @@ https://www.bleepingcomputer.com/news/security/hackers-exploit-bleedingpipe-rce-
 https://www.bleepingcomputer.com/news/security/backdoored-chrome-extension-installed-by-200-000-roblox-players/
 
 https://www.bleepingcomputer.com/news/security/hackers-auction-alleged-source-code-for-league-of-legends/
+
+https://research.checkpoint.com/2019/hacking-fortnite/
 
 # 2018
 

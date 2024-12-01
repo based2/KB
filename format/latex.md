@@ -45,3 +45,5 @@ https://news.ycombinator.com/item?id=39316193
 https://news.ycombinator.com/item?id=41014941
 
 https://news.ycombinator.com/item?id=41821361
+
+https://blog.jreyesr.com/posts/typst/

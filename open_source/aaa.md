@@ -258,6 +258,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://zetaoffice.net/
+> https://news.ycombinator.com/item?id=42249746
+
 https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/
 > https://news.ycombinator.com/item?id=41830699
 > > https://github.com/GraphiteEditor/Graphite

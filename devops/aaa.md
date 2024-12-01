@@ -86,6 +86,9 @@ https://csemver.org/
 
 https://calver.org/
 
+https://trunkver.org/
+> https://news.ycombinator.com/item?id=42259604
+
 https://lumosql.org/src/not-forking/doc/trunk/README.md
 
 https://0ver.org/
@@ -544,6 +547,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/hcengineering/platform
+
 https://lupyuen.github.io/articles/ci4 Continuous Integration Dashboard for Apache NuttX RTOS - Prometheus and Grafana
 
 https://news.ycombinator.com/item?id=41768457

@@ -38,6 +38,8 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
 #
+https://news.ycombinator.com/item?id=42249790
+
 https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/
 
 https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/

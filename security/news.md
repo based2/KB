@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=42276865
+
+https://news.ycombinator.com/item?id=42279010
+
 https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/
 
 https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay

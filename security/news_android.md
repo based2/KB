@@ -21,6 +21,8 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/
+
 https://www.bleepingcomputer.com/news/security/googles-mysterious-searchapp-links-leave-android-users-concerned/
 
 https://www.bleepingcomputer.com/news/security/google-backports-fix-for-pixel-eop-flaw-to-other-android-devices/

@@ -6,6 +6,9 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://mill-build.org/mill/comparisons/java-compile.html
+> https://news.ycombinator.com/item?id=42245003
+
 https://news.ycombinator.com/item?id=41825344 md
 
 https://news.ycombinator.com/item?id=41607059 make

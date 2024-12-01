@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://blog.amberwolf.com/blog/2024/november/introducing-nachovpn---one-vpn-server-to-pwn-them-all/
+
 https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/
 
 https://news.ycombinator.com/item?id=41284549

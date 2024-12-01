@@ -138,6 +138,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://news.ycombinator.com/item?id=42249518
+
 https://news.ycombinator.com/item?id=42090544
 
 https://engineersneedart.com/blog/movefast/movefast.html game

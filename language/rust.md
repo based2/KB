@@ -537,6 +537,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html
+
 https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/
 
 https://news.ycombinator.com/item?id=42193793
