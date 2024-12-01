@@ -76,3 +76,5 @@ https://news.ycombinator.com/item?id=41815173
 
 https://github.com/altera-al/project-sid
 > https://news.ycombinator.com/item?id=42035319
+
+https://news.ycombinator.com/item?id=42286397

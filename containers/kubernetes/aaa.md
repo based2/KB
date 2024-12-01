@@ -104,6 +104,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://bilbof.com/posts/kubernetes-on-hetzner
+> https://news.ycombinator.com/item?id=42288956
+
 https://news.ycombinator.com/item?id=41983394
 
 https://docs.percona.com/everest/index.html open-source automated database provisioning and management
