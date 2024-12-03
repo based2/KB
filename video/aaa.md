@@ -130,6 +130,8 @@ https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-i
 https://news.ycombinator.com/item?id=41695840
 
 # News
+https://news.ycombinator.com/item?id=42295491
+
 https://news.ycombinator.com/item?id=42207002 Show HN: Video editor app that generates FFmpeg commands
 
 https://news.ycombinator.com/item?id=42084977

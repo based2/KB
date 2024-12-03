@@ -195,6 +195,8 @@ https://news.ycombinator.com/item?id=39486717
 https://news.ycombinator.com/item?id=39534856
 
 # News
+https://news.ycombinator.com/item?id=42290204
+
 https://news.ycombinator.com/item?id=41446252
 
 https://lobste.rs/s/7pvs12/hurl_5_0_0_parallel_edition

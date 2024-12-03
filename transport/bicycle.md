@@ -21,3 +21,5 @@ https://vhelio.org/
 https://newatlas.com/marine/seabike-swimming-propeller/
 
 https://www.usenix.org/system/files/woot24-motallebighomi.pdf
+
+https://www.bbc.com/travel/article/20241122-the-trans-dinarica-a-new-5500km-trail-connecting-one-of-europes-most-remote-regions
