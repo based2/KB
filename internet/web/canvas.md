@@ -38,3 +38,5 @@ https://scrawl-v8.rikweb.org.uk/demo/dom-018.html
 https://susam.net/fxyt.html
 > https://news.ycombinator.com/item?id=38719163
 > https://github.com/susam/fxyt
+
+https://news.ycombinator.com/item?id=42308051

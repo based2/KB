@@ -81,6 +81,8 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://news.ycombinator.com/item?id=42329307 How to pack ternary numbers in 8-bit bytes
+
 https://news.ycombinator.com/item?id=41389326
 
 https://meatfighter.com/ascii-silhouettify/

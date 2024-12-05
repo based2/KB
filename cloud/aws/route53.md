@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42329642
+
 https://aws.amazon.com/en/blogs/compute/powering-secondary-dns-in-a-vpc-using-aws-lambda-and-amazon-route-53-private-hosted-zones/
 
 https://www.reddit.com/r/aws/comments/qkdo0n/aws_route_53_cname_record/

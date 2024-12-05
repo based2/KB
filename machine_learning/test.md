@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42317878
+
 https://news.ycombinator.com/item?id=39042093
 
 https://developer.chrome.com/blog/supercharge-web-ai-testing

@@ -11,6 +11,8 @@ https://news.ycombinator.com/item?id=39453524
 
 # Photo23D
 
+https://news.ycombinator.com/item?id=42297644
+
 https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/
 > https://news.ycombinator.com/item?id=32782698
 

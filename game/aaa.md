@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://news.ycombinator.com/item?id=42318673
+
 https://www.oranlooney.com/post/genji-ko/
 > https://news.ycombinator.com/item?id=42256394
 

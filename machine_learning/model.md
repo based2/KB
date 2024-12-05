@@ -310,6 +310,8 @@ https://news.ycombinator.com/item?id=41598404
 https://news.ycombinator.com/item?id=42013762
 
 # News
+https://news.ycombinator.com/item?id=42317903
+
 https://www.anthropic.com/news/model-context-protocol
 > https://news.ycombinator.com/item?id=42237424
 
