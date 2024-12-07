@@ -73,6 +73,10 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://news.ycombinator.com/item?id=42330055
+
+https://brooker.co.za/blog/2024/12/05/inside-dsql-writes.html
+
 https://news.ycombinator.com/item?id=41642969
 
 https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/

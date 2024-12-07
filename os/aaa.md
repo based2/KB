@@ -29,6 +29,8 @@ https://louis-dr.github.io/ternalu3.html
 https://news.ycombinator.com/item?id=41201922
 
 # News
+https://news.ycombinator.com/item?id=42331270
+
 https://news.ycombinator.com/item?id=41515447
 
 https://news.ycombinator.com/item?id=41557030

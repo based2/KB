@@ -144,6 +144,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/
+> https://news.ycombinator.com/item?id=42253697
+
 https://news.ycombinator.com/item?id=41558183
 
 https://news.ycombinator.com/item?id=41433205

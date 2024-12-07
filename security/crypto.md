@@ -206,6 +206,9 @@ https://news.ycombinator.com/item?id=41668896
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/
+> https://news.ycombinator.com/item?id=42293771
+
 https://news.ycombinator.com/item?id=42181803
 
 https://news.ycombinator.com/item?id=42004581

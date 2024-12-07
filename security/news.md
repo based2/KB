@@ -1,3 +1,6 @@
+https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists
+> https://news.ycombinator.com/item?id=42340346
+
 https://news.ycombinator.com/item?id=42276865
 
 https://news.ycombinator.com/item?id=42318644

@@ -67,6 +67,9 @@ https://news.ycombinator.com/item?id=38471475
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://github.com/google/vanir
+> https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html
+
 https://news.ycombinator.com/item?id=41114839
 
 https://news.ycombinator.com/item?id=40606756

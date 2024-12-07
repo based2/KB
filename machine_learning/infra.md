@@ -77,6 +77,11 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 #
+https://news.ycombinator.com/item?id=42323953
+
+https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine
+> https://news.ycombinator.com/item?id=42339302
+
 https://store.steampowered.com/app/2800590/picoCAD/
 > https://news.ycombinator.com/item?id=42262734
 

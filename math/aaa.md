@@ -188,6 +188,10 @@ https://news.ycombinator.com/item?id=41540902
 https://news.ycombinator.com/item?id=41808683
 
 # News
+https://news.ycombinator.com/item?id=42320180
+
+https://news.ycombinator.com/item?id=42340792
+
 https://news.ycombinator.com/item?id=42256589
 
 https://soundness.dev/

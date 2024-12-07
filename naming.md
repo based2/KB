@@ -39,4 +39,6 @@ https://www.simplethread.com/taming-names-in-software-development/
 https://www.rfc-editor.org/rfc/rfc1178 Choosing a Name for Your Computer
 > https://news.ycombinator.com/item?id=36028410
 
+https://news.ycombinator.com/item?id=42338134
+
 # naming thi

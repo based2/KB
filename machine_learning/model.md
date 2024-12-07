@@ -54,6 +54,8 @@ https://nightshade.cs.uchicago.edu/whatis.html
 > https://glaze.cs.uchicago.edu/what-is-glaze.html
 
 # llama Facebook - Forbids commercial use, weights required
+https://news.ycombinator.com/item?id=42341388
+
 https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1
 > https://news.ycombinator.com/item?id=41649763
 
@@ -308,6 +310,8 @@ https://news.ycombinator.com/item?id=41218928
 https://news.ycombinator.com/item?id=41598404
 
 https://news.ycombinator.com/item?id=42013762
+
+https://news.ycombinator.com/item?id=42250773
 
 # News
 https://news.ycombinator.com/item?id=42317903

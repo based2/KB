@@ -59,6 +59,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=42294716
+
 https://news.ycombinator.com/item?id=42057903
 
 https://www.cca.org/blog/20120222-Diode-Matrix.shtml

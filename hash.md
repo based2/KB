@@ -102,6 +102,9 @@ https://news.ycombinator.com/item?id=40700301
 https://github.com/ulid/spec ULID: Like UUID but Sortable (2019)
 > https://news.ycombinator.com/item?id=40958959
 
+https://everyuuid.com/
+> https://news.ycombinator.com/item?id=42342382
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

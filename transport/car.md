@@ -28,6 +28,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://news.ycombinator.com/item?id=42340000
+
 https://news.ycombinator.com/item?id=41085806
 
 https://foundation.mozilla.org/fr/privacynotincluded/categories/cars/

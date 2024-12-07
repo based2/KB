@@ -42,6 +42,8 @@ https://dbgate.org/ Open-source, cross-platform SQL+noSQL database client - Type
 
 https://news.ycombinator.com/item?id=39660592
 
+https://news.ycombinator.com/item?id=42320032
+
 #
 https://jlongster.com/future-sql-web
 > https://news.ycombinator.com/item?id=38823445

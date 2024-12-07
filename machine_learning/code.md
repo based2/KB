@@ -68,6 +68,9 @@ https://thenewstack.io/gpt-4o-and-sql-how-well-can-an-llm-alter-its-own-schema/
 https://news.ycombinator.com/item?id=37240363 sql
 
 # News
+https://addyo.substack.com/p/the-70-problem-hard-truths-about
+> https://news.ycombinator.com/item?id=42336553
+
 https://news.ycombinator.com/item?id=41985883
 
 https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html
