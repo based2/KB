@@ -401,6 +401,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://nightshade.cs.uchicago.edu/whatis.html An offensive tool for artists against AI art generators
+> https://news.ycombinator.com/item?id=39058428
+
 https://news.ycombinator.com/item?id=42330491
 
 https://news.ycombinator.com/item?id=41885231

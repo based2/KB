@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://ambient.garden/
+
 https://blog.frost.kiwi/analytical-anti-aliasing/
 > https://news.ycombinator.com/item?id=42191709
 

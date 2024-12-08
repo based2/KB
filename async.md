@@ -56,6 +56,8 @@ https://news.ycombinator.com/item?id=41244468
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815
 
+https://danp.net/posts/synctest-experiment/
+
 #
 https://jeremycarterau.substack.com/p/thinking-in-actors-part-2?r=ma4m&utm_campaign=post&utm_medium=web&triedRedirect=true
 

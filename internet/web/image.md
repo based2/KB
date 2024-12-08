@@ -103,6 +103,9 @@ https://pixspeed.com/
 > https://news.ycombinator.com/item?id=41990292
 
 # Photography
+https://medium.com/@shacker/photography-contradictions-0566b7fce9fc
+> https://news.ycombinator.com/item?id=42284211
+
 https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/
 > https://news.ycombinator.com/item?id=41266682
 

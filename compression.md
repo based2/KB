@@ -44,6 +44,8 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd
+
 https://news.ycombinator.com/item?id=41640388
 
 https://news.ycombinator.com/item?id=41578440

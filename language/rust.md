@@ -537,6 +537,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://cafkafk.dev/p/eurorust-2024-helsing/
+> https://news.ycombinator.com/item?id=42301580
+
 https://github.com/trailbaseio/trailbase
 > https://news.ycombinator.com/item?id=42336207
 

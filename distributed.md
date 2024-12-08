@@ -134,6 +134,9 @@ https://interjectedfuture.com/trade-offs-between-different-crdts/
 https://loro.dev/blog/movable-tree
 > https://news.ycombinator.com/item?id=41099901
 
+https://www.moment.dev/blog/lies-i-was-told-pt-1 Algorithms for offline editing
+> https://news.ycombinator.com/item?id=42343953
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

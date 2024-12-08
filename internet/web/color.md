@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost
+> https://news.ycombinator.com/item?id=42288864
+
 https://news.ycombinator.com/item?id=41446916
 
 https://github.com/miciwan/PaintMixing

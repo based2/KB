@@ -355,6 +355,8 @@ https://news.ycombinator.com/item?id=40625823
 https://dl.acm.org/doi/pdf/10.1145/987452.987458
 > https://dl.acm.org/doi/pdf/10.1145/987452.987458
 
+https://news.ycombinator.com/item?id=42350768
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
@@ -430,6 +432,7 @@ https://news.ycombinator.com/item?id=41519502
 
 # Incident
 https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/
+> https://news.ycombinator.com/item?id=42351722
 
 https://news.ycombinator.com/item?id=42273817
 

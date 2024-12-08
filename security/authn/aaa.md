@@ -89,6 +89,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://news.ycombinator.com/item?id=42359067
+
 https://github.com/microsoft/webauthn
 > http://blogs.windows.com/windows-insider/2024/11/22/announcing-windows-11-insider-preview-build-22635-4515-beta-channel/
 > > https://www.bleepingcomputer.com/news/security/microsoft-testing-windows-11-support-for-third-party-passkeys/

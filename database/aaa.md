@@ -16,6 +16,9 @@ https://www.connectionstrings.com/
 https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V6.pdf
 > https://news.ycombinator.com/item?id=30194448
 
+https://minimalmodeling.substack.com/p/historically-4nf-explanations-are
+> https://news.ycombinator.com/item?id=42350425
+
 #
 https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/
 > https://news.ycombinator.com/item?id=28678647
@@ -73,6 +76,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html
+> https://news.ycombinator.com/item?id=42293937
+
 https://news.ycombinator.com/item?id=42330055
 
 https://brooker.co.za/blog/2024/12/05/inside-dsql-writes.html

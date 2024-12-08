@@ -120,6 +120,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection
+> https://news.ycombinator.com/item?id=42356345
+
 https://news.ycombinator.com/item?id=42337548
 
 https://sysdig.com/blog/emeraldwhale/

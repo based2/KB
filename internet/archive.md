@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=42314547
+
 https://blog.archive.org/2024/12/04/end-of-hachette-v-internet-archive/
 
 https://www.nongnu.org/lzip/xz_inadequate.html#glossary

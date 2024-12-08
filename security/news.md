@@ -1,3 +1,7 @@
+https://www.troyhunt.com/pwned-the-book-is-now-available-for-free/
+
+https://news.ycombinator.com/item?id=42357816
+
 https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists
 > https://news.ycombinator.com/item?id=42340346
 

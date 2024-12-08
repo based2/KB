@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42353503
+
 https://semiengineering.com/partitioning-in-the-chiplet-era/
 >
 

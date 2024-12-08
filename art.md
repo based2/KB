@@ -48,6 +48,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://news.ycombinator.com/item?id=42290663
+
 https://news.ycombinator.com/item?id=41877513
 
 https://news.ycombinator.com/item?id=41757722

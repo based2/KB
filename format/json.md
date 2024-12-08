@@ -78,6 +78,8 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://news.ycombinator.com/item?id=42360681
+
 https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch
 > https://news.ycombinator.com/item?id=41871850
 
