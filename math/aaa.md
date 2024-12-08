@@ -188,6 +188,10 @@ https://news.ycombinator.com/item?id=41540902
 https://news.ycombinator.com/item?id=41808683
 
 # News
+https://mathics.org/
+> https://github.com/Mathics3/mathics-core/releases/tag/7.0.0 Python
+> > https://news.ycombinator.com/item?id=42349375
+
 https://news.ycombinator.com/item?id=42320180
 
 https://news.ycombinator.com/item?id=42340792

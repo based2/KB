@@ -492,6 +492,7 @@ https://www.musicforprogramming.net/
 https://news.ycombinator.com/item?id=42341241
 
 https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/
+> https://news.ycombinator.com/item?id=42341506
 
 https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html
 > https://news.ycombinator.com/item?id=42244482

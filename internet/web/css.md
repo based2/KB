@@ -277,6 +277,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://www.joshwcomeau.com/css/backdrop-filter/
+> https://news.ycombinator.com/item?id=42302907
+
 https://news.ycombinator.com/item?id=42244832 LaTeX.css – Make your website look like a LaTeX document
 
 https://news.ycombinator.com/item?id=41549376

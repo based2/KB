@@ -68,6 +68,9 @@ https://thenewstack.io/gpt-4o-and-sql-how-well-can-an-llm-alter-its-own-schema/
 https://news.ycombinator.com/item?id=37240363 sql
 
 # News
+https://github.com/ibttf/interview-coder An invisible desktop application that will help you pass technical interviews
+> https://news.ycombinator.com/item?id=42348147
+
 https://addyo.substack.com/p/the-70-problem-hard-truths-about
 > https://news.ycombinator.com/item?id=42336553
 

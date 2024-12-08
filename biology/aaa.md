@@ -65,7 +65,12 @@ https://news.ycombinator.com/item?id=41457331
 
 https://news.ycombinator.com/item?id=41506157
 
+https://www.nature.com/articles/s41592-024-02523-z Nucleotide Transformer: building robust foundation models for human genomics
+> https://news.ycombinator.com/item?id=42291315
+
 # News
+https://news.ycombinator.com/item?id=42275249
+
 https://news.ycombinator.com/item?id=42214143
 
 https://news.ycombinator.com/item?id=42208850

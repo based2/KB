@@ -313,7 +313,12 @@ https://news.ycombinator.com/item?id=42013762
 
 https://news.ycombinator.com/item?id=42250773
 
+https://news.ycombinator.com/item?id=42286395
+
 # News
+https://countless.dev/ compare every AI model: LLMs, TTSs, STTs
+> https://news.ycombinator.com/item?id=42348513
+
 https://news.ycombinator.com/item?id=42317903
 
 https://www.anthropic.com/news/model-context-protocol

@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering for Improved Parallelism
+> https://news.ycombinator.com/item?id=42347780
+
 https://news.ycombinator.com/item?id=42051968
 
 https://www.555-timer-circuits.com/

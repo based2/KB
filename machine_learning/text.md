@@ -30,6 +30,9 @@ https://www.chatpdf.com/
 https://news.ycombinator.com/item?id=41810507
 
 # Chatbot
+https://lmarena.ai/
+> https://news.ycombinator.com/item?id=42341788
+
 https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/
 > https://news.ycombinator.com/item?id=36918435
 

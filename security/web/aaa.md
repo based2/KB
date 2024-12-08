@@ -48,3 +48,5 @@ https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/
 
 https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work
 > https://news.ycombinator.com/item?id=42206955
+
+https://old.reddit.com/r/netsec/comments/1h1hvru/crosssite_post_requests_without_a_contenttype/

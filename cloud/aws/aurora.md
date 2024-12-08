@@ -1,3 +1,5 @@
+https://brooker.co.za/blog/2024/12/03/aurora-dsql
+
 https://news.ycombinator.com/item?id=40539172
 
 https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql
