@@ -401,6 +401,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://openai.com/index/sora-is-here/
+> https://news.ycombinator.com/item?id=42368604
+
 https://nightshade.cs.uchicago.edu/whatis.html An offensive tool for artists against AI art generators
 > https://news.ycombinator.com/item?id=39058428
 

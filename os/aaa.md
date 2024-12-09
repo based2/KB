@@ -28,6 +28,9 @@ https://louis-dr.github.io/ternalu3.html
 
 https://news.ycombinator.com/item?id=41201922
 
+https://www.ternary-computing.com/history/CPU-History.html
+> https://news.ycombinator.com/item?id=42368872
+
 # News
 https://news.ycombinator.com/item?id=42331270
 

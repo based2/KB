@@ -1,3 +1,5 @@
+https://www.theregister.com/2024/12/08/chinese_insiders_stealing_data/?td=keepreading
+
 https://www.troyhunt.com/pwned-the-book-is-now-available-for-free/
 
 https://news.ycombinator.com/item?id=42357816

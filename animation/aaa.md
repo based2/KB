@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://wattenberger.com/thoughts/fish-eye
+
 https://ambient.garden/
 
 https://blog.frost.kiwi/analytical-anti-aliasing/

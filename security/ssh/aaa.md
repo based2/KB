@@ -182,6 +182,8 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://news.ycombinator.com/item?id=42365772
+
 https://news.ycombinator.com/item?id=42251958
 
 https://www.openssh.com/releasenotes.html#9.9

@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://rustylife.github.io/2024/11/24/io_uring.html
+
 https://calabro.io/dwarf
 
 https://news.ycombinator.com/item?id=41284235

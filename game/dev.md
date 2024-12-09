@@ -168,6 +168,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://30fps.net/pages/pixelart-scaling/
+> https://news.ycombinator.com/item?id=42304020
+
 https://news.ycombinator.com/item?id=42319798
 
 https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/

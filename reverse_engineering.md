@@ -59,6 +59,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=42363374
+
 https://news.ycombinator.com/item?id=42353907
 
 https://news.ycombinator.com/item?id=42294716

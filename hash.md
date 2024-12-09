@@ -132,6 +132,9 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://github.com/e-dant/salmagundi small, portable, linear probing hash map
+> https://news.ycombinator.com/item?id=42359949
+
 https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/
 
 https://news.ycombinator.com/item?id=41761873

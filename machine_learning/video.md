@@ -43,6 +43,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://yformer.github.io/efficient-track-anything/
+> https://news.ycombinator.com/item?id=42304789
+
 https://news.ycombinator.com/item?id=42342038
 
 https://yangchris11.github.io/samurai/ Adapting Segment Anything Model for Zero-Shot Visual Tracking
