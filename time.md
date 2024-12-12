@@ -267,6 +267,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://news.ycombinator.com/item?id=42364372
+
 https://phys.org/news/2024-10-jet-lag-scientists-secret-body.html
 
 https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/

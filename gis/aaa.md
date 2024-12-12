@@ -245,6 +245,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.oldmapsonline.org/en/history/regions
+> https://news.ycombinator.com/item?id=42397550
+
 https://news.ycombinator.com/item?id=42343121
 
 https://news.ycombinator.com/item?id=41981886

@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://sysdig.com/blog/bedrock-slip-sysdig-trt-discovers-cloudtrail-logging-missteps/
+> https://sysdig.com/blog/llmjacking-stolen-cloud-credentials-used-in-new-ai-attack/
+
 https://unit42.paloaltonetworks.com/shinyhunters-ransomware-extortion/
 
 https://permiso.io/blog/exploiting-hosted-models

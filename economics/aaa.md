@@ -24,7 +24,12 @@ https://en.wikipedia.org/wiki/Ideal_money
 
 https://wid.world/
 
+https://quantus.finance/
+> https://news.ycombinator.com/item?id=42398471
+
 # Bank
+https://news.ycombinator.com/item?id=42399145
+
 https://news.ycombinator.com/item?id=41666833
 
 https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud starling

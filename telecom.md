@@ -146,6 +146,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=42391203
+
 https://www.wsj.com/politics/national-security/dozens-of-countries-hit-in-chinese-telecom-hacking-campaign-top-u-s-official-says-2a3a5cca
 
 https://news.ycombinator.com/item?id=42177543
@@ -283,6 +285,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=42390344
+
 https://news.ycombinator.com/item?id=41756023
 
 https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/

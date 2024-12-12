@@ -172,6 +172,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it
+> https://news.ycombinator.com/item?id=42397781
+
 https://news.ycombinator.com/item?id=42311069
 
 https://news.ycombinator.com/item?id=42315946

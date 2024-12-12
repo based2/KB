@@ -537,6 +537,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=42388665
+
+https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html
+
 https://cafkafk.dev/p/eurorust-2024-helsing/
 > https://news.ycombinator.com/item?id=42301580
 

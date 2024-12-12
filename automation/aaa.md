@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://news.ycombinator.com/item?id=42401976
+
 https://sst.dev/
 > https://sst.dev/blog/container-support/
 > > https://news.ycombinator.com/item?id=42105797

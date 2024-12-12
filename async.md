@@ -59,7 +59,9 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 https://danp.net/posts/synctest-experiment/
 
 #
-https://jeremycarterau.substack.com/p/thinking-in-actors-part-2?r=ma4m&utm_campaign=post&utm_medium=web&triedRedirect=true
+https://news.ycombinator.com/item?id=42392267
+
+https://jeremycarterau.substack.com/p/thinking-in-actors-part-2
 
 https://thomascothran.tech/2024/10/a-new-paradigm/ Bthreads: A Simple and Easy Paradigm for Clojure
 > https://news.ycombinator.com/item?id=42060215

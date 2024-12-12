@@ -104,6 +104,11 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://sysdig.com/blog/kubernetes-1-32-whats-new/
+
+https://kubespec.dev/
+> https://news.ycombinator.com/item?id=42399701
+
 https://bilbof.com/posts/kubernetes-on-hetzner
 > https://news.ycombinator.com/item?id=42288956
 

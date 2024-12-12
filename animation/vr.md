@@ -1,3 +1,6 @@
+https://blog.google/products/android/android-xr/
+> https://news.ycombinator.com/item?id=42400556
+
 https://www.lynx-r.com/
 
 https://news.ycombinator.com/item?id=41649983

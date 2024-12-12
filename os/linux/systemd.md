@@ -86,3 +86,5 @@ https://uyha.github.io/technical/dbus-systemd.html
 > https://news.ycombinator.com/item?id=40496894
 
 https://news.ycombinator.com/item?id=41175105
+
+https://rachelbythebay.com/w/2024/12/11/socket/

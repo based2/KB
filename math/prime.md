@@ -44,3 +44,5 @@ https://news.ycombinator.com/item?id=41126944
 https://old.reddit.com/r/crypto/comments/1f909hl/encryption_question/
 
 https://news.ycombinator.com/item?id=41953063
+
+https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/

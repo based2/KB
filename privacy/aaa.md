@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://news.ycombinator.com/item?id=42400935
+
 https://www.wired.com/video/watch/we-tracked-every-visitor-to-epstein-island
 
 https://news.ycombinator.com/item?id=42192237

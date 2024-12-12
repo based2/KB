@@ -318,6 +318,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=42379974
+
 https://news.ycombinator.com/item?id=42360415
 
 https://jeremycarterau.substack.com/p/thinking-in-actors-part-1
