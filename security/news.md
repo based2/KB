@@ -1,3 +1,5 @@
+https://labs.ripe.net/author/christer-weinigel/implementing-network-time-security-at-the-hardware-level/
+
 https://trufflesecurity.com/blog/postman-carries-lots-of-secrets
 
 https://www.theregister.com/2024/12/08/chinese_insiders_stealing_data/?td=keepreading

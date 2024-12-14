@@ -19,6 +19,9 @@ https://tabula.technology/
 > https://news.ycombinator.com/item?id=30475784
 > > https://excalibur-py.readthedocs.io/en/master/
 
+# Sec
+https://news.ycombinator.com/item?id=42401904
+
 # I
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
 

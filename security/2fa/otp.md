@@ -22,6 +22,8 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass
+
 https://old.reddit.com/r/crypto/comments/1f8e2q7/eucleak_side_channel_found_in_infineon_secure/
 
 https://www.bleepingcomputer.com/news/security/new-eucleak-attack-lets-threat-actors-clone-yubikey-fido-keys/

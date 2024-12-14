@@ -316,6 +316,8 @@ https://news.ycombinator.com/item?id=42250773
 https://news.ycombinator.com/item?id=42286395
 
 # News
+https://news.ycombinator.com/item?id=42412360
+
 https://countless.dev/ compare every AI model: LLMs, TTSs, STTs
 > https://news.ycombinator.com/item?id=42348513
 

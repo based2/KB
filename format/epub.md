@@ -26,3 +26,5 @@ https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml
 https://github.com/nimish-ks/zippy
 
 https://news.ycombinator.com/item?id=41326179
+
+https://news.ycombinator.com/item?id=42411727

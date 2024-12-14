@@ -1,3 +1,5 @@
+https://old.reddit.com/r/netsec/comments/1hc6atd/far_from_random_three_mistakes_from_dartflutters/
+
 https://www.zellic.io/blog/gnark-bug-groth16-commitments/
 
 https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/

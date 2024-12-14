@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://www.theregister.com/2024/12/12/apple_ai_chip_broadcom/
+
 https://news.ycombinator.com/item?id=42294737
 
 https://news.ycombinator.com/item?id=42156516

@@ -21,6 +21,9 @@ https://support.google.com/faqs/answer/174717?visit_id=638250244340915711-488332
 https://github.com/MISP/misp-warninglists
 
 # IPv6
+https://labs.ripe.net/author/hisham_ibrahim/schrodingers-ipv6-cat/
+> https://news.ycombinator.com/item?id=42387475
+
 https://news.ycombinator.com/item?id=32894168
 
 https://www.potaroo.net/ispcol/2021-04/v6frag.html

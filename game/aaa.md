@@ -46,6 +46,9 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://blog.langworth.com/imposter-attack
+> https://news.ycombinator.com/item?id=42410229
+
 https://news.ycombinator.com/item?id=42318673
 
 https://www.oranlooney.com/post/genji-ko/
