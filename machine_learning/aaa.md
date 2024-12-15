@@ -615,6 +615,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/
+> https://news.ycombinator.com/item?id=42412360
+
 https://news.ycombinator.com/item?id=42342697
 
 https://news.ycombinator.com/item?id=42329879

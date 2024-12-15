@@ -60,6 +60,8 @@ https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
 https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-1851476460?utm_source=vip
 
 # News
+https://qualiacomputing.com/2024/11/29/on-attention-as-the-management-of-electromagnetic-field-lines/
+
 https://www.vice.com/en/article/giant-cyborg-cockroaches-could-soon-lead-search-and-rescue-missions/
 
 https://news.ycombinator.com/item?id=42323880

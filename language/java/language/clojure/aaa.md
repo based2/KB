@@ -97,6 +97,9 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html
+> https://news.ycombinator.com/item?id=42398230
+
 https://news.ycombinator.com/item?id=41460037
 
 https://news.ycombinator.com/item?id=41420681

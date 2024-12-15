@@ -315,6 +315,9 @@ https://news.ycombinator.com/item?id=42250773
 
 https://news.ycombinator.com/item?id=42286395
 
+https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/
+> https://news.ycombinator.com/item?id=42415122
+
 # News
 https://news.ycombinator.com/item?id=42412360
 

@@ -60,5 +60,6 @@ https://news.ycombinator.com/item?id=41661159
 https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck
 > https://news.ycombinator.com/item?id=41767644
 
+https://news.ycombinator.com/item?id=42415637
 
 

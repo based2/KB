@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=42417330
+
 https://news.ycombinator.com/item?id=42295792
 
 https://openai.com/index/introducing-chatgpt-search/

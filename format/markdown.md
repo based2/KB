@@ -111,3 +111,5 @@ https://news.ycombinator.com/item?id=41407993
 https://news.ycombinator.com/item?id=42102262 mdbook
 
 https://news.ycombinator.com/item?id=42289690 timelines
+
+https://news.ycombinator.com/item?id=42410803 Python tool for converting files and office documents to Markdown
