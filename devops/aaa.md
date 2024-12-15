@@ -120,6 +120,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/
+
+https://news.ycombinator.com/item?id=42363102
+
 https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection
 > https://news.ycombinator.com/item?id=42356345
 

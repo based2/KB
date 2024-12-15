@@ -319,6 +319,11 @@ https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-
 > https://news.ycombinator.com/item?id=42415122
 
 # News
+https://www.souzatharsis.com/tamingLLMs/markdown/toc.html
+> https://news.ycombinator.com/item?id=42404202
+
+https://news.ycombinator.com/item?id=42405323
+
 https://news.ycombinator.com/item?id=42412360
 
 https://countless.dev/ compare every AI model: LLMs, TTSs, STTs

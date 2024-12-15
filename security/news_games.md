@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://blog.xlab.qianxin.com/more_ddos_details_on_steam_en/
+
 https://research.checkpoint.com/2024/gaming-engines-an-undetected-playground-for-malware-loaders/
 > https://www.bleepingcomputer.com/news/security/new-godloader-malware-infects-thousands-of-gamers-using-godot-scripts/
 

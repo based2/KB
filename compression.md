@@ -44,6 +44,8 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://news.ycombinator.com/item?id=42372565 Fixing the Loading in Myst IV: Revelation
+
 https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd
 
 https://news.ycombinator.com/item?id=41640388

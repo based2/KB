@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://www.tomshardware.com/pc-components/cooling/a-new-pcb-design-can-boost-heat-dissipation-by-55x-copper-coins-placed-under-heat-generating-components-drop-temps-drastically
+
 https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering for Improved Parallelism
 > https://news.ycombinator.com/item?id=42347780
 

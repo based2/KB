@@ -184,6 +184,8 @@ https://github.com/bjesus/pipet
 
 https://news.ycombinator.com/item?id=41764670
 
+https://news.ycombinator.com/item?id=42386971
+
 ## ML
 https://news.ycombinator.com/item?id=41268759
 

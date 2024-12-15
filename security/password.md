@@ -26,6 +26,8 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 #
+https://news.ycombinator.com/item?id=42413539
+
 https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html
 > https://news.ycombinator.com/item?id=41678840
 

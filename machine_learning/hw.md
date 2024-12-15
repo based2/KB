@@ -7,6 +7,13 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=42421477
+
+https://news.ycombinator.com/item?id=42421157
+
+https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga
+> https://news.ycombinator.com/item?id=42388901
+
 https://www.theregister.com/2024/12/12/apple_ai_chip_broadcom/
 
 https://news.ycombinator.com/item?id=42294737

@@ -245,6 +245,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/
+> https://news.ycombinator.com/item?id=42411687
+
 https://www.oldmapsonline.org/en/history/regions
 > https://news.ycombinator.com/item?id=42397550
 

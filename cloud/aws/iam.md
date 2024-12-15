@@ -32,6 +32,8 @@ https://twitter.com/mamip_aws
 
 https://github.com/Netflix-Skunkworks/policyuniverse Python classes to parse AWS IAM and Resource Policies
 
+https://www.elastic.co/security-labs/exploring-aws-sts-assumeroot
+
 # Secrets
 https://aws.amazon.com/en/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 

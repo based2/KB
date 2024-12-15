@@ -152,6 +152,8 @@ https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-comp
 
 https://www.golem.cloud/post/exploring-the-potential-of-stonebreaker-s-new-dbos
 
+https://github.com/vercel/fun
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 

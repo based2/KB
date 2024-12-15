@@ -105,6 +105,9 @@ https://www.formance.com/blog/engineering/color-of-money
 > https://news.ycombinator.com/item?id=42280641
 
 ## Trading
+https://elmwealth.com/crystal-ball/
+> https://news.ycombinator.com/item?id=42422077
+
 https://news.ycombinator.com/item?id=41730612
 
 https://news.ycombinator.com/item?id=41465735

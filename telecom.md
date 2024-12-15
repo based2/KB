@@ -285,6 +285,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.theregister.com/2024/12/14/mpls_traceroute_history/
+
 https://news.ycombinator.com/item?id=42390344
 
 https://news.ycombinator.com/item?id=41756023

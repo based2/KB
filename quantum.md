@@ -103,6 +103,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=42384768
+
 https://blog.google/technology/research/google-willow-quantum-chip/
 > https://news.ycombinator.com/item?id=42367649
 

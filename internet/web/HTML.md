@@ -163,6 +163,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=42413845
+
 https://news.ycombinator.com/item?id=42408819
 
 https://htmhell.dev/adventcalendar/2024/7/ Almost, but not quite, entirely unlike...

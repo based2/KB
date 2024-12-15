@@ -430,6 +430,8 @@ https://www.computer.org/csdl/proceedings-article/sp/2024/313000a221/1WPcYLpYFHy
 
 https://news.ycombinator.com/item?id=41519502
 
+https://news.ycombinator.com/item?id=42404447
+
 # Incident
 https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/
 > https://news.ycombinator.com/item?id=42351722

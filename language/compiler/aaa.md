@@ -155,6 +155,10 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://news.ycombinator.com/item?id=42405357
+
+https://news.ycombinator.com/item?id=42372617
+
 https://news.ycombinator.com/item?id=42387013
 
 https://arxiv.org/abs/2411.11469 Deegen: A JIT-Capable VM Generator for Dynamic Languages

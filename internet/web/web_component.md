@@ -73,3 +73,5 @@ https://news.ycombinator.com/item?id=41644099
 https://news.ycombinator.com/item?id=41686722
 
 https://lobste.rs/s/1jj1er/web_components_are_not_future
+
+https://news.ycombinator.com/item?id=42415298

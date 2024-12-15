@@ -111,6 +111,7 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+
 https://www.phoronix.com/news/KDE-New-Features-December-2024
 
 https://news.ycombinator.com/item?id=41758693

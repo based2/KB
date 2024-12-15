@@ -504,6 +504,8 @@ https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/
 
 https://www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/
 
+https://news.ycombinator.com/item?id=42418985
+
 https://news.ycombinator.com/item?id=41386667 hdmi amd oss
 
 https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/
