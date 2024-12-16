@@ -53,6 +53,8 @@ https://news.ycombinator.com/item?id=39706004
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://webkit.org/blog/16301/webkit-features-in-safari-18-2/
+
 https://news.ycombinator.com/item?id=42356668
 
 https://news.ycombinator.com/item?id=42354691

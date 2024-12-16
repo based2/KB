@@ -369,6 +369,8 @@ https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/ C
 https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html
 > https://news.ycombinator.com/item?id=39263736
 
+https://github.com/duchess-rs/duchess java
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799
