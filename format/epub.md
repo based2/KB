@@ -28,3 +28,6 @@ https://github.com/nimish-ks/zippy
 https://news.ycombinator.com/item?id=41326179
 
 https://news.ycombinator.com/item?id=42411727
+
+https://github.com/rafael1mc/epub-tts
+> https://news.ycombinator.com/item?id=42487674

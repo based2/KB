@@ -78,3 +78,6 @@ https://github.com/altera-al/project-sid
 > https://news.ycombinator.com/item?id=42035319
 
 https://news.ycombinator.com/item?id=42286397
+
+https://www.anthropic.com/research/building-effective-agents
+> https://news.ycombinator.com/item?id=42470541

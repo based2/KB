@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/
+> https://news.ycombinator.com/item?id=42465535
+
 https://news.ycombinator.com/item?id=42289324
 
 https://news.ycombinator.com/item?id=41741546

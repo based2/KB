@@ -1,3 +1,12 @@
+https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/ windows CanonCaches
+
+https://sy1.sh/posts/2024-19-12-investigation-on-scams/
+
+https://cert.pl/en/posts/2024/12/Ad-fraud-on-large-online-platforms/
+> https://news.ycombinator.com/item?id=42493411
+
+https://news.ycombinator.com/item?id=42453939
+
 https://labs.ripe.net/author/christer-weinigel/implementing-network-time-security-at-the-hardware-level/
 
 https://trufflesecurity.com/blog/postman-carries-lots-of-secrets

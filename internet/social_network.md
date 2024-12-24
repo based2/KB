@@ -171,6 +171,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://twtxt.readthedocs.io/en/latest/index.html
+> https://news.ycombinator.com/item?id=42488983
+
+https://news.ycombinator.com/item?id=42461530
+
 https://news.ycombinator.com/item?id=42271266
 
 https://news.ycombinator.com/item?id=42268580

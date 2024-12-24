@@ -7,6 +7,9 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/
+> https://news.ycombinator.com/item?id=42489844
+
 https://news.ycombinator.com/item?id=42421477
 
 https://news.ycombinator.com/item?id=42421157

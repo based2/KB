@@ -197,6 +197,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=42461964
+
 https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/
 
 https://news.ycombinator.com/item?id=41876741

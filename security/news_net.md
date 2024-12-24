@@ -38,6 +38,12 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
 #
+https://www.bleepingcomputer.com/news/security/beyondtrust-says-hackers-breached-remote-support-saas-instances/
+
+https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortiwlm-bug-giving-hackers-admin-privileges/
+
+https://www.bleepingcomputer.com/news/security/juniper-warns-of-mirai-botnet-scanning-for-session-smart-routers/
+
 https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds
 
 https://news.ycombinator.com/item?id=42249790

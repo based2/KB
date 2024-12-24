@@ -130,6 +130,8 @@ https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-i
 https://news.ycombinator.com/item?id=41695840
 
 # News
+https://news.ycombinator.com/item?id=42462348
+
 https://news.ycombinator.com/item?id=42281193
 
 https://news.ycombinator.com/item?id=42295491

@@ -60,3 +60,5 @@ https://developer.chrome.com/blog/next-for-webgpu
 > https://news.ycombinator.com/item?id=42209272
 
 https://news.ycombinator.com/item?id=42416230
+
+https://news.ycombinator.com/item?id=42463525

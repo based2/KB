@@ -21,6 +21,8 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/spyware-distributed-through-amazon-appstore/
+
 https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/
 
 https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/

@@ -76,6 +76,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://github.com/apache/cloudberry
+> https://news.ycombinator.com/item?id=42460748
+
 https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html
 > https://news.ycombinator.com/item?id=42293937
 

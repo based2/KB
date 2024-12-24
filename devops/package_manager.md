@@ -96,6 +96,14 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://www.sonatype.com/blog/exploit-creator-selling-250-reserved-npm-packages-via-telegram
+
+https://www.sonatype.com/blog/npm-packages-rspack-vant-compromised-blocked-by-sonatype
+
+https://www.sonatype.com/blog/cors-parser-npm-package-hides-cross-platform-backdoor-in-png-files
+
+https://www.bleepingcomputer.com/news/security/malicious-rspack-vant-packages-published-using-stolen-npm-tokens/
+
 https://news.ycombinator.com/item?id=42358909
 
 https://news.ycombinator.com/item?id=40658928
@@ -146,6 +154,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://pyherald.com/articles/16_12_2024/ Conda: A package management disaster?
+> https://news.ycombinator.com/item?id=42428290
+
 https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/
 > https://news.ycombinator.com/item?id=42253697
 

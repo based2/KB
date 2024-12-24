@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42441502
+
 https://blog.google/products/android/android-xr/
 > https://news.ycombinator.com/item?id=42400556
 

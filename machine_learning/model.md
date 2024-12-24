@@ -319,6 +319,23 @@ https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-
 > https://news.ycombinator.com/item?id=42415122
 
 # News
+https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
+> https://news.ycombinator.com/item?id=42495936
+
+https://directory.llmstxt.cloud/
+> https://news.ycombinator.com/item?id=42496265
+
+https://news.ycombinator.com/item?id=42488853 token
+
+https://arcprize.org/blog/oai-o3-pub-breakthrough
+> https://news.ycombinator.com/item?id=42473321
+
+https://news.ycombinator.com/item?id=42458752
+
+https://github.com/huggingface/search-and-learn  Open source inference time compute example from HuggingFace
+> https://news.ycombinator.com/item?id=42435127
+> > https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute
+
 https://www.souzatharsis.com/tamingLLMs/markdown/toc.html
 > https://news.ycombinator.com/item?id=42404202
 

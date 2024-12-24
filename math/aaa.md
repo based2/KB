@@ -189,7 +189,11 @@ https://news.ycombinator.com/item?id=41808683
 
 https://news.ycombinator.com/item?id=42373805
 
+https://news.ycombinator.com/item?id=42493464
+
 # News
+https://news.ycombinator.com/item?id=42465907
+
 https://news.ycombinator.com/item?id=42358050
 
 https://news.ycombinator.com/item?id=42399397

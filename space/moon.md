@@ -1,3 +1,6 @@
+https://ciechanow.ski/moon/
+> https://news.ycombinator.com/item?id=42443229
+
 https://en.wikipedia.org/wiki/Helium-3
 
 https://en.wikipedia.org/wiki/Regolith

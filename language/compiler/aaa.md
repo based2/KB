@@ -147,14 +147,14 @@ https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592
 
-# GPU
-https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
-> https://news.ycombinator.com/item?id=28728138
-
 # JIT
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://news.ycombinator.com/item?id=42484911
+
+https://news.ycombinator.com/item?id=42474458
+
 https://news.ycombinator.com/item?id=42405357
 
 https://news.ycombinator.com/item?id=42372617

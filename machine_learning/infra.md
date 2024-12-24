@@ -71,12 +71,16 @@ https://news.ycombinator.com/item?id=41968366
 
 https://news.ycombinator.com/item?id=42174829
 
+https://news.ycombinator.com/item?id=42485113
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
 https://news.ycombinator.com/item?id=40921038
 
-#
+# News
+https://news.ycombinator.com/item?id=42451409
+
 https://news.ycombinator.com/item?id=42346344
 
 https://news.ycombinator.com/item?id=42381139

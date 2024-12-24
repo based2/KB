@@ -386,6 +386,11 @@ https://en.wikipedia.org/wiki/MORE_(application)
 https://news.ycombinator.com/item?id=41353835
 
 # News
+https://codemic.io/
+> https://news.ycombinator.com/item?id=42485088
+
+https://news.ycombinator.com/item?id=42447012
+
 https://news.ycombinator.com/item?id=42405249
 
 https://news.ycombinator.com/item?id=42033432

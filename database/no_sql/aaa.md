@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42485499
+
 https://slatedb.io/
 > https://news.ycombinator.com/item?id=41714858
 

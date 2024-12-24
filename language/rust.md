@@ -371,6 +371,9 @@ https://security.googleblog.com/2024/02/improving-interoperability-between-rust-
 
 https://github.com/duchess-rs/duchess java
 
+https://arxiv.org/abs/2412.15042 Compiling C to Safe Rust, Formalized
+> https://news.ycombinator.com/item?id=42476192
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799

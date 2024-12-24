@@ -1,3 +1,6 @@
+https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
+> https://news.ycombinator.com/item?id=28728138
+
 https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/
 > https://news.ycombinator.com/item?id=27893678
 

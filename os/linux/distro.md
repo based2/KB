@@ -98,6 +98,10 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://serpentos.com/about/
+
+https://www.theregister.com/2024/12/20/fedora_asahi_41_out/
+
 https://www.theregister.com/2024/12/13/rhel_almalinux_betas/
 
 https://www.hyperbola.info/

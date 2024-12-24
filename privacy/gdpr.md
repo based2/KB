@@ -78,6 +78,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://thehackernews.com/2024/12/italy-fines-openai-15-million-for.html
+
 https://news.ycombinator.com/item?id=40246171
 
 https://news.ycombinator.com/item?id=39286390

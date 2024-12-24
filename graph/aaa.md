@@ -126,6 +126,8 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://news.ycombinator.com/item?id=42469560
+
 https://github.com/Orange-OpenSource/metamorphosed
 
 https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf Sortledton: a Universal, Transactional Graph Data Structure

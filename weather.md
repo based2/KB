@@ -35,6 +35,8 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://news.ycombinator.com/item?id=42467449
+
 https://news.ycombinator.com/item?id=41152198
 
 https://www.weather.gov/iln/cwop
