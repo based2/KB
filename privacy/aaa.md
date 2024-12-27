@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://www.heise.de/news/Buergerrechtler-Digitale-Reisepaesse-ermoeglichen-biometrische-Massenueberwachung-10219742.html
+
 https://news.ycombinator.com/item?id=42449823
 
 https://news.ycombinator.com/item?id=42419469

@@ -62,3 +62,6 @@ https://developer.chrome.com/blog/next-for-webgpu
 https://news.ycombinator.com/item?id=42416230
 
 https://news.ycombinator.com/item?id=42463525
+
+https://github.com/lisyarus/webgpu-raytracer
+> https://news.ycombinator.com/item?id=42516433

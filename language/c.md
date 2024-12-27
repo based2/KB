@@ -73,6 +73,10 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
+# sec
+https://github.com/yugr/sortcheck
+> https://lobste.rs/s/h6fmdw/sortcheck_tool_for_detecting_violations
+
 # c object
 https://news.ycombinator.com/item?id=38708010
 

@@ -95,6 +95,8 @@ https://news.ycombinator.com/item?id=40707880
 
 https://news.ycombinator.com/item?id=40693984
 
+https://news.ycombinator.com/item?id=42493544
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

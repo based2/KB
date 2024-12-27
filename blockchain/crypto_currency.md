@@ -29,6 +29,9 @@ https://news.ycombinator.com/item?id=31366660
 # History
 https://cryptosec.info/exchange-hacks/
 
+# I
+https://www.bleepingcomputer.com/news/security/fbi-links-north-korean-hackers-to-308-million-crypto-heist/
+
 # News
 https://www.bleepingcomputer.com/news/security/nebraska-man-pleads-guilty-to-35-million-cryptojacking-scheme/
 

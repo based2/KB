@@ -10,6 +10,8 @@ https://social.lol/@robb/111704215593992932
 > https://news.ycombinator.com/item?id=38880713
 
 #
+https://news.ycombinator.com/item?id=42498514
+
 https://lobste.rs/s/cwybnx/lobelia_url_state_codecs_for_encoding
 
 https://technicalwriting.dev/www/pdf.html

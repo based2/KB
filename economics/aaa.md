@@ -28,6 +28,8 @@ https://quantus.finance/
 > https://news.ycombinator.com/item?id=42398471
 
 # Bank
+https://apnews.com/article/japan-bank-deposit-box-theft-253a554e7137918a92cf8ee6ca408338
+
 https://news.ycombinator.com/item?id=42399145
 
 https://news.ycombinator.com/item?id=41666833

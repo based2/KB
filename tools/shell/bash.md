@@ -79,6 +79,9 @@ https://news.ycombinator.com/item?id=39568728
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://github.com/izabera/pseudo3d
+> https://news.ycombinator.com/item?id=42475703
+
 https://news.ycombinator.com/item?id=40222213
 > https://github.com/LorenDB/neofetch
 

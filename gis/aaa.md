@@ -244,7 +244,15 @@ https://en.wikipedia.org/wiki/PostGIS
 # Mobile app
 https://organicmaps.app/
 
+# ML
+https://godview.ai/
+> https://news.ycombinator.com/item?id=42519562
+
 # News
+https://twitter.com/spatiallyjess/status/1871342549958537326
+> https://news.ycombinator.com/item?id=42501102
+> > https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/
+
 https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/
 > https://news.ycombinator.com/item?id=42411687
 

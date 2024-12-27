@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/
+> https://news.ycombinator.com/item?id=42471304
+
 https://news.ycombinator.com/item?id=42182519
 
 https://news.ycombinator.com/item?id=41408738

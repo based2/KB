@@ -96,6 +96,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code
+
 https://www.sonatype.com/blog/exploit-creator-selling-250-reserved-npm-packages-via-telegram
 
 https://www.sonatype.com/blog/npm-packages-rspack-vant-compromised-blocked-by-sonatype

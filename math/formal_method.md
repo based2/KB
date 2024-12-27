@@ -67,6 +67,8 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+https://news.ycombinator.com/item?id=42508642
+
 https://news.ycombinator.com/item?id=41112103
 
 https://github.com/verus-lang/verus Verified Rust for low-level systems code

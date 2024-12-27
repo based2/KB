@@ -269,6 +269,14 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 > https://news.ycombinator.com/item?id=40550830
 
 # News
+https://pbat.ch/recurse/demos/trio/ singing synthesizer for the browser with automatic 3-part harmony
+> https://news.ycombinator.com/item?id=42513276
+
+https://github.com/blackcandy-org/blackcandy server stream ruby mit
+> https://news.ycombinator.com/item?id=42512896
+
+https://news.ycombinator.com/item?id=42464557
+
 https://news.ycombinator.com/item?id=42260179 Ask HN: Tools or frameworks to build music theory games
 
 https://news.ycombinator.com/item?id=41752081

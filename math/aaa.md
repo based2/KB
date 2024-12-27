@@ -192,6 +192,11 @@ https://news.ycombinator.com/item?id=42373805
 https://news.ycombinator.com/item?id=42493464
 
 # News
+https://news.ycombinator.com/item?id=42507185 topology
+
+https://win-vector.com/2024/12/19/kelly-cant-fail/
+> https://news.ycombinator.com/item?id=42466676
+
 https://news.ycombinator.com/item?id=42465907
 
 https://news.ycombinator.com/item?id=42358050

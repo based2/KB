@@ -56,6 +56,9 @@ https://news.ycombinator.com/item?id=35224439
 https://news.ycombinator.com/item?id=41328185
 
 #
+https://github.com/varkor/quiver Math Modern Commutative Diagram Editor
+> https://news.ycombinator.com/item?id=42520151
+
 https://news.ycombinator.com/item?id=42044771
 
 https://d2lang.com/

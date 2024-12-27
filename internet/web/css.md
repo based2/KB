@@ -147,6 +147,9 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 #
+https://www.nicbarker.com/clay UI Layout Library
+> https://news.ycombinator.com/item?id=42463123
+
 https://news.ycombinator.com/item?id=42225481
 > https://www.tyleo.com/html-glass.html
 

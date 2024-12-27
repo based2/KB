@@ -161,6 +161,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://lobste.rs/s/rirg56/maybe_it_shouldn_t_always_be_dns
+
 https://news.ycombinator.com/item?id=42457712
 
 https://news.ycombinator.com/item?id=42402079

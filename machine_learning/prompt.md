@@ -114,3 +114,5 @@ https://docs.anthropic.com/claude/prompt-library
 
 https://github.com/ListfulAl/gpl
 > https://news.ycombinator.com/item?id=41717546
+
+https://sebgnotes.com/blog/2024-12-26-prompt-chaining/

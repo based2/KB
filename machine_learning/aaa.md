@@ -361,7 +361,7 @@ https://news.ycombinator.com/item?id=42350768
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
-# sec
+# Security
 https://owasp.org/www-project-top-10-for-large-language-model-applications/
 > https://www.reddit.com/r/programming/comments/13yc9gw/owasp_is_creating_a_top_10_dangers_list_for_large/
 
@@ -432,7 +432,7 @@ https://news.ycombinator.com/item?id=41519502
 
 https://news.ycombinator.com/item?id=42404447
 
-# Incident
+# Incidents
 https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/
 > https://news.ycombinator.com/item?id=42351722
 
@@ -617,6 +617,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6 Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs
+> https://news.ycombinator.com/item?id=42517806
+
 https://gbragafibra.github.io/2024/12/21/collatz_ant.html
 > https://news.ycombinator.com/item?id=42479375
 

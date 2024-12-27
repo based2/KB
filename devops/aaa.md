@@ -127,6 +127,8 @@ https://news.ycombinator.com/item?id=42363102
 https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection
 > https://news.ycombinator.com/item?id=42356345
 
+https://vigilance.fr/vulnerabilite/Sonatype-Nexus-Repository-Manager-chiffrement-faible-via-Hard-coded-Encryption-Passphrase-45469
+
 https://news.ycombinator.com/item?id=42337548
 
 https://sysdig.com/blog/emeraldwhale/

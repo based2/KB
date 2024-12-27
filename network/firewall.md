@@ -88,6 +88,8 @@ https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-conte
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://www.akamai.com/blog/security-research/what-you-should-know-about-breakingwaf
+
 https://github.com/bunkerity/bunkerweb
 > https://news.ycombinator.com/item?id=42339856
 

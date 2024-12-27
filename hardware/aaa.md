@@ -117,6 +117,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough
+> https://news.ycombinator.com/item?id=42489239
+
 https://capibarazero.com/ cheap alternative to FlipperZero based on ESP32-S3
 > https://news.ycombinator.com/item?id=42296034
 

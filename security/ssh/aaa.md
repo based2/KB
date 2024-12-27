@@ -69,6 +69,9 @@ https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-wit
 
 https://www.starwindsoftware.com/blog/how-to-setup-multi-factor-authentication-for-ssh-in-linux
 
+https://github.com/skariel/keypub
+> https://news.ycombinator.com/item?id=42494997
+
 # SSH tunnels
 https://robotmoon.com/ssh-tunnels/
 > https://news.ycombinator.com/item?id=26053323

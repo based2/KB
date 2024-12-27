@@ -79,6 +79,9 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://philcalcado.com/2024/12/14/building-ai-products-part-i.html
+> https://news.ycombinator.com/item?id=42521241
+
 https://news.ycombinator.com/item?id=42451409
 
 https://news.ycombinator.com/item?id=42346344

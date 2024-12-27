@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://brennan.io/2015/01/16/write-a-shell-in-c/
+> https://news.ycombinator.com/item?id=42517303
+
 https://news.ycombinator.com/item?id=42346274
 
 https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts

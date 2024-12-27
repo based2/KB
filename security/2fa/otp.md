@@ -22,6 +22,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/
+> https://news.ycombinator.com/item?id=42450221
+
 https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass
 
 https://old.reddit.com/r/crypto/comments/1f8e2q7/eucleak_side_channel_found_in_infineon_secure/
@@ -66,6 +69,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://news.ycombinator.com/item?id=42472033
+
 https://igventurelli.io/advanced-oauth2-refresh-tokens-and-token-expiration-strategies/
 
 https://news.ycombinator.com/item?id=41118468

@@ -7,6 +7,11 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=42444088
+
+https://news.ycombinator.com/item?id=42498634
+> https://embeddedllm.com/blog/vllm-now-supports-running-gguf-on-amd-radeon-gpu
+
 https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/
 > https://news.ycombinator.com/item?id=42489844
 

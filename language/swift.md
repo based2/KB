@@ -1,3 +1,5 @@
+https://mjtsai.com/blog/2024/12/17/issues-adopting-swift-testing/
+
 https://news.ycombinator.com/item?id=40697992
 
 https://www.hackingwithswift.com/100/swiftui

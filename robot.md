@@ -18,6 +18,8 @@ https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-rive
 > https://news.ycombinator.com/item?id=36744135
 
 # Drone
+https://news.ycombinator.com/item?id=42498648
+
 https://newatlas.com/drones/solar-electrostatic-drone/
 
 https://news.ycombinator.com/item?id=40989075
@@ -118,6 +120,11 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue
+> https://news.ycombinator.com/item?id=42518072
+
+https://theanimatronicmenagerie.wordpress.com
+
 https://news.ycombinator.com/item?id=42451707
 
 https://news.ycombinator.com/item?id=42373996

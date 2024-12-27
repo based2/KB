@@ -145,7 +145,9 @@ https://www.dslreports.com/forum/wisp
 
 https://startyourownisp.com/
 
-# I
+# Incidents
+https://www.bleepingcomputer.com/news/security/ftc-orders-marriott-and-starwood-to-implement-strict-data-security/
+
 https://news.ycombinator.com/item?id=42391203
 
 https://www.wsj.com/politics/national-security/dozens-of-countries-hit-in-chinese-telecom-hacking-campaign-top-u-s-official-says-2a3a5cca
@@ -285,6 +287,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=42494256
+
 https://news.ycombinator.com/item?id=42445037
 
 https://www.theregister.com/2024/12/14/mpls_traceroute_history/

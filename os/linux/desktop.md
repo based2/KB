@@ -111,6 +111,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/
+
 https://www.theregister.com/2024/12/18/xfce_420_is_out/
 
 https://www.phoronix.com/news/KDE-New-Features-December-2024

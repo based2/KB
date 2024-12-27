@@ -313,6 +313,9 @@ https://github.com/IonicaBizau/node-cobol
 https://cobolworx.com/pages/cobforgcc.html
 > https://news.ycombinator.com/item?id=38276518
 
+https://github.com/meyfa/CobolCraft
+> https://news.ycombinator.com/item?id=42513022
+
 ## LISP
 http://www.paulgraham.com/bel.html
 
@@ -372,6 +375,15 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=42510696
+
+https://news.ycombinator.com/item?id=42517102
+> https://terralang.org/
+
+https://news.ycombinator.com/item?id=42493808
+
+https://news.ycombinator.com/item?id=42499599
+
 https://news.ycombinator.com/item?id=42476876
 
 https://news.ycombinator.com/item?id=42235401

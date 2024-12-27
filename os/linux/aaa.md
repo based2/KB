@@ -68,6 +68,8 @@ https://www.rauc.io/ Updates
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # ElF
+https://news.ycombinator.com/item?id=42516697
+
 https://github.com/ruslashev/elfcat
 > https://news.ycombinator.com/item?id=27590508
 

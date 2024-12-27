@@ -1,3 +1,10 @@
+https://www.bleepingcomputer.com/news/security/apache-warns-of-critical-flaws-in-mina-hugegraph-traffic-control/
+
+https://events.ccc.de/congress/2024/infos/index.html
+> https://news.ycombinator.com/item?id=42500475
+> > https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/
+> https://streaming.media.ccc.de/38c3
+
 https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/ windows CanonCaches
 
 https://sy1.sh/posts/2024-19-12-investigation-on-scams/

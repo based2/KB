@@ -335,7 +335,10 @@ https://supabase.com/blog/postgres-on-fly-by-supabase
 # ML
 https://news.ycombinator.com/item?id=41224286
 
-# Incident
+# Incidents
+https://jesipow.com/blog/postgres-reads-cause-writes/
+> https://news.ycombinator.com/item?id=42485505
+
 https://www.postgresql.org/about/news/postgresql-161-155-1410-1313-1217-and-1122-released-2749/
 
 https://www.postgresql.org/about/news/postgresql-154-149-1312-1216-1121-and-postgresql-16-beta-3-released-2689/

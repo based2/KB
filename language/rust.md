@@ -523,7 +523,9 @@ https://github.com/huggingface/candle
 https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
-# Incident
+# Incidents
+https://vigilance.fr/vulnerabilite/Rust-Tonic-deni-de-service-via-Server-Accept-Call-45461
+
 https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/ windows
 
 https://blog.phylum.io/rust-malware-staged-on-crates-io/
@@ -542,6 +544,19 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://borretti.me/article/implementing-sm2-in-rust
+
+https://news.ycombinator.com/item?id=42493027
+
+https://github.com/dtolnay/semver-trick
+> https://news.ycombinator.com/item?id=42517021
+
+https://diziet.dreamwidth.org/10559.html Debian's approach to Rust – Dependency handling (2022)
+> https://news.ycombinator.com/item?id=42503163
+
+https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html
+> https://news.ycombinator.com/item?id=42485536
+
 https://news.ycombinator.com/item?id=42388665
 
 https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html

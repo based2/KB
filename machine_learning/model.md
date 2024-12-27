@@ -319,6 +319,10 @@ https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-
 > https://news.ycombinator.com/item?id=42415122
 
 # News
+https://news.ycombinator.com/item?id=42493871
+
+https://news.ycombinator.com/item?id=42517113
+
 https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
 > https://news.ycombinator.com/item?id=42495936
 

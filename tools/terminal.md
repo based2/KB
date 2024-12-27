@@ -48,6 +48,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://ghostty.org/
+> https://news.ycombinator.com/item?id=42517447
+
 https://jvns.ca/blog/2024/11/26/terminal-rules/
 > https://news.ycombinator.com/item?id=42401011
 

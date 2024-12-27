@@ -20,7 +20,9 @@ https://azure.microsoft.com/en/updates/
 
 https://azure.microsoft.com/en/blog/topics/announcements/
 
-# Incident
+# Incidents
+https://news.ycombinator.com/item?id=42516991
+
 https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass
 
 https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/
