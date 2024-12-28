@@ -57,3 +57,5 @@ https://opensourcewatch.beehiiv.com/p/valkey-8-sets-a-new-bar-for-open-source-in
 
 https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/
 
+https://valkey.io/blog/2024-year-of-valkey/
+

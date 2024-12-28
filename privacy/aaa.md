@@ -110,6 +110,11 @@ SNCF: age date
 
 Olympic game: QR code
 
+# Incidents
+https://news.ycombinator.com/item?id=42523996
+> https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/
+> > https://news.ycombinator.com/item?id=42524422
+
 # News
 https://www.heise.de/news/Buergerrechtler-Digitale-Reisepaesse-ermoeglichen-biometrische-Massenueberwachung-10219742.html
 

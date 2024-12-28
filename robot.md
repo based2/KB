@@ -119,6 +119,8 @@ https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teach
 https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
+https://arxiv.org/abs/2412.10631
+
 # News
 https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue
 > https://news.ycombinator.com/item?id=42518072

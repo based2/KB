@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://ig.ft.com/climate-game/
+
 https://news.ycombinator.com/item?id=42424508
 
 https://news.ycombinator.com/item?id=42416258

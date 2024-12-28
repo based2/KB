@@ -3,6 +3,9 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 #
+https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675
+> https://news.ycombinator.com/item?id=42507145
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-hit-by-random-product-deactivation-errors/
 
 https://news.ycombinator.com/item?id=42354203

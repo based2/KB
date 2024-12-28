@@ -544,6 +544,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=42513331 certification
+
 https://borretti.me/article/implementing-sm2-in-rust
 
 https://news.ycombinator.com/item?id=42493027

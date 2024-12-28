@@ -129,7 +129,16 @@ https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-i
 
 https://news.ycombinator.com/item?id=41695840
 
+# Incidents
+https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets/
+> https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
+
 # News
+https://media.ccc.de/v/38c3-libobscura-cameras-are-difficult
+> https://news.ycombinator.com/item?id=42527256
+
+https://news.ycombinator.com/item?id=42506623 pixel
+
 https://news.ycombinator.com/item?id=42462348
 
 https://news.ycombinator.com/item?id=42281193

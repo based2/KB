@@ -18,6 +18,10 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://visitors-centre.jrc.ec.europa.eu/en/media/tools/photovoltaic-geographical-information-system
+
+https://koeln.ftp.media.ccc.de/congress/2024/h264-hd/38c3-715-eng-OpenPV_-_Calculate_the_solar_potential_of_your_building_hd.mp4
+
 https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/
 > https://news.ycombinator.com/item?id=42465535
 

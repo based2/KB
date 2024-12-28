@@ -146,6 +146,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # Incidents
+https://ftp.fau.de/cdn.media.ccc.de/congress/2024/h264-hd/38c3-150-eng-Breaking_NATO_Radio_Encryption.mp4
+
+https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/
+
 https://www.bleepingcomputer.com/news/security/ftc-orders-marriott-and-starwood-to-implement-strict-data-security/
 
 https://news.ycombinator.com/item?id=42391203
@@ -287,6 +291,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
+
 https://news.ycombinator.com/item?id=42494256
 
 https://news.ycombinator.com/item?id=42445037

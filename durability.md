@@ -83,6 +83,8 @@ https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer
 > https://news.ycombinator.com/item?id=37263827
 
 # News
+https://news.ycombinator.com/item?id=42525633
+
 https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/
 > https://news.ycombinator.com/item?id=42357115
 

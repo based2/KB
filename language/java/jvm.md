@@ -73,7 +73,7 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
 
 # News
-https://news.ycombinator.com/item?id=42251508
+https://news.ycombinator.com/item?id=42251508 arm
 
 https://news.ycombinator.com/item?id=41567720
 

@@ -617,6 +617,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist
+> https://news.ycombinator.com/item?id=42524568
+
 https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6 Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs
 > https://news.ycombinator.com/item?id=42517806
 

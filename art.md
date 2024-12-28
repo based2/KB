@@ -48,6 +48,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.smithsonianmag.com/smart-news/notre-dame-to-get-a-colorful-update-with-new-stained-glass-by-claire-tabouret-180985731/
+
 https://news.ycombinator.com/item?id=42290663
 
 https://news.ycombinator.com/item?id=41877513

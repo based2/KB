@@ -318,6 +318,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://fhur.me/posts/2024/thats-not-an-abstraction
+> https://news.ycombinator.com/item?id=42506984
+
 https://news.ycombinator.com/item?id=42379974
 
 https://news.ycombinator.com/item?id=42360415

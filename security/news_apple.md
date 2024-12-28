@@ -17,6 +17,13 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://lapcatsoftware.com/articles/2024/12/3.html
+> https://news.ycombinator.com/item?id=42533685
+
+https://moonlock.com/moonlock-2024-macos-threat-report
+
+https://media.ccc.de/v/38c3-breaking-the-mirror-a-look-at-apple-s-new-iphone-remote-control-feature
+
 https://news.ycombinator.com/item?id=42479014
 
 https://moonlock.com/moonlock-2024-macos-threat-report

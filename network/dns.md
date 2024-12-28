@@ -99,7 +99,7 @@ https://objective-see.org/products/utilities.html#DNSMonitor macos
 https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/
 > https://news.ycombinator.com/item?id=40254688
 
-# Incident
+# Incidents
 https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/
 > https://news.ycombinator.com/item?id=41510252
 
@@ -161,6 +161,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://linuxfr.org/news/netlibre-un-service-libre-et-un-nom-de-domaine-gratuit
+
 https://lobste.rs/s/rirg56/maybe_it_shouldn_t_always_be_dns
 
 https://news.ycombinator.com/item?id=42457712

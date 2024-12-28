@@ -46,7 +46,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 
 https://github.com/Place1/wg-access-server
 
-#
+# Incidents
+https://security.paloaltonetworks.com/CVE-2024-3393
+> https://www.bleepingcomputer.com/news/security/hackers-exploit-dos-flaw-to-disable-palo-alto-networks-firewalls/
+
 https://security.paloaltonetworks.com/PAN-SA-2024-0015
 > https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/
 

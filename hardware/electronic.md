@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols
+
 https://www.analog.com/en/resources/technical-books/nonlinear-circuits-handbook.html
 > https://news.ycombinator.com/item?id=42512368
 

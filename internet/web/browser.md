@@ -49,7 +49,9 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 
 https://news.ycombinator.com/item?id=39706004
 
-#
+# Incidents
+https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extension-hijacked-to-steal-users-data/
+
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News

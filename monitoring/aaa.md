@@ -92,7 +92,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 # Meta
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
-# Incident
+# Incidents
+https://www.aquasec.com/blog/300000-prometheus-servers-and-exporters-exposed-to-dos-attacks/ /debug/pprof Endpoints
+
 https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/
 
 https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213

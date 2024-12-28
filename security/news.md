@@ -1,9 +1,21 @@
+https://news.ycombinator.com/item?id=42530549
+
+https://googleprojectzero.blogspot.com/2020/02/mitigations-are-attack-surface-too.html
+
+https://www.pqconnect.net/ Automated Post-Quantum End-to-End Tunnels
+> https://news.ycombinator.com/item?id=42521905
+
+https://www.heise.de/news/38C3-Weitere-Sicherheitsmaengel-in-elektronischer-Patientenakte-fuer-alle-10220617.html
+
+https://news.ycombinator.com/item?id=42524174
+
 https://www.bleepingcomputer.com/news/security/apache-warns-of-critical-flaws-in-mina-hugegraph-traffic-control/
 
 https://events.ccc.de/congress/2024/infos/index.html
 > https://news.ycombinator.com/item?id=42500475
 > > https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/
 > https://streaming.media.ccc.de/38c3
+> https://cdn.media.ccc.de/congress/2024/h264-hd/
 
 https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/ windows CanonCaches
 

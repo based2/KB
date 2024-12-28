@@ -50,3 +50,5 @@ https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-
 > https://news.ycombinator.com/item?id=42206955
 
 https://old.reddit.com/r/netsec/comments/1h1hvru/crosssite_post_requests_without_a_contenttype/
+
+https://old.reddit.com/r/netsec/comments/1hhpel8/exploiting_reflected_input_via_the_range_header/

@@ -86,6 +86,8 @@ https://news.ycombinator.com/item?id=39163181
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://news.ycombinator.com/item?id=42526926
+
 http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html
 > https://news.ycombinator.com/item?id=40196333
 

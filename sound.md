@@ -201,6 +201,8 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://news.ycombinator.com/item?id=42526625
+
 https://news.ycombinator.com/item?id=41529844
 
 https://news.ycombinator.com/item?id=41321998

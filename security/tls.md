@@ -154,7 +154,7 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://github.com/torvalds/linux/blob/master/Documentation/networking/tls.txt
 > https://news.ycombinator.com/item?id=15164568
 
-# I
+# Incidents
 https://news.ycombinator.com/item?id=42004219
 
 https://news.ycombinator.com/item?id=41108465
@@ -197,6 +197,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=42527382
+
 https://news.ycombinator.com/item?id=42461964
 
 https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/

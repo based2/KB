@@ -318,7 +318,12 @@ https://news.ycombinator.com/item?id=42286395
 https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/
 > https://news.ycombinator.com/item?id=42415122
 
+https://arxiv.org/abs/2404.01332 Explaining Large Language Models Decisions Using Shapley Values
+> https://news.ycombinator.com/item?id=42527496
+
 # News
+https://www.numerama.com/tech/1872954-deepseek-la-chine-aurait-detrone-chatgpt-avec-10-fois-moins-dargent.html
+
 https://news.ycombinator.com/item?id=42493871
 
 https://news.ycombinator.com/item?id=42517113
