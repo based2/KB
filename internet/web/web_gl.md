@@ -83,3 +83,6 @@ https://news.ycombinator.com/item?id=41436338
 https://news.ycombinator.com/item?id=42108816
 
 https://news.ycombinator.com/item?id=42416230
+
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+> https://news.ycombinator.com/item?id=42537567

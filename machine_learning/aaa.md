@@ -617,6 +617,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://eu.mirror.ionos.com/projects/media.ccc.de/congress/2024/h264-hd/38c3-122-eng-Self_Models_of_Loving_Grace.mp4
+
 https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist
 > https://news.ycombinator.com/item?id=42524568
 

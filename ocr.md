@@ -101,6 +101,8 @@ https://news.ycombinator.com/item?id=41048194
 https://news.ycombinator.com/item?id=41203306
 
 # News
+https://github.com/JordiNeil/bad_posture
+
 https://news.ycombinator.com/item?id=42416731
 
 https://news.ycombinator.com/item?id=41741177

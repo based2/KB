@@ -35,6 +35,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=42516836
+
 https://www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/
 
 https://news.ycombinator.com/item?id=42357272

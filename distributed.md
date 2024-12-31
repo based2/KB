@@ -246,6 +246,8 @@ https://jepsen.io/analyses/datomic-pro-1.0.7075
 # concurrencyngs
 
 # News
+https://lwn.net/Articles/844224/ Introduction to lockless algorithms
+
 https://news.ycombinator.com/item?id=42518562
 
 https://thesecretlivesofdata.com/raft/

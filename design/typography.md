@@ -53,3 +53,6 @@ https://www.linyangchen.com/Typography-Fell-Types-font
 
 https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/
 > https://news.ycombinator.com/item?id=41245159
+
+https://badkeming.com/
+> https://news.ycombinator.com/item?id=42513288

@@ -47,6 +47,8 @@ https://news.ycombinator.com/item?id=40014724
 
 https://arxiv.org/abs/2411.11017
 
+https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor
+
 # News
 https://news.ycombinator.com/item?id=42256409
 

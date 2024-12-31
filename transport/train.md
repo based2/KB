@@ -30,6 +30,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # Incidents
+https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure#t=601
+
 https://streaming.media.ccc.de/37c3/relive/12142
 > https://news.ycombinator.com/item?id=38788360
 

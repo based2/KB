@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=42537665
+
 https://www.perplexity.ai/
 
 https://news.ycombinator.com/item?id=42532441

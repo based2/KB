@@ -322,6 +322,9 @@ https://arxiv.org/abs/2404.01332 Explaining Large Language Models Decisions Usin
 > https://news.ycombinator.com/item?id=42527496
 
 # News
+https://benkaiser.dev/can-llms-accurately-recall-the-bible/
+> https://news.ycombinator.com/item?id=42537332
+
 https://www.numerama.com/tech/1872954-deepseek-la-chine-aurait-detrone-chatgpt-avec-10-fois-moins-dargent.html
 
 https://news.ycombinator.com/item?id=42493871

@@ -291,6 +291,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants
+> https://news.ycombinator.com/item?id=42535622
+
 https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
 
 https://news.ycombinator.com/item?id=42494256

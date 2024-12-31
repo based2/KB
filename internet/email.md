@@ -208,7 +208,7 @@ https://news.ycombinator.com/item?id=30838564
 https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
-# i
+# Incidents
 https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/
 
 https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6?source=friends_link&sk=be24847e3c700e7ba99e158ac1deaf62
@@ -275,6 +275,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=42536750
+
 https://news.ycombinator.com/item?id=42357273
 
 https://news.ycombinator.com/item?id=42366025 cli

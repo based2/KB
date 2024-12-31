@@ -274,6 +274,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://old.reddit.com/r/worldnews/comments/1hlnl64/china_plans_record_411b_bond_issuance/
+
 https://news.ycombinator.com/item?id=42329925
 
 https://news.ycombinator.com/item?id=42243755
