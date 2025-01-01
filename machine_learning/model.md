@@ -322,6 +322,13 @@ https://arxiv.org/abs/2404.01332 Explaining Large Language Models Decisions Usin
 > https://news.ycombinator.com/item?id=42527496
 
 # News
+https://news.ycombinator.com/item?id=42560558
+
+https://orbitbymozilla.com/
+> https://news.ycombinator.com/item?id=42555440
+
+https://news.ycombinator.com/item?id=42555320
+
 https://benkaiser.dev/can-llms-accurately-recall-the-bible/
 > https://news.ycombinator.com/item?id=42537332
 

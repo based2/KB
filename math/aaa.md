@@ -195,6 +195,8 @@ https://www.ams.org/notices/202501/rnoti-p6.pdf Machine-Assisted Proof by Terenc
 > https://news.ycombinator.com/item?id=42529023
 
 # News
+https://news.ycombinator.com/item?id=42553682
+
 https://news.ycombinator.com/item?id=42515315
 
 https://news.ycombinator.com/item?id=42507185 topology

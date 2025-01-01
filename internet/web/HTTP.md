@@ -207,6 +207,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/
+> https://news.ycombinator.com/item?id=42548215
+
 https://news.ycombinator.com/item?id=41762468
 
 https://github.com/darrenburns/posting

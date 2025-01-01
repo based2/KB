@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://github.com/louis-e/arnis Generate cities in Minecraft from OpenStreetMap
+> https://news.ycombinator.com/item?id=42561711
+
 https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/
 > https://news.ycombinator.com/item?id=42471304
 

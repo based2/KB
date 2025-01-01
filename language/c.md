@@ -81,6 +81,8 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=42564861
+
 https://lucidar.me/en/c-class/learn-c-programming/
 > https://news.ycombinator.com/item?id=41415498
 

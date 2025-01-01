@@ -144,6 +144,9 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://media.ccc.de/v/38c3-a-fully-free-bios-with-gnu-boot
+> https://news.ycombinator.com/item?id=42565269
+
 https://gitlab.com/zephray/sitina1
 > https://news.ycombinator.com/item?id=41688018
 

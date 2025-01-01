@@ -69,6 +69,9 @@ https://www.nature.com/articles/s41592-024-02523-z Nucleotide Transformer: build
 > https://news.ycombinator.com/item?id=42291315
 
 # News
+https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system
+> https://news.ycombinator.com/item?id=42547489
+
 https://news.ycombinator.com/item?id=42515041
 
 https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned

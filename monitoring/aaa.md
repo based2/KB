@@ -124,6 +124,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://ankush.dev/p/flamegraph-missing-forest-for-trees
+
 https://news.ycombinator.com/item?id=42513809
 
 https://news.ycombinator.com/item?id=42489353

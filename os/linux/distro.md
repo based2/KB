@@ -98,6 +98,12 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd
+> https://news.ycombinator.com/item?id=42565265
+
+https://uapi-group.org/specifications/specs/boot_loader_specification/
+> https://github.com/serpent-os/blsforme
+
 https://t2sde.org/about.html
 
 https://serpentos.com/about/

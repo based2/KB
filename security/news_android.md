@@ -15,6 +15,8 @@ https://github.com/ax/apk.sh/releases
 
 https://blog.isosceles.com/the-legacy-of-stagefright/
 
+https://github.com/Divested-Mobile/Hypatia
+
 # IOC
 https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.adoc
 

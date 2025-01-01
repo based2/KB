@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://news.ycombinator.com/item?id=42532979
+
 https://documen.tician.de/pudb/
 
 https://news.ycombinator.com/item?id=42498982

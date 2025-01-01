@@ -3,6 +3,9 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 #
+https://noinitrd.github.io/Memory-Dump-UEFI/
+> https://news.ycombinator.com/item?id=42552227
+
 https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675
 > https://news.ycombinator.com/item?id=42507145
 

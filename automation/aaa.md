@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://apiparrot.com/ Automatically Reverse Engineer HTTP APIs
+> https://news.ycombinator.com/item?id=42565821
+
 https://devclass.com/2024/12/18/community-plans-to-fork-puppet-unhappy-with-perforce-changes-to-open-source-project/
 
 https://news.ycombinator.com/item?id=42401976

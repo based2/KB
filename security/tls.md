@@ -197,6 +197,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://github.com/lexiforest/curl-impersonate
+> https://news.ycombinator.com/item?id=42547820
+
 https://news.ycombinator.com/item?id=42527382
 
 https://news.ycombinator.com/item?id=42461964

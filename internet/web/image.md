@@ -103,6 +103,8 @@ https://pixspeed.com/
 > https://news.ycombinator.com/item?id=41990292
 
 # Photography
+https://news.ycombinator.com/item?id=42558037
+
 https://medium.com/@shacker/photography-contradictions-0566b7fce9fc
 > https://news.ycombinator.com/item?id=42284211
 

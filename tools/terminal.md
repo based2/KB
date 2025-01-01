@@ -48,6 +48,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/Benexl/yt-x
+> https://news.ycombinator.com/item?id=42551938
+
 https://ghostty.org/
 > https://news.ycombinator.com/item?id=42517447
 

@@ -108,6 +108,9 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://curiouscoding.nl/posts/static-search-tree/
+> https://news.ycombinator.com/item?id=42562847
+
 https://news.ycombinator.com/item?id=42537665
 
 https://www.perplexity.ai/

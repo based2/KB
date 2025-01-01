@@ -73,6 +73,8 @@ https://news.ycombinator.com/item?id=42174829
 
 https://news.ycombinator.com/item?id=42485113
 
+https://news.ycombinator.com/item?id=42545986
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

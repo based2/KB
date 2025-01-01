@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=42534918
+
+https://news.ycombinator.com/item?id=42557342
+
 https://news.ycombinator.com/item?id=42530549
 
 https://googleprojectzero.blogspot.com/2020/02/mitigations-are-attack-surface-too.html

@@ -50,6 +50,9 @@ https://arxiv.org/abs/2411.11017
 https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor
 
 # News
+https://dgl.cx/2024/12/ghostty-terminal-title
+> https://news.ycombinator.com/item?id=42562743
+
 https://news.ycombinator.com/item?id=42256409
 
 https://news.ycombinator.com/item?id=42270424
