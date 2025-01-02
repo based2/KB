@@ -50,6 +50,12 @@ https://arxiv.org/abs/2411.11017
 https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor
 
 # News
+ https://github.com/hardenedlinux/userland-exec
+> https://old.reddit.com/r/netsec/comments/1hq6is0/userland_exec_bypassing_bypassing_selinuxs/
+
+https://www.hvs-consulting.de/en/nfs-security-identifying-and-exploiting-misconfigurations/
+> https://old.reddit.com/r/netsec/comments/1hp4kn7/nfs_security_identifying_and_exploiting/
+
 https://dgl.cx/2024/12/ghostty-terminal-title
 > https://news.ycombinator.com/item?id=42562743
 

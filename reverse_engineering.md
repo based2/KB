@@ -52,6 +52,15 @@ https://news.ycombinator.com/item?id=39379480
 
 https://news.ycombinator.com/item?id=41417263
 
+# REST APIs
+https://github.com/alufers/mitmproxy2swagger
+> https://news.ycombinator.com/item?id=42572662
+
+https://apiparrot.com/
+> https://news.ycombinator.com/item?id=42565821
+
+https://www.codereversing.com/blog/archives/420 Reverse Engineering REST APIs: Introduction (1/12)
+
 # ML
 https://github.com/mrphrazer/reverser_ai
 
@@ -508,8 +517,6 @@ https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-origina
 > https://news.ycombinator.com/item?id=29689513
 
 https://www.righto.com/2021/12/yamaha-dx7-reverse-engineering-part-iii.html
-
-https://www.codereversing.com/blog/archives/420 Reverse Engineering REST APIs: Introduction (1/12)
 
 https://madeupexplorations.wordpress.com/2021/10/25/heroes-of-might-and-magic-v-hammers-of-bait-and-switch/
 > https://news.ycombinator.com/item?id=29044547

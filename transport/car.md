@@ -20,7 +20,10 @@ https://news.ycombinator.com/item?id=27580744
 https://www.reuters.com/business/autos-transportation/tesla-opens-charging-network-other-evs-netherlands-2021-11-01/
 > https://news.ycombinator.com/item?id=29078287
 
-#
+# Incidents
+https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht
+> https://news.ycombinator.com/item?id=42540304
+
 https://infosec.exchange/@infosecdj
 > https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/
 
@@ -28,6 +31,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://news.ycombinator.com/item?id=42571460
+
 https://news.ycombinator.com/item?id=42475976
 
 https://news.ycombinator.com/item?id=42342346

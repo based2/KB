@@ -81,3 +81,6 @@ https://news.ycombinator.com/item?id=42078476
 https://blog.succinct.xyz/introducing-sp1/
 
 https://news.ycombinator.com/item?id=42516483
+
+https://blog.disintegrator.dev/posts/dev-virtual-machine/
+> https://news.ycombinator.com/item?id=42541508

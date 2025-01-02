@@ -75,6 +75,12 @@ https://news.ycombinator.com/item?id=42485113
 
 https://news.ycombinator.com/item?id=42545986
 
+https://github.com/Cinnamon/kotaemon
+> https://news.ycombinator.com/item?id=42571272
+
+https://old.reddit.com/r/OpenAI/comments/1hqco4f/rag_a_40gb_outlook_inbox_long_term_staff_member/
+> https://news.ycombinator.com/item?id=42571192
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 

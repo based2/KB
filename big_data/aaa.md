@@ -186,6 +186,10 @@ https://github.com/gzuidhof/starboard-notebook
 ## https://www.evidence.dev/
 > https://news.ycombinator.com/item?id=27357140
 
+## Zasper - Go
+https://github.com/zasper-io/zasper
+> https://news.ycombinator.com/item?id=42572057
+
 ## Meta notebooks
 http://akkartik.name/post/literate-programming
 > https://news.ycombinator.com/item?id=29860951
@@ -359,6 +363,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=42564735
+
 http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html
 > https://news.ycombinator.com/item?id=42287345
 

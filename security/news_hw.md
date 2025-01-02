@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=42570988
+
 https://news.ycombinator.com/item?id=42465378
 
 https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html

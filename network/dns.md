@@ -100,6 +100,8 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 > https://news.ycombinator.com/item?id=40254688
 
 # Incidents
+https://www.bleepingcomputer.com/news/microsoft/microsoft-issues-urgent-dev-warning-to-update-net-installer-link/
+
 https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/
 > https://news.ycombinator.com/item?id=41510252
 

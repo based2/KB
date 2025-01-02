@@ -79,3 +79,6 @@ https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html
 > https://news.ycombinator.com/item?id=39745993
 
 https://demaga.github.io/2024/12/16/intercepting-websocket-messages-to-analyze-geoguessr-party-games.html
+
+https://github.com/dunglas/mercure
+> https://news.ycombinator.com/item?id=42571651

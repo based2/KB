@@ -375,6 +375,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+http://minikanren.org/
+> https://news.ycombinator.com/item?id=42574125
+
 https://news.ycombinator.com/item?id=42510696
 
 https://news.ycombinator.com/item?id=42517102
