@@ -13,6 +13,8 @@ https://arxiv.org/abs/2308.02945
 https://github.com/chipsalliance/riscv-dv
 
 # News
+https://news.ycombinator.com/item?id=42576242
+
 https://news.ycombinator.com/item?id=42502658
 
 https://news.ycombinator.com/item?id=42389532

@@ -145,7 +145,15 @@ https://www.dslreports.com/forum/wisp
 
 https://startyourownisp.com/
 
+# Att
+https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction
+> https://news.ycombinator.com/item?id=42599507
+
 # Incidents
+https://news.ycombinator.com/item?id=42602673
+
+https://news.ycombinator.com/item?id=42603585
+
 https://ftp.fau.de/cdn.media.ccc.de/congress/2024/h264-hd/38c3-150-eng-Breaking_NATO_Radio_Encryption.mp4
 
 https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/

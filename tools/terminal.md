@@ -47,6 +47,10 @@ https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-betwe
 https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
+# Incidents
+https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Release
+> https://news.ycombinator.com/item?id=42579472
+
 # News
 https://github.com/Benexl/yt-x
 > https://news.ycombinator.com/item?id=42551938

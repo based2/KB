@@ -10,6 +10,12 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://media.ccc.de/v/38c3-hacking-the-rp2350
+> https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging
+> > https://news.ycombinator.com/item?id=42599971
+
+https://news.ycombinator.com/item?id=42579969
+
 https://news.ycombinator.com/item?id=42570988
 
 https://news.ycombinator.com/item?id=42465378

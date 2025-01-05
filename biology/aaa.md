@@ -50,6 +50,9 @@ https://news.ycombinator.com/item?id=40766869
 
 https://news.ycombinator.com/item?id=41007573
 
+https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/
+> https://news.ycombinator.com/item?id=42558275
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
@@ -69,6 +72,10 @@ https://www.nature.com/articles/s41592-024-02523-z Nucleotide Transformer: build
 > https://news.ycombinator.com/item?id=42291315
 
 # News
+https://news.ycombinator.com/item?id=42588828
+
+https://www.quantamagazine.org/scientists-re-create-the-microbial-dance-that-sparked-complex-life-20250102/
+
 https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system
 > https://news.ycombinator.com/item?id=42547489
 

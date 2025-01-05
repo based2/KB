@@ -137,3 +137,5 @@ https://www.evalapply.org/posts/cold-restart-total-outage/index.html
 https://news.ycombinator.com/item?id=39476446
 
 https://news.ycombinator.com/item?id=39969448
+
+https://news.ycombinator.com/item?id=42584750

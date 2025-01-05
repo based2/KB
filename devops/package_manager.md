@@ -68,7 +68,6 @@ https://paperless.blog/nix-shell-template
 https://github.com/CuBeRJAN/nix-problems
 > https://news.ycombinator.com/item?id=37089331
 
-
 > https://news.ycombinator.com/item?id=38237696
 
 https://changelog.com/posts/nixos-fatal-flaw
@@ -95,7 +94,7 @@ https://www.jetpack.io/blog/introducing-nixhub/
 
 rpm -qpR
 
-# Incident
+# Incidents
 https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code
 
 https://www.sonatype.com/blog/exploit-creator-selling-250-reserved-npm-packages-via-telegram
@@ -156,6 +155,11 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://giraffesecurity.dev/posts/amazon-hat-trick/
+
+https://blog.pypi.org/posts/2024-12-30-quarantine/
+> https://news.ycombinator.com/item?id=42577938
+
 https://pyherald.com/articles/16_12_2024/ Conda: A package management disaster?
 > https://news.ycombinator.com/item?id=42428290
 

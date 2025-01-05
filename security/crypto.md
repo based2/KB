@@ -206,6 +206,8 @@ https://news.ycombinator.com/item?id=41668896
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=42558422
+
 https://news.ycombinator.com/item?id=42500209
 
 https://www.theregister.com/2024/12/17/australia_dropping_crypto_keys/

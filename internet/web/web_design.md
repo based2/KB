@@ -89,6 +89,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=42599102
+
 https://blog.jim-nielsen.com/2024/sanding-ui/
 > https://news.ycombinator.com/item?id=41612154
 

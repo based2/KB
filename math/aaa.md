@@ -195,6 +195,12 @@ https://www.ams.org/notices/202501/rnoti-p6.pdf Machine-Assisted Proof by Terenc
 > https://news.ycombinator.com/item?id=42529023
 
 # News
+https://jvernay.fr/en/blog/polyline-triangulation/
+
+https://news.ycombinator.com/item?id=42586590
+
+https://news.ycombinator.com/item?id=42553360
+
 https://news.ycombinator.com/item?id=42553682
 
 https://news.ycombinator.com/item?id=42515315

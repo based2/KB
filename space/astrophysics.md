@@ -75,6 +75,12 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=42595190
+
+https://news.ycombinator.com/item?id=42566748
+
+https://news.ycombinator.com/item?id=42587826
+
 https://news.ycombinator.com/item?id=42528720
 
 https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4

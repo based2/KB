@@ -222,6 +222,8 @@ https://paulrosen.github.io/abcjs/
 https://ludotune.com
 
 # Instrument
+https://news.ycombinator.com/item?id=42552915
+
 https://www.pianobook.co.uk/
 > https://news.ycombinator.com/item?id=27454717
 

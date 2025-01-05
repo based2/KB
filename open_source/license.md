@@ -87,7 +87,12 @@ https://www.theregister.com/2024/04/30/bruce_perens_post_open_license/
 
 https://news.ycombinator.com/item?id=42034196
 
-# Incident
+https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights/
+> https://news.ycombinator.com/item?id=42580397
+
+# Incidents
+https://news.ycombinator.com/item?id=42576443
+
 https://news.ycombinator.com/item?id=39781055
 
 https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl

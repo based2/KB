@@ -105,3 +105,6 @@ https://www.flyde.dev/
 
 https://github.com/IndiePython/nodezator
 > https://news.ycombinator.com/item?id=42274399 python
+
+https://github.com/PWCT/PWCT2
+> https://news.ycombinator.com/item?id=42586933

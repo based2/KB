@@ -560,6 +560,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/acaudwell/Gource
+> https://news.ycombinator.com/item?id=42557850
+
 https://github.com/apankrat/nullboard Kanban board in a single HTML file
 > https://news.ycombinator.com/item?id=42461688
 

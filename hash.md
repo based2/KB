@@ -105,6 +105,9 @@ https://github.com/ulid/spec ULID: Like UUID but Sortable (2019)
 https://everyuuid.com/
 > https://news.ycombinator.com/item?id=42342382
 
+https://brandur.org/fragments/uuid-v7-monotonicity
+> https://news.ycombinator.com/item?id=42575900
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

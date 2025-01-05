@@ -1,3 +1,9 @@
+https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/
+
+https://www.bleepingcomputer.com/news/security/new-doubleclickjacking-attack-exploits-double-clicks-to-hijack-accounts/
+
+https://news.ycombinator.com/item?id=42577076
+
 https://news.ycombinator.com/item?id=42534918
 
 https://news.ycombinator.com/item?id=42557342

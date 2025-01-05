@@ -54,6 +54,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://blog.codingconfessions.com/p/linux-context-switching-internals
+> https://news.ycombinator.com/item?id=42554371
+
 https://news.ycombinator.com/item?id=41642313
 
 https://news.ycombinator.com/item?id=41594862

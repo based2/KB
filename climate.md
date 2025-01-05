@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=42589112
+
 https://phys.org/news/2024-12-ceramics-bacteria-gas-carbon-capture.amp
 
 https://www.technologyreview.com/2024/10/21/1105171/air-protein-biotech-solar-foods-novonutrients-alternative-protein/

@@ -168,6 +168,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=42600192
+
+https://news.ycombinator.com/item?id=42593614
+
 https://news.ycombinator.com/item?id=42562175
 
 https://news.ycombinator.com/item?id=42449497 boardgame

@@ -50,6 +50,9 @@ https://arxiv.org/abs/2411.11017
 https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor
 
 # News
+https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Release
+> https://news.ycombinator.com/item?id=42579472
+
  https://github.com/hardenedlinux/userland-exec
 > https://old.reddit.com/r/netsec/comments/1hq6is0/userland_exec_bypassing_bypassing_selinuxs/
 

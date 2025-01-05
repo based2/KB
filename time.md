@@ -237,6 +237,8 @@ https://incoherency.co.uk/blog/stories/harrison-clocks.html
 https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock
 > https://news.ycombinator.com/item?id=39634195
 
+https://news.ycombinator.com/item?id=42556808
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

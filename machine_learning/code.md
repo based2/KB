@@ -71,6 +71,13 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://news.ycombinator.com/item?id=42601847
+
+https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/
+> https://news.ycombinator.com/item?id=42568516
+
+https://news.ycombinator.com/item?id=42584400
+
 https://news.ycombinator.com/item?id=42379361
 
 https://github.com/ibttf/interview-coder An invisible desktop application that will help you pass technical interviews

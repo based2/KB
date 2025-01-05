@@ -76,6 +76,8 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://discover.gpo.gov/primo-explore/search?vid=GPO
+
 https://news.ycombinator.com/item?id=42566192
 
 https://github.com/apache/cloudberry

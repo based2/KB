@@ -30,6 +30,9 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
   
 # News
+
+https://news.ycombinator.com/item?id=42583726
+
 https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/
 > https://news.ycombinator.com/item?id=41707418
 
