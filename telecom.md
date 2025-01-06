@@ -25,6 +25,9 @@ https://www.usenix.org/conference/nsdi21/presentation/abhashkumar
 > https://news.ycombinator.com/item?id=29588378
 
 # 5G
+https://github.com/srsran
+> https://news.ycombinator.com/item?id=42605201
+
 https://circleid.com/posts/20230127-the-disappointment-of-5g
 > https://news.ycombinator.com/item?id=35726052
 
@@ -150,6 +153,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://news.ycombinator.com/item?id=42615939
+
 https://news.ycombinator.com/item?id=42602673
 
 https://news.ycombinator.com/item?id=42603585

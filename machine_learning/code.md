@@ -71,7 +71,7 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
-https://news.ycombinator.com/item?id=42601847
+ttps://news.ycombinator.com/item?id=42601847
 
 https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/
 > https://news.ycombinator.com/item?id=42568516

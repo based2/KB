@@ -50,5 +50,8 @@ https://news.ycombinator.com/item?id=38252963 Bitemporal – Binary JSON databas
 
 https://news.ycombinator.com/item?id=41539288
 
+https://arxiv.org/abs/2412.20512 Time-Series Anomaly Detection: A Decade Review
+> https://news.ycombinator.com/item?id=42609595
+
 # ml
 https://news.ycombinator.com/item?id=39787176

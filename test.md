@@ -34,6 +34,9 @@ https://stepci.com/
 https://news.ycombinator.com/item?id=41936855
 
 #
+https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e
+> https://news.ycombinator.com/item?id=42612211
+
 https://www.reapi.com/playground/tests
 
 https://jsben.ch/

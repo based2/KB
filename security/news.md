@@ -1,3 +1,6 @@
+https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
+> https://news.ycombinator.com/item?id=42600349
+
 https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/
 
 https://www.bleepingcomputer.com/news/security/new-doubleclickjacking-attack-exploits-double-clicks-to-hijack-accounts/

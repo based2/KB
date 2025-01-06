@@ -35,6 +35,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=42588261
+
 https://www.factoriesinspace.com/
 
 https://pavelsevecek.github.io/

@@ -74,7 +74,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
-# Incident
+# Incidents
 https://www.armosec.io/blog/cve-2024-7646-ingress-nginx-annotation-validation-bypass/
 > https://old.reddit.com/r/netsec/comments/1evc7uq/cve20247646_ingressnginx_annotation_validation/
 
@@ -104,6 +104,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://abhisman.notion.site/Understanding-ReplicaSet-vs-StatefulSet-vs-DaemonSet-vs-Deployments-a521f9a46ea446219d98be4972f2e16e
+> https://news.ycombinator.com/item?id=42601497
+
 https://sysdig.com/blog/kubernetes-1-32-whats-new/
 
 https://kubespec.dev/

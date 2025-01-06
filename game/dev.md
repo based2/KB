@@ -168,6 +168,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://zone.dog/braindump/spline_fields/
+> https://news.ycombinator.com/item?id=42611540
+
 https://news.ycombinator.com/item?id=42600192
 
 https://news.ycombinator.com/item?id=42593614

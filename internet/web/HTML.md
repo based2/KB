@@ -163,6 +163,11 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://alexanderpetros.com/triptych/
+> https://news.ycombinator.com/item?id=42615646
+
+https://news.ycombinator.com/item?id=42613221
+
 https://news.ycombinator.com/item?id=42413845
 
 https://news.ycombinator.com/item?id=42408819

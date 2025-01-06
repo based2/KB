@@ -46,6 +46,14 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://neal.fun/stimulation-clicker/
+> https://news.ycombinator.com/item?id=42611536
+
+https://news.ycombinator.com/item?id=42607794
+
+https://diymultideck.mauri.app/manual/
+> https://news.ycombinator.com/item?id=42583986
+
 https://github.com/jzeiber/wasm4-miniciv
 
 https://news.ycombinator.com/item?id=42566112

@@ -24,6 +24,8 @@ https://github.com/MISP/misp-warninglists
 https://labs.ripe.net/author/hisham_ibrahim/schrodingers-ipv6-cat/
 > https://news.ycombinator.com/item?id=42387475
 
+https://news.ycombinator.com/item?id=42607934
+
 https://news.ycombinator.com/item?id=32894168
 
 https://www.potaroo.net/ispcol/2021-04/v6frag.html

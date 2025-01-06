@@ -544,6 +544,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://tokio.rs/blog/2025-01-01-announcing-axum-0-8-0
+> https://news.ycombinator.com/item?id=42567900
+
 https://github.com/foyer-rs/foyer
 
 https://news.ycombinator.com/item?id=42513331 certification

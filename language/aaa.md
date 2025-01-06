@@ -124,6 +124,8 @@ https://github.com/m-ender/hexagony
 
 https://news.ycombinator.com/item?id=39026551
 
+https://news.ycombinator.com/item?id=42581082
+
 # Grid
 https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid
 > https://news.ycombinator.com/item?id=38778550

@@ -87,6 +87,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=42601549
+
 https://news.ycombinator.com/item?id=42539155
 
 https://news.ycombinator.com/item?id=42535453

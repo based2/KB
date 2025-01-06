@@ -68,6 +68,9 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+http://www.righto.com/2025/01/pentium-floating-point-ROM.html
+> https://news.ycombinator.com/item?id=42604350
+
 https://news.ycombinator.com/item?id=42532014
 
 https://news.ycombinator.com/item?id=42521630

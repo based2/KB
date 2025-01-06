@@ -270,6 +270,10 @@ https://github.com/jcard0na/haxo-hw
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks for fundamentals of music processing
 > https://news.ycombinator.com/item?id=40550830
 
+# I
+https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
+> https://news.ycombinator.com/item?id=42600349
+
 # News
 https://pbat.ch/recurse/demos/trio/ singing synthesizer for the browser with automatic 3-part harmony
 > https://news.ycombinator.com/item?id=42513276

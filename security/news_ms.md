@@ -3,6 +3,8 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 #
+https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html
+
 https://noinitrd.github.io/Memory-Dump-UEFI/
 > https://news.ycombinator.com/item?id=42552227
 

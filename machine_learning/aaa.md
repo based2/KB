@@ -136,6 +136,8 @@ https://github.com/facebookresearch/AugLy
 # Books & Papers
 https://github.com/xialeiliu/Awesome-Incremental-Learning
 
+https://news.ycombinator.com/item?id=42602850
+
 ## Papers
 
 http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
@@ -276,6 +278,8 @@ https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-f
 > https://news.ycombinator.com/item?id=39575308
 
 https://arxiv.org/pdf/2410.15650 Voice-Enabled AI Agents can Perform Common Scams
+
+https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html
 
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
@@ -617,6 +621,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://einsum.joelburget.com/ tensor
+> https://news.ycombinator.com/item?id=42587056
+
+https://xeiaso.net/blog/2025/squandered-holy-grail/
+> https://news.ycombinator.com/item?id=42607151
+
 https://news.ycombinator.com/item?id=42571963
 
 https://eu.mirror.ionos.com/projects/media.ccc.de/congress/2024/h264-hd/38c3-122-eng-Self_Models_of_Loving_Grace.mp4
