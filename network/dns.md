@@ -163,6 +163,9 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://blog.cloudflare.com/topaz-policy-engine-design/ Preventing conflicts in authoritative DNS config using formal verification
+> https://news.ycombinator.com/item?id=42625229
+
 https://linuxfr.org/news/netlibre-un-service-libre-et-un-nom-de-domaine-gratuit
 
 https://lobste.rs/s/rirg56/maybe_it_shouldn_t_always_be_dns

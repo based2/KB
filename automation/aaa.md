@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://serce.me/posts/2025-01-07-six-sins-of-platform-teams
+> https://news.ycombinator.com/item?id=42631208
+
 https://apiparrot.com/ Automatically Reverse Engineer HTTP APIs
 > https://news.ycombinator.com/item?id=42565821
 

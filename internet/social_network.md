@@ -85,7 +85,11 @@ https://cblgh.org/trustnet/
 # Legal
 https://news.ycombinator.com/item?id=40246642
 
-# Incident
+# Incidents
+https://news.ycombinator.com/item?id=42621627
+
+https://news.ycombinator.com/item?id=42637267
+
 https://news.ycombinator.com/item?id=42353936
 
 https://news.ycombinator.com/item?id=42343052
@@ -171,6 +175,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione
+
+https://news.ycombinator.com/item?id=42597962
+
 https://news.ycombinator.com/item?id=42549624
 
 https://news.ycombinator.com/item?id=42468362

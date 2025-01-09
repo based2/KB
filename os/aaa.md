@@ -32,6 +32,11 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://operating-system-in-1000-lines.vercel.app/en
+> https://news.ycombinator.com/item?id=42631873
+
+https://news.ycombinator.com/item?id=42636086
+
 https://news.ycombinator.com/item?id=42331270
 
 https://news.ycombinator.com/item?id=41515447

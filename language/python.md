@@ -152,6 +152,8 @@ https://pykka.readthedocs.io/stable/
 
 https://news.ycombinator.com/item?id=41404020
 
+https://news.ycombinator.com/item?id=42627245
+
 # Profiler
 
 https://github.com/bloomberg/memray

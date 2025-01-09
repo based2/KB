@@ -65,3 +65,5 @@ https://news.ycombinator.com/item?id=42463525
 
 https://github.com/lisyarus/webgpu-raytracer
 > https://news.ycombinator.com/item?id=42516433
+
+https://news.ycombinator.com/item?id=42623593

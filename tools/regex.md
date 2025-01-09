@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://news.ycombinator.com/item?id=42619652
+
 https://news.ycombinator.com/item?id=40402986
 
 https://news.ycombinator.com/item?id=39763750

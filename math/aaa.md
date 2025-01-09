@@ -195,6 +195,15 @@ https://www.ams.org/notices/202501/rnoti-p6.pdf Machine-Assisted Proof by Terenc
 > https://news.ycombinator.com/item?id=42529023
 
 # News
+https://news.ycombinator.com/item?id=42619851 sat
+
+https://news.ycombinator.com/item?id=42633805
+
+https://www.mattkeeter.com/projects/fidget/  Library for representing, compiling, and evaluating large-scale math expressions, i.e. hundreds or thousands of arithmetic clauses
+> https://news.ycombinator.com/item?id=42634624
+
+https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md
+
 https://jvernay.fr/en/blog/polyline-triangulation/
 
 https://news.ycombinator.com/item?id=42586590

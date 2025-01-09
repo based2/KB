@@ -37,7 +37,10 @@ https://github.com/streetcomplete/StreetComplete/discussions/4264
 https://github.com/headwaymaps/headway Self-hostable maps stack, powered by OpenStreetMap
 > https://news.ycombinator.com/item?id=32875795
 
-#
+# News
+https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10
+> https://news.ycombinator.com/item?id=42626964
+
 https://github.com/louis-e/arnis Generate cities in Minecraft from OpenStreetMap
 > https://news.ycombinator.com/item?id=42561711
 

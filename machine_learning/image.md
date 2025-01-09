@@ -401,6 +401,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://sagipolaczek.github.io/NeuralSVG/
+> https://news.ycombinator.com/item?id=42636873
+
 https://github.com/serengil/deepface Lightweight deep face recognition library for Python
 > https://news.ycombinator.com/item?id=42584896
 

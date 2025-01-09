@@ -38,7 +38,7 @@ https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
 https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/
 > https://news.ycombinator.com/item?id=28244246
 
-# Incident
+# Incidents
 https://bugzilla.mozilla.org/show_bug.cgi?id=1934361
 
 https://blog.trysixth.com/gtbank-hacking-claims-separating-fact
@@ -85,6 +85,8 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://news.ycombinator.com/item?id=42625372
+
 https://news.ycombinator.com/item?id=42322981
 
 https://raphting.dev/posts/monitor-rss/

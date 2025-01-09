@@ -45,6 +45,8 @@ https://aappleby.github.io/Metron/tutorial/ Metron C++ to Verilog Translator Tut
 https://mister-devel.github.io/MkDocs_MiSTer/
 
 # ASIC
+https://news.ycombinator.com/item?id=42631629
+
 https://github.com/olofk/fusesoc
 
 https://openpowerfoundation.org/libre-soc-180nm-power-isa-asic-submitted-to-imec-for-fabrication/

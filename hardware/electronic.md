@@ -45,7 +45,9 @@ https://github.com/TUDSSL/BFree
 # VHDL
 https://verik.io/docs/overview/ 
 
-#
+# News
+https://news.ycombinator.com/item?id=42590337
+
 https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols
 
 https://www.analog.com/en/resources/technical-books/nonlinear-circuits-handbook.html

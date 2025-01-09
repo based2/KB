@@ -275,6 +275,11 @@ https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349
 
 # News
+https://learningsynths.ableton.com/
+> https://news.ycombinator.com/item?id=42621804
+> > https://vcvrack.com/
+> > > https://www.youtube.com/watch?v=V35OhojjqDs
+
 https://pbat.ch/recurse/demos/trio/ singing synthesizer for the browser with automatic 3-part harmony
 > https://news.ycombinator.com/item?id=42513276
 

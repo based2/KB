@@ -39,6 +39,8 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://news.ycombinator.com/item?id=42621766
+
 https://news.ycombinator.com/item?id=42235909
 
 https://noise.jake.fun/

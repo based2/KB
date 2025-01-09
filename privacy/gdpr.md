@@ -1,5 +1,5 @@
 https://gdpr.eu/
-https://en.wikipedia.org/wiki/Secure_by_design
+> https://en.wikipedia.org/wiki/Secure_by_design
 
 https://www.privacyguides.org/
 
@@ -78,6 +78,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://curia.europa.eu/jcms/jcms/p1_4736913
+
 https://thehackernews.com/2024/12/italy-fines-openai-15-million-for.html
 
 https://news.ycombinator.com/item?id=40246171

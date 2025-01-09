@@ -168,6 +168,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=42624116
+
+https://olano.dev/blog/a-pixel-parable/
+> https://news.ycombinator.com/item?id=42606433
+
 https://zone.dog/braindump/spline_fields/
 > https://news.ycombinator.com/item?id=42611540
 

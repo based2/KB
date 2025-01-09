@@ -111,3 +111,5 @@ https://news.ycombinator.com/item?id=42328655
 https://news.ycombinator.com/item?id=42378488
 
 https://news.ycombinator.com/item?id=42484095
+
+https://news.ycombinator.com/item?id=42603188

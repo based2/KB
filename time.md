@@ -239,6 +239,8 @@ https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock
 
 https://news.ycombinator.com/item?id=42556808
 
+https://news.ycombinator.com/item?id=42633035
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 
