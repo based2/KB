@@ -74,6 +74,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://github.com/NVIDIA/nv-ingest
+> https://news.ycombinator.com/item?id=42654019
+
 https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet
 > https://news.ycombinator.com/item?id=41871068
 

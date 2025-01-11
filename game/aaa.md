@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=40635397
 https://news.ycombinator.com/item?id=40921989
 
 # News
+https://news.ycombinator.com/item?id=42658614
+
 https://news.ycombinator.com/item?id=42635049
 
 https://neal.fun/stimulation-clicker/

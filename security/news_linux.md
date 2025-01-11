@@ -49,6 +49,9 @@ https://arxiv.org/abs/2411.11017
 
 https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor
 
+https://github.com/pipelight/boulette
+> https://news.ycombinator.com/item?id=42655708
+
 # News
 https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Release
 > https://news.ycombinator.com/item?id=42579472

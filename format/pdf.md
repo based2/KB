@@ -128,3 +128,5 @@ https://news.ycombinator.com/item?id=34530710 2word
 https://github.com/freedomofpress/dangerzone to pixel
 
 https://news.ycombinator.com/item?id=40748851
+
+https://news.ycombinator.com/item?id=42645218

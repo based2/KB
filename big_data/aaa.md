@@ -309,6 +309,8 @@ https://github.com/apitable/apitable alt airtable
 https://github.com/ankane/blazer
 > https://news.ycombinator.com/item?id=39524327
 
+https://news.ycombinator.com/item?id=42612237
+
 # CI
 https://hypervector.io/
 

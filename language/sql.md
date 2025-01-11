@@ -75,6 +75,9 @@ http://harelba.github.io/q/
 https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 
 # News
+https://jirevwe.github.io/sql-nulls-are-weird.html
+> https://news.ycombinator.com/item?id=42645110
+
 https://news.ycombinator.com/item?id=42577736
 
 https://news.ycombinator.com/item?id=42233836

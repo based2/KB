@@ -35,6 +35,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1
+> https://news.ycombinator.com/item?id=42658512
+
 https://news.ycombinator.com/item?id=42637653
 
 https://atlasof.space/
