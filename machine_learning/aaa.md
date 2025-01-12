@@ -222,6 +222,8 @@ https://taylor.town/synthetic-intelligence
 https://www.frontiersin.org/articles/10.3389/fevo.2021.806283/full
 > https://news.ycombinator.com/item?id=34297771
 
+https://news.ycombinator.com/item?id=42653744
+
 ##
 https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
 > https://news.ycombinator.com/item?id=31037416
@@ -621,6 +623,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf Zuckerberg approved training Llama on LibGen
+> https://news.ycombinator.com/item?id=42673628
+
+https://news.ycombinator.com/item?id=42672790
+
 https://einsum.joelburget.com/ tensor
 > https://news.ycombinator.com/item?id=42587056
 

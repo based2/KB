@@ -38,6 +38,10 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
 #
+https://labs.watchtowr.com/do-secure-by-design-pledges-come-with-stickers-ivanti-connect-secure-rce-cve-2025-0282/
+
+https://news.ycombinator.com/item?id=42632356
+
 https://news.ycombinator.com/item?id=42549184
 
 https://www.bleepingcomputer.com/news/security/beyondtrust-says-hackers-breached-remote-support-saas-instances/

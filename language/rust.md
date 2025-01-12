@@ -265,6 +265,8 @@ https://ferrous-systems.com/blog/test-embedded-app/
 
 https://dl.acm.org/doi/abs/10.1145/3453483.3454084 SyRust: automatic testing of Rust libraries with semantic-aware program synthesis
 
+https://news.ycombinator.com/item?id=42649139
+
 # APIs
 https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
 > https://briansmith.org/rustdoc/ring/
@@ -544,6 +546,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=42675219
+
 https://tokio.rs/blog/2025-01-01-announcing-axum-0-8-0
 > https://news.ycombinator.com/item?id=42567900
 

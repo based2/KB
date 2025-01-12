@@ -134,6 +134,8 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://linuxfr.org/users/jch-2/journaux/quelques-nouvelles-a-propos-du-serveur-de-videconference-galene
+
 https://media.ccc.de/v/38c3-libobscura-cameras-are-difficult
 > https://news.ycombinator.com/item?id=42527256
 

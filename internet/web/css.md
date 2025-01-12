@@ -280,6 +280,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://news.ycombinator.com/item?id=42662265
+
 https://www.joshwcomeau.com/css/backdrop-filter/
 > https://news.ycombinator.com/item?id=42302907
 

@@ -65,6 +65,8 @@ https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://news.ycombinator.com/item?id=42633291
+
 https://github.com/libriscv/multi_tenant_drogon
 > https://news.ycombinator.com/item?id=42469945
 

@@ -1,4 +1,9 @@
+https://modzero.com/en/blog/spring_boot_ssti/
+
+https://news.ycombinator.com/item?id=42639871
+
 https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/
+> https://news.ycombinator.com/item?id=42674455
 
 https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/
 > https://www.bleepingcomputer.com/news/security/us-govt-launches-cybersecurity-safety-label-for-smart-devices/

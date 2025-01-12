@@ -68,6 +68,8 @@ https://news.ycombinator.com/item?id=41398780
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=42636571
+
 https://news.ycombinator.com/item?id=42495135
 
 https://news.ycombinator.com/item?id=41647025

@@ -168,6 +168,12 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/donno2048/snake
+
+https://news.ycombinator.com/item?id=42671472
+
+https://news.ycombinator.com/item?id=42661185
+
 https://news.ycombinator.com/item?id=42624116
 
 https://olano.dev/blog/a-pixel-parable/

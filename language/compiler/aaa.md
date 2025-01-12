@@ -151,6 +151,8 @@ https://cvw.cac.cornell.edu/vector/default
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data
+
 https://news.ycombinator.com/item?id=42484911
 
 https://news.ycombinator.com/item?id=42474458

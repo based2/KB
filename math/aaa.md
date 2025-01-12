@@ -195,6 +195,8 @@ https://www.ams.org/notices/202501/rnoti-p6.pdf Machine-Assisted Proof by Terenc
 > https://news.ycombinator.com/item?id=42529023
 
 # News
+https://news.ycombinator.com/item?id=42661432
+
 https://news.ycombinator.com/item?id=42619851 sat
 
 https://news.ycombinator.com/item?id=42633805
