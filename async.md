@@ -59,6 +59,8 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 https://danp.net/posts/synctest-experiment/
 
 #
+https://news.ycombinator.com/item?id=42758152
+
 https://news.ycombinator.com/item?id=42468594
 
 https://news.ycombinator.com/item?id=42392267

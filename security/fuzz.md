@@ -16,6 +16,8 @@ https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-hand
 https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
 
 #
+https://news.ycombinator.com/item?id=42756286
+
 https://www.invicti.com/blog/security-labs/brainstorm-tool-release-optimizing-web-fuzzing-with-local-llms/
 
 https://github.com/google/oss-fuzz-gen

@@ -82,3 +82,5 @@ https://demaga.github.io/2024/12/16/intercepting-websocket-messages-to-analyze-g
 
 https://github.com/dunglas/mercure
 > https://news.ycombinator.com/item?id=42571651
+
+https://news.ycombinator.com/item?id=42816359

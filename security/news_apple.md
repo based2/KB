@@ -17,6 +17,8 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://old.reddit.com/r/netsec/comments/1hy9t8i/ace_up_the_sleeve_hacking_into_apples_new_usbc/
+
 https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection/
 
 https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios

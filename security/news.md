@@ -1,3 +1,12 @@
+https://news.ycombinator.com/item?id=42796496
+
+https://www.bleepingcomputer.com/news/security/7-zip-fixes-bug-that-bypasses-the-windows-motw-security-mechanism-patch-now/
+
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-denial-of-service-flaw-with-poc-exploit-code/
+
+https://news.ycombinator.com/item?id=42750420
+> https://censorbib.nymity.ch/pdf/Alice2020a.pdf
+
 https://modzero.com/en/blog/spring_boot_ssti/
 
 https://news.ycombinator.com/item?id=42639871

@@ -546,6 +546,15 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=42812641
+
+https://news.ycombinator.com/item?id=42780636
+
+https://news.ycombinator.com/item?id=42738753
+
+https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/
+> https://news.ycombinator.com/item?id=42708904
+
 https://news.ycombinator.com/item?id=42675219
 
 https://tokio.rs/blog/2025-01-01-announcing-axum-0-8-0

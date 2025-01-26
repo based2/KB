@@ -148,6 +148,8 @@ https://news.ycombinator.com/item?id=41347051
 https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/
 > https://news.ycombinator.com/item?id=42530991
 
+https://news.ycombinator.com/item?id=42810176
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -391,6 +393,8 @@ https://en.wikipedia.org/wiki/MORE_(application)
 https://news.ycombinator.com/item?id=41353835
 
 # News
+https://news.ycombinator.com/item?id=42818278
+
 https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/
 > https://news.ycombinator.com/item?id=42608923
 

@@ -7,6 +7,8 @@ https://www.medusa-commerce.com/
 https://www.coupang.com/ kr
 
 # I
+https://www.bleepingcomputer.com/news/security/paypal-to-pay-2-million-settlement-over-2022-data-breach/
+
 https://news.ycombinator.com/item?id=38971012
 
 https://www.europol.europa.eu/media-press/newsroom/news/action-against-digital-skimming-reveals-443-compromised-online-merchants

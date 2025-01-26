@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://overlookinfratech.com/2025/01/21/first-release-hot-off-the-presses/ The first release of OpenVox, the OSS implementation of Puppet
+> https://news.ycombinator.com/item?id=42788336
+
 https://news.ycombinator.com/item?id=42615006
 
 https://serce.me/posts/2025-01-07-six-sins-of-platform-teams

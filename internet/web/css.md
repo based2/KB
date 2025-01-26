@@ -34,6 +34,8 @@ https://wattenberger.com/blog/css-percents
 # Tailwind
 https://www.tailwind-tools.com/
 
+https://news.ycombinator.com/item?id=42799136
+
 https://tailwindcss.com/docs/just-in-time-mode
 
 https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables
@@ -147,6 +149,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 #
+https://news.ycombinator.com/item?id=42814110
+
 https://www.nicbarker.com/clay UI Layout Library
 > https://news.ycombinator.com/item?id=42463123
 

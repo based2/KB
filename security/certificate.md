@@ -39,6 +39,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incidents
+https://news.ycombinator.com/item?id=42764277
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1934361
 
 https://blog.trysixth.com/gtbank-hacking-claims-separating-fact

@@ -140,6 +140,8 @@ https://news.ycombinator.com/item?id=39618784
 
 https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281
 
+https://www.smithsonianmag.com/smart-news/giant-mysterious-spires-ruled-the-earth-long-before-trees-did-what-exactly-are-these-odd-looking-fossils-13709647/
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

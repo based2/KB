@@ -9,3 +9,5 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=111373
 > https://news.ycombinator.com/item?id=30206278
 
 https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
+
+https://news.ycombinator.com/item?id=42774291

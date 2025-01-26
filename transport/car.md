@@ -21,6 +21,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://news.ycombinator.com/item?id=42803279
+
 https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht
 > https://news.ycombinator.com/item?id=42540304
 
@@ -31,6 +33,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://www.genivi.org/
+
 https://news.ycombinator.com/item?id=42571460
 
 https://news.ycombinator.com/item?id=42475976

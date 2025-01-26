@@ -59,3 +59,6 @@ https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redi
 
 https://valkey.io/blog/2024-year-of-valkey/
 
+https://news.ycombinator.com/item?id=42778795
+
+https://news.ycombinator.com/item?id=42771403

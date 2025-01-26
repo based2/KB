@@ -86,6 +86,9 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/
+> https://news.ycombinator.com/item?id=42753396
+
 https://news.ycombinator.com/item?id=42621627
 
 https://news.ycombinator.com/item?id=42637267
@@ -175,6 +178,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=42821519
+
+https://news.ycombinator.com/item?id=42791378
+
+https://news.ycombinator.com/item?id=42738464
+
 https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione
 
 https://news.ycombinator.com/item?id=42597962

@@ -209,6 +209,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://old.reddit.com/r/netsec/comments/1i1ej02/new_microsoft_ole_vulnerability_exploitable_via/
+
 https://www.bleepingcomputer.com/news/technology/proton-mail-still-down-as-proton-recovers-from-worldwide-outage/
 
 https://www.bleepingcomputer.com/news/security/over-3-million-mail-servers-without-encryption-exposed-to-sniffing-attacks/

@@ -358,13 +358,15 @@ https://news.ycombinator.com/item?id=41622080
 # sec
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
 
-# Incident
+# Incidents
 https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 > https://www.bleepingcomputer.com/news/security/r-language-flaw-allows-code-execution-via-rds-rdx-files/
 
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://accumulo.apache.org/blog/2024/10/07/accumulo4-preview.html
+
 https://github.com/MinishLab/semhash SemHash – Fast Semantic Text Deduplication for Cleaner Datasets
 > https://news.ycombinator.com/item?id=42674627
 

@@ -623,6 +623,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.interconnects.ai/p/deepseek-v3-and-the-actual-cost-of
+
+https://venturebeat.com/ai/why-everyone-in-ai-is-freaking-out-about-deepseek/
+
+https://openai.com/index/introducing-operator/
+> https://news.ycombinator.com/item?id=42806301
+
 https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf Zuckerberg approved training Llama on LibGen
 > https://news.ycombinator.com/item?id=42673628
 

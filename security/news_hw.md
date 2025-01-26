@@ -10,6 +10,13 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://www.bleepingcomputer.com/news/security/new-uefi-secure-boot-flaw-exposes-systems-to-bootkits-patch-now/
+
+https://news.ycombinator.com/item?id=42743033
+
+https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/
+> https://news.ycombinator.com/item?id=42733640
+
 https://media.ccc.de/v/38c3-hacking-the-rp2350
 > https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging
 > > https://news.ycombinator.com/item?id=42599971

@@ -3,6 +3,10 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 #
+https://www.bleepingcomputer.com/news/security/hackers-use-windows-rid-hijacking-to-create-hidden-admin-account/
+
+https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
+
 https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html
 
 https://noinitrd.github.io/Memory-Dump-UEFI/

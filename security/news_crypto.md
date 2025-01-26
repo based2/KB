@@ -1,3 +1,6 @@
+https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/
+> https://news.ycombinator.com/item?id=42747877
+
 https://old.reddit.com/r/netsec/comments/1hc6atd/far_from_random_three_mistakes_from_dartflutters/
 
 https://www.zellic.io/blog/gnark-bug-groth16-commitments/

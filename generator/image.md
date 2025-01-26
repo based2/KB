@@ -11,3 +11,6 @@ https://watabou.github.io/city-generator/?size=15&seed=81810084&greens=0&farms=1
 
 https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/
 > https://news.ycombinator.com/item?id=34064652
+
+https://marian42.de/article/infinite-wfc/
+> https://news.ycombinator.com/item?id=42700483

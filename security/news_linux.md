@@ -53,6 +53,10 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://old.reddit.com/r/netsec/comments/1i1ike5/rce_in_rsync_cve202412084_and_5_more/
+
+https://old.reddit.com/r/netsec/comments/1hvu9d8/smb3_kernel_server_ksmbd_fuzzing_and_vulns/
+
 https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Release
 > https://news.ycombinator.com/item?id=42579472
 

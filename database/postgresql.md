@@ -168,6 +168,8 @@ http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode
 https://telablog.com/postgresql-protect-tables-against-accidental-deletion
 > https://old.reddit.com/r/programming/comments/1b68nmy/postgresql_protect_tables_against_accidental/
 
+https://news.ycombinator.com/item?id=42694732
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production

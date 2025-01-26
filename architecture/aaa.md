@@ -303,6 +303,8 @@ https://news.ycombinator.com/item?id=40161794
 
 https://news.ycombinator.com/item?id=41244423
 
+https://news.ycombinator.com/item?id=42799245
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

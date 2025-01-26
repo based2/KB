@@ -77,6 +77,8 @@ https://news.ycombinator.com/item?id=40057667
 
 https://news.ycombinator.com/item?id=40158558
 
+https://news.ycombinator.com/item?id=42811742
+
 #
 https://news.ycombinator.com/item?id=40186036
 > https://mise.jdx.dev/
@@ -155,6 +157,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=42768990
+
 https://giraffesecurity.dev/posts/amazon-hat-trick/
 
 https://blog.pypi.org/posts/2024-12-30-quarantine/

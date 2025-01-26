@@ -321,7 +321,24 @@ https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-
 https://arxiv.org/abs/2404.01332 Explaining Large Language Models Decisions Using Shapley Values
 > https://news.ycombinator.com/item?id=42527496
 
+https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion
+> https://news.ycombinator.com/item?id=42730126
+
+https://news.ycombinator.com/item?id=42799629
+
 # News
+https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and
+
+https://news.ycombinator.com/item?id=42823568
+
+https://news.ycombinator.com/item?id=42784365
+
+https://news.ycombinator.com/item?id=42768072
+
+https://news.ycombinator.com/item?id=42790820
+
+https://news.ycombinator.com/item?id=42768072
+
 https://news.ycombinator.com/item?id=42660335
 
 https://news.ycombinator.com/item?id=42617645

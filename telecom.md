@@ -153,6 +153,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html
+
 https://news.ycombinator.com/item?id=42615939
 
 https://news.ycombinator.com/item?id=42602673
@@ -304,6 +306,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=42818337
+
+https://news.ycombinator.com/item?id=42767584
+
 https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants
 > https://news.ycombinator.com/item?id=42535622
 

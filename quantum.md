@@ -108,6 +108,10 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://phys.org/news/2025-01-silicon-quantum-dots-chip-electronics.html
+
+https://news.ycombinator.com/item?id=42750264
+
 https://news.ycombinator.com/item?id=42384768
 
 https://blog.google/technology/research/google-willow-quantum-chip/

@@ -38,6 +38,16 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
 #
+https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html
+
+https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-rce-flaw-exploited-in-zero-day-attacks/
+
+https://www.bleepingcomputer.com/news/security/stealthy-magic-packet-malware-targets-juniper-vpn-gateways/
+
+https://old.reddit.com/r/netsec/comments/1hxt46x/do_securebydesign_pledges_come_with_stickers/
+
+https://old.reddit.com/r/netsec/comments/1hzipca/exploitation_walkthrough_and_techniques_ivanti/
+
 https://labs.watchtowr.com/do-secure-by-design-pledges-come-with-stickers-ivanti-connect-secure-rce-cve-2025-0282/
 
 https://news.ycombinator.com/item?id=42632356

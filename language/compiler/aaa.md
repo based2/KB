@@ -143,6 +143,8 @@ https://news.ycombinator.com/item?id=38215535
 
 https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output
 
+https://news.ycombinator.com/item?id=42814683
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592
@@ -151,6 +153,10 @@ https://cvw.cac.cornell.edu/vector/default
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://news.ycombinator.com/item?id=42791036
+
+https://news.ycombinator.com/item?id=42782872
+
 https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data
 
 https://news.ycombinator.com/item?id=42484911

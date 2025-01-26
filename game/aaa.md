@@ -45,7 +45,13 @@ https://news.ycombinator.com/item?id=40635397
 
 https://news.ycombinator.com/item?id=40921989
 
+https://news.ycombinator.com/item?id=42789670
+
 # News
+https://news.ycombinator.com/item?id=42805421
+
+https://news.ycombinator.com/item?id=42737778
+
 https://zty.pe/
 > https://news.ycombinator.com/item?id=42649837
 

@@ -332,6 +332,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://news.ycombinator.com/item?id=42748095
+
 https://registry.terraform.io/providers/MNThomson/dominos/latest/docs
 > https://news.ycombinator.com/item?id=41813358
 

@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=42793597
+
+https://news.ycombinator.com/item?id=42791465
+
 https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and
 
 https://news.ycombinator.com/item?id=42353503

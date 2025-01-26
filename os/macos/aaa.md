@@ -178,6 +178,8 @@ https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook
 
 https://apple.stackexchange.com/questions/308294/what-is-rapportd-and-why-does-it-want-incoming-network-connection
 
+https://news.ycombinator.com/item?id=42813231
+
 # Dev
 https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/
 > https://news.ycombinator.com/item?id=41212193

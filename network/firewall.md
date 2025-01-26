@@ -47,6 +47,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/zyxel-warns-of-bad-signature-update-causing-firewall-boot-loops/
+
+https://old.reddit.com/r/netsec/comments/1i12s72/threat_actors_exploit_a_probable_0day_in_exposed/
+
 https://karmainsecurity.com/hacking-kerio-control-via-cve-2024-52875
 > https://www.bleepingcomputer.com/news/security/hackers-exploit-keriocontrol-firewall-flaw-to-steal-admin-csrf-tokens/
 

@@ -172,6 +172,13 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://news.ycombinator.com/item?id=42816103
+
+https://www.seangoedecke.com/party-tricks/
+> https://news.ycombinator.com/item?id=42818169
+
+https://news.ycombinator.com/item?id=42762962
+
 https://news.ycombinator.com/item?id=42632772
 
 https://news.ycombinator.com/item?id=42559882

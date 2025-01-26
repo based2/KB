@@ -20,12 +20,10 @@ https://outage.sr.ht/
 > https://news.ycombinator.com/item?id=38966035
 > > https://news.ycombinator.com/item?id=38939532
 
-# I
-https://outage.sr.ht/
-> https://news.ycombinator.com/item?id=38966035
-> > https://news.ycombinator.com/item?id=38939532
-
 # News
+https://forgejo.org/
+> https://news.ycombinator.com/item?id=42753523
+
 https://linuxfr.org/news/codeberg-la-forge-en-devenir-pour-les-projets-libres
 
 https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5

@@ -68,6 +68,8 @@ https://developer.apple.com/news/?id=3sgp4ps7 Challenge: Pixel perfect design
 
 https://news.ycombinator.com/item?id=35654621
 
+https://news.ycombinator.com/item?id=42815288
+
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts
 > https://news.ycombinator.com/item?id=27773601

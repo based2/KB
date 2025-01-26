@@ -52,6 +52,8 @@ https://news.ycombinator.com/item?id=39379480
 
 https://news.ycombinator.com/item?id=41417263
 
+https://news.ycombinator.com/item?id=42695040
+
 # REST APIs
 https://github.com/alufers/mitmproxy2swagger
 > https://news.ycombinator.com/item?id=42572662
@@ -68,6 +70,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=42742350
+
 http://www.righto.com/2025/01/pentium-floating-point-ROM.html
 > https://news.ycombinator.com/item?id=42604350
 

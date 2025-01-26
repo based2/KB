@@ -113,3 +113,9 @@ https://news.ycombinator.com/item?id=42378488
 https://news.ycombinator.com/item?id=42484095
 
 https://news.ycombinator.com/item?id=42603188
+
+https://github.com/Pometry/Raphtory
+
+https://news.ycombinator.com/item?id=42798811
+
+https://news.ycombinator.com/item?id=42809990

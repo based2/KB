@@ -67,6 +67,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=42765480
+
 https://news.ycombinator.com/item?id=42391000
 
 https://www.theregister.com/2024/11/29/chinese_boffins_find_way_to/

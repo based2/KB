@@ -80,6 +80,12 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=42773296
+
+https://news.ycombinator.com/item?id=42805431
+
+https://news.ycombinator.com/item?id=42805425
+
 https://github.com/facundoolano/rpg-cli
 
 https://news.ycombinator.com/item?id=41192698

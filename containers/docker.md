@@ -77,6 +77,8 @@ https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://news.ycombinator.com/item?id=42812203
+
 https://medium.com/techlog/diving-into-linux-networking-and-docker-bridge-veth-and-iptables-a05eb27b1e72
 
 https://www.securitynik.com/2016/12/docker-networking-internals-how-docker_16.html

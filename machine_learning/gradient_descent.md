@@ -20,3 +20,5 @@ https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html
 https://blog.research.google/2023/09/re-weighted-gradient-descent-via.html
 
 https://news.ycombinator.com/item?id=42554209
+
+https://news.ycombinator.com/item?id=42803774

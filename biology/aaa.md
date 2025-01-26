@@ -53,6 +53,8 @@ https://news.ycombinator.com/item?id=41007573
 https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/
 > https://news.ycombinator.com/item?id=42558275
 
+https://news.ycombinator.com/item?id=42786627
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

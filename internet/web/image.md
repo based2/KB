@@ -103,6 +103,9 @@ https://pixspeed.com/
 > https://news.ycombinator.com/item?id=41990292
 
 # Photography
+https://snap-scope.shj.rip/?lng=en focal
+> https://news.ycombinator.com/item?id=42813233
+
 https://news.ycombinator.com/item?id=42558037
 
 https://medium.com/@shacker/photography-contradictions-0566b7fce9fc

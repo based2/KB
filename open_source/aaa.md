@@ -54,6 +54,8 @@ https://www.audacityteam.org/
 ## Draw
 https://krita.org/
 
+https://news.ycombinator.com/item?id=42821643
+
 https://www.gimp.org/
 
 https://inkscape.org/
@@ -258,6 +260,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.byran.ee/posts/creation/ Show HN: I made an open-source laptop from scratch
+> https://news.ycombinator.com/item?id=42797260
+
 https://news.ycombinator.com/item?id=42535354
 
 https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/

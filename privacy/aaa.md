@@ -116,6 +116,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://www.bleepingcomputer.com/news/legal/ftc-orders-gm-to-stop-collecting-and-selling-drivers-data/
+
 https://www.heise.de/news/Buergerrechtler-Digitale-Reisepaesse-ermoeglichen-biometrische-Massenueberwachung-10219742.html
 
 https://news.ycombinator.com/item?id=42449823
