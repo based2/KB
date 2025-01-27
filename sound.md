@@ -39,6 +39,8 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://nicole.express/2025/zoo-of-zero-motivation.html .zzm
+
 https://news.ycombinator.com/item?id=42621766
 
 https://news.ycombinator.com/item?id=42235909

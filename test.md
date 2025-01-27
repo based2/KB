@@ -34,6 +34,8 @@ https://stepci.com/
 https://news.ycombinator.com/item?id=41936855
 
 #
+https://news.ycombinator.com/item?id=42830483
+
 https://news.ycombinator.com/item?id=42628934
 
 https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e

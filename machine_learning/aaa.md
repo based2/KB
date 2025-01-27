@@ -623,6 +623,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=42827532
+
 https://www.interconnects.ai/p/deepseek-v3-and-the-actual-cost-of
 
 https://venturebeat.com/ai/why-everyone-in-ai-is-freaking-out-about-deepseek/

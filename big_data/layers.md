@@ -74,6 +74,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=42799388
+
 https://github.com/NVIDIA/nv-ingest
 > https://news.ycombinator.com/item?id=42654019
 

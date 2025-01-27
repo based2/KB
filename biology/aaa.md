@@ -74,6 +74,8 @@ https://www.nature.com/articles/s41592-024-02523-z Nucleotide Transformer: build
 > https://news.ycombinator.com/item?id=42291315
 
 # News
+https://news.ycombinator.com/item?id=42805777
+
 https://news.ycombinator.com/item?id=42588828
 
 https://www.quantamagazine.org/scientists-re-create-the-microbial-dance-that-sparked-complex-life-20250102/

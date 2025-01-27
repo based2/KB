@@ -114,6 +114,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=42831509
+
+https://news.ycombinator.com/item?id=42826589
+
 https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/
 
 https://www.theregister.com/2024/12/18/xfce_420_is_out/
