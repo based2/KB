@@ -28,6 +28,8 @@ https://news.ycombinator.com/item?id=39588977
 https://github.com/IQEngine/WebFFT
 > https://news.ycombinator.com/item?id=42824599
 
+https://news.ycombinator.com/item?id=42807387
+
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280

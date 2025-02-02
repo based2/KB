@@ -12,7 +12,10 @@ https://oauth.net/2/pkce/
 # Vendors
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
-# Incident
+# Incidents
+https://salt.security/blog/api-supply-chain-attacks---the-skys-the-limit
+> https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html
+
 https://status.squarespace.com/incidents/cw2wf55bps15
 
 https://www.microsoft.com/en-us/security/blog/2023/12/12/threat-actors-misuse-oauth-applications-to-automate-financially-driven-attacks/

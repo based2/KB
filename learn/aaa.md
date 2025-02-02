@@ -14,6 +14,8 @@ https://apps.ankiweb.net/
 
 https://github.com/AlexW00/anki-patcher
 
+https://news.ycombinator.com/item?id=42908041
+
 https://news.ycombinator.com/item?id=36981730
 
 https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html Anki SRS Algorithm : Spaced repetition explained with code

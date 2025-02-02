@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # I
+https://www.bleepingcomputer.com/news/security/solana-pumpfun-tool-dogwiftool-compromised-to-drain-wallets/
+
 https://www.bleepingcomputer.com/news/security/cryptocurrency-wallet-drainers-stole-494-million-in-2024/
 
 https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/

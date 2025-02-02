@@ -34,6 +34,11 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://news.ycombinator.com/item?id=42889465
+
+https://github.com/egurapha/Shunpo
+> https://news.ycombinator.com/item?id=42835798
+
 https://brennan.io/2015/01/16/write-a-shell-in-c/
 > https://news.ycombinator.com/item?id=42517303
 

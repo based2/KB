@@ -62,3 +62,5 @@ https://news.ycombinator.com/item?id=40071898
 https://news.ycombinator.com/item?id=40276112
 
 https://tweedegolf.nl/en/blog/88/data-oriented-design
+
+https://news.ycombinator.com/item?id=42907139

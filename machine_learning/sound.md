@@ -222,6 +222,8 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://news.ycombinator.com/item?id=42867314
+
 https://news.ycombinator.com/item?id=42289233
 
 https://underjord.io/voice-activity-detection-elixir-membrane.html

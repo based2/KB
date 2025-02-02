@@ -377,6 +377,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=42878450
+
 https://news.ycombinator.com/item?id=42589629
 
 https://jerf.org/iri/post/2025/programming_language_ideas/

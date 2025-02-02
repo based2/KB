@@ -197,6 +197,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp
+> https://old.reddit.com/r/netsec/comments/1idvdv5/the_slow_death_of_ocsp/
+
 https://github.com/lexiforest/curl-impersonate
 > https://news.ycombinator.com/item?id=42547820
 

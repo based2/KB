@@ -439,6 +439,10 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://security.snyk.io/vuln/SNYK-PYTHON-LLAMASTACK-8302915
+> https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html
+> In scenarios where the ZeroMQ socket is exposed over the network, attackers could exploit this vulnerability by sending crafted malicious objects to the socket," Lumelsky said. "Since recv_pyobj will unpickle these objects, an attacker could achieve arbitrary code execution (RCE) on the host machine.
+
 https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/
 > https://news.ycombinator.com/item?id=42351722
 
@@ -623,6 +627,18 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://mlip-cmu.github.io/s2025/ Machine Learning in Production - CMU Course
+> https://news.ycombinator.com/item?id=42847834
+
+https://news.ycombinator.com/item?id=42866201
+
+https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html
+> https://news.ycombinator.com/item?id=42877709
+
+https://news.ycombinator.com/item?id=42841524
+
+https://news.ycombinator.com/item?id=42841524
+
 https://news.ycombinator.com/item?id=42827532
 
 https://www.interconnects.ai/p/deepseek-v3-and-the-actual-cost-of

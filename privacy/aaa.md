@@ -116,6 +116,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://thehackernews.com/2025/01/italy-bans-chinese-deepseek-ai-over.html
+
+https://news.ycombinator.com/item?id=42909921
+
 https://news.ycombinator.com/item?id=42829317
 
 https://www.bleepingcomputer.com/news/legal/ftc-orders-gm-to-stop-collecting-and-selling-drivers-data/

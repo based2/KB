@@ -27,6 +27,8 @@ https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest
 https://en.wikipedia.org/wiki/Spin_isomers_of_hydrogen
 
 # News
+https://news.ycombinator.com/item?id=42851782
+
 https://news.ycombinator.com/item?id=42829795
 
 https://news.ycombinator.com/item?id=41406669

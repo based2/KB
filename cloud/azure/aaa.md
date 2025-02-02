@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+http://admin.microsoft.com/#/MessageCenter/:/messages/MO991872
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-microsoft-365-outage-affecting-users-admins/
+
 https://news.ycombinator.com/item?id=42516991
 
 https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass

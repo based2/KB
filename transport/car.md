@@ -33,6 +33,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://news.ycombinator.com/item?id=42870056
+
 https://www.genivi.org/
 
 https://news.ycombinator.com/item?id=42571460

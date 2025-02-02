@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42899703
+
 https://mjtsai.com/blog/2024/12/17/issues-adopting-swift-testing/
 
 https://news.ycombinator.com/item?id=40697992

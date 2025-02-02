@@ -71,6 +71,9 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/
+> https://news.ycombinator.com/item?id=42906757
+
 https://news.ycombinator.com/item?id=42776029
 
 https://news.ycombinator.com/item?id=42610234

@@ -136,6 +136,8 @@ https://www.maxlaumeister.com/tonematrix/
 https://news.ycombinator.com/item?id=38892685
 
 ## MIDI
+https://news.ycombinator.com/item?id=42865611
+
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084
 
@@ -152,6 +154,8 @@ https://news.ycombinator.com/item?id=40954679
 https://news.ycombinator.com/item?id=41987352
 
 #
+https://news.ycombinator.com/item?id=42907765
+
 https://matthew-bird.com/blogs/Audio-Decomposition.html open-source separation of music to constituent instruments
 > https://news.ycombinator.com/item?id=42098491
 

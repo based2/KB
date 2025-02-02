@@ -7,6 +7,9 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-breakthrough-bypasses-industry-standard-cuda-uses-assembly-like-ptx-programming-instead
+> https://news.ycombinator.com/item?id=42859909
+
 https://news.ycombinator.com/item?id=42588666
 
 https://news.ycombinator.com/item?id=42528216

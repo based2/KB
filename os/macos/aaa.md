@@ -180,7 +180,12 @@ https://apple.stackexchange.com/questions/308294/what-is-rapportd-and-why-does-i
 
 https://news.ycombinator.com/item?id=42813231
 
+pfctl: failed to create table __automatic_fb0507e4_0 in : Resource busy
+pfctl: DIOCXCOMMIT: Resource busy
+
 # Dev
+https://news.ycombinator.com/item?id=42908061
+
 https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/
 > https://news.ycombinator.com/item?id=41212193
 

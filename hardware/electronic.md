@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 # News
+https://news.ycombinator.com/item?id=42830948
+
 https://news.ycombinator.com/item?id=42590337
 
 https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols

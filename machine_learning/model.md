@@ -327,6 +327,26 @@ https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-ar
 https://news.ycombinator.com/item?id=42799629
 
 # News
+https://github.com/Om-Alve/smolGPT
+> https://news.ycombinator.com/item?id=42868770
+
+https://news.ycombinator.com/item?id=42868271
+
+https://news.ycombinator.com/item?id=42897205
+
+https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1
+
+https://news.ycombinator.com/item?id=42905453
+
+https://news.ycombinator.com/item?id=42868271
+
+https://news.ycombinator.com/item?id=42877860
+
+https://arcprize.org/blog/r1-zero-r1-results-analysis
+> https://news.ycombinator.com/item?id=42868390
+
+https://www.philschmid.de/deepseek-r1
+
 https://news.ycombinator.com/item?id=42831769
 
 https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and

@@ -149,6 +149,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/GyulyVGC/sniffnet
+> https://news.ycombinator.com/item?id=42909530
+
 https://news.ycombinator.com/item?id=42756365
 
 https://news.ycombinator.com/item?id=42600846 nat

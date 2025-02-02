@@ -38,6 +38,12 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
 #
+https://thehackernews.com/2025/01/critical-cacti-security-flaw-cve-2025.html
+
+https://www.bleepingcomputer.com/news/technology/garmin-gps-watches-crashing-stuck-in-triangle-reboot-loop/
+
+https://www.bleepingcomputer.com/news/security/hackers-exploiting-flaws-in-simplehelp-rmm-to-breach-networks/
+
 https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html
 
 https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-rce-flaw-exploited-in-zero-day-attacks/

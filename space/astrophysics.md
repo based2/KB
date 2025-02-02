@@ -75,6 +75,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=42888326
+
 https://news.ycombinator.com/item?id=42595190
 
 https://news.ycombinator.com/item?id=42566748

@@ -278,6 +278,8 @@ https://circos.ca/
 https://zeppelin.apache.org/
 > https://news.ycombinator.com/item?id=41431888
 
+https://news.ycombinator.com/item?id=42897120 isbn
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -365,6 +367,11 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://github.com/mathesar-foundation/mathesar
+> https://news.ycombinator.com/item?id=42873312
+
+https://news.ycombinator.com/item?id=42881367
+
 https://accumulo.apache.org/blog/2024/10/07/accumulo4-preview.html
 
 https://github.com/MinishLab/semhash SemHash – Fast Semantic Text Deduplication for Cleaner Datasets

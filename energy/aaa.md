@@ -19,6 +19,10 @@ https://www.rte-france.com/eco2mix
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=42892258
+
+https://news.ycombinator.com/item?id=42902624
+
 https://www.lightcellenergy.com/
 > https://news.ycombinator.com/item?id=42697001
 

@@ -3,6 +3,8 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 #
+https://news.ycombinator.com/item?id=42865018
+
 https://www.bleepingcomputer.com/news/security/hackers-use-windows-rid-hijacking-to-create-hidden-admin-account/
 
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/

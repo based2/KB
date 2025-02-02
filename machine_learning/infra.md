@@ -2,7 +2,11 @@ https://www.alteryx.com
 
 https://ollama.com
 
+https://github.com/containers/ramalama
+> https://news.ycombinator.com/item?id=42887939
+
 https://www.raycast.com/massimiliano_pasquini/raycast-ollama
+
 
 # k8s
 

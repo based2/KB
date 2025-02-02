@@ -1,4 +1,15 @@
+https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf
+
+https://www.sonarsource.com/blog/the-tainted-voyage-uncovering-voyagers-vulnerabilities/
+
+https://www.fda.gov/medical-devices/safety-communications/cybersecurity-vulnerabilities-certain-patient-monitors-contec-and-epsimed-fda-safety-communication
+
+https://www.cisa.gov/sites/default/files/2025-01/fact-sheet-contec-cms8000-contains-a-backdoor-508c.pdf
+> https://www.bleepingcomputer.com/news/security/backdoor-found-in-two-healthcare-patient-monitors-linked-to-ip-in-china/
+
 https://news.ycombinator.com/item?id=42796496
+
+https://cside.dev/blog/government-and-university-websites-targeted-in-scriptapi-dev-client-side-attack
 
 https://www.bleepingcomputer.com/news/security/7-zip-fixes-bug-that-bypasses-the-windows-motw-security-mechanism-patch-now/
 

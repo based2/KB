@@ -40,7 +40,7 @@ https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/
 https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/
 > https://news.ycombinator.com/item?id=28382585
 
-# Incident
+# Incidents
 https://www.bleepingcomputer.com/news/security/ipany-vpn-breached-in-supply-chain-attack-to-push-custom-malware/
 
 https://blog.amberwolf.com/blog/2024/november/introducing-nachovpn---one-vpn-server-to-pwn-them-all/
@@ -114,7 +114,6 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 
 https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
 
-# I
 https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/
 
 https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
@@ -141,6 +140,8 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://news.ycombinator.com/item?id=42870625
+
 https://news.ycombinator.com/item?id=42542576
 
 https://news.ycombinator.com/item?id=42390768

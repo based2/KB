@@ -74,6 +74,11 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=42893844
+
+https://duckdb.org/2025/01/22/parquet-encodings.html
+> https://news.ycombinator.com/item?id=42866421
+
 https://news.ycombinator.com/item?id=42799388
 
 https://github.com/NVIDIA/nv-ingest

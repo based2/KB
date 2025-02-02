@@ -3,6 +3,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 #
+https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
+> https://www.bleepingcomputer.com/news/security/cloudflare-cdn-flaw-leaks-user-location-data-even-through-secure-chat-apps/
+
 https://blog.cloudflare.com/cloudflare-incident-on-september-17-2024/
 
 https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8

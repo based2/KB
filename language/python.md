@@ -220,6 +220,8 @@ https://github.com/microsoft/pyright
 https://bernsteinbear.com/blog/typed-python/
 > https://news.ycombinator.com/item?id=36408248
 
+https://news.ycombinator.com/item?id=42868576
+
 # Security
 https://pypi.org/project/pip-audit/
 
