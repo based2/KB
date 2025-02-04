@@ -17,6 +17,8 @@ https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-
 > https://news.ycombinator.com/item?id=41437611
 
 #
+https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/
+
 https://predictors.fail/
 > https://news.ycombinator.com/item?id=42856023
 
