@@ -163,6 +163,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://lobste.rs/s/89h9eb/html_whitespace_is_broken
+
 https://news.ycombinator.com/item?id=42823722
 
 https://alexanderpetros.com/triptych/

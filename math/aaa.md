@@ -194,7 +194,15 @@ https://news.ycombinator.com/item?id=42493464
 https://www.ams.org/notices/202501/rnoti-p6.pdf Machine-Assisted Proof by Terence Tao
 > https://news.ycombinator.com/item?id=42529023
 
+https://news.ycombinator.com/item?id=42969892
+
+https://news.ycombinator.com/item?id=42967173
+
 # News
+https://news.ycombinator.com/item?id=42942204
+
+https://news.ycombinator.com/item?id=42939312
+
 https://news.ycombinator.com/item?id=42816133
 
 https://news.ycombinator.com/item?id=42810103

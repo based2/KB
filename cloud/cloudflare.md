@@ -3,6 +3,10 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 #
+https://www.bleepingcomputer.com/news/security/cloudflare-outage-caused-by-botched-blocking-of-phishing-url/
+
+https://lobste.rs/s/5m5rb6/cloudflare_incident_on_february_6_2025
+
 https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
 > https://www.bleepingcomputer.com/news/security/cloudflare-cdn-flaw-leaks-user-location-data-even-through-secure-chat-apps/
 

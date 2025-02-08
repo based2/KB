@@ -249,6 +249,11 @@ https://godview.ai/
 > https://news.ycombinator.com/item?id=42519562
 
 # News
+https://news.ycombinator.com/item?id=42975803
+
+https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html
+> https://news.ycombinator.com/item?id=42982015
+
 https://twitter.com/spatiallyjess/status/1871342549958537326
 > https://news.ycombinator.com/item?id=42501102
 > > https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/

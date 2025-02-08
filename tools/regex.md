@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://github.com/c0stya/trre Transductive regular expressions for text editing
+> https://news.ycombinator.com/item?id=42974378
+
 https://news.ycombinator.com/item?id=42619652
 
 https://news.ycombinator.com/item?id=40402986

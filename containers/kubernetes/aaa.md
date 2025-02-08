@@ -75,6 +75,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incidents
+https://www.aquasec.com/blog/risks-misconfigured-kubernetes-policy-engines-opa-gatekeeper/
+
 https://www.evasec.io/blog/argo-workflows-uncovering-the-hidden-misconfigurations
 
 https://www.armosec.io/blog/cve-2024-7646-ingress-nginx-annotation-validation-bypass/

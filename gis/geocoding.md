@@ -26,6 +26,8 @@ https://news.ycombinator.com/item?id=41326604
 
 https://news.ycombinator.com/item?id=42413464
 
+https://news.ycombinator.com/item?id=42974728
+
 # Reverse
 https://github.com/thampiman/reverse-geocoder
 > https://news.ycombinator.com/item?id=9281222

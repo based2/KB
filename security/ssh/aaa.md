@@ -132,7 +132,7 @@ https://github.com/MegaManSec/SSH-Snake
 > https://news.ycombinator.com/item?id=38883094
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
-# Incident
+# Incidents
 https://i.blackhat.com/BH-US-24/Presentations/REVISED02-US24_Moore_Secure_Shells_in_Shambles_Wednesday.pdf
 > https://news.ycombinator.com/item?id=41213064
 
@@ -185,6 +185,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://fly.io/blog/vscode-ssh-wtf/
+> https://news.ycombinator.com/item?id=42979467
+
 https://news.ycombinator.com/item?id=42365772
 
 https://news.ycombinator.com/item?id=42251958

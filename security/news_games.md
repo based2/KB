@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://www.bleepingcomputer.com/news/security/ddos-attacks-reportedly-behind-dayz-and-arma-network-outages/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-assassins-creed-windows-11-upgrade-blocks/
 
 https://www.bleepingcomputer.com/news/security/stolen-path-of-exile-2-admin-account-used-to-hack-player-accounts/

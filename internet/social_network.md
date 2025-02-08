@@ -178,6 +178,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://usetapestry.com/
+> https://news.ycombinator.com/item?id=42936650
+
 https://news.ycombinator.com/item?id=42891148
 
 https://news.ycombinator.com/item?id=42839502

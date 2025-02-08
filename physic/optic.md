@@ -1,5 +1,7 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://phys.org/news/2025-02-photon-lidar-3d-images-distances.html
+
 https://smoothbrains.net/posts/2024-09-26-hypercomputation-without-bothering-the-cactus-people.html
 > https://news.ycombinator.com/item?id=41664550
 

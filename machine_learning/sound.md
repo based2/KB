@@ -179,6 +179,9 @@ https://github.com/huggingface/distil-whisper
 
 https://news.ycombinator.com/item?id=42208964
 
+https://huggingface.co/spaces/webml-community/kokoro-webgpu
+> https://news.ycombinator.com/item?id=42973769
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

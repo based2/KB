@@ -71,6 +71,11 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.theguardian.com/environment/2025/feb/04/climate-change-target-of-2c-is-dead-says-renowned-climate-scientist
+
+https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494
+> https://news.ycombinator.com/item?id=42976708
+
 https://news.ycombinator.com/item?id=42589112
 
 https://phys.org/news/2024-12-ceramics-bacteria-gas-carbon-capture.amp

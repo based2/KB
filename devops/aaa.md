@@ -120,6 +120,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://news.ycombinator.com/item?id=42947912
+
 https://www.bleepingcomputer.com/news/technology/major-github-outage-affects-pull-requests-and-other-services/
 
 https://www.bleepingcomputer.com/news/technology/bitbucket-services-hard-down-due-to-major-worldwide-outage/

@@ -84,6 +84,8 @@ https://www.anthropic.com/research/claude-character
 https://news.ycombinator.com/item?id=42784373
 
 # News
+https://news.ycombinator.com/item?id=42936085
+
 https://github.com/ggml-org/llama.vim
 > https://news.ycombinator.com/item?id=42806328
 

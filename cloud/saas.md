@@ -44,4 +44,7 @@ https://news.ycombinator.com/item?id=41399859
 
 https://news.ycombinator.com/item?id=41426998
 
+https://kagi.com/changelog#6155 Fair Pricing
+> https://news.ycombinator.com/item?id=42944371
+
 

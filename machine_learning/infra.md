@@ -91,6 +91,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=42979986
+
 https://news.ycombinator.com/item?id=42795375
 
 https://github.com/lightpanda-io/browser

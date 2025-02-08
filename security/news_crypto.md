@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=42955176
+
 https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/
 > https://news.ycombinator.com/item?id=42747877
 

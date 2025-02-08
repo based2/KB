@@ -308,6 +308,8 @@ https://github.com/mlc-ai/web-llm
 > https://news.ycombinator.com/item?id=35583349
 
 # Legal
+https://news.ycombinator.com/item?id=42916849
+
 https://news.ycombinator.com/item?id=38373191
 
 https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination
@@ -337,6 +339,8 @@ https://news.ycombinator.com/item?id=40515620
 https://news.ycombinator.com/item?id=40708720
 
 https://news.ycombinator.com/item?id=40919253
+
+https://news.ycombinator.com/item?id=42971446
 
 # History
 https://news.ycombinator.com/item?id=28343118
@@ -627,6 +631,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://abeljansma.nl/2025/01/28/mereoPhysics.html
+> https://news.ycombinator.com/item?id=42948642
+> > https://en.wikipedia.org/wiki/Incidence_algebra
+
+https://news.ycombinator.com/item?id=42921493
+
+https://news.ycombinator.com/item?id=42915901
+
 https://mlip-cmu.github.io/s2025/ Machine Learning in Production - CMU Course
 > https://news.ycombinator.com/item?id=42847834
 

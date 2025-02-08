@@ -168,6 +168,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=42983699
+
 https://news.ycombinator.com/item?id=42901616
 
 https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/

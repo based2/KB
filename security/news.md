@@ -1,3 +1,7 @@
+https://old.reddit.com/r/netsec/comments/1ihf6qt/8_million_requests_later_we_made_the_solarwinds/
+
+https://news.ycombinator.com/item?id=42967474
+
 https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf
 
 https://www.sonarsource.com/blog/the-tainted-voyage-uncovering-voyagers-vulnerabilities/

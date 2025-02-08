@@ -546,6 +546,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://www.theregister.com/2025/02/05/mixing_rust_and_c_linux/?td=rt-3a
+
 https://news.ycombinator.com/item?id=42836370
 
 https://news.ycombinator.com/item?id=42812641

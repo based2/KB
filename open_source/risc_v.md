@@ -13,6 +13,11 @@ https://arxiv.org/abs/2308.02945
 https://github.com/chipsalliance/riscv-dv
 
 # News
+https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html
+> https://opentitan.org/
+
+https://news.ycombinator.com/item?id=42917135
+
 https://news.ycombinator.com/item?id=42891937
 
 https://news.ycombinator.com/item?id=42793580

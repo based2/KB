@@ -126,6 +126,8 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://news.ycombinator.com/item?id=42922289
+
 https://news.ycombinator.com/item?id=42888195
 
 https://computer.tldraw.com

@@ -326,7 +326,23 @@ https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-ar
 
 https://news.ycombinator.com/item?id=42799629
 
+https://news.ycombinator.com/item?id=42960989
+
+https://news.ycombinator.com/item?id=42979901
+
 # News
+https://timkellogg.me/blog/2025/02/03/s1
+> https://news.ycombinator.com/item?id=42946854
+
+https://magazine.sebastianraschka.com/p/understanding-reasoning-llms
+> https://news.ycombinator.com/item?id=42966720
+
+https://news.ycombinator.com/item?id=42952960
+
+https://news.ycombinator.com/item?id=42950454
+
+https://news.ycombinator.com/item?id=42952605
+
 https://github.com/Om-Alve/smolGPT
 > https://news.ycombinator.com/item?id=42868770
 

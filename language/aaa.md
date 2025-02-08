@@ -377,6 +377,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/sharkdp/numbat
+
 https://news.ycombinator.com/item?id=42878450
 
 https://news.ycombinator.com/item?id=42589629
