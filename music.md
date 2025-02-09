@@ -274,6 +274,9 @@ https://github.com/jcard0na/haxo-hw
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks for fundamentals of music processing
 > https://news.ycombinator.com/item?id=40550830
 
+# ML
+https://news.ycombinator.com/item?id=42993661
+
 # I
 https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349

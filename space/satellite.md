@@ -41,6 +41,8 @@ https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assi
 
 https://www.visualcapitalist.com/cp/space-debris-by-country/
 
+https://www.bortzmeyer.org/9717.html
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

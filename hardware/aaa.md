@@ -81,6 +81,8 @@ https://arstechnica.com/gadgets/2022/12/corsair-says-bug-not-keylogger-behind-so
 https://fluxkeyboard.com/
 > https://news.ycombinator.com/item?id=35083665
 
+https://news.ycombinator.com/item?id=42991019
+
 # Mouse
 https://github.com/madprops/blog/blob/main/mouse.md
 > https://news.ycombinator.com/item?id=34739163

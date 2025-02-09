@@ -501,6 +501,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://news.ycombinator.com/item?id=42984420
+
 https://old.reddit.com/r/MacOS/comments/1hca5ap/how_do_i_remove_apple_intelligence_permanently/
 
 https://news.ycombinator.com/item?id=42413757

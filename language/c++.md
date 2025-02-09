@@ -71,6 +71,8 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://news.ycombinator.com/item?id=42946321
+
 https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/
 > https://news.ycombinator.com/item?id=42983733
 

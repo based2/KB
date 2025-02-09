@@ -8,6 +8,8 @@ https://microformats.org/wiki/Main_Page
 > https://news.ycombinator.com/item?id=32643152
 
 # images
+https://www.bortzmeyer.org/9649.html webp
+
 https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going
 > https://news.ycombinator.com/item?id=36801448
 

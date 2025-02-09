@@ -65,7 +65,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://news.ycombinator.com/item?id=29078403
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
-# Incident
+# Incidents
+https://www.bleepingcomputer.com/news/security/amazon-redshift-gets-new-default-settings-to-prevent-data-breaches/
+
 https://giraffesecurity.dev/posts/amazon-hat-trick/
 > https://old.reddit.com/r/netsec/comments/1htcd4h/aws_introduced_same_rce_vulnerability_three_times/
 

@@ -79,6 +79,8 @@ https://news.ycombinator.com/item?id=40158558
 
 https://news.ycombinator.com/item?id=42811742
 
+https://news.ycombinator.com/item?id=42992345
+
 #
 https://news.ycombinator.com/item?id=40186036
 > https://mise.jdx.dev/

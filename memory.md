@@ -1,3 +1,6 @@
+https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/
+> https://news.ycombinator.com/item?id=42962020
+
 https://news.ycombinator.com/item?id=25622322 ECC matters
 
 https://google.github.io/tcmalloc/temeraire.html Téméraire

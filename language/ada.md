@@ -70,6 +70,11 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced
+> https://news.ycombinator.com/item?id=42993086
+
+https://news.ycombinator.com/item?id=42986149
+
 https://news.ycombinator.com/item?id=42681917
 
 https://nytpu.com/gemlog/2024-12-27 Ada's dependent types, and its types as a whole

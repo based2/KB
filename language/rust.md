@@ -480,6 +480,10 @@ https://news.ycombinator.com/item?id=37869597
 
 https://news.ycombinator.com/item?id=39440808
 
+https://news.ycombinator.com/item?id=42962020
+
+https://github.com/Speykious/cve-rs
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -546,6 +550,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=42984457
+
 https://www.theregister.com/2025/02/05/mixing_rust_and_c_linux/?td=rt-3a
 
 https://news.ycombinator.com/item?id=42836370

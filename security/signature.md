@@ -10,6 +10,11 @@ https://github.com/sigstore/rekor Software Supply Chain Transparency Log
 https://openssf.org/press-release/2022/10/25/sigstore-announces-general-availability-at-sigstorecon/
 
 #
+https://news.ycombinator.com/item?id=42990948
+
+https://www.bortzmeyer.org/9421.html RFC 9421: HTTP Message Signatures
+> https://blog.valerauko.net/2024/12/08/http-signatures-are-rfc/
+
 https://hearsum.ca/posts/history-of-code-signing-at-mozilla/
 
 https://news.ycombinator.com/item?id=42417397

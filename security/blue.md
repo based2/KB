@@ -1,3 +1,5 @@
+https://devblogs.microsoft.com/powershell/powershell-the-blue-team/
+
 https://github.com/cisagov/RedEye
 
 https://docs.crowdsec.net/docs/intro

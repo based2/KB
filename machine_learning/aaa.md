@@ -443,6 +443,11 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://news.ycombinator.com/item?id=42971446
+
+https://chiraaggohel.com/posts/llms-eda/ Are LLMs able to notice the “gorilla in the data”?
+> https://news.ycombinator.com/item?id=42950976
+
 https://security.snyk.io/vuln/SNYK-PYTHON-LLAMASTACK-8302915
 > https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html
 > In scenarios where the ZeroMQ socket is exposed over the network, attackers could exploit this vulnerability by sending crafted malicious objects to the socket," Lumelsky said. "Since recv_pyobj will unpickle these objects, an attacker could achieve arbitrary code execution (RCE) on the host machine.
@@ -631,6 +636,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://thebullshitmachines.com/
+> https://news.ycombinator.com/item?id=42989320
+
+https://news.ycombinator.com/item?id=42992643
+
+https://news.ycombinator.com/item?id=42993987
+
 https://abeljansma.nl/2025/01/28/mereoPhysics.html
 > https://news.ycombinator.com/item?id=42948642
 > > https://en.wikipedia.org/wiki/Incidence_algebra

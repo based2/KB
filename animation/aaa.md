@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=42986320
+
+https://news.ycombinator.com/item?id=42961868
+
+https://news.ycombinator.com/item?id=42961572
+
 https://acko.net/blog/subpixel-distance-transform/
 >
 

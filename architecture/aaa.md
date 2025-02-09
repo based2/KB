@@ -320,6 +320,14 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://brooker.co.za/blog/2025/02/04/versioning.html Versioning versus Coordination
+> https://news.ycombinator.com/item?id=42958542
+
+https://news.ycombinator.com/item?id=42961855
+
+https://www.bortzmeyer.org/9621.html RFC 9621: Architecture and Requirements for Transport Services - taps
+> https://datatracker.ietf.org/wg/taps/documents/
+
 https://news.ycombinator.com/item?id=42928186
 
 https://news.ycombinator.com/item?id=42970240

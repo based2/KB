@@ -330,7 +330,15 @@ https://news.ycombinator.com/item?id=42960989
 
 https://news.ycombinator.com/item?id=42979901
 
+https://arxiv.org/abs/2502.03387 LIMO: Less Is More for Reasoning
+> https://news.ycombinator.com/item?id=42991676
+
+https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers
+> https://news.ycombinator.com/item?id=42969100
+
 # News
+https://news.ycombinator.com/item?id=42936723 WikiTok
+
 https://timkellogg.me/blog/2025/02/03/s1
 > https://news.ycombinator.com/item?id=42946854
 

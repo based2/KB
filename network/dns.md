@@ -55,6 +55,8 @@ https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf
 
 https://blog.apnic.net/2024/05/28/calling-time-on-dnssec/
 
+https://www.bortzmeyer.org/9718.html
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times
@@ -104,6 +106,8 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-issues-urgent-dev-warn
 
 https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/
 > https://news.ycombinator.com/item?id=41510252
+
+https://www.bortzmeyer.org/dns-afrinic-stale.html
 
 https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/
 
@@ -163,6 +167,10 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://www.bortzmeyer.org/9549.html
+
+https://www.bortzmeyer.org/9715.html
+
 https://news.ycombinator.com/item?id=42793783
 
 https://blog.cloudflare.com/topaz-policy-engine-design/ Preventing conflicts in authoritative DNS config using formal verification

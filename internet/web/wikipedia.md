@@ -58,6 +58,8 @@ https://www.404media.co/russia-clones-wikipedia-censors-it-bans-original/
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://news.ycombinator.com/item?id=42992194
+
 https://news.ycombinator.com/item?id=42377770
 
 https://news.ycombinator.com/item?id=41745591

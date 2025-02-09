@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=42989628
+
 https://lumon-industries.com/
 > https://news.ycombinator.com/item?id=42902691
 

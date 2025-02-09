@@ -29,13 +29,14 @@ https://www.amiunique.org/
 
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
 
-# I
+# Incidents
 https://news.ycombinator.com/item?id=42780816
 
 https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://www.bleepingcomputer.com/news/software/brave-now-lets-you-inject-custom-javascript-to-tweak-websites/
 
 https://news.ycombinator.com/item?id=42583726
 

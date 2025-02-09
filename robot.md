@@ -18,6 +18,8 @@ https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-rive
 > https://news.ycombinator.com/item?id=36744135
 
 # Drone
+https://www.aiaa.org/news/news/2025/02/03/pipistrel-flight-tests-nuuva-v300-hybrid-electric-vtol
+
 https://news.ycombinator.com/item?id=42617825
 
 https://news.ycombinator.com/item?id=42498648
