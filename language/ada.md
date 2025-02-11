@@ -70,6 +70,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://news.ycombinator.com/item?id=42998061
+
 https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced
 > https://news.ycombinator.com/item?id=42993086
 

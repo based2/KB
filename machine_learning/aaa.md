@@ -636,6 +636,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.anthropic.com/news/the-anthropic-economic-index
+> https://news.ycombinator.com/item?id=43000529
+
 https://thebullshitmachines.com/
 > https://news.ycombinator.com/item?id=42989320
 

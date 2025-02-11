@@ -249,6 +249,8 @@ https://godview.ai/
 > https://news.ycombinator.com/item?id=42519562
 
 # News
+https://news.ycombinator.com/item?id=43001688
+
 https://news.ycombinator.com/item?id=42975803
 
 https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html
