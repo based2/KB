@@ -153,6 +153,9 @@ https://cvw.cac.cornell.edu/vector/default
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://bernsteinbear.com/blog/ssa/
+> https://news.ycombinator.com/item?id=43009952
+
 https://news.ycombinator.com/item?id=42791036
 
 https://news.ycombinator.com/item?id=42782872

@@ -336,6 +336,8 @@ https://www.reddit.com/r/java/comments/xesout/eclipse_202209_java_ide_improvemen
 ## IntelliJ
 https://www.jetbrains.com/en/idea/
 
+https://news.ycombinator.com/item?id=43015387
+
 ## Visual Studio
 https://vscodium.com/
 > https://news.ycombinator.com/item?id=31604932

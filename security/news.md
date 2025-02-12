@@ -1,3 +1,5 @@
+https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/
+
 https://old.reddit.com/r/netsec/comments/1ihf6qt/8_million_requests_later_we_made_the_solarwinds/
 
 https://news.ycombinator.com/item?id=42967474

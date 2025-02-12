@@ -320,6 +320,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=43004334
+
 https://news.ycombinator.com/item?id=42990546
 
 https://brooker.co.za/blog/2025/02/04/versioning.html Versioning versus Coordination

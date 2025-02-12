@@ -33,6 +33,9 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla
+> https://news.ycombinator.com/item?id=43016931
+
 https://news.ycombinator.com/item?id=42979770
 
 https://news.ycombinator.com/item?id=42870056

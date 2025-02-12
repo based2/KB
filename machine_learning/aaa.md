@@ -308,6 +308,8 @@ https://github.com/mlc-ai/web-llm
 > https://news.ycombinator.com/item?id=35583349
 
 # Legal
+https://news.ycombinator.com/item?id=43018251
+
 https://news.ycombinator.com/item?id=42916849
 
 https://news.ycombinator.com/item?id=38373191

@@ -54,6 +54,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://rust-for-linux.com/rust-kernel-policy
+> https://news.ycombinator.com/item?id=42998375
+
 https://unixism.net/loti/index.html
 > https://news.ycombinator.com/item?id=42608436
 
