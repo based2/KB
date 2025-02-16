@@ -98,6 +98,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=43048261 SUSE
+
 https://news.ycombinator.com/item?id=42982270
 
 https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd

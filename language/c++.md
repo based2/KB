@@ -71,6 +71,8 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://news.ycombinator.com/item?id=43007336
+
 https://news.ycombinator.com/item?id=43006536
 
 https://news.ycombinator.com/item?id=42946321

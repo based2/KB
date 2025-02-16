@@ -74,7 +74,9 @@ https://pgp.governikus.de/?lang=EN
 https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
-#
+# Incidents
+https://news.ycombinator.com/item?id=42992368
+
 https://news.ycombinator.com/item?id=41818459
 
 https://www.blastradius.fail/attack-details

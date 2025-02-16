@@ -52,6 +52,9 @@ https://github.com/cr0hn/dockerfile-security
 https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 > https://news.ycombinator.com/item?id=27359081
 
+# ML
+https://github.com/duaraghav8/dockershrink
+
 #
 https://github.com/iximiuz/docker-to-linux
 

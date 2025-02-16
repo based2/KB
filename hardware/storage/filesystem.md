@@ -80,6 +80,9 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://filename.systems/en/ Description Language for managing file/folder naming conventions
+> https://news.ycombinator.com/item?id=42995848
+
 https://news.ycombinator.com/item?id=42773296
 
 https://news.ycombinator.com/item?id=42805431

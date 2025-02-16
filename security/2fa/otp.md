@@ -69,6 +69,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html
+> https://news.ycombinator.com/item?id=43006950
+
 https://news.ycombinator.com/item?id=42472033
 
 https://igventurelli.io/advanced-oauth2-refresh-tokens-and-token-expiration-strategies/

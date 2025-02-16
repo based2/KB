@@ -339,6 +339,10 @@ https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers
 https://arxiv.org/abs/2502.04381
 
 # News
+https://news.ycombinator.com/item?id=43014255
+
+https://news.ycombinator.com/item?id=43039308
+
 https://news.ycombinator.com/item?id=43017599
 
 https://news.ycombinator.com/item?id=42936723 WikiTok

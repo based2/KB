@@ -167,6 +167,10 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=42998737
+
+https://news.ycombinator.com/item?id=43054190
+
 https://www.bortzmeyer.org/9549.html
 
 https://www.bortzmeyer.org/9715.html

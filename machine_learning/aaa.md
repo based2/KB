@@ -638,6 +638,17 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43053512
+
+https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/
+> https://news.ycombinator.com/item?id=43004889
+
+https://news.ycombinator.com/item?id=43046089
+
+https://news.ycombinator.com/item?id=43049334
+
+https://news.ycombinator.com/item?id=43055393
+
 https://www.anthropic.com/news/the-anthropic-economic-index
 > https://news.ycombinator.com/item?id=43000529
 

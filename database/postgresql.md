@@ -338,6 +338,9 @@ https://supabase.com/blog/postgres-on-fly-by-supabase
 https://news.ycombinator.com/item?id=41224286
 
 # Incidents
+https://www.theregister.com/2025/02/14/postgresql_bug_treasury/
+> https://news.ycombinator.com/item?id=43048882
+
 https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
@@ -356,6 +359,11 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/orf/locksmith
+
+https://github.com/nexsol-technologies/pgassistant
+> https://news.ycombinator.com/item?id=43026036
+
 https://news.ycombinator.com/item?id=43012294
 
 https://news.ycombinator.com/item?id=42991222

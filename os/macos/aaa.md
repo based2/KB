@@ -311,7 +311,9 @@ https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
 https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/
 > https://news.ycombinator.com/item?id=33635720
 
-#
+# M4
+https://eclecticlight.co/2025/02/13/do-m4-chips-have-a-new-security-processor/
+
 https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Silicon Macs
 > https://news.ycombinator.com/item?id=34128776
 
@@ -501,6 +503,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://news.ycombinator.com/item?id=42987848
+
 https://news.ycombinator.com/item?id=42984420
 
 https://old.reddit.com/r/MacOS/comments/1hca5ap/how_do_i_remove_apple_intelligence_permanently/

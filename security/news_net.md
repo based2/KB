@@ -37,7 +37,9 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
-#
+# News
+https://news.ycombinator.com/item?id=43037623
+
 https://thehackernews.com/2025/01/critical-cacti-security-flaw-cve-2025.html
 
 https://www.bleepingcomputer.com/news/technology/garmin-gps-watches-crashing-stuck-in-triangle-reboot-loop/

@@ -172,6 +172,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work
+
 https://news.ycombinator.com/item?id=42816103
 
 https://www.seangoedecke.com/party-tricks/

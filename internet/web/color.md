@@ -73,6 +73,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.bloomberg.com/ux/2021/10/14/designing-the-terminal-for-color-accessibility/
+
 https://news.ycombinator.com/item?id=42777948
 
 https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost

@@ -81,6 +81,8 @@ https://news.ycombinator.com/item?id=42811742
 
 https://news.ycombinator.com/item?id=42992345
 
+https://lobste.rs/s/cvxhqu/devenv_telemetry_warning
+
 #
 https://news.ycombinator.com/item?id=40186036
 > https://mise.jdx.dev/

@@ -73,6 +73,9 @@ https://signalsandthreads.com/clock-synchronization/
 https://www.usenix.org/system/files/osdi20-li_yuliang.pdf
 
 # Calendar
+https://osmcal.org/
+> https://news.ycombinator.com/item?id=42993044
+
 https://dzone.com/articles/java-holiday-calendar-2016-day-16-hacking-the-exis
 
 https://news.ycombinator.com/item?id=26758205 Why 11 days disappeared in 1752

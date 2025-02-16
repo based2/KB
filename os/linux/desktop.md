@@ -114,6 +114,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html
+> https://news.ycombinator.com/item?id=43034440
+
 https://news.ycombinator.com/item?id=42831509
 
 https://news.ycombinator.com/item?id=42826589

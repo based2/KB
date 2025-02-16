@@ -219,6 +219,8 @@ https://news.ycombinator.com/item?id=41239913
 
 https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html
 
+https://news.ycombinator.com/item?id=43031506
+
 ## Actor
 https://news.ycombinator.com/item?id=42030625
 
@@ -550,6 +552,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://github.com/thomcc/ubrustc
+
 https://news.ycombinator.com/item?id=42984457
 
 https://www.theregister.com/2025/02/05/mixing_rust_and_c_linux/?td=rt-3a

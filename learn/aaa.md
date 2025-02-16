@@ -329,3 +329,5 @@ https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/
 
 https://rajivsethi.substack.com/p/notes-on-a-remarkable-finding-from
 
+https://news.ycombinator.com/item?id=43026590
+

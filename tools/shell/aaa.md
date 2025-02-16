@@ -34,6 +34,10 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://news.ycombinator.com/item?id=43061183
+
+https://news.ycombinator.com/item?id=43052728
+
 https://news.ycombinator.com/item?id=42889465
 
 https://github.com/egurapha/Shunpo

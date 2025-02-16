@@ -37,6 +37,9 @@ https://www.amazon.science/publications/firecracker-lightweight-virtualization-f
 https://www.usenix.org/publications/loginonline/freebsd-firecracker
 > https://news.ycombinator.com/item?id=37253035
 
+https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/ Alibaba PVM
+> https://news.ycombinator.com/item?id=43032238
+
 # Perf
 https://github.com/google/cadvisor
 
@@ -65,6 +68,10 @@ https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://news.ycombinator.com/item?id=43029483
+
+https://news.ycombinator.com/item?id=43022892
+
 https://news.ycombinator.com/item?id=42633291
 
 https://github.com/libriscv/multi_tenant_drogon

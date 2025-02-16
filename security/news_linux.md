@@ -53,6 +53,10 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://nvd.nist.gov/vuln/detail/CVE-2025-26519 musl libc 0.9.13 through 1.2.5 before 1.2.6 has an out-of-bounds write vulnerability when an attacker can trigger iconv conversion of untrusted EUC-KR text to UTF-8.
+> https://news.ycombinator.com/item?id=43039809
+
+
 https://old.reddit.com/r/netsec/comments/1i1ike5/rce_in_rsync_cve202412084_and_5_more/
 
 https://old.reddit.com/r/netsec/comments/1hvu9d8/smb3_kernel_server_ksmbd_fuzzing_and_vulns/

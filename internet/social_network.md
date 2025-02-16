@@ -178,6 +178,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says
+
 https://usetapestry.com/
 > https://news.ycombinator.com/item?id=42936650
 

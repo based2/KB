@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://securitylabs.datadoghq.com/articles/whoami-a-cloud-image-name-confusion-attack/
+> https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/
+
 https://www.bleepingcomputer.com/news/security/amazon-redshift-gets-new-default-settings-to-prevent-data-breaches/
 
 https://giraffesecurity.dev/posts/amazon-hat-trick/

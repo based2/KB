@@ -1,3 +1,8 @@
+https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html
+> https://news.ycombinator.com/item?id=43035977
+
+https://news.ycombinator.com/item?id=43052432
+
 https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/
 
 https://old.reddit.com/r/netsec/comments/1ihf6qt/8_million_requests_later_we_made_the_solarwinds/

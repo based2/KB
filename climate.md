@@ -71,6 +71,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=43058997
+
+https://news.ycombinator.com/item?id=43058311
+
 https://phys.org/news/2025-02-january-scientists.html
 
 https://www.theguardian.com/environment/2025/feb/04/climate-change-target-of-2c-is-dead-says-renowned-climate-scientist

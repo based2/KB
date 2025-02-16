@@ -128,6 +128,8 @@ https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21
 
 https://news.ycombinator.com/item?id=40972488
 
+https://news.ycombinator.com/item?id=43060636
+
 # A/B
 https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15
 > https://news.ycombinator.com/item?id=27642296

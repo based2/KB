@@ -260,6 +260,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/
+> https://news.ycombinator.com/item?id=43038200
+
+https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/
+
 https://www.byran.ee/posts/creation/ Show HN: I made an open-source laptop from scratch
 > https://news.ycombinator.com/item?id=42797260
 

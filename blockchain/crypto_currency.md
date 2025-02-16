@@ -30,6 +30,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # I
+https://www.dlnews.com/articles/markets/milei-backs-away-from-libra-memecoin-after-90-crash-not-aware-of-the-details/
+> https://news.ycombinator.com/item?id=43059200
+
 https://www.bleepingcomputer.com/news/security/solana-pumpfun-tool-dogwiftool-compromised-to-drain-wallets/
 
 https://www.bleepingcomputer.com/news/security/cryptocurrency-wallet-drainers-stole-494-million-in-2024/

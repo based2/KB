@@ -149,6 +149,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 #
+https://news.ycombinator.com/item?id=42995579
+
 https://news.ycombinator.com/item?id=42814110
 
 https://www.nicbarker.com/clay UI Layout Library

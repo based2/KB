@@ -90,6 +90,8 @@ https://news.ycombinator.com/item?id=42034196
 https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights/
 > https://news.ycombinator.com/item?id=42580397
 
+https://news.ycombinator.com/item?id=43041929
+
 # Incidents
 https://news.ycombinator.com/item?id=42576443
 
