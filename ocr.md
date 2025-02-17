@@ -102,6 +102,11 @@ https://news.ycombinator.com/item?id=41203306
 
 https://news.ycombinator.com/item?id=42966958
 
+https://github.com/microsoft/OmniParser
+> https://news.ycombinator.com/item?id=43061423
+
+https://news.ycombinator.com/item?id=43043671
+
 # News
 https://github.com/JordiNeil/bad_posture
 

@@ -25,3 +25,5 @@ https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/
 > https://news.ycombinator.com/item?id=38048401
 
 https://news.ycombinator.com/item?id=39121459
+
+https://news.ycombinator.com/item?id=43036742

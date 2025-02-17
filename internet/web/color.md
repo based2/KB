@@ -73,6 +73,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://news.ycombinator.com/item?id=43072338
+
 https://www.bloomberg.com/ux/2021/10/14/designing-the-terminal-for-color-accessibility/
 
 https://news.ycombinator.com/item?id=42777948

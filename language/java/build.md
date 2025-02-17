@@ -155,6 +155,8 @@ https://inside.java/2021/09/10/what-are-modules-about/
 > https://news.ycombinator.com/item?id=28489881
 
 # News
+https://mill-build.org/blog/9-mill-faster-assembly-jars.html spark
+
 https://github.com/Osiris-Team/1JPM
 > https://news.ycombinator.com/item?id=40906401
 

@@ -35,6 +35,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=43026234
+
 https://apod.nasa.gov/apod/ap250209.html
 
 https://news.ycombinator.com/item?id=42974727

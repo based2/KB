@@ -91,6 +91,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=43065006
+
 https://news.ycombinator.com/item?id=42992529
 
 https://github.com/JosefAlbers/VimLM

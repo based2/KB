@@ -3,6 +3,8 @@ https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 #
+https://www.elastic.co/security-labs/finaldraft
+
 https://news.ycombinator.com/item?id=43061173
 
 https://news.ycombinator.com/item?id=43045201

@@ -1,5 +1,11 @@
+https://news.ycombinator.com/item?id=43071765
+
 https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html
 > https://news.ycombinator.com/item?id=43035977
+
+https://www.cisa.gov/zero-trust-maturity-model
+
+https://www.nccoe.nist.gov/sites/default/files/legacy-files/zta-project-description-final.pdf
 
 https://news.ycombinator.com/item?id=43052432
 

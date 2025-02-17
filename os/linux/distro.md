@@ -98,6 +98,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://luj.fr/blog/is-nixos-truly-reproducible.html
+> https://news.ycombinator.com/item?id=42989666
+
 https://news.ycombinator.com/item?id=43048261 SUSE
 
 https://news.ycombinator.com/item?id=42982270

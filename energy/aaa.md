@@ -15,10 +15,17 @@ https://en.wikipedia.org/wiki/Duck_curve
 
 https://www.rte-france.com/eco2mix
 
+https://poweroutage.us/
+> https://news.ycombinator.com/item?id=43069399
+
 # I
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-revealed
+
+https://news.ycombinator.com/item?id=43040341
+
 https://news.ycombinator.com/item?id=42973131
 
 https://news.ycombinator.com/item?id=42892258

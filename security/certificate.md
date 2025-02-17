@@ -87,6 +87,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/
+> https://news.ycombinator.com/item?id=43013666
+
 https://old.reddit.com/r/netsec/comments/1ii16vd/certificate_transparency_is_now_enforced_in/
 
 https://news.ycombinator.com/item?id=42656079

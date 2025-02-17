@@ -260,6 +260,12 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=43025176 gimp
+
+https://news.ycombinator.com/item?id=43034329
+
+https://news.ycombinator.com/item?id=43042157
+
 https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/
 > https://news.ycombinator.com/item?id=43038200
 

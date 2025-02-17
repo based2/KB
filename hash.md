@@ -135,6 +135,8 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://news.ycombinator.com/item?id=43031228
+
 https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/
 > https://news.ycombinator.com/item?id=43002511
 

@@ -1,3 +1,19 @@
+
+    - root
+     -- /envs
+     --- / .dev.env
+     --- / .test.env
+     --- / .prod.env
+     --- / dev.tfvars
+     --- / test.tfvars
+     --- / prod.tfvars
+     - 1_create_network.tf
+     - 2_create_storage.tf
+     - 3_create_service.tf
+
+https://www.youtube.com/watch?v=WgPQ-nm_ers Compliance At Scale: Hardened Terraform Modules at Morgan Stanley
+
+
 Format: HCL2 (JSON)
 Company: HashiCorp
 
@@ -332,6 +348,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://news.ycombinator.com/item?id=43026882
+
 https://news.ycombinator.com/item?id=42748095
 
 https://registry.terraform.io/providers/MNThomson/dominos/latest/docs

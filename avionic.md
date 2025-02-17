@@ -108,6 +108,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://news.ycombinator.com/item?id=43022603
+
 https://news.ycombinator.com/item?id=42853633
 
 https://news.ycombinator.com/item?id=40152049

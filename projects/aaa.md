@@ -172,6 +172,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm
+> https://news.ycombinator.com/item?id=43061977
+
 https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work
 
 https://news.ycombinator.com/item?id=42816103
@@ -515,6 +518,11 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://selix.net/notes/dont-be-frupid
+> https://news.ycombinator.com/item?id=42996796
+
+https://news.ycombinator.com/item?id=43038794
+
 https://news.ycombinator.com/item?id=42341241
 
 https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/

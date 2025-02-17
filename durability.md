@@ -85,6 +85,8 @@ https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer
 > https://news.ycombinator.com/item?id=37263827
 
 # News
+https://news.ycombinator.com/item?id=42999598
+
 https://news.ycombinator.com/item?id=42542138
 
 https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force

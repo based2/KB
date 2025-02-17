@@ -638,6 +638,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43041477
+
+https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research
+> https://news.ycombinator.com/item?id=43061827
+
 https://news.ycombinator.com/item?id=43053512
 
 https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/

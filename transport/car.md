@@ -33,6 +33,9 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell
+> https://news.ycombinator.com/item?id=42998024
+
 https://news.ycombinator.com/item?id=43058993
 
 https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla

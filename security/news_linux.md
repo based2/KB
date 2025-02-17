@@ -20,6 +20,8 @@ https://news.ycombinator.com/item?id=40194842
 https://github.com/CISOfy/lynis
 > https://news.ycombinator.com/item?id=42075467
 
+https://secureblue.dev/
+
 # Tools
 https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html
 > https://news.ycombinator.com/item?id=39804214

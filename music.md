@@ -277,11 +277,17 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks 
 # ML
 https://news.ycombinator.com/item?id=42993661
 
-# I
+https://news.ycombinator.com/item?id=43047255
+
+# Incidents
 https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349
 
 # News
+https://news.ycombinator.com/item?id=43067419
+
+https://news.ycombinator.com/item?id=43024961
+
 https://news.ycombinator.com/item?id=43042828
 
 https://news.ycombinator.com/item?id=42988913

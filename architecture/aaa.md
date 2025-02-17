@@ -188,6 +188,8 @@ http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html
 
 https://news.ycombinator.com/item?id=41315359
 
+https://news.ycombinator.com/item?id=43030388
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

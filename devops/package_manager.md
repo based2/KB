@@ -83,6 +83,8 @@ https://news.ycombinator.com/item?id=42992345
 
 https://lobste.rs/s/cvxhqu/devenv_telemetry_warning
 
+https://news.ycombinator.com/item?id=43065217
+
 #
 https://news.ycombinator.com/item?id=40186036
 > https://mise.jdx.dev/
@@ -161,6 +163,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=43009411
+
 https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html
 > https://news.ycombinator.com/item?id=42965015
 

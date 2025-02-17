@@ -124,7 +124,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 
 https://www.sekinoworld.com/fractal/
 
-# Calculator
+# Calculators
+https://news.ycombinator.com/item?id=43066953
+
 https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation display
 > https://news.ycombinator.com/item?id=30116530
 
@@ -199,6 +201,10 @@ https://news.ycombinator.com/item?id=42969892
 https://news.ycombinator.com/item?id=42967173
 
 # News
+https://news.ycombinator.com/item?id=43036090
+
+https://news.ycombinator.com/item?id=43054258
+
 https://news.ycombinator.com/item?id=42942204
 
 https://news.ycombinator.com/item?id=42939312

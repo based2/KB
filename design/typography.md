@@ -56,3 +56,5 @@ https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/
 
 https://badkeming.com/
 > https://news.ycombinator.com/item?id=42513288
+
+https://news.ycombinator.com/item?id=43053419

@@ -38,6 +38,10 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://openjdk.org/jeps/8350022
+
+https://news.ycombinator.com/item?id=42995656
+
 https://news.ycombinator.com/item?id=42945109
 
 https://news.ycombinator.com/item?id=42907488

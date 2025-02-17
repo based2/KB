@@ -69,6 +69,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://news.ycombinator.com/item?id=43029385
+
 https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html
 > https://news.ycombinator.com/item?id=43006950
 

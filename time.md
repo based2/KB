@@ -274,6 +274,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://news.ycombinator.com/item?id=43061803
+
 https://news.ycombinator.com/item?id=42915437
 
 https://news.ycombinator.com/item?id=42758257

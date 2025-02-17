@@ -150,6 +150,8 @@ https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/
 
 https://news.ycombinator.com/item?id=42810176
 
+https://news.ycombinator.com/item?id=43068884
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -326,6 +328,8 @@ https://news.ycombinator.com/item?id=40156205
 https://news.ycombinator.com/item?id=40891846
 
 https://news.ycombinator.com/item?id=42531217
+
+https://news.ycombinator.com/item?id=43014481
 
 # IDE
 ## Eclipse
