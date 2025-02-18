@@ -518,6 +518,8 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://news.ycombinator.com/item?id=43047341
+
 https://selix.net/notes/dont-be-frupid
 > https://news.ycombinator.com/item?id=42996796
 

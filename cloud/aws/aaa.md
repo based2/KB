@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://news.ycombinator.com/item?id=43074794
+> https://www.deccanherald.com//india/karnataka/bengaluru/cloud-over-amazon-web-services-after-builder-claims-rs-150-cr-data-loss-tech-firm-faces-fir-3408628
+
 https://securitylabs.datadoghq.com/articles/whoami-a-cloud-image-name-confusion-attack/
 > https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/
 

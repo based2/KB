@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # I
+https://news.ycombinator.com/item?id=43072790
+
 https://www.dlnews.com/articles/markets/milei-backs-away-from-libra-memecoin-after-90-crash-not-aware-of-the-details/
 > https://news.ycombinator.com/item?id=43059200
 

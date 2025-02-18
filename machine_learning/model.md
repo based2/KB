@@ -43,6 +43,8 @@ https://news.ycombinator.com/item?id=41997727
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
 
+https://news.ycombinator.com/item?id=43080531
+
 # sec
 https://github.com/laiyer-ai/llm-guard
 > https://news.ycombinator.com/item?id=37103757
@@ -341,6 +343,8 @@ https://arxiv.org/abs/2502.04381
 https://news.ycombinator.com/item?id=43028057
 
 # News
+https://news.ycombinator.com/item?id=43079046
+
 https://news.ycombinator.com/item?id=43014255
 
 https://news.ycombinator.com/item?id=43039308

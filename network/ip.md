@@ -80,6 +80,8 @@ https://news.ycombinator.com/item?id=41893200
 
 https://news.ycombinator.com/item?id=42670468
 
+https://news.ycombinator.com/item?id=43069533
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

@@ -216,6 +216,7 @@ https://kodi.tv/
 
 https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
 > https://jellyfin.org/
+> https://news.ycombinator.com/item?id=43063167
 > https://news.ycombinator.com/item?id=27462767
 
 # Billing

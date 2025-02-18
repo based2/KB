@@ -86,6 +86,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=43076710
+
 https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/
 > https://news.ycombinator.com/item?id=42753396
 

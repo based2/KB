@@ -638,6 +638,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://github.com/ZIGTinyBook/Z-Ant
+
 https://news.ycombinator.com/item?id=43041477
 
 https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research

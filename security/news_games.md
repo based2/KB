@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://www.bleepingcomputer.com/news/security/piratefi-game-on-steam-caught-installing-password-stealing-malware/
+
 https://old.reddit.com/r/gaming/comments/1ikvjil/league_of_legends_is_in_violation_of_belgian/
 
 https://www.bleepingcomputer.com/news/security/ddos-attacks-reportedly-behind-dayz-and-arma-network-outages/
