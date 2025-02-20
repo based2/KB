@@ -108,6 +108,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=43104071
+
 https://plato.stanford.edu/entries/qm-relational/
 > https://news.ycombinator.com/item?id=43006350
 

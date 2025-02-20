@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=43105357
+
+https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger
+> https://news.ycombinator.com/item?id=43102284
+
 https://news.ycombinator.com/item?id=43071765
 
 https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html

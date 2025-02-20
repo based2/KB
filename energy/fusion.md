@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://news.ycombinator.com/item?id=43093939
+
 https://news.ycombinator.com/item?id=42863811
 
 https://phys.org/news/2024-12-plasma-efficiency-fusion-devices-boosted.html

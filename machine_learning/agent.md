@@ -84,3 +84,5 @@ https://www.anthropic.com/research/building-effective-agents
 
 https://github.com/Thytu/Agentarium Creating social simulations with AI Agents
 > https://news.ycombinator.com/item?id=42521259
+
+https://news.ycombinator.com/item?id=43103073

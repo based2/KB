@@ -201,6 +201,8 @@ https://news.ycombinator.com/item?id=42969892
 https://news.ycombinator.com/item?id=42967173
 
 # News
+https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/
+
 https://news.ycombinator.com/item?id=43036090
 
 https://news.ycombinator.com/item?id=43054258

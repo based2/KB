@@ -280,6 +280,8 @@ https://zeppelin.apache.org/
 
 https://news.ycombinator.com/item?id=42897120 isbn
 
+https://news.ycombinator.com/item?id=43090214
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/

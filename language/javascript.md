@@ -517,6 +517,8 @@ https://news.ycombinator.com/item?id=41255788
 https://www.npmjs.com/package/svelte 5
 > https://news.ycombinator.com/item?id=41889674
 
+https://news.ycombinator.com/item?id=43091596
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
