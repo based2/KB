@@ -378,6 +378,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=43100821
+
 https://news.ycombinator.com/item?id=42990280
 
 https://pyviz.org/overviews/index.html

@@ -116,6 +116,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=43129439
+
+https://news.ycombinator.com/item?id=43128253
+
 https://www.bbc.com/news/articles/c4gex0x87g4o South Korean regulator accuses DeepSeek of sharing user data with ByteDance
 > https://news.ycombinator.com/item?id=43094651
 

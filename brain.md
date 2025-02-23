@@ -60,6 +60,8 @@ https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
 https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-1851476460?utm_source=vip
 
 # News
+https://news.ycombinator.com/item?id=43106245
+
 https://news.ycombinator.com/item?id=43040794
 
 https://news.ycombinator.com/item?id=42824625

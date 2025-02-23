@@ -638,6 +638,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://arxiv.org/abs/2502.11264 Strategic Wealth Accumulation Under Transformative AI Expectations
+> https://news.ycombinator.com/item?id=43136428
+
 https://news.ycombinator.com/item?id=43095811
 
 https://github.com/ZIGTinyBook/Z-Ant
