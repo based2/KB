@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://people.inf.ethz.ch/omutlu/pub/HBM_RowHammer_dsn-disrupt23-talk.pdf
+
 https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html
 
 https://news.ycombinator.com/item?id=42920921

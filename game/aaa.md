@@ -50,6 +50,12 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://robocode.sourceforge.io/
+> https://news.ycombinator.com/item?id=43084682
+
+https://www.filfre.net/2024/12/half-life/
+> https://news.ycombinator.com/item?id=43147698
+
 https://news.ycombinator.com/item?id=43119086
 
 https://news.ycombinator.com/item?id=43080858

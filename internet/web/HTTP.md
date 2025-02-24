@@ -103,6 +103,8 @@ https://github.com/webserver-llc/angie
 
 https://news.ycombinator.com/item?id=43065217
 
+https://news.ycombinator.com/item?id=43121920
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=43070025
@@ -210,6 +212,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=43089238
+
 https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/
 > https://news.ycombinator.com/item?id=42548215
 

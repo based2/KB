@@ -322,6 +322,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/
+> https://news.ycombinator.com/item?id=43107317
+
 https://news.ycombinator.com/item?id=43004334
 
 https://news.ycombinator.com/item?id=42990546

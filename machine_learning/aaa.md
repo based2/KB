@@ -638,6 +638,15 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43085885
+
+https://news.ycombinator.com/item?id=43093610
+
+https://humane.com/media/humane-hp
+> https://news.ycombinator.com/item?id=43095811
+
+https://news.ycombinator.com/item?id=43113871
+
 https://arxiv.org/abs/2502.11264 Strategic Wealth Accumulation Under Transformative AI Expectations
 > https://news.ycombinator.com/item?id=43136428
 

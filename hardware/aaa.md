@@ -119,6 +119,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://github.com/cbh34680/WinCse Integrating AWS S3 with Windows Explorer
+> https://news.ycombinator.com/item?id=43117895
+
 https://news.ycombinator.com/item?id=43039901
 
 https://news.ycombinator.com/item?id=42779293

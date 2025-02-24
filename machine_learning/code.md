@@ -71,6 +71,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://news.ycombinator.com/item?id=43118745
+
 https://news.ycombinator.com/item?id=43046170
 
 https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/

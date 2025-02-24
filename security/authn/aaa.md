@@ -91,6 +91,9 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://bitwarden.com/products/authenticator/
+> https://news.ycombinator.com/item?id=43153262
+
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AuthFailureResponseDepends
 
 https://github.com/tide-foundation/tidecloak-gettingstarted Decentralized IAM for security and user sovereignty

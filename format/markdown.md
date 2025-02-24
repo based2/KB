@@ -116,3 +116,6 @@ https://news.ycombinator.com/item?id=42410803 Python tool for converting files a
 
 https://mystmd.org/guide for technical/scientific document
 > https://news.ycombinator.com/item?id=42573388
+
+https://github.com/yshavit/mdq Jq-Like Tool for Markdown
+> https://news.ycombinator.com/item?id=43152704

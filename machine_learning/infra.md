@@ -7,8 +7,7 @@ https://github.com/containers/ramalama
 
 https://www.raycast.com/massimiliano_pasquini/raycast-ollama
 
-
-# k8s
+# K8s
 
 https://www.kubeflow.org/
 
@@ -91,6 +90,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=43094006
+
 https://news.ycombinator.com/item?id=43065006
 
 https://news.ycombinator.com/item?id=42992529

@@ -1,3 +1,8 @@
+https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/
+> https://news.ycombinator.com/item?id=43140754
+
+https://news.ycombinator.com/item?id=43148066
+
 https://news.ycombinator.com/item?id=43105357
 
 https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger

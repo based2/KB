@@ -108,6 +108,13 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=43105916
+
+https://scottaaronson.blog/?p=8669 FAQ on Microsoft's topological qubit thing
+> https://news.ycombinator.com/item?id=43112021
+
+https://news.ycombinator.com/item?id=43106687
+
 https://news.ycombinator.com/item?id=43104071
 
 https://plato.stanford.edu/entries/qm-relational/

@@ -16,7 +16,6 @@ https://amoro.apache.org/
 
 # Data Vault
 
-
 # Data Mesh
 https://www.datamesh-architecture.com/
 
@@ -74,6 +73,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python
+> https://news.ycombinator.com/item?id=43092579
+
 https://news.ycombinator.com/item?id=43020756
 
 https://news.ycombinator.com/item?id=43002938

@@ -80,6 +80,13 @@ https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://news.ycombinator.com/item?id=43096477
+
+https://matduggan.com/replace-compose-with-quadlet/
+> https://news.ycombinator.com/item?id=43134275
+
+https://news.ycombinator.com/item?id=43125089
+
 https://github.com/Edu4rdSHL/fly-to-podman
 > https://news.ycombinator.com/item?id=43125487
 

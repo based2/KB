@@ -168,9 +168,15 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=43099894
+
+https://github.com/shinyquagsire23/OpenJKDF2
+> https://news.ycombinator.com/item?id=43148664
+
 https://news.ycombinator.com/item?id=43132336
 
-https://news.ycombinator.com/item?id=43094260
+https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9
+> https://news.ycombinator.com/item?id=43094260
 
 https://news.ycombinator.com/item?id=43064273
 

@@ -69,7 +69,14 @@ https://github.com/mrphrazer/reverser_ai
 https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
-#
+# News
+https://evmole.xyz/
+
+https://github.com/OpenRakis/Spice86
+> https://news.ycombinator.com/item?id=43116112
+
+https://danielmangum.com/posts/modem-usb-rak5010/
+
 https://news.ycombinator.com/item?id=43041303
 
 https://news.ycombinator.com/item?id=42999100

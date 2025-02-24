@@ -153,6 +153,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://news.ycombinator.com/item?id=43127425
+
 https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html
 
 https://news.ycombinator.com/item?id=42615939

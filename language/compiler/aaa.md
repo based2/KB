@@ -153,6 +153,11 @@ https://cvw.cac.cornell.edu/vector/default
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://ssloy.github.io/tinycompiler/
+> https://news.ycombinator.com/item?id=43120873
+
+https://news.ycombinator.com/item?id=43088797
+
 https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers
 
 https://bernsteinbear.com/blog/ssa/

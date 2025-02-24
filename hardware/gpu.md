@@ -16,6 +16,13 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=43071983
+
+https://news.ycombinator.com/item?id=43134907
+
+https://www.pyspur.dev/blog/introduction_cuda_programming
+> https://news.ycombinator.com/item?id=43121059
+
 https://news.ycombinator.com/item?id=43043326
 
 https://news.ycombinator.com/item?id=43053844

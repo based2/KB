@@ -11,12 +11,14 @@ https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network
 https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
 
-#
+# Incidents
+https://news.ycombinator.com/item?id=43116217
+
 https://matrix.org/blog/2023/08/bridges-vulnerability-disclosure/
 
 https://fs0c131y.com/posts/2019-04-19_tchap-the-super-not-secure-app-of-the-french-government/
 
-#
+# News
 https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit
 > https://news.ycombinator.com/item?id=42032387
 

@@ -80,6 +80,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://www.phoronix.com/news/Removing-SystemV-Filesystem
+
 https://news.ycombinator.com/item?id=43047252
 
 https://filename.systems/en/ Description Language for managing file/folder naming conventions

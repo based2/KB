@@ -14,7 +14,7 @@ https://github.com/seaweedfs/seaweedfs
 
 https://github.com/yandex-cloud/geesefs non-fuse
 
-## S3
+## S3 - Storage at the internet application layer: HTTP
 https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
 > https://news.ycombinator.com/item?id=36894932
 
@@ -42,6 +42,9 @@ https://news.ycombinator.com/item?id=39656657
 
 https://news.ycombinator.com/item?id=41765435
 
+https://news.ycombinator.com/item?id=43118592
+> https://opendal.apache.org/
+
 # Block Storage
 onTAP
 # SMB Microsoft
@@ -67,6 +70,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=43091159
+
 https://news.ycombinator.com/item?id=43013431
 
 https://news.ycombinator.com/item?id=42991006

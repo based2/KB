@@ -572,6 +572,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=43132313
+
+https://news.ycombinator.com/item?id=43107506
+
+https://news.ycombinator.com/item?id=43143097
+
+https://news.ycombinator.com/item?id=43140207
+
 https://news.ycombinator.com/item?id=42999655
 
 https://news.ycombinator.com/item?id=42725692

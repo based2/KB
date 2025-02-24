@@ -1,5 +1,8 @@
 https://ophysics.com/index.html
 
+https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity
+> https://news.ycombinator.com/item?id=43148438
+
 https://news.ycombinator.com/item?id=42518602
 
 https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations

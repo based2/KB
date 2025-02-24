@@ -34,6 +34,9 @@ https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecul
 
 https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-20210712/
 
+# ML
+https://news.ycombinator.com/item?id=43102528
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

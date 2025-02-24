@@ -22,10 +22,12 @@ https://tabula.technology/
 # Sec
 https://news.ycombinator.com/item?id=42401904
 
-# I
+# Incidents
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
 
-#
+# News
+https://news.ycombinator.com/item?id=43087204
+
 https://news.ycombinator.com/item?id=43000303
 
 https://news.ycombinator.com/item?id=41377960

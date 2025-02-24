@@ -285,6 +285,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://news.ycombinator.com/item?id=43142135
+
 https://news.ycombinator.com/item?id=43080535
 
 https://lobste.rs/s/oafv9d/on_jujutsu_magit_experience_report

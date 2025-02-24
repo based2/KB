@@ -1,3 +1,5 @@
+https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/
+
 https://news.ycombinator.com/item?id=42899703
 
 https://mjtsai.com/blog/2024/12/17/issues-adopting-swift-testing/

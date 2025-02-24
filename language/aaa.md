@@ -377,6 +377,13 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://vine.dev/docs/
+> https://news.ycombinator.com/item?id=43144040
+> https://lobste.rs/s/ctpdvb/vine_programming_language_based_on
+
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/
+> https://news.ycombinator.com/item?id=43087944
+
 https://github.com/mpatajac/jillc
 > https://news.ycombinator.com/item?id=43060603
 

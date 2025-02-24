@@ -136,6 +136,9 @@ https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think
 
 https://news.ycombinator.com/item?id=42173575
 
+https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior
+> https://news.ycombinator.com/item?id=43146871
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -172,6 +175,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://news.ycombinator.com/item?id=43089332
+
 https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm
 > https://news.ycombinator.com/item?id=43061977
 

@@ -1,3 +1,6 @@
+https://demo.augu.rs/
+> https://news.ycombinator.com/item?id=43088735
+
 https://facebookresearch.github.io/Kats/
 > https://news.ycombinator.com/item?id=27585711
   > https://facebook.github.io/prophet/

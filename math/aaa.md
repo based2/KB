@@ -200,7 +200,19 @@ https://news.ycombinator.com/item?id=42969892
 
 https://news.ycombinator.com/item?id=42967173
 
+https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
+
 # News
+https://lobste.rs/s/ocxaqf/new_math_library_for_ada_neosimd
+
+https://news.ycombinator.com/item?id=43090077
+
+https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/
+> https://news.ycombinator.com/item?id=43095943
+
+https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
+> https://news.ycombinator.com/item?id=43149883
+
 https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/
 
 https://news.ycombinator.com/item?id=43036090
@@ -266,7 +278,6 @@ https://news.ycombinator.com/item?id=42028569
 https://news.ycombinator.com/item?id=41876943
 
 https://mathenchant.wordpress.com/2024/10/17/industrious-dice/
->
 
 https://news.ycombinator.com/item?id=41890158
 
