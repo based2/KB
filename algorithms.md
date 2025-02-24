@@ -132,6 +132,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://news.ycombinator.com/item?id=43154331
+
 https://news.ycombinator.com/item?id=42814275
 
 https://news.ycombinator.com/item?id=42656529

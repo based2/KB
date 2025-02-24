@@ -54,6 +54,8 @@ https://news.ycombinator.com/item?id=38421896
 
 https://news.ycombinator.com/item?id=39317819
 
+https://news.ycombinator.com/item?id=43161777
+
 #
 https://github.com/lima-vm/lima
 

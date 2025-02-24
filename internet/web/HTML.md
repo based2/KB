@@ -163,6 +163,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=43127577
+
 https://developer.chrome.com/blog/rfc-customizable-select
 > https://news.ycombinator.com/item?id=43113790
 

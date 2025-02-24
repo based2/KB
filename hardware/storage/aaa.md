@@ -45,6 +45,9 @@ https://news.ycombinator.com/item?id=41765435
 https://news.ycombinator.com/item?id=43118592
 > https://opendal.apache.org/
 
+https://github.com/cbh34680/WinCse Integrating AWS S3 with Windows Explorer
+> https://news.ycombinator.com/item?id=43117895
+
 # Block Storage
 onTAP
 # SMB Microsoft
