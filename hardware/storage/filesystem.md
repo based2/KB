@@ -80,6 +80,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=43158696
+
 https://www.phoronix.com/news/Removing-SystemV-Filesystem
 
 https://news.ycombinator.com/item?id=43047252

@@ -638,6 +638,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence
+> https://news.ycombinator.com/item?id=43185446
+
+https://arxiv.org/abs/2502.18394 The FFT Strikes Back: An Efficient Alternative to Self-Attention
+> https://news.ycombinator.com/item?id=43182325
+
 https://news.ycombinator.com/item?id=43160731
 
 https://news.ycombinator.com/item?id=43085885

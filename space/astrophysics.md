@@ -54,6 +54,8 @@ https://www.mpifr-bonn.mpg.de/pressreleases/2024/4
 
 https://news.ycombinator.com/item?id=41566287
 
+https://news.ycombinator.com/item?id=43173773
+
 ###
 https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
 

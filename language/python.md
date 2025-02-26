@@ -378,6 +378,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=43169773
+
+https://news.ycombinator.com/item?id=43174041
+
 https://news.ycombinator.com/item?id=43076088
 
 https://news.ycombinator.com/item?id=43100821
