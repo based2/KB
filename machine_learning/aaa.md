@@ -638,6 +638,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://github.com/deepseek-ai/FlashMLA
+> https://news.ycombinator.com/item?id=43155023
+
+https://news.ycombinator.com/item?id=43158168
+
+https://news.ycombinator.com/item?id=43159219
+
 https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence
 > https://news.ycombinator.com/item?id=43185446
 

@@ -118,6 +118,8 @@ https://news.ycombinator.com/item?id=41086060
 https://coe.psu.ac.th/ad/invhyper/
 > https://news.ycombinator.com/item?id=41675029
 
+https://news.ycombinator.com/item?id=43189703
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705
@@ -203,6 +205,8 @@ https://news.ycombinator.com/item?id=42967173
 https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
 
 # News
+https://news.ycombinator.com/item?id=43162737
+
 https://news.ycombinator.com/item?id=43160779 Introduction to Stochastic Calculus
 
 https://lobste.rs/s/ocxaqf/new_math_library_for_ada_neosimd

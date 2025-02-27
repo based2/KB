@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=43183131
+
 https://robocode.sourceforge.io/
 > https://news.ycombinator.com/item?id=43084682
 

@@ -92,6 +92,11 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://github.com/PragmaticMachineLearning/probly
+> https://news.ycombinator.com/item?id=43194971
+
+https://news.ycombinator.com/item?id=43172338
+
 https://news.ycombinator.com/item?id=43167373
 
 https://news.ycombinator.com/item?id=43182241

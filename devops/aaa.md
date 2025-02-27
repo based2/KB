@@ -120,6 +120,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/vscode-extensions-with-9-million-installs-pulled-over-security-risks/
+
 https://news.ycombinator.com/item?id=43053466
 
 https://news.ycombinator.com/item?id=42947912

@@ -201,6 +201,8 @@ https://unsloth.ai/blog/grpo Long-Context GRPO
 > https://news.ycombinator.com/item?id=43124091
 
 # News
+https://news.ycombinator.com/item?id=43187518
+
 https://news.ycombinator.com/item?id=43163011
 
 https://news.ycombinator.com/item?id=43107777

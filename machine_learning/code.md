@@ -71,6 +71,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://news.ycombinator.com/item?id=43193619
+
 https://news.ycombinator.com/item?id=43177117
 
 https://news.ycombinator.com/item?id=43118745
