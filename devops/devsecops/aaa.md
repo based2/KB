@@ -71,6 +71,8 @@ https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templa
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://news.ycombinator.com/item?id=43207942
+
 https://news.ycombinator.com/item?id=42388607
 
 https://github.com/google/vanir

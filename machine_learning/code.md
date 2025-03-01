@@ -58,6 +58,9 @@ https://github.com/moyix/fauxpilot oss
 https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
+# API
+https://news.ycombinator.com/item?id=43196374
+
 # Containers
 https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/

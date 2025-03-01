@@ -348,6 +348,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://news.ycombinator.com/item?id=43199256
+
 https://news.ycombinator.com/item?id=43026882
 
 https://news.ycombinator.com/item?id=42748095

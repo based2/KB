@@ -7,6 +7,10 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://news.ycombinator.com/item?id=43158618
+
+https://news.ycombinator.com/item?id=43179478
+
 https://chipsandcheese.com/p/intels-battlemage-architecture
 > https://news.ycombinator.com/item?id=43014408
 

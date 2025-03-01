@@ -205,6 +205,8 @@ https://news.ycombinator.com/item?id=42967173
 https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
 
 # News
+https://news.ycombinator.com/item?id=43159270
+
 https://news.ycombinator.com/item?id=43162737
 
 https://news.ycombinator.com/item?id=43160779 Introduction to Stochastic Calculus

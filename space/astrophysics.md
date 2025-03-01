@@ -77,6 +77,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=43201164
+
 https://www.smithsonianmag.com/science-nature/astronomers-suspect-colliding-supermassive-black-holes-left-the-universe-awash-in-gravitational-waves-180985909/
 
 https://news.ycombinator.com/item?id=42888326

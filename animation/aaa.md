@@ -64,6 +64,11 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.joshwcomeau.com/blog/whimsical-animations/
+> https://news.ycombinator.com/item?id=43171079
+
+https://news.ycombinator.com/item?id=43168838
+
 https://news.ycombinator.com/item?id=42986320
 
 https://news.ycombinator.com/item?id=42961868
@@ -71,7 +76,6 @@ https://news.ycombinator.com/item?id=42961868
 https://news.ycombinator.com/item?id=42961572
 
 https://acko.net/blog/subpixel-distance-transform/
->
 
 https://wattenberger.com/thoughts/fish-eye
 
