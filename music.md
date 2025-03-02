@@ -136,6 +136,8 @@ https://www.maxlaumeister.com/tonematrix/
 https://news.ycombinator.com/item?id=38892685
 
 ## MIDI
+https://news.ycombinator.com/item?id=43180977
+
 https://news.ycombinator.com/item?id=42865611
 
 https://github.com/dwhinham/mt32-pi

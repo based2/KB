@@ -638,6 +638,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43229245
+
 https://github.com/deepseek-ai/FlashMLA
 > https://news.ycombinator.com/item?id=43155023
 

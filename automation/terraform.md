@@ -206,6 +206,9 @@ https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-log
 https://github.com/develeap/rds-logs-optimizer
 
 ##
+https://www.cjcheema.com/2025/02/07/no-more-dynamodb-use-native-s3-locking-for-terraform-state/
+> use_lockfile   = true  # This enables native S3 state locking
+
 https://www.medium.com/@louis-fiori/cloudwatch-logs-enhanced-alerts-a50ea08d0845
 
 https://thenewstack.io/linux-foundation-adopting-terraform-fork-provokes-ire-of-hashicorp-ceo/

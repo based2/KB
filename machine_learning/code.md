@@ -37,8 +37,8 @@ https://copilot.github.com/
 > > https://news.ycombinator.com/item?id=35657982
 > https://www.theregister.com/2023/07/01/microsoft_github_copilot/?td=keepreading
 
-    https://github.com/github/copilot-docs/tree/main/docs
-    > https://news.ycombinator.com/item?id=29016506
+https://github.com/github/copilot-docs/tree/main/docs
+> https://news.ycombinator.com/item?id=29016506
 
 https://twitter.com/svpino/status/1611357154514186241
 
@@ -57,6 +57,8 @@ https://github.com/moyix/fauxpilot oss
 
 https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
+
+https://www.cursor.com/
 
 # API
 https://news.ycombinator.com/item?id=43196374

@@ -70,6 +70,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 # News
+https://news.ycombinator.com/item?id=43233143
+
 https://evmole.xyz/
 
 https://github.com/OpenRakis/Spice86

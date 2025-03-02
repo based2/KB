@@ -25,5 +25,7 @@ https://observers.france24.com/fr/tag/intox/
 https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html
 > https://news.ycombinator.com/item?id=37974106
 
+https://news.ycombinator.com/item?id=43231411
+
 
 
