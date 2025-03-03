@@ -149,6 +149,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://news.ycombinator.com/item?id=43236126
+
 https://news.ycombinator.com/item?id=43227303
 
 https://news.ycombinator.com/item?id=43122398

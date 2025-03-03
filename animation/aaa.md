@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=43237273
+
 https://www.joshwcomeau.com/blog/whimsical-animations/
 > https://news.ycombinator.com/item?id=43171079
 

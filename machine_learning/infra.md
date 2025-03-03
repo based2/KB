@@ -92,6 +92,12 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=43197752
+
+https://news.ycombinator.com/item?id=43246735
+
+https://news.ycombinator.com/item?id=43243549
+
 https://github.com/deepseek-ai/3FS
 > https://news.ycombinator.com/item?id=43200572
 

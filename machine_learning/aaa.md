@@ -638,6 +638,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://diffusion.csail.mit.edu/
+> https://news.ycombinator.com/item?id=43238893
+
 https://news.ycombinator.com/item?id=43229245
 
 https://github.com/deepseek-ai/FlashMLA
