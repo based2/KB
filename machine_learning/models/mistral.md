@@ -1,0 +1,13 @@
+https://mistral.ai/news/mistral-nemo/
+> https://news.ycombinator.com/item?id=40996058
+
+https://news.ycombinator.com/item?id=40064736 Mixtral 8x22B
+
+https://brave.com/leo-mixtral/
+> https://news.ycombinator.com/item?id=39152763
+
+https://simonwillison.net/2023/Dec/18/mistral/
+> https://news.ycombinator.com/item?id=38686221
+
+https://mistral.ai/news/mixtral-of-experts/
+> https://news.ycombinator.com/item?id=38598559

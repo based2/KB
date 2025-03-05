@@ -86,3 +86,6 @@ https://blog.disintegrator.dev/posts/dev-virtual-machine/
 > https://news.ycombinator.com/item?id=42541508
 
 https://news.ycombinator.com/item?id=43063239
+
+https://techcommunity.microsoft.com/blog/windowsosplatform/openhcl-the-new-open-source-paravisor/4273172
+> https://lobste.rs/s/4ooply/openhcl_new_open_source_paravisor

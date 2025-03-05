@@ -9,8 +9,19 @@ https://news.ycombinator.com/item?id=42341388
 https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1
 > https://news.ycombinator.com/item?id=41649763
 
+https://llama.meta.com/ 3.1
+> https://news.ycombinator.com/item?id=41046540
+
+https://huggingface.co/gradientai/Llama-3-70B-Instruct-Gradient-1048k
+> https://news.ycombinator.com/item?id=40260879
+
 https://llama.meta.com/llama3/ v3
 > https://news.ycombinator.com/item?id=40077533
+
+https://github.com/b4rtaz/distributed-llama
+
+https://github.com/mikepapadim/llama-shepherd-cli
+> https://news.ycombinator.com/item?id=38866118
 
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
@@ -149,3 +160,11 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 https://github.com/pengxiao-song/LawGPT cn
+
+https://matt-rickard.com/why-did-meta-open-source-llama
+> https://news.ycombinator.com/item?id=36817938
+
+https://www.alessiofanelli.com/blog/llama2-isnt-open-source
+> https://news.ycombinator.com/item?id=36815255
+
+https://medium.com/@brian_90925/llms-and-the-emerging-ml-tech-stack-6fa66ee4561a

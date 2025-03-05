@@ -24,6 +24,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=43256022
+
 https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-revealed
 
 https://news.ycombinator.com/item?id=43040341

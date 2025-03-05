@@ -3,3 +3,14 @@ https://www.philschmid.de/gemini-pdf-to-data#3-structured-outputs-with-gemini-20
 https://news.ycombinator.com/item?id=43089093
 
 https://huggingface.co/blog/siglip2
+
+https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/
+> https://news.ycombinator.com/item?id=42317903
+
+https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
+
+https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
+> https://news.ycombinator.com/item?id=40392208
+
+https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
+

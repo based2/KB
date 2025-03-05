@@ -9,6 +9,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 
 https://news.ycombinator.com/item?id=39165342
 
+https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
+
 #
 https://people.inf.ethz.ch/omutlu/pub/HBM_RowHammer_dsn-disrupt23-talk.pdf
 

@@ -19,26 +19,6 @@ https://github.com/simonw/llm
 
 https://medium.com/@saverio3107/arena-elo-rating-system-5655e16fead5
 
-# Test
-https://github.com/mr-gpt/deepeval
-> https://news.ycombinator.com/item?id=37157323
-
-https://github.com/namin/llm-verified-with-monte-carlo-tree-search
-> https://news.ycombinator.com/item?id=38235407
-> https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/
-
-https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
-> https://news.ycombinator.com/item?id=38556771
-
-https://github.com/confident-ai/deepeval
-> https://news.ycombinator.com/item?id=38606787
-
-https://news.ycombinator.com/item?id=39109304
-
-https://news.ycombinator.com/item?id=41567192
-
-https://news.ycombinator.com/item?id=41997727
-
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -47,7 +27,7 @@ https://news.ycombinator.com/item?id=43080531
 
 https://news.ycombinator.com/item?id=43080531
 
-# sec
+# Sec
 https://github.com/laiyer-ai/llm-guard
 > https://news.ycombinator.com/item?id=37103757
 
@@ -201,6 +181,11 @@ https://unsloth.ai/blog/grpo Long-Context GRPO
 > https://news.ycombinator.com/item?id=43124091
 
 # News
+https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention
+> https://news.ycombinator.com/item?id=43261650
+
+https://news.ycombinator.com/item?id=43261650
+
 https://news.ycombinator.com/item?id=43187518
 
 https://news.ycombinator.com/item?id=43163011
@@ -244,22 +229,15 @@ https://news.ycombinator.com/item?id=42868271
 
 https://news.ycombinator.com/item?id=42897205
 
-https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1
-
 https://news.ycombinator.com/item?id=42905453
 
 https://news.ycombinator.com/item?id=42868271
 
 https://news.ycombinator.com/item?id=42877860
 
-https://arcprize.org/blog/r1-zero-r1-results-analysis
-> https://news.ycombinator.com/item?id=42868390
-
 https://www.philschmid.de/deepseek-r1
 
 https://news.ycombinator.com/item?id=42831769
-
-https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and
 
 https://news.ycombinator.com/item?id=42823568
 
@@ -287,8 +265,6 @@ https://news.ycombinator.com/item?id=42555320
 https://benkaiser.dev/can-llms-accurately-recall-the-bible/
 > https://news.ycombinator.com/item?id=42537332
 
-https://www.numerama.com/tech/1872954-deepseek-la-chine-aurait-detrone-chatgpt-avec-10-fois-moins-dargent.html
-
 https://news.ycombinator.com/item?id=42493871
 
 https://news.ycombinator.com/item?id=42517113
@@ -306,7 +282,7 @@ https://arcprize.org/blog/oai-o3-pub-breakthrough
 
 https://news.ycombinator.com/item?id=42458752
 
-https://github.com/huggingface/search-and-learn  Open source inference time compute example from HuggingFace
+https://github.com/huggingface/search-and-learn Open source inference time compute example from HuggingFace
 > https://news.ycombinator.com/item?id=42435127
 > > https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute
 
@@ -317,11 +293,8 @@ https://news.ycombinator.com/item?id=42405323
 
 https://news.ycombinator.com/item?id=42412360
 
-https://countless.dev/ compare every AI model: LLMs, TTSs, STTs
+https://countless.dev/ Compare every AI model: LLMs, TTSs, STTs
 > https://news.ycombinator.com/item?id=42348513
-
-https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/
-> https://news.ycombinator.com/item?id=42317903
 
 https://www.anthropic.com/news/model-context-protocol
 > https://news.ycombinator.com/item?id=42237424
@@ -345,9 +318,6 @@ https://news.ycombinator.com/item?id=42009290
 
 > https://news.ycombinator.com/item?id=41947566
 
-https://www.anthropic.com/news/3-5-models-and-computer-use
-> https://news.ycombinator.com/item?id=41914989
-
 https://news.ycombinator.com/item?id=41773020
 
 https://news.ycombinator.com/item?id=41811078
@@ -357,8 +327,6 @@ https://news.ycombinator.com/item?id=41812562
 https://news.ycombinator.com/item?id=41760510
 
 https://news.ycombinator.com/item?id=41737326
-
-https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
 
 https://www.amazon.science/blog/how-task-decomposition-and-smaller-llms-can-make-ai-more-affordable
 
@@ -415,15 +383,9 @@ https://jackcook.com/2023/09/08/predictive-text.html apple
 
 https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/
 
-https://llama.meta.com/ 3.1
-> https://news.ycombinator.com/item?id=41046540
-
 https://news.ycombinator.com/item?id=41007325
 
 https://news.ycombinator.com/item?id=40996429
-
-https://mistral.ai/news/mistral-nemo/
-> https://news.ycombinator.com/item?id=40996058
 
 https://news.ycombinator.com/item?id=40979221
 
@@ -473,19 +435,13 @@ https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor
 https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/
 > https://news.ycombinator.com/item?id=40405443
 
-https://news.ycombinator.com/item?id=40372315 Qualcomm's Oryon LLVM Patches 
-
-https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
-> https://news.ycombinator.com/item?id=40392208
+https://news.ycombinator.com/item?id=40372315 Qualcomm's Oryon LLVM Patches
 
 https://news.ycombinator.com/item?id=40378499
 
 https://news.ycombinator.com/item?id=40314977
 
 https://news.ycombinator.com/item?id=40266791 Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens
-
-https://huggingface.co/gradientai/Llama-3-70B-Instruct-Gradient-1048k
-> https://news.ycombinator.com/item?id=40260879
 
 https://news.ycombinator.com/item?id=40256173
 
@@ -531,8 +487,6 @@ https://news.ycombinator.com/item?id=40090774
 
 https://news.ycombinator.com/item?id=40092710
 
-https://news.ycombinator.com/item?id=40064736 Mixtral 8x22B
-
 https://news.ycombinator.com/item?id=40067677
 
 https://news.ycombinator.com/item?id=40083109
@@ -563,8 +517,6 @@ https://github.com/karpathy/llm.c
 https://news.ycombinator.com/item?id=39959790
 
 https://news.ycombinator.com/item?id=39849644
-
-https://github.com/xai-org/grok-1
 
 https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/
 > https://news.ycombinator.com/item?id=39853958
@@ -653,16 +605,11 @@ https://news.ycombinator.com/item?id=39263664
 https://shyam.blog/posts/beyond-self-attention/
 > https://news.ycombinator.com/item?id=39251909
 
-https://brave.com/leo-mixtral/
-> https://news.ycombinator.com/item?id=39152763
-
 https://github.com/rasbt/LLMs-from-scratch
 > https://news.ycombinator.com/item?id=39156778
 
 https://arxiv.org/abs/2401.09486
 > https://news.ycombinator.com/item?id=39157735
-
-https://github.com/b4rtaz/distributed-llama
 
 https://news.ycombinator.com/item?id=39120456
 
@@ -694,18 +641,9 @@ https://globe.engineer/translator
 
 https://news.ycombinator.com/item?id=38965762
 
-https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d  Microsoft Phi-2 model changes licence to MIT
-> https://news.ycombinator.com/item?id=38889539
-
 https://arxiv.org/abs/2401.02385
 > https://news.ycombinator.com/item?id=38885054
 > https://github.com/jzhang38/TinyLlama
-
-https://github.com/mikepapadim/llama-shepherd-cli
-> https://news.ycombinator.com/item?id=38866118
-
-https://github.com/DLYuanGod/TinyGPT-V
-> https://news.ycombinator.com/item?id=38859749
 
 https://arxiv.org/abs/2312.17661
 > https://news.ycombinator.com/item?id=38851446
@@ -734,9 +672,6 @@ https://vgel.me/posts/faster-inference/
 
 https://news.ycombinator.com/item?id=38730143
 
-https://simonwillison.net/2023/Dec/18/mistral/
-> https://news.ycombinator.com/item?id=38686221
-
 https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/
 > https://news.ycombinator.com/item?id=38620037
 
@@ -746,20 +681,10 @@ https://future.mozilla.org/blog/introducing-memorycache/
 https://justine.lol/oneliners/
 > https://news.ycombinator.com/item?id=38629630
 
-https://mistral.ai/news/mixtral-of-experts/
-> https://news.ycombinator.com/item?id=38598559
-
-https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code
-> https://news.ycombinator.com/item?id=38603207
-
 https://avapls.com/
 > https://news.ycombinator.com/item?id=38572720
 
-https://www.anthropic.com/index/claude-2-1-prompting
-> https://news.ycombinator.com/item?id=38550675
-
 https://arxiv.org/abs/2311.01927
->
 
 https://stability.ai/news/stablelm-zephyr-3b-stability-llm
 > https://news.ycombinator.com/item?id=38559672
@@ -870,8 +795,6 @@ https://arxiv.org/abs/2307.03172
 
 https://tij.ink/analysis.html
 
-https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
-
 https://eugeneyan.com/writing/llm-patterns/
 
 https://avehtari.github.io/modelselection/CV-FAQ.html Cross-validation FAQ
@@ -901,12 +824,6 @@ https://llmconstellation.olafblitz.repl.co/
 
 https://github.com/psychic-api/rag-stack
 > https://news.ycombinator.com/item?id=36803533
-
-https://matt-rickard.com/why-did-meta-open-source-llama
-> https://news.ycombinator.com/item?id=36817938
-
-https://www.alessiofanelli.com/blog/llama2-isnt-open-source
-> https://news.ycombinator.com/item?id=36815255
 
 https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models
 > https://news.ycombinator.com/item?id=36818923
@@ -1007,8 +924,6 @@ https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-p
 https://mlc.ai/mlc-llm/
 
 https://bdtechtalks.com/2023/05/22/what-is-lora/
-
-https://medium.com/@brian_90925/llms-and-the-emerging-ml-tech-stack-6fa66ee4561a
 
 https://lmsys.org/about/
 
@@ -1124,8 +1039,6 @@ https://palm-e.github.io/
 
 https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
 
-https://github.com/nomic-ai/gpt4all
-
 https://blog.eleuther.ai/trlx-exploratory-analysis/
 
 https://news.ycombinator.com/item?id=35454003
@@ -1140,9 +1053,6 @@ https://johanwind.github.io/2023/03/23/rwkv_overview.html
 
 https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/
 > https://news.ycombinator.com/item?id=35362048
-
-https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
-> https://news.ycombinator.com/item?id=35343763
 
 https://www.yitay.net/blog/flan-ul2-20b
 > https://news.ycombinator.com/item?id=35302564

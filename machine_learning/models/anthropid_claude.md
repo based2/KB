@@ -1,1 +1,0 @@
-https://news.ycombinator.com/item?id=43197218

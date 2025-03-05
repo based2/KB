@@ -96,27 +96,6 @@ https://arxiv.org/abs/2005.04305
 https://ml.berkeley.edu/blog/posts/clip-art/
 > https://news.ycombinator.com/item?id=27696369
 
-# GPT
-https://dugas.ch/artificial_curiosity/GPT_architecture.html
-> https://news.ycombinator.com/item?id=33942597
-
-https://news.ycombinator.com/item?id=26534000
-
-https://stefanzukin.com/enigma/
-> https://news.ycombinator.com/item?id=27144764
-
-https://github.com/semiosis/pen.el/
-> https://news.ycombinator.com/item?id=27709659
-
-https://www.p3r.one/gpt-j/
-> https://news.ycombinator.com/item?id=27731266
-
-https://github.com/kingoflolz/mesh-transformer-jax GPT-J opensource
-> https://news.ycombinator.com/item?id=27727009
-
-https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models Without Supervision
-> https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
-
 # IML - Interpretable machine learning
 https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
 
@@ -638,6 +617,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43236184
+
 https://diffusion.csail.mit.edu/
 > https://news.ycombinator.com/item?id=43238893
 

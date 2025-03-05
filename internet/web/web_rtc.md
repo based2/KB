@@ -104,3 +104,5 @@ https://arunraghavan.net/2024/09/gstreamer-and-webrtc-http-signalling/
 https://blog.cloudflare.com/webrtc-turn-using-anycast/
 
 https://news.ycombinator.com/item?id=41699323
+
+https://transitiverobotics.com/caps/transitive-robotics/webrtc-video/

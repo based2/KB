@@ -86,6 +86,10 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/
 > https://news.ycombinator.com/item?id=37263827
 
+# Incidents
+https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals
+> https://news.ycombinator.com/item?id=43261933
+
 # News
 https://news.ycombinator.com/item?id=42999598
 
