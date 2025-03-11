@@ -58,6 +58,9 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 > https://news.ycombinator.com/item?id=33107108
 
 #
+https://www.masswerk.at/keypunch/
+> https://news.ycombinator.com/item?id=43294751
+
 https://manx-docs.org/about.php
 > https://news.ycombinator.com/item?id=42497148
 

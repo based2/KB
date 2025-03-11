@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://github.com/metacraft-labs/codetracer time-traveling debugger implemented in Nim and Rust
+> https://news.ycombinator.com/item?id=43280615
+
 https://news.ycombinator.com/item?id=43081713
 
 https://news.ycombinator.com/item?id=42532979

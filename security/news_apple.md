@@ -16,6 +16,9 @@ https://news.ycombinator.com/item?id=40688138
 https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html
 > https://news.ycombinator.com/item?id=41437611
 
+https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
+> https://news.ycombinator.com/item?id=43314657
+
 #
 https://news.ycombinator.com/item?id=43008422
 

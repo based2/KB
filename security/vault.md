@@ -53,7 +53,9 @@ https://www.passbolt.com/
 > https://github.com/passbolt/passbolt_api php ruby
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
-# Incident
+# Incidents
+https://news.ycombinator.com/item?id=43296656
+
 https://www.bleepingcomputer.com/news/security/samsung-to-pay-1-000-000-for-rces-on-galaxys-secure-vault/
 
 https://www.bleepingcomputer.com/news/google/google-fixes-chrome-password-manager-bug-that-hides-credentials/

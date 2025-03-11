@@ -111,6 +111,9 @@ https://news.ycombinator.com/item?id=43187209
 
 https://news.ycombinator.com/item?id=43174298
 
+https://mistral.ai/fr/news/mistral-ocr
+> https://news.ycombinator.com/item?id=43282905
+
 # News
 https://github.com/JordiNeil/bad_posture
 

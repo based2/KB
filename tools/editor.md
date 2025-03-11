@@ -152,6 +152,8 @@ https://news.ycombinator.com/item?id=42810176
 
 https://news.ycombinator.com/item?id=43068884
 
+https://news.ycombinator.com/item?id=43283814 bcvi
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341

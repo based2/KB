@@ -702,6 +702,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=43298048
+
 https://news.ycombinator.com/item?id=42946718
 
 https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/

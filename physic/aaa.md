@@ -1,5 +1,7 @@
 https://ophysics.com/index.html
 
+https://news.ycombinator.com/item?id=43311610
+
 https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity
 > https://news.ycombinator.com/item?id=43148438
 

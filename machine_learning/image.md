@@ -141,6 +141,8 @@ https://stablediffusionweb.com/PixArt-alpha#ai-art-generator
 https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html
 > https://news.ycombinator.com/item?id=39210458
 
+https://news.ycombinator.com/item?id=43286091
+
 ## Stable diffusion
 https://github.com/layerdiffusion/sd-forge-layerdiffusion
 > https://news.ycombinator.com/item?id=39577164

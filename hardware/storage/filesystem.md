@@ -6,6 +6,8 @@ https://arstechnica.com/gadgets/2021/07/a-deep-dive-into-openzfs-2-1s-new-distri
 > https://news.ycombinator.com/item?id=27718345
 
 # ZFS
+https://www.phoronix.com/news/OpenZFS-2.3.1-Released
+
 https://klarasystems.com/articles/lets-talk-openzfs-snapshots/
 > https://news.ycombinator.com/item?id=27994369
 

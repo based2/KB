@@ -252,6 +252,9 @@ https://news.ycombinator.com/item?id=38404905
 
 https://news.ycombinator.com/item?id=40010606
 
+https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/
+> https://news.ycombinator.com/item?id=43290555
+
 # Serverless - functions
 
 # APIs
@@ -324,6 +327,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=43301432
+
 https://news.ycombinator.com/item?id=43193160
 
 https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/

@@ -163,6 +163,8 @@ https://www.fabiensanglard.net/timer_and_framerate/index.php
 > https://news.ycombinator.com/item?id=28207871
 
 # Clock
+https://news.ycombinator.com/item?id=43293744
+
 https://engineer.john-whittington.co.uk/electronics/fabrication/mechanical/clock/2021/06/16/linear-clock.html
 
 https://www.world-archaeology.com/features/the-antikythera-mechanism/

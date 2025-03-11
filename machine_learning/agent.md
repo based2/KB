@@ -98,3 +98,5 @@ https://news.ycombinator.com/item?id=43120860
 https://developers.cloudflare.com/agents/
 
 https://news.ycombinator.com/item?id=43243893
+
+https://news.ycombinator.com/item?id=43310963

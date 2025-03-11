@@ -163,6 +163,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://developer.chrome.com/blog/command-and-commandfor
+> https://news.ycombinator.com/item?id=43292056
+
 https://news.ycombinator.com/item?id=43127577
 
 https://developer.chrome.com/blog/rfc-customizable-select

@@ -1,3 +1,6 @@
+https://mistral.ai/fr/news/mistral-ocr
+> https://news.ycombinator.com/item?id=43282905
+
 https://mistral.ai/news/mistral-nemo/
 > https://news.ycombinator.com/item?id=40996058
 

@@ -33,6 +33,9 @@ https://docs.ragas.io/en/stable/
 # RAG
 https://www.oreilly.com/radar/unbundling-the-graph-in-graphrag/
 
+https://blog.kuzudb.com/post/kuzu-wasm-rag/
+> https://news.ycombinator.com/item?id=43321523
+
 https://news.ycombinator.com/item?id=40380158
 
 https://news.ycombinator.com/item?id=40181306
@@ -92,6 +95,14 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=43298275
+
+https://github.com/letta-ai/letta Framework for creating LLM services with memory
+> https://news.ycombinator.com/item?id=43294974
+
+https://rlama.dev/ Open-Source DocumentAI with Ollama
+> https://news.ycombinator.com/item?id=43296918
+
 https://news.ycombinator.com/item?id=43197752
 
 https://news.ycombinator.com/item?id=43246735

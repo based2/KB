@@ -58,5 +58,7 @@ https://arxiv.org/abs/2412.20512 Time-Series Anomaly Detection: A Decade Review
 
 https://news.ycombinator.com/item?id=43243914
 
+https://news.ycombinator.com/item?id=43292927
+
 # ml
 https://news.ycombinator.com/item?id=39787176

@@ -147,6 +147,9 @@ https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/
 
 https://github.com/aishwaryanr/awesome-generative-ai-guide
 
+https://arxiv.org/abs/2502.05244 Probabilistic Artificial Intelligence
+> https://news.ycombinator.com/item?id=43318624
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333

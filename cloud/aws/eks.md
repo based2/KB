@@ -74,6 +74,9 @@ https://www.onepane.ai/blog/fluent-bit-modify-log-data-with-modify-filter-plugin
 https://www.wiz.io/blog/eks-cluster-access-management-and-pod-identity-security-recommendations
 
 #
+https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/
+> https://news.ycombinator.com/item?id=43320024
+
 https://news.ycombinator.com/item?id=40694103
 
 https://aws.amazon.com/en/blogs/containers/announcing-pull-through-cache-for-registry-k8s-io-in-amazon-elastic-container-registry/

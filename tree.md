@@ -56,6 +56,8 @@ https://news.ycombinator.com/item?id=40023319
 https://news.ycombinator.com/item?id=40665015
 
 # B-tree
+https://news.ycombinator.com/item?id=43292050
+
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576
 

@@ -180,6 +180,11 @@ https://news.ycombinator.com/item?id=43028057
 https://unsloth.ai/blog/grpo Long-Context GRPO
 > https://news.ycombinator.com/item?id=43124091
 
+https://arxiv.org/abs/2503.00735 Ladder: Self-improving LLMs through recursive problem decomposition
+> https://news.ycombinator.com/item?id=43287821
+
+https://news.ycombinator.com/item?id=43268477 16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs (
+
 # News
 https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention
 > https://news.ycombinator.com/item?id=43261650

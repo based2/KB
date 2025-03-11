@@ -50,6 +50,12 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=43321688
+
+https://news.ycombinator.com/item?id=43272549
+
+https://github.com/hemildesai/imperial
+
 https://news.ycombinator.com/item?id=43183131
 
 https://robocode.sourceforge.io/

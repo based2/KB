@@ -73,6 +73,13 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=43312199
+
+https://news.ycombinator.com/item?id=43277214
+
+https://news.ycombinator.com/item?id=43294566
+> Scala (and Java) has a typed Dataset api.[0] pyspark only provides the Dataframe API, which is not typed.
+
 https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python
 > https://news.ycombinator.com/item?id=43092579
 
