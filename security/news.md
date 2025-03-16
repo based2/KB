@@ -1,3 +1,5 @@
+https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf
+
 https://news.ycombinator.com/item?id=43229201
 
 https://news.ycombinator.com/item?id=43210858

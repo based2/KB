@@ -183,6 +183,8 @@ https://news.ycombinator.com/item?id=42813231
 pfctl: failed to create table __automatic_fb0507e4_0 in : Resource busy
 pfctl: DIOCXCOMMIT: Resource busy
 
+https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-apple-system-services-wants-to-use-the-login-key
+
 # Dev
 https://news.ycombinator.com/item?id=42908061
 

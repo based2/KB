@@ -104,3 +104,6 @@ https://news.ycombinator.com/item?id=43310963
 https://news.ycombinator.com/item?id=43331673
 
 https://news.ycombinator.com/item?id=43334644
+
+https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations
+> https://news.ycombinator.com/item?id=43348434

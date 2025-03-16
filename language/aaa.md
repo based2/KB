@@ -377,6 +377,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.fast.ai/posts/2023-05-03-mojo-launch.html
+
 https://news.ycombinator.com/item?id=43346864
 
 https://vine.dev/docs/

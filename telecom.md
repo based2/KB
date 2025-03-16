@@ -313,6 +313,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://thehackernews.com/2025/03/gsma-confirms-end-to-end-encryption-for.html
+
 https://news.ycombinator.com/item?id=43361822
 
 https://news.ycombinator.com/item?id=42996003

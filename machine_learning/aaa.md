@@ -620,6 +620,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43361440
+
 https://news.ycombinator.com/item?id=43236184
 
 https://diffusion.csail.mit.edu/

@@ -71,6 +71,9 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
+> https://news.ycombinator.com/item?id=43374278
+
 https://news.ycombinator.com/item?id=43374364
 
 https://news.ycombinator.com/item?id=43007336

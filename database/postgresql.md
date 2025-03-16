@@ -346,21 +346,6 @@ https://www.theregister.com/2025/02/14/postgresql_bug_treasury/
 https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
-https://www.postgresql.org/about/news/postgresql-161-155-1410-1313-1217-and-1122-released-2749/
-
-https://www.postgresql.org/about/news/postgresql-154-149-1312-1216-1121-and-postgresql-16-beta-3-released-2689/
-
-https://otx.alienvault.com/indicator/cve/CVE-2023-2454
-
-https://otx.alienvault.com/indicator/cve/CVE-2023-2455
-
-https://www.postgresql.org/about/news/postgresql-153-148-1311-1215-and-1120-released-2637/
-
-https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-Row-Security-User-ID-Changes-41249
-
-https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
-
-# News
 https://news.ycombinator.com/item?id=43364668
 
 https://news.ycombinator.com/item?id=43270712

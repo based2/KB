@@ -126,6 +126,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 
 https://www.sekinoworld.com/fractal/
 
+https://news.ycombinator.com/item?id=43375676
+
 # Calculators
 https://news.ycombinator.com/item?id=43066953
 

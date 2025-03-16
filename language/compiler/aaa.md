@@ -57,6 +57,8 @@ https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-
 https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
 
 # LLVM
+https://mlir.llvm.org/
+
 https://m680x0.github.io/blog/2023/05/may-updates.html
 > https://news.ycombinator.com/item?id=36086938
 

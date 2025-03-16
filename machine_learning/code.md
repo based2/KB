@@ -76,6 +76,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://medium.com/codex/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57
+
 https://news.ycombinator.com/item?id=43362535
 
 https://news.ycombinator.com/item?id=43294723

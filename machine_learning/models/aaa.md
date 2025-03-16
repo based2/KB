@@ -189,7 +189,11 @@ https://news.ycombinator.com/item?id=43336609
 
 https://news.ycombinator.com/item?id=43363247
 
+https://cds.cern.ch/record/2916519 Entropy is all you need? The quest for best tokens and the new physics of LLMs
+
 # News
+https://news.ycombinator.com/item?id=43378401
+
 https://github.com/Dicklesworthstone/llm-docs
 > https://news.ycombinator.com/item?id=43364640
 

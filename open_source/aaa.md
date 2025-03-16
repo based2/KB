@@ -261,6 +261,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://lasuite.numerique.gouv.fr/
+> https://github.com/suitenumerique
+> > https://github.com/suitenumerique/docs/blob/c85224af425261e03b535ecaed8fb60318cff916/docs/installation.md?plain=1#L123
+
 https://news.ycombinator.com/item?id=43311082
 
 https://news.ycombinator.com/item?id=43025176 gimp

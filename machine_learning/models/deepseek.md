@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43360522
+
 https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1
 
 https://arcprize.org/blog/r1-zero-r1-results-analysis

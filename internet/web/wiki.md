@@ -13,3 +13,6 @@ https://val.packett.cool/blog/tiddlypwa/
 
 https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/
 > https://news.ycombinator.com/item?id=38814990
+
+https://github.com/suitenumerique/docs
+> https://news.ycombinator.com/item?id=43378239
