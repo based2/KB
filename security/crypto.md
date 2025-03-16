@@ -206,6 +206,8 @@ https://news.ycombinator.com/item?id=41668896
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=43332944
+
 https://news.ycombinator.com/item?id=43031372
 
 https://news.ycombinator.com/item?id=42633501

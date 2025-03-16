@@ -24,3 +24,5 @@ https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-s
 > https://news.ycombinator.com/item?id=35998359
 
 https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit
+
+https://news.ycombinator.com/item?id=43371097

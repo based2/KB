@@ -68,3 +68,6 @@ https://news.ycombinator.com/item?id=35623625
 https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/
 
 https://news.ycombinator.com/item?id=42827335
+
+https://github.com/needleful/c_plus_prolog
+> https://news.ycombinator.com/item?id=43357955

@@ -49,6 +49,8 @@ https://mailpit.axllent.org/
 https://news.ycombinator.com/item?id=41246211
 
 # Spam
+https://news.ycombinator.com/item?id=43360724
+
 http://unmitigatedrisk.com/?p=752
 > https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle
 
@@ -209,6 +211,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html
+> https://news.ycombinator.com/item?id=43339212
+
 https://old.reddit.com/r/netsec/comments/1i1ej02/new_microsoft_ole_vulnerability_exploitable_via/
 
 https://www.bleepingcomputer.com/news/technology/proton-mail-still-down-as-proton-recovers-from-worldwide-outage/

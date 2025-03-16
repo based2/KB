@@ -76,6 +76,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://news.ycombinator.com/item?id=43362535
+
 https://news.ycombinator.com/item?id=43294723
 
 https://www.typeleap.com/ LLM Powered Reactive Intent UI/UX

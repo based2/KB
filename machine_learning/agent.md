@@ -100,3 +100,7 @@ https://developers.cloudflare.com/agents/
 https://news.ycombinator.com/item?id=43243893
 
 https://news.ycombinator.com/item?id=43310963
+
+https://news.ycombinator.com/item?id=43331673
+
+https://news.ycombinator.com/item?id=43334644

@@ -153,6 +153,11 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/03/14/brussels_raid_huawei/
+
+https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/
+> https://news.ycombinator.com/item?id=43340196
+
 https://news.ycombinator.com/item?id=43127425
 
 https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html
@@ -308,6 +313,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=43361822
+
 https://news.ycombinator.com/item?id=42996003
 
 https://news.ycombinator.com/item?id=43027266

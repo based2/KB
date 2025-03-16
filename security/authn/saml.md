@@ -11,3 +11,8 @@ https://www.netwrix.com/golden_saml_attack.html
 https://news.ycombinator.com/item?id=41036982
 
 https://news.ycombinator.com/item?id=41110850
+
+# i
+https://news.ycombinator.com/item?id=43374519
+
+https://www.bleepingcomputer.com/news/security/gitlab-patches-critical-authentication-bypass-vulnerabilities/

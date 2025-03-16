@@ -185,7 +185,14 @@ https://arxiv.org/abs/2503.00735 Ladder: Self-improving LLMs through recursive p
 
 https://news.ycombinator.com/item?id=43268477 16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs (
 
+https://news.ycombinator.com/item?id=43336609
+
+https://news.ycombinator.com/item?id=43363247
+
 # News
+https://github.com/Dicklesworthstone/llm-docs
+> https://news.ycombinator.com/item?id=43364640
+
 https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention
 > https://news.ycombinator.com/item?id=43261650
 

@@ -403,6 +403,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=43353898
+
 https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c
 > https://news.ycombinator.com/item?id=43052107
 

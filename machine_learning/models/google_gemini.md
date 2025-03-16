@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=43340491
+
+https://ai.google.dev/gemini-api/docs/learnlm
+> https://news.ycombinator.com/item?id=43373726
+
 https://www.philschmid.de/gemini-pdf-to-data#3-structured-outputs-with-gemini-20-and-pydantic
 
 https://news.ycombinator.com/item?id=43089093

@@ -160,6 +160,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://news.ycombinator.com/item?id=43362717
+
 https://www.theregister.com/2024/12/13/taming_the_multivault_beast/
 
 https://www.locknest.fr/en/index.html#locknest-presentation

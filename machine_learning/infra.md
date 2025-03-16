@@ -95,6 +95,11 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # News
+https://news.ycombinator.com/item?id=43331973
+
+https://jigsawstack.com/blog/jigsawstack-mcp-servers
+> https://news.ycombinator.com/item?id=43368327
+
 https://news.ycombinator.com/item?id=43298275
 
 https://github.com/letta-ai/letta Framework for creating LLM services with memory

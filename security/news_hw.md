@@ -12,6 +12,10 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://news.ycombinator.com/item?id=43344388
+
+https://news.ycombinator.com/item?id=43364016
+
 https://people.inf.ethz.ch/omutlu/pub/HBM_RowHammer_dsn-disrupt23-talk.pdf
 
 https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html

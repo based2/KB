@@ -396,6 +396,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://pgaleone.eu/cloud/2025/03/15/getting-back-to-the-eu-from-google-cloud-to-self-hosted-vps/
+
 https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint
 > https://news.ycombinator.com/item?id=43198572
 

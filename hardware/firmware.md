@@ -1,3 +1,5 @@
+https://sergioprado.blog/rpmb-a-secret-place-inside-the-emmc/
+
 https://news.ycombinator.com/item?id=41959498
 
 https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html

@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://www.shapeoperator.com/2016/12/12/sunset-geometry/
+
 https://news.ycombinator.com/item?id=42470202
 
 https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/

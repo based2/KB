@@ -84,10 +84,14 @@ https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/
 
 https://news.ycombinator.com/item?id=39163181
 
+https://news.ycombinator.com/item?id=43330782
+
 # ML
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://hackers.town/@zwol/114155595855705796
+
 https://news.ycombinator.com/item?id=42526926
 
 http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html

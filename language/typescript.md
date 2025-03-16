@@ -109,6 +109,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devblogs.microsoft.com/typescript/typescript-native-port/
+> https://news.ycombinator.com/item?id=43332830
+
 https://news.ycombinator.com/item?id=42804961
 
 https://github.com/mathuo/dockview

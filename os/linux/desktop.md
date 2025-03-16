@@ -114,6 +114,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441
+
 https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html
 > https://news.ycombinator.com/item?id=43034440
 
