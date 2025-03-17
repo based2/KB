@@ -81,6 +81,8 @@ https://en.wikipedia.org/wiki/Cornstalk_fiddle
 https://jazz-library.com/articles/comping/
 > https://news.ycombinator.com/item?id=36782201
 
+https://news.ycombinator.com/item?id=43384535
+
 # Electronic
 
 https://www.vitling.xyz/toys/acid-banger/

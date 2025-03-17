@@ -264,6 +264,8 @@ https://libregraphicsmag.com/index.html
 https://lasuite.numerique.gouv.fr/
 > https://github.com/suitenumerique
 > > https://github.com/suitenumerique/docs/blob/c85224af425261e03b535ecaed8fb60318cff916/docs/installation.md?plain=1#L123
+> https://gitlab.opencode.de/bmi/opendesk/
+> > https://gitlab.opencode.de/bmi/opendesk/deployment/opendesk#architecture
 
 https://news.ycombinator.com/item?id=43311082
 

@@ -1,3 +1,9 @@
+https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking
+> https://news.ycombinator.com/item?id=43359264
+
+https://lists.apache.org/thread/j5fkjv2k477os90nczf2v9l61fb0kkgq
+> https://www.bleepingcomputer.com/news/security/critical-rce-flaw-in-apache-tomcat-actively-exploited-in-attacks/
+
 https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf
 
 https://news.ycombinator.com/item?id=43229201

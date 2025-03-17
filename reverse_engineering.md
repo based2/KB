@@ -70,6 +70,9 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 # News
+https://github.com/mvt-project/mvt Conducting forensics of mobile devices to find signs of a potential compromise
+> https://news.ycombinator.com/item?id=43384894
+
 https://news.ycombinator.com/item?id=43344673
 
 https://news.ycombinator.com/item?id=43233143

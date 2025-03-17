@@ -620,6 +620,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43352531
+> https://news.ycombinator.com/item?id=36045397
+
+https://news.ycombinator.com/item?id=43360249
+
+https://arxiv.org/abs/2503.02113 Deep Learning Is Not So Mysterious or Different
+> https://news.ycombinator.com/item?id=43390400
+
 https://news.ycombinator.com/item?id=43361440
 
 https://news.ycombinator.com/item?id=43236184

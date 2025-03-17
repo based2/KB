@@ -205,6 +205,8 @@ https://news.ycombinator.com/item?id=39300573
 
 https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3
 
+https://news.ycombinator.com/item?id=43360251
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

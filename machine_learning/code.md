@@ -59,6 +59,8 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 https://www.cursor.com/
+> https://news.ycombinator.com/item?id=43385668
+
 
 # API
 https://news.ycombinator.com/item?id=43196374
@@ -76,6 +78,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://coder.com/blog/coding-with-claude-code
+
 https://medium.com/codex/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57
 
 https://news.ycombinator.com/item?id=43362535
