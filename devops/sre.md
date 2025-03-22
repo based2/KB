@@ -139,3 +139,5 @@ https://news.ycombinator.com/item?id=39476446
 https://news.ycombinator.com/item?id=39969448
 
 https://news.ycombinator.com/item?id=42584750
+
+https://news.ycombinator.com/item?id=43419422

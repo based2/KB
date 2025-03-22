@@ -76,6 +76,11 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://news.ycombinator.com/item?id=43440920
+
+https://dicedb.io/
+> https://news.ycombinator.com/item?id=43379262
+
 https://code.openark.org/blog/mysql/the-problem-with-mysql-foreign-key-constraints-in-online-schema-changes
 > https://news.ycombinator.com/item?id=43001449
 

@@ -580,6 +580,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/
+
+https://news.ycombinator.com/item?id=43419701
+
 https://news.ycombinator.com/item?id=43386745
 
 https://news.ycombinator.com/item?id=43378925

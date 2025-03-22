@@ -1,3 +1,11 @@
+https://news.ycombinator.com/item?id=43438850
+
+https://www.anthropic.com/engineering/claude-think-tool
+
+https://news.ycombinator.com/item?id=43425655 search
+
+https://news.ycombinator.com/item?id=43356016
+
 https://news.ycombinator.com/item?id=43197218
 
 https://www.anthropic.com/news/3-5-models-and-computer-use

@@ -346,6 +346,12 @@ https://www.theregister.com/2025/02/14/postgresql_bug_treasury/
 https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
+
+#
+https://news.ycombinator.com/item?id=43398148
+
+◊https://news.ycombinator.com/item?id=43380622
+
 https://news.ycombinator.com/item?id=43364668
 
 https://news.ycombinator.com/item?id=43270712

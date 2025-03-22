@@ -71,3 +71,6 @@ https://news.ycombinator.com/item?id=42827335
 
 https://github.com/needleful/c_plus_prolog
 > https://news.ycombinator.com/item?id=43357955
+
+https://www.scallop-lang.org/ Language for Neurosymbolic Programming
+> https://news.ycombinator.com/item?id=43443640

@@ -107,3 +107,6 @@ https://news.ycombinator.com/item?id=43334644
 
 https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations
 > https://news.ycombinator.com/item?id=43348434
+
+https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial
+> https://news.ycombinator.com/item?id=43417511

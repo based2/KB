@@ -116,3 +116,5 @@ https://news.ycombinator.com/item?id=41754628
 
 https://airflow.app/
 > https://news.ycombinator.com/item?id=42870171
+
+https://news.ycombinator.com/item?id=43397640

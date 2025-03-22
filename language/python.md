@@ -378,6 +378,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://github.com/mr-fatalyst/fastopenapi
+> https://news.ycombinator.com/item?id=43445720
+
 https://news.ycombinator.com/item?id=43386357
 
 https://news.ycombinator.com/item?id=43307563

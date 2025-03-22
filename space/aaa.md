@@ -35,6 +35,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space
+> https://news.ycombinator.com/item?id=43416302
+
+https://news.ycombinator.com/item?id=43439759
+
 https://news.ycombinator.com/item?id=43377690
 
 https://news.ycombinator.com/item?id=43286532

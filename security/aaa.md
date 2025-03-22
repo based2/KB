@@ -1,3 +1,8 @@
+https://www.rapid7.com/blog/post/2025/03/19/etr-apache-tomcat-cve-2025-24813-what-you-need-to-know/
+
+https://karpathy.bearblog.dev/digital-hygiene/
+> https://news.ycombinator.com/item?id=43402328
+
 https://news.ycombinator.com/item?id=42251799
 
 https://news.ycombinator.com/item?id=42043939

@@ -71,6 +71,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://e360.yale.edu/digest/wmo-2024-climate-report
+
+https://news.ycombinator.com/item?id=43439227
+
 PETM
 
 https://www.nature.com/articles/s41560-025-01714-y

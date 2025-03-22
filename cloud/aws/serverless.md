@@ -57,6 +57,8 @@ https://aws.amazon.com/en/about-aws/whats-new/2022/04/amazon-aurora-serverless-v
 https://aws.amazon.com/en/iotbutton/
 
 #
+https://news.ycombinator.com/item?id=43420892
+
 https://aws.amazon.com/en/blogs/aws/step-functions-distributed-map-a-serverless-solution-for-large-scale-parallel-data-processing/
 
 https://itnext.io/running-libreoffice-in-aws-lambda-2022-edition-open-sourced-9bb0028911d8

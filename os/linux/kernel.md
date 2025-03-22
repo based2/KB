@@ -54,6 +54,10 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/Linux-6.14-Sched-2-Year-Regress
+
+https://lwn.net/Articles/1012990/
+
 https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04
 
 https://news.ycombinator.com/item?id=43181420

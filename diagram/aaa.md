@@ -290,7 +290,12 @@ https://github.com/asciitosvg/asciitosvg
 # State Machine
 https://mannhowie.com/finite-state-machines
 
+# ML
+https://news.ycombinator.com/item?id=43398434
+
 # News
+https://news.ycombinator.com/item?id=43377897
+
 https://news.ycombinator.com/item?id=41417024
 
 https://github.com/AlexITC/collabuml

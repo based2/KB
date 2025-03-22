@@ -46,3 +46,5 @@ https://kovenyu.com/wonderworld/
 > https://news.ycombinator.com/item?id=41569544
 
 https://news.ycombinator.com/item?id=41729891
+
+https://starvector.github.io/ Generating Scalable Vector Graphics Code from Images and Text

@@ -327,6 +327,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.dbos.dev/blog/new-three-tier-application
+> https://news.ycombinator.com/item?id=43398967
+
 https://thymer.com/local-first-ejectable
 > https://news.ycombinator.com/item?id=43362725
 

@@ -37,6 +37,9 @@ https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html
 
 https://blogs.jpcert.or.jp/en/2024/11/etw_forensics.html
 
+https://www.daemonology.net/blog/chunking-attacks.pdf
+> https://news.ycombinator.com/item?id=43438601
+
 # News
 https://news.ycombinator.com/item?id=43301369
 

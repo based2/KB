@@ -78,6 +78,9 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://ezyang.github.io/ai-blindspots/
+> https://news.ycombinator.com/item?id=43414393
+
 https://coder.com/blog/coding-with-claude-code
 
 https://medium.com/codex/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57

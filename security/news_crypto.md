@@ -1,3 +1,6 @@
+https://mastersplinter.work/research/passkey/
+> https://news.ycombinator.com/item?id=43408674
+
 https://news.ycombinator.com/item?id=42955176
 
 https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/

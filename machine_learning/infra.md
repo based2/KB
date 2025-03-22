@@ -94,7 +94,18 @@ https://news.ycombinator.com/item?id=40302382
 
 https://news.ycombinator.com/item?id=40921038
 
+# I
+https://github.com/ShaojieJiang/mcp-is-dangerous
+
 # News
+https://news.ycombinator.com/item?id=43444091
+
+https://news.ycombinator.com/item?id=43404858
+
+https://news.ycombinator.com/item?id=43419713
+
+https://github.com/hyperbrowserai/mcp
+
 https://news.ycombinator.com/item?id=43331973
 
 https://jigsawstack.com/blog/jigsawstack-mcp-servers

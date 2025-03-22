@@ -78,6 +78,8 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://news.ycombinator.com/item?id=43376769
+
 https://news.ycombinator.com/item?id=43308966
 
 https://news.ycombinator.com/item?id=42360681

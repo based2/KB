@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43445370
+
 https://mistral.ai/fr/news/mistral-ocr
 > https://news.ycombinator.com/item?id=43282905
 

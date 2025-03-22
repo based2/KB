@@ -246,6 +246,8 @@ https://jepsen.io/analyses/datomic-pro-1.0.7075
 # concurrencyngs
 
 # News
+https://news.ycombinator.com/item?id=43390401
+
 https://news.ycombinator.com/item?id=43195702
 
 https://news.ycombinator.com/item?id=42602347

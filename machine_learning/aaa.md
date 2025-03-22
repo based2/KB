@@ -620,6 +620,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://blog.ezyang.com/2019/05/pytorch-internals/
+> https://news.ycombinator.com/item?id=43445931
+
+https://www.ietf.org/blog/aipref-wg/ IETF setting standards for AI preferences: AIPREF
+
+https://arxiv.org/abs/2206.13446 Pen and Paper Exercises in Machine Learning - 2022
+> https://news.ycombinator.com/item?id=43440267
+
 https://news.ycombinator.com/item?id=43352531
 > https://news.ycombinator.com/item?id=36045397
 

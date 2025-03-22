@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # I
+https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-Crawler-Reflective-DDOS-Vulnerability.md
+
 https://news.ycombinator.com/item?id=43140754
 
 https://news.ycombinator.com/item?id=43072790
@@ -46,6 +48,8 @@ https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-eth
 https://www.bleepingcomputer.com/news/security/fbi-links-north-korean-hackers-to-308-million-crypto-heist/
 
 # News
+https://news.ycombinator.com/item?id=43399190
+
 https://news.ycombinator.com/item?id=43270398
 
 https://www.kalzumeus.com/2025/02/10/retraction-request-denied/

@@ -149,6 +149,12 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://bjango.com/articles/matchingdropshadows/
+
+https://news.ycombinator.com/item?id=43399170 hexa
+
+https://news.ycombinator.com/item?id=43420683
+
 https://news.ycombinator.com/item?id=43377665
 
 https://news.ycombinator.com/item?id=43236126

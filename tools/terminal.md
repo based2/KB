@@ -52,6 +52,8 @@ https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Re
 > https://news.ycombinator.com/item?id=42579472
 
 # News
+https://news.ycombinator.com/item?id=43440184
+
 https://github.com/mfontanini/presenterm Markdown Slideshows in the Terminal
 > https://news.ycombinator.com/item?id=43303752
 

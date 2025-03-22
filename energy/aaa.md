@@ -19,11 +19,19 @@ https://poweroutage.us/
 > https://news.ycombinator.com/item?id=43069399
 
 # I
+https://news.ycombinator.com/item?id=43431567
+
 https://news.ycombinator.com/item?id=43182892
 
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=43356068
+
+https://github.com/open-energy-transition/Awesome-Electric-Grid-Mapping
+
+https://news.ycombinator.com/item?id=43438571
+
 https://news.ycombinator.com/item?id=43353822
 
 https://news.ycombinator.com/item?id=43256022

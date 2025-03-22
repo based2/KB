@@ -37,6 +37,8 @@ https://nightshade.cs.uchicago.edu/whatis.html
 > https://news.ycombinator.com/item?id=39067912
 > https://glaze.cs.uchicago.edu/what-is-glaze.html
 
+https://www.kereva.io/articles/3
+
 # Fine tuning
 https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 > https://news.ycombinator.com/item?id=38533105
@@ -192,6 +194,15 @@ https://news.ycombinator.com/item?id=43363247
 https://cds.cern.ch/record/2916519 Entropy is all you need? The quest for best tokens and the new physics of LLMs
 
 # News
+https://manycore-research.github.io/SpatialLM/
+> https://news.ycombinator.com/item?id=43444181
+
+https://news.ycombinator.com/item?id=43417894
+
+https://news.ycombinator.com/item?id=43430856 SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion
+
+https://news.ycombinator.com/item?id=43360249
+
 https://news.ycombinator.com/item?id=43378401
 
 https://github.com/Dicklesworthstone/llm-docs

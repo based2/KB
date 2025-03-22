@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=43443233
+
+https://news.ycombinator.com/item?id=43414235
+
 https://news.ycombinator.com/item?id=43340491
 
 https://ai.google.dev/gemini-api/docs/learnlm

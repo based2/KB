@@ -63,8 +63,10 @@ https://drew.shoes/posts/sup/ net send win
 https://news.ycombinator.com/item?id=40764113
 
 # News
+https://news.ycombinator.com/item?id=43410692
+
 https://news.ycombinator.com/item?id=42962394 spell
-``
+
 https://news.ycombinator.com/item?id=42479040
 
 https://news.ycombinator.com/item?id=42291781 sudo warning

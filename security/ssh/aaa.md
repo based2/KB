@@ -187,6 +187,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/
+> https://news.ycombinator.com/item?id=43444160
+
 https://johannes.truschnigg.info/writing/2025-02-simple_effective_ssh_ratelimiting_pam_nftables/
 
 https://fly.io/blog/vscode-ssh-wtf/
