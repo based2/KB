@@ -552,6 +552,13 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://lwn.net/Articles/1015636/ Rust Adopting Ferrocene Language Specification
+> https://news.ycombinator.com/item?id=43498071
+
+https://news.ycombinator.com/item?id=43519823
+
+https://news.ycombinator.com/item?id=43523238
+
 https://news.ycombinator.com/item?id=43443378
 
 https://crates.io/crates/crabtime Zig’s Comptime in Rust

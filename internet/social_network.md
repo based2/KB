@@ -86,6 +86,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=43527024
+
 https://news.ycombinator.com/item?id=43444930
 
 https://news.ycombinator.com/item?id=43152178

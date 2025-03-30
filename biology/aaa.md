@@ -74,6 +74,8 @@ https://www.nature.com/articles/s41592-024-02523-z Nucleotide Transformer: build
 > https://news.ycombinator.com/item?id=42291315
 
 # News
+https://news.ycombinator.com/item?id=43499342
+
 https://news.ycombinator.com/item?id=43182833
 
 https://news.ycombinator.com/item?id=43185769

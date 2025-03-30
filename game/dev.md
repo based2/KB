@@ -168,6 +168,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://blog.voxagon.se/2025/03/28/thoughts-on-ecs.html
+> https://news.ycombinator.com/item?id=43509337
+
 https://commission.europa.eu/document/8af13e88-6540-436c-b137-9853e7fe866a_en Key principles on in-game virtual currencies
 
 https://news.ycombinator.com/item?id=43099894

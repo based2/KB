@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43525687
+
 https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/
 
 https://news.ycombinator.com/item?id=42899703

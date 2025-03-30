@@ -120,6 +120,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/
+> https://news.ycombinator.com/item?id=43527044
+
 https://news.ycombinator.com/item?id=43367987
 
 https://www.bleepingcomputer.com/news/security/gitlab-patches-critical-authentication-bypass-vulnerabilities/
@@ -580,6 +583,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=43506574
+
 https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/
 
 https://news.ycombinator.com/item?id=43419701

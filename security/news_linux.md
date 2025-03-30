@@ -55,6 +55,14 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://seclists.org/oss-sec/2025/q1/253 Three bypasses of Ubuntu's unprivileged user namespace restrictions
+> https://news.ycombinator.com/item?id=43517734
+
+https://news.ycombinator.com/item?id=43518560
+
+https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md
+> https://news.ycombinator.com/item?id=43481652
+
 https://www.x.org/wiki/Development/Security/
 
 https://nvd.nist.gov/vuln/detail/CVE-2025-26519 musl libc 0.9.13 through 1.2.5 before 1.2.6 has an out-of-bounds write vulnerability when an attacker can trigger iconv conversion of untrusted EUC-KR text to UTF-8.

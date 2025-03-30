@@ -288,6 +288,11 @@ https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349
 
 # News
+https://news.ycombinator.com/item?id=43489271
+
+https://pianoboi.site/ Displays sheet music as you play your piano
+> https://news.ycombinator.com/item?id=43506951
+
 https://news.ycombinator.com/item?id=43067419
 
 https://news.ycombinator.com/item?id=43024961

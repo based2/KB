@@ -76,6 +76,8 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://news.ycombinator.com/item?id=43488438
+
 https://news.ycombinator.com/item?id=43440920
 
 https://dicedb.io/

@@ -119,6 +119,10 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=43517257
+
+https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html
+
 https://news.ycombinator.com/item?id=43205196
 
 https://news.ycombinator.com/item?id=43176314
@@ -529,6 +533,8 @@ https://www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/
 https://news.ycombinator.com/item?id=42418985
 
 https://news.ycombinator.com/item?id=41386667 hdmi amd oss
+
+https://news.ycombinator.com/item?id=43497398
 
 https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/
 > https://news.ycombinator.com/item?id=33201931

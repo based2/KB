@@ -261,6 +261,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html
+> https://news.ycombinator.com/item?id=43499860
+
 https://lasuite.numerique.gouv.fr/
 > https://github.com/suitenumerique
 > > https://github.com/suitenumerique/docs/blob/c85224af425261e03b535ecaed8fb60318cff916/docs/installation.md?plain=1#L123

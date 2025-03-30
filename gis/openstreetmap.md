@@ -37,6 +37,9 @@ https://github.com/streetcomplete/StreetComplete/discussions/4264
 https://github.com/headwaymaps/headway Self-hostable maps stack, powered by OpenStreetMap
 > https://news.ycombinator.com/item?id=32875795
 
+# ML
+https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/
+
 # Incidents
 https://operations.osmfoundation.org/2025/02/15/post-mortem.html
 

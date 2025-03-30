@@ -194,6 +194,11 @@ https://news.ycombinator.com/item?id=43363247
 https://cds.cern.ch/record/2916519 Entropy is all you need? The quest for best tokens and the new physics of LLMs
 
 # News
+https://substack.com/home/post/p-160183664 	Literate Development: AI-Enhanced Software Engineering
+> https://news.ycombinator.com/item?id=43524673
+
+https://news.ycombinator.com/item?id=43525937
+
 https://manycore-research.github.io/SpatialLM/
 > https://news.ycombinator.com/item?id=43444181
 

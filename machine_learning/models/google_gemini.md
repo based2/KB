@@ -23,3 +23,6 @@ https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
 
 https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 
+# I
+https://news.ycombinator.com/item?id=43508418
+

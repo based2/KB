@@ -143,6 +143,8 @@ https://dl.acm.org/doi/10.1145/3544216.3544231 SDN in the stratosphere: loon's a
 > https://news.ycombinator.com/item?id=32629286
 > https://www.micahlerner.com/2022/10/08/sdn-in-the-stratosphere-loons-aerospace-mesh-network.html
 
+https://news.ycombinator.com/item?id=43522059
+
 # ISP
 https://www.dslreports.com/forum/wisp
 

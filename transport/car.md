@@ -33,6 +33,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://news.ycombinator.com/item?id=43487231
+
 https://news.ycombinator.com/item?id=43369486
 
 https://news.ycombinator.com/item?id=43298271

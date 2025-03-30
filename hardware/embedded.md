@@ -21,3 +21,6 @@ https://news.ycombinator.com/item?id=41767150
 https://news.ycombinator.com/item?id=43131902
 
 https://news.ycombinator.com/item?id=43305973
+
+https://github.com/lvgl/lvgl
+> https://news.ycombinator.com/item?id=43517576

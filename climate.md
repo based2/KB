@@ -71,6 +71,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://bikeportland.org/2025/03/18/portlander-creates-ai-powered-device-to-monitor-street-health-393363
+> https://news.ycombinator.com/item?id=43475425
+
 https://e360.yale.edu/digest/wmo-2024-climate-report
 
 https://news.ycombinator.com/item?id=43439227

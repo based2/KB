@@ -326,6 +326,8 @@ https://news.ycombinator.com/item?id=40919253
 
 https://news.ycombinator.com/item?id=42971446
 
+https://news.ycombinator.com/item?id=43517585
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -620,6 +622,17 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://engineering.nyu.edu/news/encryption-breakthrough-lays-groundwork-privacy-preserving-ai-models
+
+https://www.di.ens.fr/~fbach/ltfp_book.pdf
+> https://news.ycombinator.com/item?id=43497954
+
+https://news.ycombinator.com/item?id=43509923
+
+https://news.ycombinator.com/item?id=43482792
+
+https://news.ycombinator.com/item?id=43523901
+
 https://blog.ezyang.com/2019/05/pytorch-internals/
 > https://news.ycombinator.com/item?id=43445931
 

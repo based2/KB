@@ -190,6 +190,8 @@ https://www.roc-lang.org/
 https://blog.drewolson.org/gleam-is-pragmatic/
 > https://news.ycombinator.com/item?id=41758915
 
+https://news.ycombinator.com/item?id=43504175
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -377,6 +379,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=43492652
+
+https://news.ycombinator.com/item?id=43515426
+
 https://www.fast.ai/posts/2023-05-03-mojo-launch.html
 
 https://news.ycombinator.com/item?id=43346864

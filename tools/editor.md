@@ -333,6 +333,8 @@ https://news.ycombinator.com/item?id=42531217
 
 https://news.ycombinator.com/item?id=43014481
 
+https://news.ycombinator.com/item?id=43498696
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

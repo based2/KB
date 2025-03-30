@@ -53,6 +53,8 @@ https://safedelusion.com/
 https://scaledagileframework.com/
 > https://news.ycombinator.com/item?id=40107916
 
+https://news.ycombinator.com/item?id=43523402
+
 ## Scrum
 https://scrumguides.org/
 

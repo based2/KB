@@ -102,6 +102,9 @@ https://github.com/hoppergee/heic-to
 https://pixspeed.com/
 > https://news.ycombinator.com/item?id=41990292
 
+https://noisetools.vercel.app/
+> https://news.ycombinator.com/item?id=43491245
+
 # Photography
 https://snap-scope.shj.rip/?lng=en focal
 > https://news.ycombinator.com/item?id=42813233

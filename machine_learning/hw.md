@@ -7,6 +7,10 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://news.ycombinator.com/item?id=43460455
+
+https://github.com/stuzero/pg-mcp
+> https://news.ycombinator.com/item?id=43520953
 https://news.ycombinator.com/item?id=43158618
 
 https://news.ycombinator.com/item?id=43179478

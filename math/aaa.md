@@ -207,6 +207,17 @@ https://news.ycombinator.com/item?id=42967173
 https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
 
 # News
+https://news.ycombinator.com/item?id=43508546
+
+https://news.ycombinator.com/item?id=43506238
+
+https://news.ycombinator.com/item?id=43517365
+
+https://arxiv.org/abs/2501.14787 Matrix Calculus (For Machine Learning and Beyond)
+> https://news.ycombinator.com/item?id=43518220
+
+https://news.ycombinator.com/item?id=43516733
+
 https://frinklang.org/
 > https://news.ycombinator.com/item?id=43440046
 

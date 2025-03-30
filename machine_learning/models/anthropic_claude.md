@@ -1,3 +1,5 @@
+https://singularityhub.com/2025/03/28/what-anthropic-researchers-found-after-reading-claudes-mind-surprised-them/
+
 https://news.ycombinator.com/item?id=43438850
 
 https://www.anthropic.com/engineering/claude-think-tool

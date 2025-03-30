@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43485566
+
 https://news.ycombinator.com/item?id=43426022 audio
 
 https://news.ycombinator.com/item?id=43230965

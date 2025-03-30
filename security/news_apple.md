@@ -20,6 +20,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 > https://news.ycombinator.com/item?id=43314657
 
 #
+https://news.ycombinator.com/item?id=43493056
+
 https://news.ycombinator.com/item?id=43437072
 
 https://news.ycombinator.com/item?id=43008422

@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=43493207
+
 https://news.ycombinator.com/item?id=43311573
 
 https://news.ycombinator.com/item?id=42825048

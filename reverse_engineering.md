@@ -69,6 +69,8 @@ https://github.com/mrphrazer/reverser_ai
 https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
+https://news.ycombinator.com/item?id=43474490
+
 # News
 https://github.com/mvt-project/mvt Conducting forensics of mobile devices to find signs of a potential compromise
 > https://news.ycombinator.com/item?id=43384894

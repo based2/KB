@@ -103,6 +103,8 @@ https://github.com/geohot/qira
 > https://news.ycombinator.com/item?id=26845775
 
 #
+https://news.ycombinator.com/item?id=43470339
+
 https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/
 > https://news.ycombinator.com/item?id=38666458
 

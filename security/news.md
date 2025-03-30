@@ -1,3 +1,9 @@
+https://fly.io/blog/operationalizing-macaroons/
+> https://news.ycombinator.com/item?id=43499783
+
+https://pagedout.institute/download/PagedOut_006.pdf
+> https://news.ycombinator.com/item?id=43517375
+
 https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking
 > https://news.ycombinator.com/item?id=43359264
 

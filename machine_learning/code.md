@@ -61,6 +61,7 @@ https://alphacode.deepmind.com/
 https://www.cursor.com/
 > https://news.ycombinator.com/item?id=43385668
 
+https://news.ycombinator.com/item?id=43506068
 
 # API
 https://news.ycombinator.com/item?id=43196374
@@ -78,6 +79,13 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://news.ycombinator.com/item?id=43483802
+
+https://blog.autorouting.com/p/13-things-i-would-have-told-myself autorouter cad
+> https://news.ycombinator.com/item?id=43499992
+
+https://news.ycombinator.com/item?id=43484944
+
 https://ezyang.github.io/ai-blindspots/
 > https://news.ycombinator.com/item?id=43414393
 

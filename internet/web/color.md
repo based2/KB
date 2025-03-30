@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://michelf.ca/projects/sim-daltonism/
+> https://news.ycombinator.com/item?id=43503670
+
 https://news.ycombinator.com/item?id=43072338
 
 https://news.ycombinator.com/item?id=43072338
