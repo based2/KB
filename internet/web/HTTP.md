@@ -214,6 +214,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://github.com/lwthiker/curl-impersonate
+> https://news.ycombinator.com/item?id=43571099
+
 https://news.ycombinator.com/item?id=43089238
 
 https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/

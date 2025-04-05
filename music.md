@@ -98,6 +98,9 @@ https://notes.ameo.design/fm.html
 
 https://daftpunk.com/
 
+https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/
+> https://news.ycombinator.com/item?id=43591050
+
 https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown
 > https://news.ycombinator.com/item?id=28975105
 
@@ -158,6 +161,8 @@ https://news.ycombinator.com/item?id=40954679
 https://news.ycombinator.com/item?id=41987352
 
 #
+https://news.ycombinator.com/item?id=43551352
+
 https://news.ycombinator.com/item?id=42907765
 
 https://matthew-bird.com/blogs/Audio-Decomposition.html open-source separation of music to constituent instruments

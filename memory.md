@@ -179,3 +179,5 @@ https://news.ycombinator.com/item?id=41311071
 https://news.ycombinator.com/item?id=42959226
 
 https://news.ycombinator.com/item?id=42966402
+
+https://news.ycombinator.com/item?id=43540070

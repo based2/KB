@@ -403,6 +403,12 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://midjourneysref.com/guide/In-Depth-Review-of-MidJourney-V7
+
+https://medium.com/@aliborji/mirrors-the-blind-spot-of-image-and-video-generation-models-de0f39310578
+
+https://news.ycombinator.com/item?id=43573156
+
 https://news.ycombinator.com/item?id=43353898
 
 https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c

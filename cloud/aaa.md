@@ -176,6 +176,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/oracle-privately-confirms-cloud-breach-to-customers/
+
 https://news.ycombinator.com/item?id=43467181
 
 https://news.ycombinator.com/item?id=42901897

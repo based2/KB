@@ -194,6 +194,10 @@ https://news.ycombinator.com/item?id=43363247
 https://cds.cern.ch/record/2916519 Entropy is all you need? The quest for best tokens and the new physics of LLMs
 
 # News
+https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237
+> https://news.ycombinator.com/item?id=43562768
+> https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/
+
 https://substack.com/home/post/p-160183664 	Literate Development: AI-Enhanced Software Engineering
 > https://news.ycombinator.com/item?id=43524673
 

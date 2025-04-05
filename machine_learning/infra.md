@@ -98,6 +98,19 @@ https://news.ycombinator.com/item?id=40921038
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43573539
+
+https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/
+> https://news.ycombinator.com/item?id=43581584
+
+https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/
+
+https://github.com/gumloop/guMCP
+> https://news.ycombinator.com/item?id=43535889
+
+https://github.com/astronomer/airflow-ai-sdk
+> https://news.ycombinator.com/item?id=43538164
+
 https://news.ycombinator.com/item?id=43444091
 
 https://news.ycombinator.com/item?id=43404858

@@ -89,6 +89,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html
+> https://news.ycombinator.com/item?id=43533110
+
 https://news.ycombinator.com/item?id=43285671
 
 https://news.ycombinator.com/item?id=43167087

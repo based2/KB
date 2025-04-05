@@ -5,6 +5,10 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 https://news.ycombinator.com/item?id=43436894 RDP rust
 
 #
+https://news.ycombinator.com/item?id=43538073
+
+https://news.ycombinator.com/item?id=43538073
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-quick-machine-recovery-tool-to-fix-boot-crashes/
 
 https://www.bleepingcomputer.com/news/microsoft/microsofts-killing-script-used-to-avoid-microsoft-account-in-windows-11/

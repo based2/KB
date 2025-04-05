@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43557310
+
 https://news.ycombinator.com/item?id=43344082
 
 https://www.1x.tech/neo

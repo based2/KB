@@ -44,4 +44,7 @@ https://samkriss.substack.com/p/the-internet-is-already-over
 
 https://news.ycombinator.com/item?id=41080991
 
+https://tosdr.org/en
+> https://news.ycombinator.com/item?id=43533096
+
 

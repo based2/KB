@@ -622,6 +622,17 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43540326
+
+https://news.ycombinator.com/item?id=43575821
+
+https://ai-2027.com/
+> https://news.ycombinator.com/item?id=43571851
+
+https://news.ycombinator.com/item?id=43586073
+
+https://trent.me/articles/pytorch-and-python-free-threading/
+
 https://engineering.nyu.edu/news/encryption-breakthrough-lays-groundwork-privacy-preserving-ai-models
 
 https://www.di.ens.fr/~fbach/ltfp_book.pdf

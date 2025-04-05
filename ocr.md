@@ -114,6 +114,8 @@ https://news.ycombinator.com/item?id=43174298
 https://mistral.ai/fr/news/mistral-ocr
 > https://news.ycombinator.com/item?id=43282905
 
+https://news.ycombinator.com/item?id=43590998
+
 # News
 https://news.ycombinator.com/item?id=43347524
 

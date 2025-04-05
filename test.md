@@ -34,6 +34,8 @@ https://stepci.com/
 https://news.ycombinator.com/item?id=41936855
 
 #
+https://news.ycombinator.com/item?id=43591246 pytest
+
 https://news.ycombinator.com/item?id=43357078
 
 https://news.ycombinator.com/item?id=42830483

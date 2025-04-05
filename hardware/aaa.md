@@ -83,6 +83,9 @@ https://fluxkeyboard.com/
 
 https://news.ycombinator.com/item?id=42991019
 
+https://github.com/akavel/clawtype
+> https://news.ycombinator.com/item?id=43590775
+
 # Mouse
 https://github.com/madprops/blog/blob/main/mouse.md
 > https://news.ycombinator.com/item?id=34739163

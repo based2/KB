@@ -367,6 +367,8 @@ https://news.ycombinator.com/item?id=42990036
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/
+
 https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 > https://www.bleepingcomputer.com/news/security/r-language-flaw-allows-code-execution-via-rds-rdx-files/
 

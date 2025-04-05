@@ -110,3 +110,7 @@ https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-ag
 
 https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial
 > https://news.ycombinator.com/item?id=43417511
+
+https://news.ycombinator.com/item?id=43535653
+
+https://news.ycombinator.com/item?id=43560849

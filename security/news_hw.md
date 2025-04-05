@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://news.ycombinator.com/item?id=43562109
+
 https://news.ycombinator.com/item?id=43344388
 
 https://news.ycombinator.com/item?id=43364016

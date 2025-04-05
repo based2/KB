@@ -19,6 +19,8 @@ https://matrix.org/blog/2023/08/bridges-vulnerability-disclosure/
 https://fs0c131y.com/posts/2019-04-19_tchap-the-super-not-secure-app-of-the-french-government/
 
 # News
+https://news.ycombinator.com/item?id=43558464
+
 https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit
 > https://news.ycombinator.com/item?id=42032387
 

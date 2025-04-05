@@ -163,6 +163,10 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://thirty-five.com/overengineered-anchoring
+
+https://news.ycombinator.com/item?id=43532830 select
+
 https://news.ycombinator.com/item?id=43358914
 
 https://news.ycombinator.com/item?id=43378225 dialog

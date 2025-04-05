@@ -168,6 +168,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/clockworklabs/SpacetimeDB
+> https://news.ycombinator.com/item?id=43593913
+
 https://blog.voxagon.se/2025/03/28/thoughts-on-ecs.html
 > https://news.ycombinator.com/item?id=43509337
 

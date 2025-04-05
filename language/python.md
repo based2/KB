@@ -378,6 +378,12 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=43555110 cpu caching
+
+https://news.ycombinator.com/item?id=43535750
+
+https://news.ycombinator.com/item?id=43536550
+
 https://news.ycombinator.com/item?id=43512589
 
 http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/

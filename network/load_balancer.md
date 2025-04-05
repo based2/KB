@@ -40,6 +40,8 @@ https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-co
 > https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf The Power of Two Random Choices: A Survey of Techniques and Results
 
 # News
+https://news.ycombinator.com/item?id=43570749
+
 https://news.ycombinator.com/item?id=41968299
 
 https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f

@@ -155,6 +155,9 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://evanconnelly.github.io/post/hacking-call-records/
+> https://news.ycombinator.com/item?id=43558550
+
 https://www.theregister.com/2025/03/14/brussels_raid_huawei/
 
 https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/
@@ -315,6 +318,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=43524461
+
 https://news.ycombinator.com/item?id=43390467
 
 https://thehackernews.com/2025/03/gsma-confirms-end-to-end-encryption-for.html

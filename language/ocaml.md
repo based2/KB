@@ -22,6 +22,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://news.ycombinator.com/item?id=43593508
+
 https://dev.to/maxim092001/ocaml-gadts-for-authentication-tokens-57be
 
 https://rodarmor.com/blog/whence-newline/

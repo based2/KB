@@ -1,3 +1,6 @@
+https://openai.com/index/paperbench/
+> https://news.ycombinator.com/item?id=43558858
+
 https://news.ycombinator.com/item?id=43485566
 
 https://news.ycombinator.com/item?id=43426022 audio
@@ -38,6 +41,8 @@ https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models
 > https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
 
 # I
+https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-with-something-went-wrong-error/
+
 https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-API-Prompt-Injection-Vulnerability.md
 
 https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-Crawler-Reflective-DDOS-Vulnerability.md

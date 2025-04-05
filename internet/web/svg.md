@@ -104,3 +104,5 @@ https://news.ycombinator.com/item?id=40180821
 
 https://me.micahrl.com/blog/svg-triangle-of-compromise/
 > https://news.ycombinator.com/item?id=41070709
+
+https://news.ycombinator.com/item?id=43549983

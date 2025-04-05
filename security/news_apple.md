@@ -20,6 +20,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 > https://news.ycombinator.com/item?id=43314657
 
 #
+https://news.ycombinator.com/item?id=43539334
+
 https://news.ycombinator.com/item?id=43493056
 
 https://news.ycombinator.com/item?id=43437072
@@ -55,6 +57,8 @@ https://news.ycombinator.com/item?id=42479014
 https://moonlock.com/moonlock-2024-macos-threat-report
 
 https://unit42.paloaltonetworks.com/unique-popular-techniques-lateral-movement-macos/ November 22, 2024
+
+https://objective-see.org/blog/blog_0x7E.html CVE-2024-54471
 
 https://unit42.paloaltonetworks.com/gatekeeper-bypass-macos/ 2022
 

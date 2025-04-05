@@ -101,3 +101,5 @@ https://www2.dmst.aueb.gr/dds/blog/20131211/index.html The Birth of Standard Err
 https://news.ycombinator.com/item?id=41142686
 
 https://news.ycombinator.com/item?id=41449625 signal
+
+https://news.ycombinator.com/item?id=43589042

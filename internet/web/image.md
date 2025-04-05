@@ -106,6 +106,8 @@ https://noisetools.vercel.app/
 > https://news.ycombinator.com/item?id=43491245
 
 # Photography
+https://news.ycombinator.com/item?id=43580815
+
 https://snap-scope.shj.rip/?lng=en focal
 > https://news.ycombinator.com/item?id=42813233
 

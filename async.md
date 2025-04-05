@@ -61,6 +61,8 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://news.ycombinator.com/item?id=43554769
+
 https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging
 > https://news.ycombinator.com/item?id=43114725
 > > https://github.com/cmu-pasta/fray

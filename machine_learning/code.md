@@ -79,6 +79,10 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://news.ycombinator.com/item?id=43558622 prolog
+
+https://news.ycombinator.com/item?id=43534029
+
 https://news.ycombinator.com/item?id=43483802
 
 https://blog.autorouting.com/p/13-things-i-would-have-told-myself autorouter cad
