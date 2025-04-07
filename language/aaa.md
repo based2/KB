@@ -192,6 +192,8 @@ https://blog.drewolson.org/gleam-is-pragmatic/
 
 https://news.ycombinator.com/item?id=43504175
 
+https://news.ycombinator.com/item?id=43613994
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

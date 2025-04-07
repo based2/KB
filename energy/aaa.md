@@ -26,6 +26,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=43589214
+
 https://news.ycombinator.com/item?id=43356068
 
 https://github.com/open-energy-transition/Awesome-Electric-Grid-Mapping

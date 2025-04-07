@@ -221,6 +221,9 @@ https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-
 
 https://news.ycombinator.com/item?id=43031506
 
+https://s2.dev/blog/dst Deterministic simulation testing for async Rust
+> https://news.ycombinator.com/item?id=43581900
+
 ## Actor
 https://news.ycombinator.com/item?id=42030625
 
@@ -552,6 +555,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=43601301
+
 https://lwn.net/Articles/1015636/ Rust Adopting Ferrocene Language Specification
 > https://news.ycombinator.com/item?id=43498071
 

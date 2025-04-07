@@ -98,6 +98,11 @@ https://news.ycombinator.com/item?id=40921038
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43600192
+
+https://browsermcp.io/ Browser MCP – Automate your browser using Cursor, Claude, VS Code
+> https://news.ycombinator.com/item?id=43613194
+
 https://news.ycombinator.com/item?id=43573539
 
 https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/

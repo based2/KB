@@ -1,5 +1,7 @@
 https://ophysics.com/index.html
 
+https://news.ycombinator.com/item?id=43610760
+
 https://news.ycombinator.com/item?id=43460636
 
 https://news.ycombinator.com/item?id=43311610

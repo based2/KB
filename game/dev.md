@@ -167,6 +167,9 @@ https://godotengine.org/article/release-candidate-godot-3-4-4-rc-1
 https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
+# ML
+https://news.ycombinator.com/item?id=43614546
+
 # News
 https://github.com/clockworklabs/SpacetimeDB
 > https://news.ycombinator.com/item?id=43593913

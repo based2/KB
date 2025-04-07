@@ -193,7 +193,15 @@ https://news.ycombinator.com/item?id=43363247
 
 https://cds.cern.ch/record/2916519 Entropy is all you need? The quest for best tokens and the new physics of LLMs
 
+https://news.ycombinator.com/item?id=43599967 SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators
+
 # News
+https://qwenlm.github.io/blog/qvq-max-preview/
+> https://news.ycombinator.com/item?id=43570676
+
+https://github.com/lechmazur/elimination_game
+> https://news.ycombinator.com/item?id=43586380
+
 https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237
 > https://news.ycombinator.com/item?id=43562768
 > https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/

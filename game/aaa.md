@@ -50,6 +50,10 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=43615912
+
+https://news.ycombinator.com/item?id=43578444
+
 https://news.ycombinator.com/item?id=43593789
 
 https://news.ycombinator.com/item?id=43549293 myst

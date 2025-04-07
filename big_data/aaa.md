@@ -368,6 +368,7 @@ https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and
 
 # Incidents
 https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/
+> https://news.ycombinator.com/item?id=43603091
 
 https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 > https://www.bleepingcomputer.com/news/security/r-language-flaw-allows-code-execution-via-rds-rdx-files/

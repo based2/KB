@@ -87,9 +87,6 @@ https://bergie.iki.fi/blog/fbp-ai-human-collaboration/
 
 https://news.ycombinator.com/item?id=36013586
 
-https://openexus.com/
-> https://news.ycombinator.com/item?id=36938356
-
 https://n8n.io/
 > https://news.ycombinator.com/item?id=37274052
 
@@ -107,4 +104,9 @@ https://github.com/IndiePython/nodezator
 > https://news.ycombinator.com/item?id=42274399 python
 
 https://github.com/PWCT/PWCT2
-> https://news.ycombinator.com/item?id=42586933
+
+https://openexus.com/
+> https://news.ycombinator.com/item?id=36938356> https://news.ycombinator.com/item?id=42586933
+
+https://gtoolkit.com/
+> https://news.ycombinator.com/item?id=43606027

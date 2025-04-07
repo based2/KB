@@ -43,3 +43,5 @@ http://axisofeval.blogspot.com/2024/05/delimited-generators.html JS
 https://news.ycombinator.com/item?id=42534090
 
 https://github.com/hofstadter-io/hof Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
+
+https://news.ycombinator.com/item?id=43607744 Convert curl commands to a shareable, executable UI
