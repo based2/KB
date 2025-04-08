@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era
+> https://news.ycombinator.com/item?id=43577338
+
 https://news.ycombinator.com/item?id=43535449
 
 https://news.ycombinator.com/item?id=43573299

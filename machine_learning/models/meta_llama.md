@@ -171,3 +171,6 @@ https://www.alessiofanelli.com/blog/llama2-isnt-open-source
 > https://news.ycombinator.com/item?id=36815255
 
 https://medium.com/@brian_90925/llms-and-the-emerging-ml-tech-stack-6fa66ee4561a
+
+#
+https://news.ycombinator.com/item?id=43620452

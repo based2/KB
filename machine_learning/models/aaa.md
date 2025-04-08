@@ -195,7 +195,18 @@ https://cds.cern.ch/record/2916519 Entropy is all you need? The quest for best t
 
 https://news.ycombinator.com/item?id=43599967 SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators
 
+https://news.ycombinator.com/item?id=43618339 Neural Graffiti – Liquid Memory Layer for LLMs
+
 # News
+https://www.gleech.org/llms
+> https://news.ycombinator.com/item?id=43623231
+
+https://news.ycombinator.com/item?id=43586380
+
+https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using
+
+https://news.ycombinator.com/item?id=43616241
+
 https://qwenlm.github.io/blog/qvq-max-preview/
 > https://news.ycombinator.com/item?id=43570676
 

@@ -206,6 +206,8 @@ https://news.ycombinator.com/item?id=41668896
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.biometricupdate.com/202504/researchers-say-scheme-improves-homomorphic-encryption-efficiency-effectiveness
+
 https://news.ycombinator.com/item?id=43612102
 
 http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf

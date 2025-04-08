@@ -211,6 +211,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://news.ycombinator.com/item?id=43620318
+
 https://news.ycombinator.com/item?id=43441961
 
 https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html

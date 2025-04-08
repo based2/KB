@@ -74,3 +74,6 @@ https://github.com/needleful/c_plus_prolog
 
 https://www.scallop-lang.org/ Language for Neurosymbolic Programming
 > https://news.ycombinator.com/item?id=43443640
+
+https://github.com/lab-v2/pyreason
+> https://lobste.rs/s/xl1m2i/pyreason_explainable_inference_for

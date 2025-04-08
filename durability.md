@@ -73,6 +73,8 @@ https://halestrom.net/darksleep/blog/047_x131e_repair/
 
 https://www.notebookcheck.net/Framework-doubles-down-on-repairability-now-sells-replacement-laptop-parts-directly-to-its-customers.573530.0.html
 
+https://news.ycombinator.com/item?id=43618105
+
 # Recycling
 https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/
 > https://news.ycombinator.com/item?id=28018057

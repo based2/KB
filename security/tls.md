@@ -199,6 +199,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://aws.amazon.com/blogs/security/ml-kem-post-quantum-tls-now-supported-in-aws-kms-acm-and-secrets-manager/
+
 https://news.ycombinator.com/item?id=43553004
 
 https://news.ycombinator.com/item?id=43552514

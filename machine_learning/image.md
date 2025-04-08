@@ -403,6 +403,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
+> https://news.ycombinator.com/item?id=43590569
+
 https://midjourneysref.com/guide/In-Depth-Review-of-MidJourney-V7
 
 https://medium.com/@aliborji/mirrors-the-blind-spot-of-image-and-video-generation-models-de0f39310578

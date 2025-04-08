@@ -144,3 +144,5 @@ https://news.ycombinator.com/item?id=41454870
 
 https://rosie-lang.org/
 > https://news.ycombinator.com/item?id=41675337
+
+https://www.khoury.northeastern.edu/~shivers/papers/sre.txt

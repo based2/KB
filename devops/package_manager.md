@@ -85,6 +85,8 @@ https://lobste.rs/s/cvxhqu/devenv_telemetry_warning
 
 https://news.ycombinator.com/item?id=43065217
 
+https://dinislam.substack.com/p/why-nix-is-useful-a-minimal-example
+
 #
 https://news.ycombinator.com/item?id=40186036
 > https://mise.jdx.dev/

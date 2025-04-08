@@ -249,6 +249,8 @@ https://godview.ai/
 > https://news.ycombinator.com/item?id=42519562
 
 # News
+https://news.ycombinator.com/item?id=43586043
+
 https://news.ycombinator.com/item?id=43598600
 
 https://scratch.mit.edu/projects/1061728417/ City simulator I made in Scratch

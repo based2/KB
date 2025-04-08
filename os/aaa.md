@@ -10,6 +10,8 @@ https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/
 
 https://news.ycombinator.com/item?id=40113552
 
+https://news.ycombinator.com/item?id=43597778
+
 #
 https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 

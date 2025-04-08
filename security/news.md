@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=43602522
+
+https://news.ycombinator.com/item?id=43615346
+
 https://news.ycombinator.com/item?id=43580101
 
 https://fly.io/blog/operationalizing-macaroons/
