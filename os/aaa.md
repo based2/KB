@@ -34,6 +34,8 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://news.ycombinator.com/item?id=43649495
+
 https://news.ycombinator.com/item?id=43482705
 
 https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee UNIX famously uses fork+exec to create processes

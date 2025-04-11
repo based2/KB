@@ -22,7 +22,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 
 https://github.com/GoogleCloudPlatform/berglas
 
-# Incident
+# Incidents
+https://news.ycombinator.com/item?id=43645331
+
 https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/
 > https://news.ycombinator.com/item?id=41082502
 

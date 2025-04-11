@@ -125,6 +125,9 @@ https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CV
 
 # News
 https://github.com/coroot/coroot
+> https://news.ycombinator.com/item?id=43623820
+
+https://news.ycombinator.com/item?id=43624888
 
 https://news.ycombinator.com/item?id=43181862
 

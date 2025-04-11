@@ -24,6 +24,8 @@ https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://blog.cloudflare.com/cloudflare-containers-coming-2025/
+
 https://news.ycombinator.com/item?id=43572511
 
 https://blog.cloudflare.com/gen-12-servers/

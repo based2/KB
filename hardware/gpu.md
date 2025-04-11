@@ -16,6 +16,9 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://github.com/Rust-GPU/Rust-CUDA
+> https://news.ycombinator.com/item?id=43654881
+
 https://news.ycombinator.com/item?id=43595223
 
 https://news.ycombinator.com/item?id=43338405

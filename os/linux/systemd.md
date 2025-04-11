@@ -92,3 +92,5 @@ https://news.ycombinator.com/item?id=41175105
 https://rachelbythebay.com/w/2024/12/11/socket/
 
 https://news.ycombinator.com/item?id=43326080
+
+https://news.ycombinator.com/item?id=43649088

@@ -249,6 +249,8 @@ https://godview.ai/
 > https://news.ycombinator.com/item?id=42519562
 
 # News
+https://news.ycombinator.com/item?id=43624799
+
 https://news.ycombinator.com/item?id=43586043
 
 https://news.ycombinator.com/item?id=43598600

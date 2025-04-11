@@ -106,3 +106,5 @@ https://blog.cloudflare.com/webrtc-turn-using-anycast/
 https://news.ycombinator.com/item?id=41699323
 
 https://transitiverobotics.com/caps/transitive-robotics/webrtc-video/
+
+https://news.ycombinator.com/item?id=43654813

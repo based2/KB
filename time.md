@@ -125,6 +125,8 @@ https://news.ycombinator.com/item?id=38838946
 
 https://news.ycombinator.com/item?id=39537327
 
+https://news.ycombinator.com/item?id=43643343
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

@@ -15,6 +15,8 @@ https://www.europol.europa.eu/media-press/newsroom/news/action-against-digital-s
 > https://www.bleepingcomputer.com/news/security/europol-warns-443-online-shops-infected-with-credit-card-stealers/
 
 #
+https://news.ycombinator.com/item?id=43620279
+
 https://en.liberapay.com/
 > https://news.ycombinator.com/item?id=43398539
 

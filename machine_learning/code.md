@@ -65,6 +65,8 @@ https://www.cursor.com/
 
 https://news.ycombinator.com/item?id=43506068
 
+https://news.ycombinator.com/item?id=43635783
+
 # API
 https://news.ycombinator.com/item?id=43196374
 
@@ -81,6 +83,9 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # News
+https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney
+> https://news.ycombinator.com/item?id=43619759
+
 https://news.ycombinator.com/item?id=43558622 prolog
 
 https://news.ycombinator.com/item?id=43534029

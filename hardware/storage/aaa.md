@@ -73,6 +73,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage
+> https://news.ycombinator.com/item?id=43639642
+
 https://news.ycombinator.com/item?id=43391459
 
 https://news.ycombinator.com/item?id=43386076

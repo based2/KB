@@ -126,6 +126,8 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://news.ycombinator.com/item?id=43595193
+
 https://yufeizhao.com/gtacbook/ Graph Theory and Additive Combinatorics
 
 https://news.ycombinator.com/item?id=43398908

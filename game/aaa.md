@@ -50,6 +50,13 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=43632278
+
+https://news.ycombinator.com/item?id=43638361 git
+
+https://darkcephas.github.io/ps3_failed/ps3_failed.html
+> https://news.ycombinator.com/item?id=43656279
+
 https://news.ycombinator.com/item?id=43622719
 
 https://news.ycombinator.com/item?id=43615912

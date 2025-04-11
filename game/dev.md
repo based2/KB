@@ -171,6 +171,10 @@ https://bevyengine.org/news/bevy-0-6/
 https://news.ycombinator.com/item?id=43614546
 
 # News
+https://news.ycombinator.com/item?id=43599704
+
+https://news.ycombinator.com/item?id=43645183
+
 https://news.ycombinator.com/item?id=43624358
 
 https://github.com/clockworklabs/SpacetimeDB

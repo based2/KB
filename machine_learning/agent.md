@@ -114,3 +114,9 @@ https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial
 https://news.ycombinator.com/item?id=43535653
 
 https://news.ycombinator.com/item?id=43560849
+
+https://news.ycombinator.com/item?id=43654932
+
+https://news.ycombinator.com/item?id=43631381
+
+https://news.ycombinator.com/item?id=43652033

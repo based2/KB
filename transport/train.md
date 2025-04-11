@@ -44,6 +44,8 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://news.ycombinator.com/item?id=43651390
+
 https://osrd.fr/en/ Open Source Railway Designer
 
 https://news.ycombinator.com/item?id=42514553

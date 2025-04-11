@@ -73,7 +73,7 @@ https://github.com/maharmstone/btrfs
 > https://www.lilysthings.org/blog/windows-on-btrfs/
 > > https://news.ycombinator.com/item?id=35660186
 
-# Incident
+# Incidents
 https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496
 > https://news.ycombinator.com/item?id=38472124
 > > https://threedots.ovh/blog/2022/06/quick-look-at-user-mode-file-systems-on-macos-ventura/
@@ -82,6 +82,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=43601026
+
 https://news.ycombinator.com/item?id=43517234
 
 https://news.ycombinator.com/item?id=43158696

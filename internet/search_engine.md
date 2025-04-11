@@ -108,6 +108,12 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://blog.mojeek.com/2025/04/searchception.html
+> https://news.ycombinator.com/item?id=43646323
+
+https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth
+> https://news.ycombinator.com/item?id=43627646
+
 https://news.ycombinator.com/item?id=43493207
 
 https://news.ycombinator.com/item?id=43311573

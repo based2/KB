@@ -73,6 +73,8 @@ https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attac
 #
 https://news.ycombinator.com/item?id=43614199
 
+https://news.ycombinator.com/item?id=43614199
+
 https://www.galois.com/articles/introducing-grease
 > https://news.ycombinator.com/item?id=43423523
 

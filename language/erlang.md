@@ -190,6 +190,8 @@ https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/
 > https://news.ycombinator.com/item?id=40656747
 
 ## Phoenix
+https://news.ycombinator.com/item?id=43653054
+
 https://news.ycombinator.com/item?id=42312301
 
 https://www.poeticoding.com/how-phoenix-liveview-works/
@@ -216,6 +218,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://news.ycombinator.com/item?id=43655221
+
 https://news.ycombinator.com/item?id=42302673
 
 https://news.ycombinator.com/item?id=39432085

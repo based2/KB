@@ -89,6 +89,8 @@ https://old.reddit.com/r/OpenAI/comments/1hqco4f/rag_a_40gb_outlook_inbox_long_t
 
 https://news.ycombinator.com/item?id=43170155
 
+https://news.ycombinator.com/item?id=43646858
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
@@ -98,6 +100,8 @@ https://news.ycombinator.com/item?id=40921038
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43649711
+
 https://news.ycombinator.com/item?id=43600192
 
 https://browsermcp.io/ Browser MCP – Automate your browser using Cursor, Claude, VS Code

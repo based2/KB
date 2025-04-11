@@ -108,6 +108,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://koreo.dev/ Platform engineering toolkit for Kubernetes
+> https://news.ycombinator.com/item?id=43644351
+
 https://htdocs.dev/posts/kubernetes-deployment-strategies-for-small-businesses-on-hetzner-cloud-a-comparative-analysis-of-k3s-microk8s-and-alternatives/
 > https://news.ycombinator.com/item?id=43593269
 

@@ -198,6 +198,14 @@ https://news.ycombinator.com/item?id=43599967 SeedLM: Compressing LLM Weights in
 https://news.ycombinator.com/item?id=43618339 Neural Graffiti – Liquid Memory Layer for LLMs
 
 # News
+https://news.ycombinator.com/item?id=43631450
+
+https://news.ycombinator.com/item?id=43641381
+
+https://news.ycombinator.com/item?id=43619884
+
+https://news.ycombinator.com/item?id=43646466
+
 https://www.gleech.org/llms
 > https://news.ycombinator.com/item?id=43623231
 

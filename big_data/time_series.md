@@ -60,5 +60,7 @@ https://news.ycombinator.com/item?id=43243914
 
 https://news.ycombinator.com/item?id=43292927
 
+https://news.ycombinator.com/item?id=43638308
+
 # ml
 https://news.ycombinator.com/item?id=39787176

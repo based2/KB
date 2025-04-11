@@ -122,6 +122,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=43615805
+
 https://news.ycombinator.com/item?id=43517257
 
 https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html
