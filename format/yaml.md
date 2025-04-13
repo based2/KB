@@ -29,3 +29,8 @@ https://news.ycombinator.com/item?id=39454064
 https://news.ycombinator.com/item?id=39490740
 
 https://datatracker.ietf.org/doc/html/rfc9512
+
+https://noyaml.com/
+> https://news.ycombinator.com/item?id=43648263
+
+https://news.ycombinator.com/item?id=43668290

@@ -9,6 +9,8 @@ https://www.imf.org/en/Publications/Policy-Papers/Issues/2023/04/12/IMF-Approach
 https://github.com/Dicklesworthstone/introduction_to_temporal_logic
 > https://news.ycombinator.com/item?id=39094875
 
+https://ultrasound.money/
+
 # Experiments
 https://clickclickclick.click/
 
@@ -29,7 +31,9 @@ https://news.ycombinator.com/item?id=31366660
 # History
 https://cryptosec.info/exchange-hacks/
 
-# I
+# Incidents
+https://www.coinspect.com/blog/wallet-silent-drain/ CVE-2023-40580
+
 https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-Crawler-Reflective-DDOS-Vulnerability.md
 
 https://news.ycombinator.com/item?id=43140754

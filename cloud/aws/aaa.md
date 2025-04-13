@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://cymulate.com/blog/aws-ssm-agent-plugin-id-path-traversal/
+> https://old.reddit.com/r/netsec/comments/1julhsv/path_traversal_vulnerability_in_aws_ssm_agents/
+
 https://news.ycombinator.com/item?id=43074794
 > https://www.deccanherald.com//india/karnataka/bengaluru/cloud-over-amazon-web-services-after-builder-claims-rs-150-cr-data-loss-tech-firm-faces-fir-3408628
 

@@ -84,6 +84,9 @@ https://www.anthropic.com/research/claude-character
 https://news.ycombinator.com/item?id=42784373
 
 # News
+https://github.com/mirth/chonky neural approach for text semantic chunking
+> https://news.ycombinator.com/item?id=43652968
+
 https://news.ycombinator.com/item?id=42936085
 
 https://github.com/ggml-org/llama.vim

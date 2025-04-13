@@ -34,6 +34,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://linuxfr.org/users/siltaar/journaux/apres-photorec
+
 https://news.ycombinator.com/item?id=43140547
 
 https://blocksandfiles.com/2024/02/23/keepit-saas-app-data-protection/

@@ -88,3 +88,5 @@ https://news.ycombinator.com/item?id=42767797
 https://news.ycombinator.com/item?id=43012012
 
 https://news.ycombinator.com/item?id=43551007
+
+https://news.ycombinator.com/item?id=43669308

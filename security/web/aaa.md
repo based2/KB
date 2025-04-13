@@ -55,3 +55,5 @@ https://old.reddit.com/r/netsec/comments/1hhpel8/exploiting_reflected_input_via_
 
 https://caido.io/
 > https://news.ycombinator.com/item?id=43514075
+
+https://old.reddit.com/r/netsec/comments/1jxoqgz/question_about_sessionbased_cookies_vs/

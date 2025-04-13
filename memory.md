@@ -181,3 +181,7 @@ https://news.ycombinator.com/item?id=42959226
 https://news.ycombinator.com/item?id=42966402
 
 https://news.ycombinator.com/item?id=43540070
+
+https://news.ycombinator.com/item?id=43668333
+
+https://zylinski.se/posts/dynamic-arrays-and-arenas/

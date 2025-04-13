@@ -378,6 +378,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://github.com/ariebovenberg/whenever
+> https://news.ycombinator.com/item?id=43671308
+
 https://news.ycombinator.com/item?id=43643292
 
 https://news.ycombinator.com/item?id=43555110 cpu caching

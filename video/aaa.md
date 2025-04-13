@@ -139,6 +139,10 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://www.youtube.com/watch?v=0RvosCplkCc
+> https://news.ycombinator.com/item?id=39929602
+> https://kyber.media/
+
 https://news.ycombinator.com/item?id=43580439
 
 https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22

@@ -22,6 +22,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/pixel-perfect-trap-the-surge-of-svg-borne-phishing-attacks/
+> https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-kit-targets-microsoft-365-with-new-tricks/
+
 https://www.bleepingcomputer.com/news/security/coinbase-to-fix-2fa-account-activity-entry-freaking-out-users/
 
 https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/

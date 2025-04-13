@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html SAP
+> https://news.ycombinator.com/item?id=43634408
+
 https://github.com/metacraft-labs/codetracer time-traveling debugger implemented in Nim and Rust
 > https://news.ycombinator.com/item?id=43280615
 

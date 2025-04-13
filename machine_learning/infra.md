@@ -96,7 +96,10 @@ https://news.ycombinator.com/item?id=40302382
 
 https://news.ycombinator.com/item?id=40921038
 
-# I
+# Incidents
+https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
+> https://old.reddit.com/r/netsec/comments/1jt7c80/new_attack_vector_on_ai_toolchains_tool_poisoning/
+
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News

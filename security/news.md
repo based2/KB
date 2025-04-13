@@ -1,3 +1,11 @@
+https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-exploiting-critical-ivanti-vulnerability/?hl=en
+
+https://news.ycombinator.com/item?id=43669151
+
+https://news.ycombinator.com/item?id=43647605
+
+https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-auth-bypass-hours-after-disclosure/
+
 https://news.ycombinator.com/item?id=43602522
 
 https://news.ycombinator.com/item?id=43615346

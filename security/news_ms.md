@@ -5,6 +5,8 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 https://news.ycombinator.com/item?id=43436894 RDP rust
 
 #
+https://www.bleepingcomputer.com/news/security/microsoft-windows-inetpub-folder-created-by-security-fix-dont-delete/
+
 https://news.ycombinator.com/item?id=43538073
 
 https://news.ycombinator.com/item?id=43538073

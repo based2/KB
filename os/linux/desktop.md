@@ -114,6 +114,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://linuxfr.org/users/faya/journaux/des-points-et-des-points-de-code
+
 https://blogs.kde.org/2025/03/22/this-week-in-plasma-6.4-improvements/
 
 https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441

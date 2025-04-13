@@ -30,6 +30,9 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
 
 # Incidents
+https://github.com/explainers-by-googlers/Partitioning-visited-links-history
+> https://www.bleepingcomputer.com/news/security/chrome-136-fixes-20-year-browser-history-privacy-risk/
+
 https://news.ycombinator.com/item?id=43322922
 
 https://news.ycombinator.com/item?id=42780816
@@ -38,6 +41,8 @@ https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://news.ycombinator.com/item?id=43671871
+
 https://news.ycombinator.com/item?id=43377867
 
 https://news.ycombinator.com/item?id=43201974
