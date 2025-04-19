@@ -217,6 +217,9 @@ https://news.ycombinator.com/item?id=43307987 1.9
 https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
+# i
+https://news.ycombinator.com/item?id=43716526
+
 # News
 https://news.ycombinator.com/item?id=43655221
 

@@ -116,6 +116,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=43730545
+
+https://www.bleepingcomputer.com/news/technology/meta-to-resume-ai-training-on-content-shared-by-europeans/
+
 https://news.ycombinator.com/item?id=43648444
 
 https://news.ycombinator.com/item?id=43551397

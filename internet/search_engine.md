@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=43680699
+
 https://blog.mojeek.com/2025/04/searchception.html
 > https://news.ycombinator.com/item?id=43646323
 

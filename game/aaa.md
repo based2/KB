@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=43729683 qr
+
 https://news.ycombinator.com/item?id=43632278
 
 https://news.ycombinator.com/item?id=43638361 git

@@ -149,6 +149,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.potaroo.net/ispcol/2024-10/packet-sizes.html
+> https://news.ycombinator.com/item?id=43723884
+
+https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/
+> https://news.ycombinator.com/item?id=43728279
+
 https://itfourall.com/netstruct.php
 > https://news.ycombinator.com/item?id=43651933
 

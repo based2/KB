@@ -12,6 +12,9 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/
+> https://news.ycombinator.com/item?id=43738603
+
 https://anubis.techaro.lol/
 > https://xeiaso.net/notes/2025/anubis-works/
 > https://github.com/TecharoHQ/anubis

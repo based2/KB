@@ -155,6 +155,8 @@ https://cvw.cac.cornell.edu/vector/default
 https://news.ycombinator.com/item?id=40911500
 
 # News
+https://news.ycombinator.com/item?id=43678909
+
 https://news.ycombinator.com/item?id=43365734
 
 https://news.ycombinator.com/item?id=43302394

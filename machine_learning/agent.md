@@ -121,5 +121,9 @@ https://news.ycombinator.com/item?id=43631381
 
 https://news.ycombinator.com/item?id=43652033
 
+https://news.ycombinator.com/item?id=43708025
+
+https://news.ycombinator.com/item?id=43710576
+
 # I
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

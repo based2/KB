@@ -79,6 +79,8 @@ https://news.ycombinator.com/item?id=39568728
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://news.ycombinator.com/item?id=43714594
+
 https://news.ycombinator.com/item?id=43539892 ini
 
 https://news.ycombinator.com/item?id=43510342

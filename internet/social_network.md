@@ -86,6 +86,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=43691334
+
 https://posthuman.blog/this-reddit-post-fried-my-brain/
 > https://news.ycombinator.com/item?id=43672139
 

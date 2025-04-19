@@ -103,6 +103,22 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://github.com/kvcache-ai/Mooncake
+
+https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
+> https://news.ycombinator.com/item?id=43691230
+
+https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
+> https://news.ycombinator.com/item?id=43681287
+
+https://www.docker.com/blog/introducing-docker-model-runner/
+> https://news.ycombinator.com/item?id=43643944
+
+https://news.ycombinator.com/item?id=43676084
+
+https://blog.sshh.io/p/everything-wrong-with-mcp
+> https://news.ycombinator.com/item?id=43676771
+
 https://news.ycombinator.com/item?id=43649711
 
 https://news.ycombinator.com/item?id=43600192

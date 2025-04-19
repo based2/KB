@@ -697,13 +697,15 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 
 # Dynamic.js libjs
 
-# Incident
+# Incidents
 https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bug-in-vm2-javascript-sandbox-library/
 > https://nvd.nist.gov/vuln/detail/CVE-2023-29017
 > > https://github.com/patriksimek/vm2/issues/515
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=43733636
+
 https://news.ycombinator.com/item?id=43583478
 
 https://news.ycombinator.com/item?id=43578190

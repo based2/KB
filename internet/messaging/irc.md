@@ -34,4 +34,6 @@ https://rachelbythebay.com/w/2021/05/26/irc/
 https://koshka.love/babel/irc-forever.html
 > https://news.ycombinator.com/item?id=36918655
 
+https://news.ycombinator.com/item?id=43715306
+
 

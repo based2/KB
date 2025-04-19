@@ -108,10 +108,14 @@ https://news.ycombinator.com/item?id=33906784
 https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
-# Incident
+# Incidents
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://news.ycombinator.com/item?id=43719830
+
+https://news.ycombinator.com/item?id=43682006
+
 https://news.ycombinator.com/item?id=43244307
 
 https://news.ycombinator.com/item?id=43076785

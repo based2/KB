@@ -1,5 +1,7 @@
 # llama Facebook - Forbids commercial use, weights required
 
+https://news.ycombinator.com/item?id=43676254
+
 https://ai.meta.com/blog/llama-4-multimodal-intelligence/
 > https://news.ycombinator.com/item?id=43595585
 

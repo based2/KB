@@ -403,6 +403,9 @@ https://en.wikipedia.org/wiki/MORE_(application)
 https://news.ycombinator.com/item?id=41353835
 
 # News
+https://news.ycombinator.com/item?id=43691020
+
+
 https://news.ycombinator.com/item?id=42818278
 
 https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/

@@ -54,6 +54,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://news.ycombinator.com/item?id=43726037 unikernel
+
 https://news.ycombinator.com/item?id=43647294
 
 https://www.phoronix.com/news/Linux-6.14-Sched-2-Year-Regress

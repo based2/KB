@@ -81,6 +81,10 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://gcve.eu/
+
+https://news.ycombinator.com/item?id=43704430
+
 https://erreur403.beehiiv.com/
 
 https://blog.hartwork.org/posts/expat-2-7-0-released/ Recursion kills: The story behind CVE-2024-8176 in libexpat

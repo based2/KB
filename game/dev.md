@@ -171,6 +171,9 @@ https://bevyengine.org/news/bevy-0-6/
 https://news.ycombinator.com/item?id=43614546
 
 # News
+https://github.com/BabylonJS/Babylon.js
+> https://news.ycombinator.com/item?id=9335460
+
 https://news.ycombinator.com/item?id=43599704
 
 https://news.ycombinator.com/item?id=43645183

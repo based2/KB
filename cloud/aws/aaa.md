@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://news.ycombinator.com/item?id=43729612
+
 https://cymulate.com/blog/aws-ssm-agent-plugin-id-path-traversal/
 > https://old.reddit.com/r/netsec/comments/1julhsv/path_traversal_vulnerability_in_aws_ssm_agents/
 

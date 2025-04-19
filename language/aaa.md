@@ -194,6 +194,8 @@ https://news.ycombinator.com/item?id=43504175
 
 https://news.ycombinator.com/item?id=43613994
 
+https://news.ycombinator.com/item?id=43682541
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -381,6 +383,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://langev.com/pdf/steele99growing.pdf
+> https://news.ycombinator.com/item?id=43683130
+> https://www.youtube.com/watch?v=_ahvzDzKdB0
+
 https://news.ycombinator.com/item?id=43492652
 
 https://news.ycombinator.com/item?id=43515426

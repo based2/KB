@@ -378,6 +378,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=43735724
+
 https://github.com/ariebovenberg/whenever
 > https://news.ycombinator.com/item?id=43671308
 

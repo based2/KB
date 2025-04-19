@@ -167,6 +167,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=43725616
+
 https://inclouds.space/localhost-domains
 > https://news.ycombinator.com/item?id=43644043
 

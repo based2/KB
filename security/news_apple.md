@@ -22,6 +22,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://blog.securelayer7.net/cve-2025-25364-speedify-vpn-macos-escalation/
+
 https://news.ycombinator.com/item?id=43539334
 
 https://news.ycombinator.com/item?id=43493056

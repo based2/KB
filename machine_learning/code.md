@@ -67,6 +67,8 @@ https://news.ycombinator.com/item?id=43506068
 
 https://news.ycombinator.com/item?id=43635783
 
+https://news.ycombinator.com/item?id=43658923
+
 # API
 https://news.ycombinator.com/item?id=43196374
 
@@ -81,6 +83,9 @@ https://news.ycombinator.com/item?id=37240363 sql
 
 # Test
 https://news.ycombinator.com/item?id=42531993
+
+# I
+https://news.ycombinator.com/item?id=43677067
 
 # News
 https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney

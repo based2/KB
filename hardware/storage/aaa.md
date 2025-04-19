@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=43118592
 https://github.com/cbh34680/WinCse Integrating AWS S3 with Windows Explorer
 > https://news.ycombinator.com/item?id=43117895
 
+https://news.ycombinator.com/item?id=43735443
+
 # Block Storage
 onTAP
 # SMB Microsoft
@@ -73,6 +75,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/ intro to DeepSeek's distributed file system
+> https://news.ycombinator.com/item?id=43716058
+
 https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage
 > https://news.ycombinator.com/item?id=43639642
 

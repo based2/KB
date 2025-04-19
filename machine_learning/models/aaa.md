@@ -198,6 +198,12 @@ https://news.ycombinator.com/item?id=43599967 SeedLM: Compressing LLM Weights in
 https://news.ycombinator.com/item?id=43618339 Neural Graffiti – Liquid Memory Layer for LLMs
 
 # News
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+> https://news.ycombinator.com/item?id=43733553
+
+https://developers.googleblog.com/en/start-building-with-gemini-25-flash/
+> https://news.ycombinator.com/item?id=43720845
+
 https://news.ycombinator.com/item?id=43631450
 
 https://news.ycombinator.com/item?id=43641381

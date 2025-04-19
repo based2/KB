@@ -78,6 +78,8 @@ https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-googl
 > https://news.ycombinator.com/item?id=29847033
 
 # News
+https://cloud.google.com/blog/products/networking/connect-globally-with-cloud-wan-for-the-ai-era?hl=en
+
 https://news.ycombinator.com/item?id=41019777
 
 https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime
