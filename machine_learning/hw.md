@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://news.ycombinator.com/item?id=43736739
+
 https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/
 > https://news.ycombinator.com/item?id=43631274
 

@@ -7,6 +7,12 @@ https://kitops.ml/docs/modelkit/intro.html
 > https://news.ycombinator.com/item?id=41963890
 
 #
+https://github.com/spegel-org/spegel Stateless cluster local OCI registry mirror
+> https://philiplaine.com/posts/getting-forked-by-microsoft/
+> https://github.com/Azure/peerd Peer to peer distribution of container content in Kubernetes clusters
+
+https://github.com/opentofu/opentofu/issues/2540
+
 https://news.ycombinator.com/item?id=42331889
 
 https://ochagavia.nl/blog/using-s3-as-a-container-registry/

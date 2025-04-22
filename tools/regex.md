@@ -146,3 +146,7 @@ https://rosie-lang.org/
 > https://news.ycombinator.com/item?id=41675337
 
 https://www.khoury.northeastern.edu/~shivers/papers/sre.txt
+
+https://news.ycombinator.com/item?id=43750314
+
+https://news.ycombinator.com/item?id=43714579

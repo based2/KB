@@ -91,6 +91,9 @@ https://news.ycombinator.com/item?id=43170155
 
 https://news.ycombinator.com/item?id=43646858
 
+## Tests
+https://news.ycombinator.com/item?id=43736950
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
@@ -103,6 +106,10 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43747560 Keep your PyTorch model in VRAM by hot swapping code
+
+https://news.ycombinator.com/item?id=43744116
+
 https://github.com/kvcache-ai/Mooncake
 
 https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python

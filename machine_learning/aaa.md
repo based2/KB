@@ -622,6 +622,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything
+
 https://news.ycombinator.com/item?id=43633568
 
 https://news.ycombinator.com/item?id=43647237

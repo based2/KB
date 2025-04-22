@@ -57,6 +57,9 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html
+> https://news.ycombinator.com/item?id=43690828
+
 https://news.ycombinator.com/item?id=43361959
 
 https://lobste.rs/s/v8izex/list_brave_browser_controversies

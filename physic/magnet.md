@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43739529
+
 https://spectrum.ieee.org/spin-glass-nanomagnet-ai
 
 https://en.wikipedia.org/wiki/Skyrmion

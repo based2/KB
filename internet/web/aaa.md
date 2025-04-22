@@ -39,6 +39,8 @@ https://www.animalz.co/blog/seo-and-chatgpt/
 
 https://news.ycombinator.com/item?id=39816836
 
+https://ahrefs.com/blog/ai-overviews-reduce-clicks/
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

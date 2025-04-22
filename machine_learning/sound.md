@@ -183,6 +183,8 @@ https://huggingface.co/spaces/webml-community/kokoro-webgpu
 > https://news.ycombinator.com/item?id=42973769
 
 # text2Speech
+https://news.ycombinator.com/item?id=43754124
+
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074
 

@@ -378,6 +378,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://davepeck.org/2025/04/11/pythons-new-t-strings/ future 3.14
+
 https://news.ycombinator.com/item?id=43735724
 
 https://github.com/ariebovenberg/whenever

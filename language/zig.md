@@ -1,3 +1,6 @@
+https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html
+> https://news.ycombinator.com/item?id=43744591
+
 https://news.ycombinator.com/item?id=42953206
 
 https://news.ycombinator.com/item?id=42849774

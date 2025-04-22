@@ -400,6 +400,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=43749178
+
+https://www.theregister.com/2025/04/03/openstack_epoxy_released/
+
 https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563
 > https://news.ycombinator.com/item?id=43489698
 

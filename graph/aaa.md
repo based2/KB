@@ -126,6 +126,9 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/
+> https://news.ycombinator.com/item?id=43745261
+
 https://news.ycombinator.com/item?id=43595193
 
 https://yufeizhao.com/gtacbook/ Graph Theory and Additive Combinatorics

@@ -171,6 +171,11 @@ https://bevyengine.org/news/bevy-0-6/
 https://news.ycombinator.com/item?id=43614546
 
 # News
+https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733
+> https://news.ycombinator.com/item?id=43723088
+
+https://news.ycombinator.com/item?id=43686936
+
 https://github.com/BabylonJS/Babylon.js
 > https://news.ycombinator.com/item?id=9335460
 

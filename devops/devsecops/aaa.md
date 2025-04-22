@@ -20,6 +20,8 @@ https://justine.lol/make/ Using Landlock to Sandbox GNU Make
 https://gitleaks.io/
 > https://github.com/gitleaks/gitleaks
 
+https://deps.dev/
+
 # Scanner
 https://github.com/bridgecrewio/checkov
 

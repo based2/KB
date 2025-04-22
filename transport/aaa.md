@@ -4,6 +4,8 @@ https://www.simutrans.com/en/
 https://news.ycombinator.com/item?id=39323601
 
 #
+https://news.ycombinator.com/item?id=43739547
+
 https://news.ycombinator.com/item?id=43647844
 
 https://news.ycombinator.com/item?id=43342071

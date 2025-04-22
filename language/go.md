@@ -130,6 +130,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://jerf.org/iri/post/2025/go_layered_design/
+> https://news.ycombinator.com/item?id=43740992
+
 https://news.ycombinator.com/item?id=43670373
 
 https://news.ycombinator.com/item?id=43647880

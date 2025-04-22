@@ -86,6 +86,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=43747242
+
 https://news.ycombinator.com/item?id=43691334
 
 https://posthuman.blog/this-reddit-post-fried-my-brain/
@@ -195,6 +197,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=43745554
+
+https://news.ycombinator.com/item?id=43748486
+
 https://news.ycombinator.com/item?id=43328095
 
 https://news.ycombinator.com/item?id=43336892

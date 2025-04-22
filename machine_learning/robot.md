@@ -7,3 +7,5 @@ https://www.1x.tech/neo
 
 https://www.figure.ai/news/helix Vision-language-action model for generalist humanoid control
 > https://news.ycombinator.com/item?id=43115079
+
+https://news.ycombinator.com/item?id=43718493

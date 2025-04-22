@@ -197,6 +197,11 @@ https://news.ycombinator.com/item?id=43599967 SeedLM: Compressing LLM Weights in
 
 https://news.ycombinator.com/item?id=43618339 Neural Graffiti – Liquid Memory Layer for LLMs
 
+https://news.ycombinator.com/item?id=43744343 Pushing the Limits of LLM Quantization via the Linearity Theorem
+
+https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/
+> https://news.ycombinator.com/item?id=43744809
+
 # News
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 > https://news.ycombinator.com/item?id=43733553

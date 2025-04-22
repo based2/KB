@@ -46,6 +46,8 @@ https://www.asimov.press/p/futurehouse
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://news.ycombinator.com/item?id=43738478
+
 https://news.ycombinator.com/item?id=43261247
 
 https://news.ycombinator.com/item?id=42897696

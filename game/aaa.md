@@ -50,6 +50,9 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://www.playhextraction.com/
+> https://news.ycombinator.com/item?id=43731746
+
 https://news.ycombinator.com/item?id=43729683 qr
 
 https://news.ycombinator.com/item?id=43632278

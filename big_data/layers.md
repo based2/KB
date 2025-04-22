@@ -73,6 +73,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://github.com/sanspareilsmyn/parqv TUI
+> https://news.ycombinator.com/item?id=43735002
+
 https://news.ycombinator.com/item?id=43678533
 
 https://news.ycombinator.com/item?id=43644173

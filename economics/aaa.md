@@ -107,6 +107,8 @@ https://www.formance.com/blog/engineering/color-of-money
 > https://news.ycombinator.com/item?id=42280641
 
 ## Trading
+https://news.ycombinator.com/item?id=43712877
+
 https://news.ycombinator.com/item?id=43323974
 
 https://news.ycombinator.com/item?id=43136806
@@ -283,6 +285,9 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://tphuang.substack.com/p/china-is-in-third-phase-of-its-development
+> https://news.ycombinator.com/item?id=43742004
+
 https://news.ycombinator.com/item?id=42950929
 
 https://news.ycombinator.com/item?id=42603140

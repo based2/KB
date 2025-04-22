@@ -5,6 +5,9 @@ https://cve.mitre.org/cve/search_cve_list.html
 
 https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System
 
+https://osv.dev/
+> https://ossf.github.io/osv-schema/
+
 https://www.first.org/epss/
 
 https://cert.europa.eu/blog/tlp-version-2-primer
@@ -81,6 +84,10 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://www.theregister.com/2025/04/18/splintering_cve_bug_tracking/
+
+https://news.ycombinator.com/item?id=43740145
+
 https://gcve.eu/
 
 https://news.ycombinator.com/item?id=43704430

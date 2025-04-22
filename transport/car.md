@@ -33,6 +33,9 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://www.notateslaapp.com/news/2645/how-tesla-is-replacing-the-age-old-can-bus
+> ttps://news.ycombinator.com/item?id=43750143
+
 https://news.ycombinator.com/item?id=43533556
 
 https://news.ycombinator.com/item?id=43487231

@@ -15,6 +15,8 @@ https://github.com/chipsalliance/riscv-dv
 https://github.com/libriscv/libriscv
 
 # News
+https://news.ycombinator.com/item?id=43735734
+
 https://news.ycombinator.com/item?id=43432485
 
 https://news.ycombinator.com/item?id=43311091

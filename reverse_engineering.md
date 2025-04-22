@@ -72,6 +72,11 @@ https://github.com/albertan017/LLM4Decompile
 https://news.ycombinator.com/item?id=43474490
 
 # News
+https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering
+> https://news.ycombinator.com/item?id=43747921
+> > https://lynxjs.org/blog/lynx-unlock-native-for-more.html
+> > > https://news.ycombinator.com/item?id=43264957
+
 https://github.com/mvt-project/mvt Conducting forensics of mobile devices to find signs of a potential compromise
 > https://news.ycombinator.com/item?id=43384894
 

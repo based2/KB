@@ -88,6 +88,8 @@ https://news.ycombinator.com/item?id=42531993
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=43710220
+
 https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney
 > https://news.ycombinator.com/item?id=43619759
 

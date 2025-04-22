@@ -118,3 +118,5 @@ https://github.com/ListfulAl/gpl
 https://sebgnotes.com/blog/2024-12-26-prompt-chaining/
 
 https://news.ycombinator.com/item?id=42861815
+
+https://news.ycombinator.com/item?id=43721301

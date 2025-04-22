@@ -92,6 +92,10 @@ https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-informati
 https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017
 
 # News
+https://andrejradovic.com/blog/ansible/
+> https://news.ycombinator.com/item?id=43739391
+> https://lobste.rs/s/oybzgm/ansible_pure_only_its_pragmatism
+
 https://linuxfr.org/news/squest-passe-en-v2-retour-d-experience-sur-la-pile-ansible-rhaap-squest
 
 https://www.reddit.com/r/ansible/comments/zn233q/the_bullhorn_85_ansible_newsletter/

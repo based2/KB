@@ -116,6 +116,12 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://www.techdirt.com/2025/04/21/microsoft-is-dedicated-to-building-a-dodgy-new-database-of-every-windows-11-users-online-behaviors/
+
+https://news.ycombinator.com/item?id=43741273
+
+https://news.ycombinator.com/item?id=43716704
+
 https://news.ycombinator.com/item?id=43730545
 
 https://www.bleepingcomputer.com/news/technology/meta-to-resume-ai-training-on-content-shared-by-europeans/

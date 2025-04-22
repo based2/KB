@@ -38,6 +38,10 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=43693406
+
+https://ronaldelliott.com/mbc.html
+
 https://qradiolink.org/open-source-DMR-transceiver-implementation.html
 
 https://news.ycombinator.com/item?id=43671940

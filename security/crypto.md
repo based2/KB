@@ -116,6 +116,8 @@ https://blog.pgpkeys.eu/critique-critique.html
 
 https://news.ycombinator.com/item?id=41748168
 
+https://news.ycombinator.com/item?id=43721228
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 
@@ -206,6 +208,8 @@ https://news.ycombinator.com/item?id=41668896
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=43745281
+
 https://news.ycombinator.com/item?id=43731165
 
 https://news.ycombinator.com/item?id=43682369
