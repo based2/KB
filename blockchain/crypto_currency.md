@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://www.theregister.com/2025/04/23/ripple_npm_supply_chain/?td=keepreading
+
 https://www.coinspect.com/blog/wallet-silent-drain/ CVE-2023-40580
 
 https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-Crawler-Reflective-DDOS-Vulnerability.md

@@ -622,6 +622,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://pytorch.org/blog/pytorch-2-7/
+
+https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf Large Language Models, Small Labor Market Effects
+> https://news.ycombinator.com/item?id=43791385
+
+https://koomen.dev/essays/horseless-carriages/
+> https://news.ycombinator.com/item?id=43773813
+
 https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything
 
 https://news.ycombinator.com/item?id=43633568

@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.batterytechonline.com/materials/5-key-takeaways-from-catl-s-naxtra-sodium-ion-battery-launch
+
 https://news.ycombinator.com/item?id=43751177
 
 https://news.ycombinator.com/item?id=43718809

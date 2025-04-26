@@ -91,6 +91,8 @@ https://news.ycombinator.com/item?id=43170155
 
 https://news.ycombinator.com/item?id=43646858
 
+https://news.ycombinator.com/item?id=43763814
+
 ## Tests
 https://news.ycombinator.com/item?id=43736950
 
@@ -106,6 +108,11 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine MCP on AWS Lambda with MCPEngine
+> https://news.ycombinator.com/item?id=43773777
+
+https://news.ycombinator.com/item?id=43774327
+
 https://news.ycombinator.com/item?id=43747560 Keep your PyTorch model in VRAM by hot swapping code
 
 https://news.ycombinator.com/item?id=43744116

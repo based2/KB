@@ -117,6 +117,8 @@ https://mistral.ai/fr/news/mistral-ocr
 https://news.ycombinator.com/item?id=43590998
 
 # News
+https://snipfa.st/
+
 https://news.ycombinator.com/item?id=43347524
 
 https://github.com/JordiNeil/bad_posture

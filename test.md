@@ -33,6 +33,8 @@ https://stepci.com/
 # ML
 https://news.ycombinator.com/item?id=41936855
 
+https://news.ycombinator.com/item?id=43796003
+
 #
 https://news.ycombinator.com/item?id=43591246 pytest
 

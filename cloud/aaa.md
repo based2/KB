@@ -154,6 +154,8 @@ https://www.golem.cloud/post/exploring-the-potential-of-stonebreaker-s-new-dbos
 
 https://github.com/vercel/fun
 
+https://news.ycombinator.com/item?id=43789010
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 

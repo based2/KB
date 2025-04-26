@@ -52,6 +52,8 @@ https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
 > https://news.ycombinator.com/item?id=36462354
 
 #
+https://news.ycombinator.com/item?id=43799302
+
 https://www.404media.co/russia-clones-wikipedia-censors-it-bans-original/
 > https://news.ycombinator.com/item?id=40208268
 

@@ -67,6 +67,10 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+https://news.ycombinator.com/item?id=43763291
+
+https://news.ycombinator.com/item?id=43797256
+
 https://news.ycombinator.com/item?id=43547593
 
 https://news.ycombinator.com/item?id=43306776

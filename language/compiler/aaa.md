@@ -154,7 +154,13 @@ https://cvw.cac.cornell.edu/vector/default
 # JIT
 https://news.ycombinator.com/item?id=40911500
 
+# I
+https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
+
 # News
+https://gcc.gnu.org/gcc-15/
+> https://news.ycombinator.com/item?id=43792248
+
 https://news.ycombinator.com/item?id=43678909
 
 https://news.ycombinator.com/item?id=43365734

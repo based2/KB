@@ -140,6 +140,8 @@ https://www.maxlaumeister.com/tonematrix/
 
 https://news.ycombinator.com/item?id=38892685
 
+https://news.ycombinator.com/item?id=43793288
+
 ## MIDI
 https://news.ycombinator.com/item?id=43180977
 

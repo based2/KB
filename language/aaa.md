@@ -383,6 +383,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=43789593
+
 https://news.ycombinator.com/item?id=43751076 pipe
 
 https://news.ycombinator.com/item?id=43746229 error

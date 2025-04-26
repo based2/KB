@@ -12,6 +12,9 @@ https://news.ycombinator.com/item?id=41036982
 
 https://news.ycombinator.com/item?id=41110850
 
+https://workos.com/blog/saml-signature-problem
+> https://news.ycombinator.com/item?id=43785098
+
 # i
 https://news.ycombinator.com/item?id=43374519
 

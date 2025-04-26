@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://news.ycombinator.com/item?id=43793627 rust
+
 https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html SAP
 > https://news.ycombinator.com/item?id=43634408
 

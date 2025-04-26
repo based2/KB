@@ -152,10 +152,12 @@ https://www.tedinski.com/2019/03/05/backpressure.html
 https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready/ FOQS: Making a distributed priority queue disaster-ready
 > https://news.ycombinator.com/item?id=29993007
 
-# Incident
+# Incidents
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 # News
+https://news.ycombinator.com/item?id=43790420
+
 https://news.ycombinator.com/item?id=41379149
 
 https://dl.acm.org/doi/pdf/10.1145/63039.63045 Calendar Queues: A Fast O(1) Priority Queue Implementation (1988)

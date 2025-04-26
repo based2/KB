@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43802665
+
 https://news.ycombinator.com/item?id=43735550
 
 https://singularityhub.com/2025/03/28/what-anthropic-researchers-found-after-reading-claudes-mind-surprised-them/

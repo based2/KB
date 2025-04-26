@@ -16,6 +16,10 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=43777731
+
+https://news.ycombinator.com/item?id=43797058
+
 https://demoriarty.github.io/BMM-1/ Batch Matrix Multiplication (BMM)
 
 https://news.ycombinator.com/item?id=43667693

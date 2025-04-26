@@ -126,6 +126,8 @@ https://diffusion-policy.cs.columbia.edu/
 https://arxiv.org/abs/2412.10631
 
 # News
+https://news.ycombinator.com/item?id=43805683
+
 https://teckrize.blogspot.com/2025/04/university-of-michigan-researchers.html
 
 https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html

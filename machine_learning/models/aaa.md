@@ -202,7 +202,11 @@ https://news.ycombinator.com/item?id=43744343 Pushing the Limits of LLM Quantiza
 https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/
 > https://news.ycombinator.com/item?id=43744809
 
+https://news.ycombinator.com/item?id=43796935 70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float
+
 # News
+https://news.ycombinator.com/item?id=43800725
+
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 > https://news.ycombinator.com/item?id=43733553
 

@@ -70,6 +70,9 @@ https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://www.qemu.org/2025/04/23/qemu-10-0-0/
+> https://news.ycombinator.com/item?id=43777177
+
 https://news.ycombinator.com/item?id=43743784
 
 https://podman-desktop.io/blog/podman-quadlet

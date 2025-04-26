@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://spectrum.ieee.org/xprize-carbon-removal
+
 https://news.ycombinator.com/item?id=43687583
 
 https://news.ycombinator.com/item?id=43620609

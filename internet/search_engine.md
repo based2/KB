@@ -10,6 +10,7 @@ https://news.ycombinator.com/item?id=29392702
 > http://nutch.apache.org/
 > > https://solr.apache.org/
 > > > https://lucene.apache.org/
+> > > > https://news.ycombinator.com/item?id=43776385
 > https://tika.apache.org/    
 > https://pdfbox.apache.org/
 

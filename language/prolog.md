@@ -77,3 +77,5 @@ https://www.scallop-lang.org/ Language for Neurosymbolic Programming
 
 https://github.com/lab-v2/pyreason
 > https://lobste.rs/s/xl1m2i/pyreason_explainable_inference_for
+
+https://news.ycombinator.com/item?id=43757916
