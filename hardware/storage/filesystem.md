@@ -56,6 +56,8 @@ https://github.com/openzfs/zfs/releases/tag/zfs-2.1.7
 https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html
 > https://news.ycombinator.com/item?id=38660007
 
+https://news.ycombinator.com/item?id=43810566
+
 # Distributed
 https://www.lustre.org/
 

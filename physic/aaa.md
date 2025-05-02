@@ -1,5 +1,8 @@
 https://ophysics.com/index.html
 
+https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration
+> https://news.ycombinator.com/item?id=43831708
+
 https://news.ycombinator.com/item?id=43610760
 
 https://news.ycombinator.com/item?id=43460636

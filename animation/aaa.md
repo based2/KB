@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://webflow.com/blog/gsap-becomes-free
+> https://news.ycombinator.com/item?id=43868273
+
 https://news.ycombinator.com/item?id=43801179
 
 https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era

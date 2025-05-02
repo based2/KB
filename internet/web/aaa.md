@@ -210,7 +210,15 @@ https://buddypond.com
 # Forum
 https://github.com/Demindiro/agreper
 
+# I
+https://news.ycombinator.com/item?id=43852096
+
 # News
+https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025
+
+https://internet-in-a-box.org/
+> https://news.ycombinator.com/item?id=43814433
+
 https://hyperview.org/ Native mobile apps, as easy as creating a website
 > https://news.ycombinator.com/item?id=42620565
 

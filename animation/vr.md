@@ -1,3 +1,6 @@
+https://worldgen.github.io/ Open-source 3D scene generator for Game/VR/XR
+> https://news.ycombinator.com/item?id=43824548
+
 https://news.ycombinator.com/item?id=43768421
 
 https://news.ycombinator.com/item?id=43668192

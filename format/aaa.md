@@ -90,6 +90,8 @@ https://news.ycombinator.com/item?id=43330782
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://news.ycombinator.com/item?id=43852771
+
 https://hackers.town/@zwol/114155595855705796
 
 https://news.ycombinator.com/item?id=42526926

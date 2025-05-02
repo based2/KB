@@ -116,6 +116,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=43858080
+
 https://www.techdirt.com/2025/04/21/microsoft-is-dedicated-to-building-a-dodgy-new-database-of-every-windows-11-users-online-behaviors/
 
 https://news.ycombinator.com/item?id=43741273

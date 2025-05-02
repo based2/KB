@@ -383,6 +383,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=43831628
+
+https://news.ycombinator.com/item?id=43811487
+
 https://news.ycombinator.com/item?id=43789593
 
 https://news.ycombinator.com/item?id=43751076 pipe

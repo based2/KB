@@ -22,6 +22,9 @@ https://jayendrapatil.com/rds-read-replicas/
 
 https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-MySQL-Second-Tier-Read-Replica.pdf
 
+# I
+https://news.ycombinator.com/item?id=43833195
+
 # News
 https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644
 > https://news.ycombinator.com/item?id=39243655

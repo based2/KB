@@ -112,6 +112,10 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://news.ycombinator.com/item?id=43856186
+
+https://news.ycombinator.com/item?id=43811400
+
 https://news.ycombinator.com/item?id=43719830
 
 https://news.ycombinator.com/item?id=43682006

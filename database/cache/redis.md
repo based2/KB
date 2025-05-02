@@ -62,3 +62,5 @@ https://valkey.io/blog/2024-year-of-valkey/
 https://news.ycombinator.com/item?id=42778795
 
 https://news.ycombinator.com/item?id=42771403
+
+https://news.ycombinator.com/item?id=43859446

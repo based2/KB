@@ -22,6 +22,8 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://news.ycombinator.com/item?id=43823485
+
 https://news.ycombinator.com/item?id=43559228
 
 https://news.ycombinator.com/item?id=43562384
@@ -149,3 +151,6 @@ https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4e
 
 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/
 > https://news.ycombinator.com/item?id=38859976
+
+https://kumo.ai/research/relational-graph-transformers/
+> https://news.ycombinator.com/item?id=43824297

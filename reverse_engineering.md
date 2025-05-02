@@ -72,6 +72,10 @@ https://github.com/albertan017/LLM4Decompile
 https://news.ycombinator.com/item?id=43474490
 
 # News
+https://news.ycombinator.com/item?id=43860522
+
+https://news.ycombinator.com/item?id=43820076
+
 https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering
 > https://news.ycombinator.com/item?id=43747921
 > > https://lynxjs.org/blog/lynx-unlock-native-for-more.html

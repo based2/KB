@@ -182,6 +182,8 @@ https://news.ycombinator.com/item?id=42208964
 https://huggingface.co/spaces/webml-community/kokoro-webgpu
 > https://news.ycombinator.com/item?id=42973769
 
+https://news.ycombinator.com/item?id=43860137
+
 # text2Speech
 https://news.ycombinator.com/item?id=43754124
 
@@ -227,6 +229,9 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://suno.com/explore/ 4.5
+> https://news.ycombinator.com/item?id=43869353
+
 https://news.ycombinator.com/item?id=43683907
 
 https://news.ycombinator.com/item?id=43641255

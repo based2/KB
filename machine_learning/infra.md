@@ -102,12 +102,19 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://news.ycombinator.com/item?id=43856656
+
 https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 > https://old.reddit.com/r/netsec/comments/1jt7c80/new_attack_vector_on_ai_toolchains_tool_poisoning/
 
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43812646
+
+https://github.com/skyzh/tiny-llm course of serving LLM on Apple Silicon for systems engineers
+> https://news.ycombinator.com/item?id=43820022
+
 https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine MCP on AWS Lambda with MCPEngine
 > https://news.ycombinator.com/item?id=43773777
 

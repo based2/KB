@@ -46,4 +46,7 @@ https://news.ycombinator.com/item?id=39759627
 https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/
 > https://news.ycombinator.com/item?id=40185487
 
+https://github.com/kubetail-org/kubetail
+> https://news.ycombinator.com/item?id=43863418
+
 

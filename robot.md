@@ -126,6 +126,9 @@ https://diffusion-policy.cs.columbia.edu/
 https://arxiv.org/abs/2412.10631
 
 # News
+https://lite.berkeley-humanoid.org/
+> https://news.ycombinator.com/item?id=43800002
+
 https://news.ycombinator.com/item?id=43805683
 
 https://teckrize.blogspot.com/2025/04/university-of-michigan-researchers.html

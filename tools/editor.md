@@ -402,6 +402,9 @@ https://en.wikipedia.org/wiki/MORE_(application)
 # AI
 https://news.ycombinator.com/item?id=41353835
 
+# I
+https://news.ycombinator.com/item?id=43850377
+
 # News
 https://lobste.rs/s/7od3uk/how_i_use_kate_editor
 

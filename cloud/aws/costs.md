@@ -56,3 +56,5 @@ https://www.fairwinds.com/blog/understanding-aws-end-of-service-life-is-a-key-fi
 > https://news.ycombinator.com/item?id=40075316
 
 https://news.ycombinator.com/item?id=40199972
+
+https://news.ycombinator.com/item?id=43794120

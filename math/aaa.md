@@ -167,6 +167,9 @@ https://news.ycombinator.com/item?id=41765904
 
 https://news.ycombinator.com/item?id=42043747
 
+https://whomtech.com/show-hn/
+> https://news.ycombinator.com/item?id=43859464
+
 # ML
 https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
 > https://mizar.org/language/
@@ -207,6 +210,8 @@ https://news.ycombinator.com/item?id=42967173
 https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
 
 # News
+https://www.theregister.com/2025/04/27/darpa_expmath_ai/
+
 https://mathmondays.com/monskys-theorem
 > https://news.ycombinator.com/item?id=43739510
 

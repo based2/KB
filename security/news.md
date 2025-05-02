@@ -1,3 +1,16 @@
+https://news.ycombinator.com/item?id=43865824
+
+https://news.ycombinator.com/item?id=43829006
+
+https://github.com/kexa-io/Kexa Open-Source IT Security and Compliance Verification
+> https://news.ycombinator.com/item?id=43844665
+
+https://news.ycombinator.com/item?id=43840763
+
+https://news.ycombinator.com/item?id=43851612
+
+https://news.ycombinator.com/item?id=43858462
+
 https://news.ycombinator.com/item?id=43793526
 
 https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-exploiting-critical-ivanti-vulnerability/?hl=en

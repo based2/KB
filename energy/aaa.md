@@ -18,7 +18,9 @@ https://www.rte-france.com/eco2mix
 https://poweroutage.us/
 > https://news.ycombinator.com/item?id=43069399
 
-# I
+# Incidents
+https://news.ycombinator.com/item?id=43819791
+
 https://news.ycombinator.com/item?id=43652506
 
 https://news.ycombinator.com/item?id=43431567

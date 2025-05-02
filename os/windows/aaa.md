@@ -151,6 +151,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://news.ycombinator.com/item?id=43852162
+
 https://news.ycombinator.com/item?id=43066298 	Microsoft removes Windows11 24H2 official support on 8th 9th 10th Gen Intel CPUs
 
 https://h.43z.one/blog/2025-02-12/

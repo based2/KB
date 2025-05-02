@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=43840842
+
+https://alexop.dev/posts/how-03-model-tries-chess-puzzle/
+> https://news.ycombinator.com/item?id=43813046
+
 https://news.ycombinator.com/item?id=43683410
 
 https://news.ycombinator.com/item?id=43649834

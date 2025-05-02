@@ -34,3 +34,5 @@ https://www.learncloudnative.com/blog/2023-05-31-kubeproxy-iptables
 
 https://github.com/Veinar/dracan enhance filtering and validation capabilities within Kubernetes (k8s) environments
 > https://news.ycombinator.com/item?id=42097735
+
+https://ngrok.com/blog-post/ngrok-kubernetes-ingress

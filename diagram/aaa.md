@@ -56,6 +56,10 @@ https://news.ycombinator.com/item?id=35224439
 https://news.ycombinator.com/item?id=41328185
 
 #
+https://news.ycombinator.com/item?id=43808803
+
+https://news.ycombinator.com/item?id=43808803
+
 https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book
 
 https://news.ycombinator.com/item?id=43627758

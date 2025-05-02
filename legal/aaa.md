@@ -73,6 +73,10 @@ https://www.dol.gov/agencies/eta/tradeact/petitioners
 https://www.gouvernement.fr/actualite/agora-lappli-pour-dialoguer-avec-le-gouvernement
 
 # News
+https://news.ycombinator.com/item?id=43852145
+
+https://news.ycombinator.com/item?id=43856795
+
 https://news.ycombinator.com/item?id=43731552
 
 https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html

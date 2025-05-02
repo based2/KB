@@ -351,8 +351,13 @@ https://news.ycombinator.com/item?id=40054531
 
 https://simonwillison.net/2024/Sep/24/nanodjango/
 
+https://news.ycombinator.com/item?id=43814716
+
 # Interop
 https://news.ycombinator.com/item?id=35651791 go
+
+# Hardware
+https://news.ycombinator.com/item?id=43820228
 
 # History
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 

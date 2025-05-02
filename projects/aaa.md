@@ -177,6 +177,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://www.oldschoolburke.com/011-calibrations-have-a-context-collapse-problem/
+> https://news.ycombinator.com/item?id=43812699
+
 https://seths.blog/2025/04/the-use-and-design-of-tools/
 
 https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/

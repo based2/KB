@@ -285,6 +285,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://news.ycombinator.com/item?id=43843821
+
 https://tphuang.substack.com/p/china-is-in-third-phase-of-its-development
 > https://news.ycombinator.com/item?id=43742004
 

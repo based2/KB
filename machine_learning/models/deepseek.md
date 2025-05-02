@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43847432
+
 https://github.com/policy-gradient/GRPO-Zero
 
 https://news.ycombinator.com/item?id=43673151

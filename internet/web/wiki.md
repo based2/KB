@@ -16,3 +16,5 @@ https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/
 
 https://github.com/suitenumerique/docs
 > https://news.ycombinator.com/item?id=43378239
+
+https://news.ycombinator.com/item?id=43842306 I created Perfect Wiki and reached $250k in annual revenue without investors

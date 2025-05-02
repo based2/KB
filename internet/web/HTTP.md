@@ -214,6 +214,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=43805358
+
 https://github.com/lwthiker/curl-impersonate
 > https://news.ycombinator.com/item?id=43571099
 

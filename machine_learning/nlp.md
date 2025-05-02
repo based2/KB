@@ -9,6 +9,8 @@ https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
 # News
+https://news.ycombinator.com/item?id=43854776
+
 https://arxiv.org/abs/2405.02318 Translating natural language to first-order logic for logical fallacy detection
 > https://news.ycombinator.com/item?id=43257719
 

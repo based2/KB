@@ -30,6 +30,10 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # Incidents
+https://news.ycombinator.com/item?id=43853663
+
+https://www.bbc.com/news/articles/cx26zn3340yo
+
 https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure#t=601
 
 https://streaming.media.ccc.de/37c3/relive/12142
@@ -44,6 +48,10 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://news.ycombinator.com/item?id=43853118
+
+https://news.ycombinator.com/item?id=43824544
+
 https://news.ycombinator.com/item?id=43651390
 
 https://osrd.fr/en/ Open Source Railway Designer

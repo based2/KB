@@ -622,6 +622,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/ illustrated guide to automatic sparse differentiation
+> https://news.ycombinator.com/item?id=43828423
+
+https://news.ycombinator.com/item?id=43858495
+
+https://distill.pub/2017/momentum/
+
 https://pytorch.org/blog/pytorch-2-7/
 
 https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf Large Language Models, Small Labor Market Effects

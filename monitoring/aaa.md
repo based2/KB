@@ -124,6 +124,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://www.brendangregg.com/blog//2025-05-01/doom-gpu-flame-graphs.html
+> https://news.ycombinator.com/item?id=43846283
+
 https://news.ycombinator.com/item?id=43789625
 
 https://news.ycombinator.com/item?id=43750765

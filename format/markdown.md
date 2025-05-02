@@ -119,3 +119,6 @@ https://mystmd.org/guide for technical/scientific document
 
 https://github.com/yshavit/mdq Jq-Like Tool for Markdown
 > https://news.ycombinator.com/item?id=43152704
+
+https://sli.dev/ Presentation Slides with Markdown
+> https://news.ycombinator.com/item?id=43816634

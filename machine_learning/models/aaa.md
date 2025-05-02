@@ -204,7 +204,22 @@ https://www.quantamagazine.org/to-make-language-models-work-better-researchers-s
 
 https://news.ycombinator.com/item?id=43796935 70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float
 
+https://news.ycombinator.com/item?id=43817377 Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models
+
+# I
+https://news.ycombinator.com/item?id=43865097
+
+https://news.ycombinator.com/item?id=43793280
+
 # News
+https://news.ycombinator.com/item?id=43835445
+
+https://news.ycombinator.com/item?id=43851099
+
+https://news.ycombinator.com/item?id=43813036
+
+https://news.ycombinator.com/item?id=43812459
+
 https://news.ycombinator.com/item?id=43800725
 
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models

@@ -34,6 +34,8 @@ https://github.com/thampiman/reverse-geocoder
 
 https://news.ycombinator.com/item?id=41464585
 
+https://news.ycombinator.com/item?id=43812323
+
 # Geolocation
 https://fabiensanglard.net/lte/index.html
 

@@ -704,6 +704,10 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=43808443
+
+https://news.ycombinator.com/item?id=43813330
+
 https://news.ycombinator.com/item?id=43733636
 
 https://news.ycombinator.com/item?id=43583478

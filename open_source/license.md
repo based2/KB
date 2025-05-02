@@ -95,6 +95,8 @@ https://news.ycombinator.com/item?id=43041929
 https://news.ycombinator.com/item?id=43781888
 
 # Incidents
+https://www.theregister.com/2025/04/28/cncf_synadia_nats_dispute/
+
 https://news.ycombinator.com/item?id=42576443
 
 https://news.ycombinator.com/item?id=39781055
