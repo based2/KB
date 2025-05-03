@@ -33,6 +33,9 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global
+> https://news.ycombinator.com/item?id=43843241
+
 https://news.ycombinator.com/item?id=43839123
 
 https://news.ycombinator.com/item?id=43837993
