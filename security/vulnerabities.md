@@ -84,6 +84,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://spaceraccoon.dev/cybersecurity-antipatterns-busywork-generators/
+
 https://news.ycombinator.com/item?id=43829080
 
 https://www.theregister.com/2025/04/18/splintering_cve_bug_tracking/

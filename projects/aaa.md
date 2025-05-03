@@ -141,6 +141,8 @@ https://news.ycombinator.com/item?id=42173575
 https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior
 > https://news.ycombinator.com/item?id=43146871
 
+https://news.ycombinator.com/item?id=43873604
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

@@ -35,3 +35,6 @@ https://github.com/rafael1mc/epub-tts
 https://news.ycombinator.com/item?id=43141825
 
 https://news.ycombinator.com/item?id=43539103
+
+https://github.com/ernestofgonzalez/epub-utils
+> https://news.ycombinator.com/item?id=43875505

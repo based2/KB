@@ -34,6 +34,8 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://news.ycombinator.com/item?id=43866585
+
 https://news.ycombinator.com/item?id=43667010
 
 https://news.ycombinator.com/item?id=43649495

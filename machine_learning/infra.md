@@ -110,6 +110,12 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43879702 Run LLMs on Apple Neural Engine (ANE)
+
+https://news.ycombinator.com/item?id=43829046
+
+https://news.ycombinator.com/item?id=43856656
+
 https://news.ycombinator.com/item?id=43812646
 
 https://github.com/skyzh/tiny-llm course of serving LLM on Apple Silicon for systems engineers

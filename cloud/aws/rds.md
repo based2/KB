@@ -26,6 +26,8 @@ https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-
 https://news.ycombinator.com/item?id=43833195
 
 # News
+https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/
+
 https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644
 > https://news.ycombinator.com/item?id=39243655
 

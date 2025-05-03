@@ -2,6 +2,10 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://lobste.rs/s/qoebwd/gitdroid_third_party_android_app_manager
+> https://github.com/ImranR98/Obtainium https://obtainium.imranr.dev/
+> https://news.ycombinator.com/item?id=43875416
+
 https://news.ycombinator.com/item?id=43750235
 
 https://github.com/erayalakese/eas-like-local-builder

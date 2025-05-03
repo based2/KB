@@ -25,6 +25,10 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment
+
+https://ryan.freumh.org/opam-nix.html
+
 https://news.ycombinator.com/item?id=43593508
 
 https://dev.to/maxim092001/ocaml-gadts-for-authentication-tokens-57be

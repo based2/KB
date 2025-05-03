@@ -48,6 +48,8 @@ https://eslint.org/
 https://snyk.io/blog/snyk-code-now-available-free-sast/
 
 # Deno
+https://news.ycombinator.com/item?id=43863937
+
 https://news.ycombinator.com/item?id=41270612
 
 https://deno.com/blog/node-builtins-on-deploy

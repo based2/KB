@@ -383,6 +383,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://lobste.rs/s/utekbr/rye_principles
+
 https://news.ycombinator.com/item?id=43831628
 
 https://news.ycombinator.com/item?id=43811487

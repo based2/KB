@@ -58,6 +58,9 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://hoefler.dev/articles/vsock.html
+> https://news.ycombinator.com/item?id=43849373
+
 https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
 
 https://seclists.org/oss-sec/2025/q1/253 Three bypasses of Ubuntu's unprivileged user namespace restrictions

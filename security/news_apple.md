@@ -22,6 +22,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://news.ycombinator.com/item?id=43867627
+
 https://news.ycombinator.com/item?id=43832084
 
 https://news.ycombinator.com/item?id=43814360

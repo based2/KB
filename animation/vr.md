@@ -1,3 +1,6 @@
+https://github.com/kevinlinxc/AugmentedChords
+> https://news.ycombinator.com/item?id=43876243
+
 https://worldgen.github.io/ Open-source 3D scene generator for Game/VR/XR
 > https://news.ycombinator.com/item?id=43824548
 

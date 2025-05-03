@@ -88,6 +88,9 @@ https://news.ycombinator.com/item?id=42531993
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://n8n.io/
+> https://news.ycombinator.com/item?id=43879282
+
 https://news.ycombinator.com/item?id=43853929
 
 https://news.ycombinator.com/item?id=43856489 How to vibe code for free: Running Qwen3 on your Mac, using MLX

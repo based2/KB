@@ -120,3 +120,6 @@ https://airflow.app/
 https://news.ycombinator.com/item?id=43397640
 
 https://news.ycombinator.com/item?id=43605003
+
+https://github.com/freeman-jiang/beatsync
+> https://news.ycombinator.com/item?id=43835584

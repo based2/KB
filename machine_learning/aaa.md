@@ -622,6 +622,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=43880444
+
+https://news.ycombinator.com/item?id=43827978
+
 https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/ illustrated guide to automatic sparse differentiation
 > https://news.ycombinator.com/item?id=43828423
 

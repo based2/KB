@@ -269,6 +269,8 @@ https://news.ycombinator.com/item?id=41258932
 
 https://news.ycombinator.com/item?id=41959428
 
+https://github.com/changesets/changesets/blob/main/docs/intro-to-using-changesets.md
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -285,6 +287,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://news.ycombinator.com/item?id=43870999
+
 https://news.ycombinator.com/item?id=43869236
 
 https://git-scm.com/book/en/v2/Git-Tools-Rerere

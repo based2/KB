@@ -7,7 +7,7 @@ https://github.com/google/iconvg
 https://microformats.org/wiki/Main_Page
 > https://news.ycombinator.com/item?id=32643152
 
-# images
+# Images
 https://www.bortzmeyer.org/9649.html webp
 
 https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going
@@ -90,6 +90,8 @@ https://news.ycombinator.com/item?id=43330782
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://www.theregister.com/2025/05/03/20_years_open_document_format/
+
 https://news.ycombinator.com/item?id=43852771
 
 https://hackers.town/@zwol/114155595855705796

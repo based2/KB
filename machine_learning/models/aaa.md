@@ -212,9 +212,16 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=43842380
+
+https://news.ycombinator.com/item?id=43851212
+
+https://news.ycombinator.com/item?id=43870998 GPT-2 implemented using graphics shaders
+
 https://news.ycombinator.com/item?id=43835445
 
-https://news.ycombinator.com/item?id=43851099
+https://www.inceptionlabs.ai/introducing-mercury dLLM
+> https://news.ycombinator.com/item?id=43851099
 
 https://news.ycombinator.com/item?id=43813036
 

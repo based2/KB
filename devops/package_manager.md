@@ -88,6 +88,9 @@ https://news.ycombinator.com/item?id=43065217
 https://dinislam.substack.com/p/why-nix-is-useful-a-minimal-example
 
 #
+https://medium.com/data-science-collective/pipask-know-what-youre-installing-before-it-s-too-late-2a6afce80987
+> https://github.com/feynmanix/pipask
+
 https://news.ycombinator.com/item?id=40186036
 > https://mise.jdx.dev/
 > > https://news.ycombinator.com/item?id=40186768
@@ -165,6 +168,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=43878987
+
 https://news.ycombinator.com/item?id=43662031
 
 https://news.ycombinator.com/item?id=43009411

@@ -318,6 +318,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://github.com/AaronFriel/qmodem-4.51
+> https://news.ycombinator.com/item?id=43879715
+
 https://news.ycombinator.com/item?id=43524461
 
 https://news.ycombinator.com/item?id=43390467

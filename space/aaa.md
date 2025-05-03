@@ -35,6 +35,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=43877907
+
+https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html
+> https://news.ycombinator.com/item?id=43857405
+
 https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space
 > https://news.ycombinator.com/item?id=43416302
 

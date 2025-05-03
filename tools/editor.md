@@ -399,7 +399,10 @@ https://www.tatatap.com/
 
 https://en.wikipedia.org/wiki/MORE_(application)
 
-# AI
+# ML
+https://github.com/Stream29/ProxyAsLocalModel Use Third Party LLM API in JetBrains AI Assistant
+> https://news.ycombinator.com/item?id=43878461
+
 https://news.ycombinator.com/item?id=41353835
 
 # I

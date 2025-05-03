@@ -126,6 +126,8 @@ https://diffusion-policy.cs.columbia.edu/
 https://arxiv.org/abs/2412.10631
 
 # News
+https://news.ycombinator.com/item?id=43861207
+
 https://lite.berkeley-humanoid.org/
 > https://news.ycombinator.com/item?id=43800002
 

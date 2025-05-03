@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.immersivelabs.com/resources/blog/how-we-discovered-planet-technology-network-device-vulnerabilities
+
 https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-routers-using-aicloud/
 
 https://news.ycombinator.com/item?id=43301369

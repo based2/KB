@@ -210,6 +210,12 @@ https://news.ycombinator.com/item?id=42967173
 https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
 
 # News
+https://leancrew.com/all-this/2025/05/mathml-with-pandoc/
+
+https://news.ycombinator.com/item?id=43869093
+
+https://news.ycombinator.com/item?id=43876891
+
 https://www.theregister.com/2025/04/27/darpa_expmath_ai/
 
 https://mathmondays.com/monskys-theorem

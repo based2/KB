@@ -71,6 +71,8 @@ https://github.com/albertan017/LLM4Decompile
 
 https://news.ycombinator.com/item?id=43474490
 
+https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
+
 # News
 https://news.ycombinator.com/item?id=43860522
 

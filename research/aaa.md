@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=43796419
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://news.ycombinator.com/item?id=43858655
+
 https://news.ycombinator.com/item?id=43858568
 
 https://news.ycombinator.com/item?id=43822396

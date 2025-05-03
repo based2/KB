@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://www.aquasec.com/blog/shadow-roles-aws-defaults-lead-to-service-takeover/
+
 https://news.ycombinator.com/item?id=43729612
 
 https://cymulate.com/blog/aws-ssm-agent-plugin-id-path-traversal/

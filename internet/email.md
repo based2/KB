@@ -211,6 +211,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://news.ycombinator.com/item?id=43834942
+
 https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/
 
 https://news.ycombinator.com/item?id=43620318

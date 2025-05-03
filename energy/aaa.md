@@ -19,6 +19,8 @@ https://poweroutage.us/
 > https://news.ycombinator.com/item?id=43069399
 
 # Incidents
+https://theconversation.com/spain-portugal-blackouts-what-actually-happened-and-what-can-iberia-and-europe-learn-from-it-255666
+
 https://news.ycombinator.com/item?id=43819791
 
 https://news.ycombinator.com/item?id=43652506

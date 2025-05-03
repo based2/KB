@@ -18,6 +18,10 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/
+> https://news.ycombinator.com/item?id=43861253
+> > https://patents.google.com/patent/EP0114240A1/en
+
 https://news.ycombinator.com/item?id=43620007
 
 https://news.ycombinator.com/item?id=43516390
