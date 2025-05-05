@@ -100,6 +100,8 @@ https://news.ycombinator.com/item?id=39613767
 
 https://news.ycombinator.com/item?id=41761986
 
+http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html
+
 # Visu
 https://tweeview.ml/
 > https://news.ycombinator.com/item?id=28514298

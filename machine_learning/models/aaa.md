@@ -206,12 +206,16 @@ https://news.ycombinator.com/item?id=43796935 70% Size, 100% Accuracy: Lossless 
 
 https://news.ycombinator.com/item?id=43817377 Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models
 
+https://news.ycombinator.com/item?id=43866797
+
 # I
 https://news.ycombinator.com/item?id=43865097
 
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=43897320
+
 https://news.ycombinator.com/item?id=43842380
 
 https://news.ycombinator.com/item?id=43851212

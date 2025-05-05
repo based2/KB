@@ -390,6 +390,8 @@ https://ryven.org/ python flow
 
 https://camel.apache.org/blog/2022/02/camel-karavan-0.0.10/
 
+https://kaoto.io/
+
 https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool
 
 https://github.com/mermaid-js/mermaid/pull/2655

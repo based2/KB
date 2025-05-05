@@ -84,6 +84,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=43896011
+
 https://news.ycombinator.com/item?id=43788728
 
 https://news.ycombinator.com/item?id=43601026

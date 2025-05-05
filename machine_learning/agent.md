@@ -132,5 +132,7 @@ https://news.ycombinator.com/item?id=43846690
 https://github.com/stanford-mast/blast
 > https://news.ycombinator.com/item?id=43872761
 
+https://news.ycombinator.com/item?id=43884156
+
 # I
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

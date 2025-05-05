@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=43875476
+
+https://news.ycombinator.com/item?id=43893550
+
+https://news.ycombinator.com/item?id=43896188
+
 https://www.herodevs.com/vulnerability-directory/cve-2025-22234 spring
 
 https://news.ycombinator.com/item?id=43865824

@@ -347,6 +347,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=43883732
+
 https://github.com/pgdogdev/pgdog
 
 https://news.ycombinator.com/item?id=43693326

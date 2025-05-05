@@ -12,6 +12,9 @@ https://pernos.co/blog/function-prologues/
 
 https://news.ycombinator.com/item?id=32709045
 
+# ML
+https://news.ycombinator.com/item?id=43892096
+
 # News
 https://news.ycombinator.com/item?id=43793627 rust
 
