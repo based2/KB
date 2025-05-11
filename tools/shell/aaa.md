@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://news.ycombinator.com/item?id=43908368
+
 https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/
 > https://news.ycombinator.com/item?id=43646698
 

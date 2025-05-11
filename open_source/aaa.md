@@ -261,6 +261,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=43935707
+
 https://linuxfr.org/news/wopix-un-serveur-wopi-libre-independant-simple-et-leger
 
 https://www.numerama.com/tech/1950561-quels-sont-les-logiciels-libres-que-letat-conseille-en-2025.html

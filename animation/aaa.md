@@ -64,6 +64,10 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=43910681
+
+https://news.ycombinator.com/item?id=43942881
+
 https://webflow.com/blog/gsap-becomes-free
 > https://news.ycombinator.com/item?id=43868273
 

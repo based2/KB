@@ -130,6 +130,8 @@ https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://news.ycombinator.com/item?id=43927942
+
 https://news.ycombinator.com/item?id=43798311
 
 https://news.ycombinator.com/item?id=42976661

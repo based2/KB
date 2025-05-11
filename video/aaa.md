@@ -130,6 +130,8 @@ https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-i
 https://news.ycombinator.com/item?id=41695840
 
 # Incidents
+https://news.ycombinator.com/item?id=43914832
+
 https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app
 
 https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam

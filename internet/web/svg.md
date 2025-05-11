@@ -110,3 +110,5 @@ https://news.ycombinator.com/item?id=43549983
 https://fuma-nama.vercel.app/blog/svg-art
 > https://news.ycombinator.com/item?id=43666439
 > > https://slides.com/sdrasner/svg-can-do-that
+
+https://news.ycombinator.com/item?id=43935394

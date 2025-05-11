@@ -204,10 +204,18 @@ https://news.ycombinator.com/item?id=38610253
 
 https://news.ycombinator.com/item?id=41668896
 
+https://samwho.dev/reservoir-sampling/
+
+https://samwho.dev/reservoir-sampling/
+> https://news.ycombinator.com/item?id=43928315
+
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html
+> https://news.ycombinator.com/item?id=43935356
+
 https://news.ycombinator.com/item?id=43745281
 
 https://news.ycombinator.com/item?id=43731165

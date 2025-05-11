@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://phys.org/news/2025-05-lianas-rainforests-visible-space.html
+
 https://www.carbonbrief.org/power-sector-co2-hits-all-time-high-in-2024-despite-record-growth-for-clean-energy/
 
 https://news.ycombinator.com/item?id=43835623
