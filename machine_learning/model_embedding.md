@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43963868
+
 https://minimaxir.com/2025/02/embeddings-parquet/
 > https://news.ycombinator.com/item?id=43162995
 

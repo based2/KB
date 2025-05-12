@@ -74,6 +74,8 @@ https://news.ycombinator.com/item?id=43474490
 https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
 
 # News
+https://news.ycombinator.com/item?id=43959403
+
 https://news.ycombinator.com/item?id=43895622
 
 https://news.ycombinator.com/item?id=43860522

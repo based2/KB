@@ -35,6 +35,9 @@ https://github.com/flipt-io/reverst go
 https://openreplay.com/
 
 # News
+https://tailscale.com/blog/4via6-connectivity-to-edge-devices
+> https://news.ycombinator.com/item?id=43962992
+
 https://connet.dev/
 > https://news.ycombinator.com/item?id=43869052
 

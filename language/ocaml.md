@@ -25,6 +25,9 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://blog.janestreet.com/why-gadts-matter-for-performance/
+> https://news.ycombinator.com/item?id=43945660
+
 https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment
 
 https://ryan.freumh.org/opam-nix.html

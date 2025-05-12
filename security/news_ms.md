@@ -4,6 +4,8 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE win11
 
 https://news.ycombinator.com/item?id=43436894 RDP rust
 
+https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
+
 #
 https://www.forbes.com/sites/daveywinder/2025/04/30/microsoft-confirms-150-windows-security-update-fee-starts-july-1/
 > https://news.ycombinator.com/item?id=43850103

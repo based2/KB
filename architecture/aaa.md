@@ -327,6 +327,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://openeox.org/
+> https://news.ycombinator.com/item?id=43963839
+
 https://news.ycombinator.com/item?id=43916818
 
 https://news.ycombinator.com/item?id=43746461
