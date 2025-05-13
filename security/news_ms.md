@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/
+
 https://www.forbes.com/sites/daveywinder/2025/04/30/microsoft-confirms-150-windows-security-update-fee-starts-july-1/
 > https://news.ycombinator.com/item?id=43850103
 

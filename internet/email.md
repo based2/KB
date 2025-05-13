@@ -294,6 +294,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=43943236
+
 https://news.ycombinator.com/item?id=43560885
 
 https://news.ycombinator.com/item?id=43513967

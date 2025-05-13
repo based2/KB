@@ -149,6 +149,9 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://css-tricks.com/revisiting-image-maps/
+> https://news.ycombinator.com/item?id=43936661
+
 https://news.ycombinator.com/item?id=43809484
 
 https://news.ycombinator.com/item?id=43818593

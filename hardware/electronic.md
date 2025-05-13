@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 # News
+https://news.ycombinator.com/item?id=43962138
+
 https://github.com/Blinkinlabs/circuitpainter
 
 https://news.ycombinator.com/item?id=43798832

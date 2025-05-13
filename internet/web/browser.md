@@ -57,6 +57,10 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://lobste.rs/s/0er0sj/firefox_moves_github
+
+https://news.ycombinator.com/item?id=43969827
+
 https://blog.mozilla.org/en/firefox/tab-groups-community/
 > https://news.ycombinator.com/item?id=43834101
 

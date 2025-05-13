@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incidents
+https://news.ycombinator.com/item?id=43975420
+
 https://www.shelltrail.com/research/three-new-cves-related-to-ixon-vpn-client-resulting-in-local-privilege-escalation/
 
 https://www.bleepingcomputer.com/news/security/fortinet-hackers-retain-access-to-patched-fortigate-vpns-using-symlinks/

@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://news.ycombinator.com/item?id=43974891
+
 https://bedri-zija.github.io/voltage-fault-injection-attack-aes128-cryptocell-310-nrf52840/
 
 https://news.ycombinator.com/item?id=43562109

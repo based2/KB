@@ -126,3 +126,5 @@ https://pgdog.dev/blog/sharding-pgvector
 > https://news.ycombinator.com/item?id=43484399
 
 https://news.ycombinator.com/item?id=43623099
+
+https://news.ycombinator.com/item?id=43975423

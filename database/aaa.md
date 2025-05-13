@@ -76,6 +76,8 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://github.com/felixpalmer/a5 pentagon
+
 https://byroot.github.io/performance/2025/03/21/database-protocols.html
 
 https://news.ycombinator.com/item?id=43488438

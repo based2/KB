@@ -52,6 +52,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.rifters.com/crawl/?p=11511
+> https://news.ycombinator.com/item?id=43974005
+
 https://rarevolume.com/work/meander/
 
 https://news.ycombinator.com/item?id=43810724

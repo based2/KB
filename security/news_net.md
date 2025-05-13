@@ -41,6 +41,10 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/
+
+https://www.bleepingcomputer.com/news/security/ivanti-fixes-epmm-zero-days-chained-in-code-execution-attacks/
+
 https://www.aon.com/en/insights/cyber-labs/bring-your-own-installer-bypassing-sentinelone
 
 https://www.immersivelabs.com/resources/blog/how-we-discovered-planet-technology-network-device-vulnerabilities

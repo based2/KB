@@ -101,6 +101,8 @@ https://objective-see.org/products/utilities.html#DNSMonitor macos
 https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/
 > https://news.ycombinator.com/item?id=40254688
 
+https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain
+
 # Incidents
 https://news.ycombinator.com/item?id=43711957
 

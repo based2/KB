@@ -84,6 +84,11 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://www.enisa.europa.eu/news/another-step-forward-towards-responsible-vulnerability-disclosure-in-europe
+> https://www.theregister.com/2025/05/13/eu_security_bug_database/
+> > https://news.ycombinator.com/item?id=43972438
+> https://euvd.enisa.europa.eu/faq
+
 https://spaceraccoon.dev/cybersecurity-antipatterns-busywork-generators/
 
 https://news.ycombinator.com/item?id=43829080

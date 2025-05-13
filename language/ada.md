@@ -70,6 +70,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://dl.acm.org/doi/pdf/10.1145/181476.181483
+
 https://news.ycombinator.com/item?id=42998383
 
 https://blog.adacore.com/cubit-a-general-purpose-operating-system-in-spark-ada

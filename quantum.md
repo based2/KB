@@ -108,6 +108,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=43935625
+
 https://news.ycombinator.com/item?id=43784721
 
 https://news.ycombinator.com/item?id=43463003

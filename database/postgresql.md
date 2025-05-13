@@ -347,6 +347,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://github.com/cybertec-postgresql/pgwatch
+
 https://news.ycombinator.com/item?id=43916577
 
 https://news.ycombinator.com/item?id=43883732
