@@ -32,6 +32,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html
+> https://news.ycombinator.com/item?id=43996307
+
 https://www.theregister.com/2025/04/23/ripple_npm_supply_chain/?td=keepreading
 
 https://www.coinspect.com/blog/wallet-silent-drain/ CVE-2023-40580

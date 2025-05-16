@@ -555,6 +555,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=44005195
+
 https://news.ycombinator.com/item?id=43935067
 
 https://corrode.dev/blog/rust-option-handling-best-practices/

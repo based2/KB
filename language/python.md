@@ -383,6 +383,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=43958846
+
 https://news.ycombinator.com/item?id=43918484
 
 https://davepeck.org/2025/04/11/pythons-new-t-strings/ future 3.14

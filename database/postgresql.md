@@ -238,6 +238,8 @@ https://www.crunchydata.com/blog/postgres-migration-pitstop-collations
 
 https://news.ycombinator.com/item?id=39860769
 
+https://news.ycombinator.com/item?id=43989497
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 

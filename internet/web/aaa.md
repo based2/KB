@@ -214,6 +214,10 @@ https://github.com/Demindiro/agreper
 https://news.ycombinator.com/item?id=43852096
 
 # News
+https://news.ycombinator.com/item?id=43982892
+
+https://news.ycombinator.com/item?id=43971853
+
 https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025
 
 https://internet-in-a-box.org/

@@ -112,3 +112,5 @@ https://gtoolkit.com/
 > https://news.ycombinator.com/item?id=43606027
 
 https://news.ycombinator.com/item?id=43830193
+
+https://news.ycombinator.com/item?id=44006231

@@ -49,4 +49,6 @@ https://kagi.com/changelog#6155 Fair Pricing
 
 https://news.ycombinator.com/item?id=43560899 ssh
 
+https://news.ycombinator.com/item?id=44004388
+
 

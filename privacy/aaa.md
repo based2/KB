@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://news.ycombinator.com/item?id=43995302
+
 https://news.ycombinator.com/item?id=42523996
 > https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/
 > > https://news.ycombinator.com/item?id=42524422

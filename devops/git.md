@@ -287,6 +287,10 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://news.ycombinator.com/item?id=43971620 bug tracker
+
+https://news.ycombinator.com/item?id=44002639
+
 https://news.ycombinator.com/item?id=43870999
 
 https://news.ycombinator.com/item?id=43869236
