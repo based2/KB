@@ -155,6 +155,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # Incidents
+https://trackssl.com/could-ssl-coms-latest-vulnerability-lead-to-browser-distrust/
+
 https://blog.cloudflare.com/resolving-a-mutual-tls-session-resumption-vulnerability/
 
 https://news.ycombinator.com/item?id=42004219

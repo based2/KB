@@ -208,12 +208,19 @@ https://news.ycombinator.com/item?id=43817377 Inference-Aware Fine-Tuning for Be
 
 https://news.ycombinator.com/item?id=43866797
 
+# Sec
+https://news.ycombinator.com/item?id=43994486
+
 # I
 https://news.ycombinator.com/item?id=43865097
 
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/
+
+https://simonwillison.net/2025/May/15/building-on-llms/
+
 https://news.ycombinator.com/item?id=43920815
 
 https://news.ycombinator.com/item?id=43953722

@@ -57,6 +57,8 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/
+
 https://lobste.rs/s/0er0sj/firefox_moves_github
 
 https://news.ycombinator.com/item?id=43969827

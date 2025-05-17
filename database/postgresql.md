@@ -349,6 +349,10 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=44005899
+
+https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization
+
 https://github.com/cybertec-postgresql/pgwatch
 
 https://news.ycombinator.com/item?id=43916577

@@ -383,6 +383,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=44013157
+
+https://suberic.net/~dmm/projects/mystical/README.html
+> https://news.ycombinator.com/item?id=44016037
+
 https://news.ycombinator.com/item?id=43943898
 
 https://lobste.rs/s/utekbr/rye_principles

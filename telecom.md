@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://news.ycombinator.com/item?id=44014046
+
 https://evanconnelly.github.io/post/hacking-call-records/
 > https://news.ycombinator.com/item?id=43558550
 

@@ -706,6 +706,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://v8.dev/features/explicit-resource-management
+> https://news.ycombinator.com/item?id=44012227
+
 https://github.com/hunvreus/basecoat/ UI
 > https://news.ycombinator.com/item?id=43971688
 

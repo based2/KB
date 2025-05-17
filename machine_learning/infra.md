@@ -102,6 +102,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://news.ycombinator.com/item?id=44003741
+
 https://news.ycombinator.com/item?id=43856656
 
 https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
@@ -110,6 +112,10 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43971754
+
+https://news.ycombinator.com/item?id=44016336
+
 https://news.ycombinator.com/item?id=43945993
 
 https://news.ycombinator.com/item?id=43896410

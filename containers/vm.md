@@ -96,3 +96,6 @@ https://techcommunity.microsoft.com/blog/windowsosplatform/openhcl-the-new-open-
 https://news.ycombinator.com/item?id=43622514
 
 https://news.ycombinator.com/item?id=43650792
+
+# I
+https://news.ycombinator.com/item?id=43994306

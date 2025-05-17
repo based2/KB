@@ -73,6 +73,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=44012074 java
+
 https://news.ycombinator.com/item?id=43897129
 
 https://news.ycombinator.com/item?id=43840901

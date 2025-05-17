@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=43985513
+
 https://github.com/kevinlinxc/AugmentedChords
 > https://news.ycombinator.com/item?id=43876243
 
