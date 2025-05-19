@@ -154,6 +154,8 @@ https://news.ycombinator.com/item?id=43068884
 
 https://news.ycombinator.com/item?id=43283814 bcvi
 
+https://news.ycombinator.com/item?id=44020734
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -409,6 +411,9 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://devblogs.microsoft.com/commandline/edit-is-now-open-source/
+> https://news.ycombinator.com/item?id=44031529
+
 https://lobste.rs/s/7od3uk/how_i_use_kate_editor
 
 https://news.ycombinator.com/item?id=43691020

@@ -155,7 +155,9 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
-https://news.ycombinator.com/item?id=44014046
+https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/
+> https://news.ycombinator.com/item?id=44014046
+> https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/
 
 https://evanconnelly.github.io/post/hacking-call-records/
 > https://news.ycombinator.com/item?id=43558550

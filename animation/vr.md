@@ -387,3 +387,6 @@ https://github.com/keijiro/BibcamVfx
 
 https://jahed.dev/2021/12/05/generating-video-game-panoramas/
 > https://news.ycombinator.com/item?id=29465709
+
+# I
+https://github.com/EliseZeroTwo/ml1hax

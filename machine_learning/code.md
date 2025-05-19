@@ -88,6 +88,8 @@ https://news.ycombinator.com/item?id=42531993
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=44031432
+
 https://news.ycombinator.com/item?id=43927926
 
 https://n8n.io/

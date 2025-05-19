@@ -108,6 +108,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/
+
 https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code
 
 https://www.sonatype.com/blog/exploit-creator-selling-250-reserved-npm-packages-via-telegram

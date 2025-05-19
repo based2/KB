@@ -151,6 +151,8 @@ https://adventuron.io/
 https://news.ycombinator.com/item?id=40717052
 
 # News
+https://news.ycombinator.com/item?id=44020591
+
 https://anandsanwal.me/financial-literacy-fallacy/
 > https://news.ycombinator.com/item?id=43120582
 

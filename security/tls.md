@@ -130,6 +130,9 @@ https://news.ycombinator.com/item?id=40095325
 
 https://news.ycombinator.com/item?id=41046956
 
+https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/
+> https://news.ycombinator.com/item?id=44018400
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 
@@ -201,6 +204,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://www.haproxy.com/blog/state-of-ssl-stacks
+
 https://news.ycombinator.com/item?id=43912164
 
 https://news.ycombinator.com/item?id=43738485

@@ -9,5 +9,7 @@ https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/
 
 https://blog.brakmic.com/keycloak-angular-and-the-bff-pattern/
 
+https://old.reddit.com/r/netsec/comments/1kmg680/integrate_ldap_into_keycloak_to_modernize_rather/
+
 # I
 https://www.cyberark.com/resources/threat-research-blog/you-cant-always-win-racing-the-keycloak

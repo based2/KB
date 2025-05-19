@@ -1,3 +1,6 @@
+https://www.kscale.dev/
+> https://news.ycombinator.com/item?id=44023680
+
 https://news.ycombinator.com/item?id=43831363
 
 https://news.ycombinator.com/item?id=43764439

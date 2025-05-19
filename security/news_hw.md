@@ -12,6 +12,10 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/
+
+https://kevintel.com/
+
 https://news.ycombinator.com/item?id=43974891
 
 https://bedri-zija.github.io/voltage-fault-injection-attack-aes128-cryptocell-310-nrf52840/

@@ -75,6 +75,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=44016329
+
 https://news.ycombinator.com/item?id=43739028
 
 https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/ intro to DeepSeek's distributed file system

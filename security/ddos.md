@@ -12,6 +12,8 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/
+
 https://git.gammaspectra.live/git/go-away
 
 https://news.ycombinator.com/item?id=43826798

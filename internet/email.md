@@ -211,6 +211,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://www.welivesecurity.com/en/eset-research/operation-roundpress/
+> https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/
+
 https://news.ycombinator.com/item?id=43834942
 
 https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/

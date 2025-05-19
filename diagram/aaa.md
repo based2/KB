@@ -55,6 +55,9 @@ https://news.ycombinator.com/item?id=35224439
 # ML
 https://news.ycombinator.com/item?id=41328185
 
+https://workflows.diagrid.io/ Turn any workflow diagram into compilable, running and stateful code
+> https://news.ycombinator.com/item?id=43987367
+
 #
 https://news.ycombinator.com/item?id=43808803
 

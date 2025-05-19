@@ -622,6 +622,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44029435
+
 https://github.com/PhialsBasement/AlphaEvolve-MatrixMul-Verification
 
 https://news.ycombinator.com/item?id=43880444

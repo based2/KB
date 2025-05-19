@@ -142,6 +142,8 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
 # News
+https://www.hunters.security/en/blog/azure-managed-identity-threat-hunting-detection-methods
+
 https://news.ycombinator.com/item?id=43061826
 
 https://www.microsoft.com/en-us/security/blog/2025/02/13/storm-2372-conducts-device-code-phishing-campaign/

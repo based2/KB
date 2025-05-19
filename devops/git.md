@@ -285,8 +285,14 @@ https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 https://www.producthunt.com/posts/gitlive
 > https://www.reddit.com/r/programming/comments/nqmnyl/extend_git_with_realtime_collaborative_superpowers/
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+# I
+https://blog.zsec.uk/commit-stomping/
+> https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://news.ycombinator.com/item?id=44020914
+
 https://news.ycombinator.com/item?id=43971620 bug tracker
 
 https://news.ycombinator.com/item?id=44002639

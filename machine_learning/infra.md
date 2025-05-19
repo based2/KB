@@ -112,6 +112,8 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=43996515
+
 https://news.ycombinator.com/item?id=43971754
 
 https://news.ycombinator.com/item?id=44016336
