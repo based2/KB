@@ -209,6 +209,8 @@ https://news.ycombinator.com/item?id=42967173
 
 https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]
 
+https://news.ycombinator.com/item?id=43985489
+
 # News
 https://news.ycombinator.com/item?id=44007714
 

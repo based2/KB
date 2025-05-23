@@ -88,6 +88,9 @@ https://news.ycombinator.com/item?id=42531993
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://mistral.ai/news/devstral
+> https://news.ycombinator.com/item?id=44051733
+
 https://news.ycombinator.com/item?id=44031432
 
 https://news.ycombinator.com/item?id=43927926

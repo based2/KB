@@ -145,6 +145,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://news.ycombinator.com/item?id=44072922
+
 https://idlewords.com/2011/08/why_arabic_is_terrific.htm
 > https://news.ycombinator.com/item?id=44016273
 

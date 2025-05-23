@@ -64,6 +64,10 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=44060772
+
+https://news.ycombinator.com/item?id=44075911
+
 https://news.ycombinator.com/item?id=43942149
 
 https://news.ycombinator.com/item?id=43910681

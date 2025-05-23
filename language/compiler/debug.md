@@ -16,6 +16,10 @@ https://news.ycombinator.com/item?id=32709045
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://news.ycombinator.com/item?id=44025979
+
+https://news.ycombinator.com/item?id=44065146
+
 https://news.ycombinator.com/item?id=43793627 rust
 
 https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html SAP

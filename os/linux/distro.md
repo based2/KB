@@ -12,6 +12,8 @@ https://dur.hunterwittenborn.com/
 https://github.com/hwittenborn/makedeb
 > https://news.ycombinator.com/item?id=27638107
 
+https://news.ycombinator.com/item?id=44059411
+
 # ArchLinux
 
 https://manjaro.org/
@@ -98,6 +100,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://lists.debian.org/debian-devel-announce/2025/05/msg00004.html
+
 https://lwn.net/SubscriberLink/1017846/957a6970ed507964/
 
 https://news.itsfoss.com/ubuntu-25-04-release/

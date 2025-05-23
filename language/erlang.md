@@ -39,6 +39,8 @@ https://github.com/lumen/lumen Lumen - A new compiler and runtime for BEAM langu
 > https://news.ycombinator.com/item?id=28015838
 
 # Elixir
+https://news.ycombinator.com/item?id=44071610
+
 https://membrane.stream/
 > https://news.ycombinator.com/item?id=43945483
 

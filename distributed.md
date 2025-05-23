@@ -137,6 +137,8 @@ https://loro.dev/blog/movable-tree
 https://www.moment.dev/blog/lies-i-was-told-pt-1 Algorithms for offline editing
 > https://news.ycombinator.com/item?id=42343953
 
+https://news.ycombinator.com/item?id=44069304
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

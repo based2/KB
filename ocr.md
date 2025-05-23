@@ -117,6 +117,8 @@ https://mistral.ai/fr/news/mistral-ocr
 https://news.ycombinator.com/item?id=43590998
 
 # News
+https://news.ycombinator.com/item?id=44049310
+
 https://snipfa.st/
 
 https://news.ycombinator.com/item?id=43347524

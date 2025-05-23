@@ -73,6 +73,8 @@ https://signalsandthreads.com/clock-synchronization/
 https://www.usenix.org/system/files/osdi20-li_yuliang.pdf
 
 # Calendar
+https://news.ycombinator.com/item?id=44068204
+
 https://osmcal.org/
 > https://news.ycombinator.com/item?id=42993044
 

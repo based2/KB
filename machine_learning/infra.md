@@ -112,6 +112,13 @@ https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 https://github.com/ShaojieJiang/mcp-is-dangerous
 
 # News
+https://news.ycombinator.com/item?id=44073785
+
+https://news.ycombinator.com/item?id=44035770
+
+https://llm-d.ai/blog/llm-d-announce Kubernetes-Native Distributed Inference
+> https://news.ycombinator.com/item?id=44040883
+
 https://news.ycombinator.com/item?id=43996515
 
 https://news.ycombinator.com/item?id=43971754

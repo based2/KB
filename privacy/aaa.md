@@ -120,10 +120,11 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
-https://news.ycombinator.com/item?id=44030873
+https://news.ycombinator.com/item?id=44044459
 
-https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/
-> https://news.ycombinator.com/item?id=44032717
+https://news.ycombinator.com/item?id=44062586
+
+https://news.ycombinator.com/item?id=44030873
 
 https://news.ycombinator.com/item?id=44014808
 
