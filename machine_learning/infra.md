@@ -106,12 +106,14 @@ https://news.ycombinator.com/item?id=44003741
 
 https://news.ycombinator.com/item?id=43856656
 
-https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
-> https://old.reddit.com/r/netsec/comments/1jt7c80/new_attack_vector_on_ai_toolchains_tool_poisoning/
-
-https://github.com/ShaojieJiang/mcp-is-dangerous
-
 # News
+https://github.com/cocoindex-io/cocoindex open-source Data ETL framework to transform data for AI, optimized for data freshness
+> https://news.ycombinator.com/item?id=43772582
+
+https://spring.io/blog/2025/05/20/spring-ai-1-0-GA-released
+
+https://github.com/steipete/Terminator
+
 https://news.ycombinator.com/item?id=44073785
 
 https://news.ycombinator.com/item?id=44035770
@@ -148,9 +150,6 @@ https://news.ycombinator.com/item?id=43812646
 https://github.com/skyzh/tiny-llm course of serving LLM on Apple Silicon for systems engineers
 > https://news.ycombinator.com/item?id=43820022
 
-https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine MCP on AWS Lambda with MCPEngine
-> https://news.ycombinator.com/item?id=43773777
-
 https://news.ycombinator.com/item?id=43774327
 
 https://news.ycombinator.com/item?id=43747560 Keep your PyTorch model in VRAM by hot swapping code
@@ -158,9 +157,6 @@ https://news.ycombinator.com/item?id=43747560 Keep your PyTorch model in VRAM by
 https://news.ycombinator.com/item?id=43744116
 
 https://github.com/kvcache-ai/Mooncake
-
-https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
-> https://news.ycombinator.com/item?id=43691230
 
 https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 > https://news.ycombinator.com/item?id=43681287
@@ -170,15 +166,9 @@ https://www.docker.com/blog/introducing-docker-model-runner/
 
 https://news.ycombinator.com/item?id=43676084
 
-https://blog.sshh.io/p/everything-wrong-with-mcp
-> https://news.ycombinator.com/item?id=43676771
-
 https://news.ycombinator.com/item?id=43649711
 
 https://news.ycombinator.com/item?id=43600192
-
-https://browsermcp.io/ Browser MCP – Automate your browser using Cursor, Claude, VS Code
-> https://news.ycombinator.com/item?id=43613194
 
 https://news.ycombinator.com/item?id=43573539
 
@@ -186,9 +176,6 @@ https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/
 > https://news.ycombinator.com/item?id=43581584
 
 https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/
-
-https://github.com/gumloop/guMCP
-> https://news.ycombinator.com/item?id=43535889
 
 https://github.com/astronomer/airflow-ai-sdk
 > https://news.ycombinator.com/item?id=43538164
@@ -199,12 +186,7 @@ https://news.ycombinator.com/item?id=43404858
 
 https://news.ycombinator.com/item?id=43419713
 
-https://github.com/hyperbrowserai/mcp
-
 https://news.ycombinator.com/item?id=43331973
-
-https://jigsawstack.com/blog/jigsawstack-mcp-servers
-> https://news.ycombinator.com/item?id=43368327
 
 https://news.ycombinator.com/item?id=43298275
 

@@ -123,6 +123,8 @@ https://news.ycombinator.com/item?id=43721301
 
 https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.html
 
+https://news.ycombinator.com/item?id=44074668
+
 # I
 
 https://news.ycombinator.com/item?id=43793280

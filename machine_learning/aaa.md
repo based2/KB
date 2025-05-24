@@ -622,6 +622,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44079303 Ask HN: Go deep into AI/LLMs or just use them as tools?
+
+https://news.ycombinator.com/item?id=44080640
+
 https://news.ycombinator.com/item?id=44041738
 
 https://news.ycombinator.com/item?id=44029435

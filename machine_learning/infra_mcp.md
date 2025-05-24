@@ -1,0 +1,32 @@
+https://modelcontextprotocol.io/introduction
+
+https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
+
+#
+https://platform.openai.com/docs/guides/tools-remote-mcp
+
+https://www.anildash.com//2025/05/20/mcp-web20-20/
+> https://news.ycombinator.com/item?id=44073785#44075449
+
+https://blog.sshh.io/p/everything-wrong-with-mcp
+> https://news.ycombinator.com/item?id=43676771
+
+https://github.com/gumloop/guMCP
+> https://news.ycombinator.com/item?id=43535889
+
+https://github.com/hyperbrowserai/mcp
+
+https://jigsawstack.com/blog/jigsawstack-mcp-servers
+> https://news.ycombinator.com/item?id=43368327
+
+https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine MCP on AWS Lambda with MCPEngine
+> https://news.ycombinator.com/item?id=43773777
+
+https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
+> https://news.ycombinator.com/item?id=43691230
+
+# I
+https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
+> https://old.reddit.com/r/netsec/comments/1jt7c80/new_attack_vector_on_ai_toolchains_tool_poisoning/
+
+https://github.com/ShaojieJiang/mcp-is-dangerous

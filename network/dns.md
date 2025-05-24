@@ -104,6 +104,9 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain
 
 # Incidents
+https://blogs.infoblox.com/threat-intelligence/cloudy-with-a-chance-of-hijacking-forgotten-dns-records-enable-scam-actor/
+> https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/
+
 https://news.ycombinator.com/item?id=43711957
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-issues-urgent-dev-warning-to-update-net-installer-link/

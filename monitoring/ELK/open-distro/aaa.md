@@ -12,6 +12,8 @@ https://logz.io/blog/open-distro-for-elasticsearch/
 
 https://www.youtube.com/watch?v=wBXabz6q_L4 Carl Meadows - PPM AWS
 
+https://cert.europa.eu/blog/announcing-morio-your-comprehensive-observability-solution
+
 # Meta-distribution
 > https://punchplatform.com/ Thales
   > https://doc.punchplatform.com/

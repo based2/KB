@@ -75,6 +75,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incidents
+https://cert.europa.eu/publications/security-advisories/2025-012/ Critical Vulnerabilities in Kubernetes Ingress-NGINX
+
 https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/the-risk-of-default-configuration-how-out-of-the-box-helm-charts-can-breach-your/4409560
 
 https://www.praetorian.com/blog/an-improved-detection-signature-for-the-kubernetes-ingress-nightmare/

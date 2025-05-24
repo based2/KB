@@ -75,6 +75,8 @@ https://queue.acm.org/detail.cfm?id=3501713
 # ml
 https://news.ycombinator.com/item?id=38496827
 
+https://news.ycombinator.com/item?id=44070532
+
 # News
 https://github.com/felixpalmer/a5 pentagon
 

@@ -111,6 +111,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=44080808
+
 https://news.ycombinator.com/item?id=43996422
 
 https://zod.dev/v4

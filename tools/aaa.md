@@ -86,3 +86,5 @@ https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/
 > https://news.ycombinator.com/item?id=39075316
 
 https://news.ycombinator.com/item?id=41453557
+
+https://news.ycombinator.com/item?id=44080410

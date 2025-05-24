@@ -27,3 +27,5 @@ https://anubis.techaro.lol/
 > https://news.ycombinator.com/item?id=43668433
 
 https://www.bleepingcomputer.com/news/security/massive-brute-force-attack-uses-28-million-ips-to-target-vpn-devices/
+
+https://cert.europa.eu/blog/mastering-ddos-defence

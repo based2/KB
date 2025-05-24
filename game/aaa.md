@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=44061028
+
 https://news.ycombinator.com/item?id=43942864
 
 https://news.ycombinator.com/item?id=43886213

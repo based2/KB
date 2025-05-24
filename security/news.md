@@ -1,3 +1,5 @@
+https://old.reddit.com/r/netsec/comments/1ks3o5z/cve202526147_authenticated_rce_in_denodo_scheduler/
+
 https://news.ycombinator.com/item?id=43933412
 
 https://news.ycombinator.com/item?id=43952714

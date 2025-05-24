@@ -248,7 +248,13 @@ https://organicmaps.app/
 https://godview.ai/
 > https://news.ycombinator.com/item?id=42519562
 
+https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
+> https://news.ycombinator.com/item?id=44049926
+
 # News
+https://github.com/r-follador/delta-relief High-resolution surface analysis with LiDAR data
+> https://news.ycombinator.com/item?id=44056097
+
 https://news.ycombinator.com/item?id=43881468
 
 https://news.ycombinator.com/item?id=43624799

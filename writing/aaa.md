@@ -69,6 +69,8 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://news.ycombinator.com/item?id=44078813
+
 https://news.ycombinator.com/item?id=43868192
 
 https://www.nplusonemag.com/issue-49/essays/casual-viewing/

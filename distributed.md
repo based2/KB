@@ -213,6 +213,8 @@ https://news.ycombinator.com/item?id=41268043
 
 https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf
 
+https://lobste.rs/s/y94ihs/making_postgres_distributed_with
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

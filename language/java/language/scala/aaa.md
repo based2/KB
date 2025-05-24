@@ -109,6 +109,8 @@ https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://www.scala-lang.org/news/3.7.0/
+
 https://getkyo.io/#/
 
 https://news.ycombinator.com/item?id=42964773

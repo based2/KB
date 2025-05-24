@@ -62,6 +62,8 @@ https://news.ycombinator.com/item?id=39538335
 https://news.ycombinator.com/item?id=42306742
 
 #
+https://news.ycombinator.com/item?id=44064230
+
 https://news.ycombinator.com/item?id=43534381
 
 https://blog.railway.com/p/data-center-build-part-two
