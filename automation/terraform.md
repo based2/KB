@@ -351,6 +351,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://masterpoint.io/blog/terraform-opentofu-terminology-breakdown/
+
 https://news.ycombinator.com/item?id=43454642
 
 https://news.ycombinator.com/item?id=43199256

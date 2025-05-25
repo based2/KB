@@ -114,6 +114,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://news.ycombinator.com/item?id=44088551 minio
+
 https://news.ycombinator.com/item?id=43988975 mqtt
 
 https://github.com/tilt-dev/tilt

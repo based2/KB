@@ -44,6 +44,8 @@ https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 > https://news.ycombinator.com/item?id=38533105
 
 # Meta
+https://news.ycombinator.com/item?id=44059270
+
 https://mistral.ai/news/pixtral-12b/
 > https://news.ycombinator.com/item?id=41569723
 

@@ -107,6 +107,10 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=44081081
+
+https://news.ycombinator.com/item?id=44086094
+
 https://github.com/cocoindex-io/cocoindex open-source Data ETL framework to transform data for AI, optimized for data freshness
 > https://news.ycombinator.com/item?id=43772582
 

@@ -81,6 +81,8 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/
+
 https://news.ycombinator.com/item?id=43939029 constant
 
 https://news.ycombinator.com/item?id=43569724

@@ -22,6 +22,10 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://www.tirreno.com/bat/?post=2025-05-25 Understanding Apple Private Relay blocking
+
+https://news.ycombinator.com/item?id=44083388
+
 https://news.ycombinator.com/item?id=43969998
 
 https://news.ycombinator.com/item?id=43966089

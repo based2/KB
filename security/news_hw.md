@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/ arm
+
 https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/
 
 https://kevintel.com/

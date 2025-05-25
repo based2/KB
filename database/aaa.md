@@ -78,6 +78,8 @@ https://news.ycombinator.com/item?id=38496827
 https://news.ycombinator.com/item?id=44070532
 
 # News
+https://news.ycombinator.com/item?id=44087687
+
 https://github.com/felixpalmer/a5 pentagon
 
 https://byroot.github.io/performance/2025/03/21/database-protocols.html

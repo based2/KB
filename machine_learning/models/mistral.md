@@ -1,3 +1,5 @@
+https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
+
 https://news.ycombinator.com/item?id=43445370
 
 https://mistral.ai/fr/news/mistral-ocr

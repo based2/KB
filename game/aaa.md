@@ -50,6 +50,11 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=44057606
+
+https://schaoss.github.io/wall-go/
+> https://news.ycombinator.com/item?id=44088248
+
 https://news.ycombinator.com/item?id=44061028
 
 https://news.ycombinator.com/item?id=43942864

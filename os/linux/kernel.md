@@ -54,6 +54,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://news.ycombinator.com/item?id=44047741
+
 https://news.ycombinator.com/item?id=44080803
 
 https://news.ycombinator.com/item?id=43849373

@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 #
+https://securitylabs.datadoghq.com/articles/mut-9332-malicious-solidity-vscode-extensions/#infection-chains-and-intermediate-payloads
+
 https://www.bleepingcomputer.com/news/security/new-web3-attack-exploits-transaction-simulations-to-steal-crypto/
 
 https://github.com/flashbots/mev-boost/issues/385
