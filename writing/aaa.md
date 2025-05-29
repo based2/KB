@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://aaronson.org/blog/square-theory
+> https://news.ycombinator.com/item?id=44107942
+
 https://news.ycombinator.com/item?id=44078813
 
 https://news.ycombinator.com/item?id=43868192
@@ -144,6 +147,8 @@ https://www.stylemanual.gov.au/
 
 https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
 > https://news.ycombinator.com/item?id=36457051
+
+https://news.ycombinator.com/item?id=44105089
 
 # Notes
 https://github.com/flxzt/rnote

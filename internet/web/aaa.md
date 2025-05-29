@@ -214,6 +214,8 @@ https://github.com/Demindiro/agreper
 https://news.ycombinator.com/item?id=43852096
 
 # News
+https://gregtwemlow.medium.com/google-has-declared-the-internet-is-dead-long-live-llms-742473b383a4
+
 https://news.ycombinator.com/item?id=43982892
 
 https://news.ycombinator.com/item?id=43971853

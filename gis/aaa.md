@@ -25,7 +25,7 @@ https://github.com/SNCFdevelopers/Pypixgrid
 https://leafletjs.com/
 > https://news.ycombinator.com/item?id=28203242
 
-https://sedona.apache.org/latest-snapshot/
+https://sedona.apache.org/latest-snapshot/ cluster computing system for processing large-scale spatial data
 
 # Tiles cache
 https://nzjrs.github.io/osm-gps-map/

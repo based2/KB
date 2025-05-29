@@ -130,3 +130,6 @@ https://news.ycombinator.com/item?id=43623099
 https://news.ycombinator.com/item?id=43975423
 
 https://news.ycombinator.com/item?id=44027395
+
+http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html
+> https://news.ycombinator.com/item?id=44120306

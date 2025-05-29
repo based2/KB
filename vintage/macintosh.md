@@ -140,6 +140,10 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://sourceforge.net/projects/minivmac/
+
+https://news.ycombinator.com/item?id=44110219
+
 https://news.ycombinator.com/item?id=44056659
 
 https://news.ycombinator.com/item?id=43649783

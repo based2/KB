@@ -219,6 +219,13 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44126214
+
+https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/
+> https://news.ycombinator.com/item?id=44116872
+
+https://news.ycombinator.com/item?id=44094362
+
 https://news.ycombinator.com/item?id=43998049
 
 https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/

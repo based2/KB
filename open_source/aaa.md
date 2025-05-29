@@ -261,6 +261,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://linuxfr.org/news/un-serveur-musical-pour-mon-salon
+
+https://news.ycombinator.com/item?id=44105148
+
 https://news.ycombinator.com/item?id=43935707
 
 https://linuxfr.org/news/wopix-un-serveur-wopi-libre-independant-simple-et-leger

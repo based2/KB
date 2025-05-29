@@ -38,6 +38,8 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://clickhouse.com/blog/building-a-distributed-cache-for-s3
+
 https://www.jasonthorsness.com/26
 > https://news.ycombinator.com/item?id=43972449
 

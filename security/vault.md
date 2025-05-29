@@ -160,6 +160,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://openbao.org/blog/namespaces-announcement/
+
 https://github.com/dani-garcia/vaultwarden rust
 
 https://news.ycombinator.com/item?id=43362717

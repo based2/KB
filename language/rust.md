@@ -224,6 +224,8 @@ https://news.ycombinator.com/item?id=43031506
 https://s2.dev/blog/dst Deterministic simulation testing for async Rust
 > https://news.ycombinator.com/item?id=43581900
 
+https://fly.io/blog/parking-lot-ffffffffffffffff/
+
 ## Actor
 https://news.ycombinator.com/item?id=42030625
 
@@ -256,6 +258,9 @@ https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6
 > https://lobste.rs/s/fdrio2/smoke_testing_rust_http_clients_2020
 
 https://news.ycombinator.com/item?id=38601538
+
+https://firedbg.sea-ql.org/
+> https://news.ycombinator.com/item?id=44086429
 
 # Build
 https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
@@ -557,6 +562,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=44107655
+
+https://news.ycombinator.com/item?id=44118023
+
 https://news.ycombinator.com/item?id=44086180
 
 https://news.ycombinator.com/item?id=44032680

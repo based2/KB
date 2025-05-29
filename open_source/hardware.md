@@ -146,6 +146,8 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://github.com/UCSBarchlab/OpenTPU
+
 https://openpowerfoundation.org/
 > https://news.ycombinator.com/item?id=44087707
 

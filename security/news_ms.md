@@ -7,6 +7,12 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/
+
+https://news.ycombinator.com/item?id=44114621
+
+https://news.ycombinator.com/item?id=44090776
+
 https://github.com/es3n1n/defendnot
 > https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/
 

@@ -622,6 +622,16 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse
+
+https://singa.apache.org/ Distributed Deep Learning Library
+
+https://news.ycombinator.com/item?id=44123984
+
+https://news.ycombinator.com/item?id=44114631
+
+https://news.ycombinator.com/item?id=44118373
+
 https://dronelab.dev/posts/getting-reproducible-results/
 
 https://news.ycombinator.com/item?id=44079303 Ask HN: Go deep into AI/LLMs or just use them as tools?

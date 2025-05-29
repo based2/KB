@@ -250,6 +250,8 @@ https://jepsen.io/analyses/datomic-pro-1.0.7075
 # concurrencyngs
 
 # News
+http://ratis.apache.org/ raft java
+
 https://news.ycombinator.com/item?id=43390401
 
 https://news.ycombinator.com/item?id=43195702

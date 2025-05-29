@@ -77,6 +77,8 @@ https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 https://news.ycombinator.com/item?id=44009848
 
 # News
+https://github.com/jgarzik/sqawk
+
 https://news.ycombinator.com/item?id=43926376 mongodb
 
 https://github.com/elixir-dbvisor/sql

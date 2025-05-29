@@ -11,6 +11,21 @@ https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehou
 
 https://hudi.apache.org/ build streaming data lakes with incremental data pipelines on a self-managing database layer
 
+# Catalog
+https://hive.apache.org/ https://lakefs.io/blog/hive-metastore-why-its-still-here-and-what-can-replace-it/
+
+https://projectnessie.org/
+
+https://polaris.apache.org/ snowflake
+
+https://www.dremio.com/
+
+https://ducklake.select/
+> https://news.ycombinator.com/item?id=44106934
+
+https://atlas.apache.org/
+> https://atlas.apache.org/#/Architecture
+
 # Data Lake Ligthhouse
 https://amoro.apache.org/
 
@@ -73,6 +88,21 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://nifi.apache.org/
+
+https://hop.apache.org/ Hop Orchestration Platform - aims to facilitate all aspects of data and metadata orchestration
+> https://hop.apache.org/manual/latest/getting-started/hop-gui-pipelines.html
+
+https://inlong.apache.org/ integration framework for massive data that supports Data Ingestion, Data Synchronization and Data Subscription
+
+https://camel.apache.org/components/4.10.x/eips/enterprise-integration-patterns.html
+
+https://streampark.apache.org/docs/get-started/introduction
+
+https://paimon.apache.org/ lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark
+
+https://kyuubi.apache.org/ cn
+
 https://news.ycombinator.com/item?id=44022265 ui
 
 https://news.ycombinator.com/item?id=44012074 java

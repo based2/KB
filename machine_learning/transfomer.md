@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=bCz4OMemCcA&t=4s
 
+https://www.youtube.com/watch?v=wjZofJX0v4M
+
 https://e2eml.school/transformers.html
 > https://news.ycombinator.com/item?id=35697627
 

@@ -103,3 +103,5 @@ https://news.ycombinator.com/item?id=41142686
 https://news.ycombinator.com/item?id=41449625 signal
 
 https://news.ycombinator.com/item?id=43589042
+
+https://news.ycombinator.com/item?id=44086219

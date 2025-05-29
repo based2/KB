@@ -3,6 +3,10 @@ https://modelcontextprotocol.io/introduction
 https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
 
 #
+https://block.github.io/mcp-jupyter/
+
+https://news.ycombinator.com/item?id=44086062
+
 https://platform.openai.com/docs/guides/tools-remote-mcp
 
 https://www.anildash.com//2025/05/20/mcp-web20-20/
@@ -26,6 +30,9 @@ https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
 > https://news.ycombinator.com/item?id=43691230
 
 # I
+https://invariantlabs.ai/blog/mcp-github-vulnerability
+> https://news.ycombinator.com/item?id=44097390
+
 https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
 > https://old.reddit.com/r/netsec/comments/1jt7c80/new_attack_vector_on_ai_toolchains_tool_poisoning/
 

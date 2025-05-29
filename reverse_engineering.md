@@ -74,6 +74,9 @@ https://news.ycombinator.com/item?id=43474490
 https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
 
 # News
+https://lief.re/blog/2025-05-27-dwarf-editor/
+> https://news.ycombinator.com/item?id=44113026
+
 https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts
 
 https://news.ycombinator.com/item?id=43959403

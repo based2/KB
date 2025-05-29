@@ -174,6 +174,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=44095549
+
 https://datatracker.ietf.org/doc/statement-iab-statement-dotless-domains-considered-harmful/
 
 https://news.ycombinator.com/item?id=43954459

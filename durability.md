@@ -81,6 +81,8 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 
 https://news.ycombinator.com/item?id=42598458
 
+https://news.ycombinator.com/item?id=44095360
+
 # Sustainability
 https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres
 > https://news.ycombinator.com/item?id=31942835

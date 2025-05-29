@@ -39,6 +39,8 @@ https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath
 https://news.ycombinator.com/item?id=42353778
 
 # Incidents
+https://news.ycombinator.com/item?id=44105796
+
 https://news.ycombinator.com/item?id=43624430
 
 https://www.theregister.com/2024/10/02/rpki_immaturity_study/

@@ -46,6 +46,8 @@ https://www.bortzmeyer.org/9717.html
 https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/
 > https://news.ycombinator.com/item?id=43737469
 
+https://news.ycombinator.com/item?id=44084892
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

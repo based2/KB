@@ -149,6 +149,10 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API
+
+https://news.ycombinator.com/item?id=44100148
+
 https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/
 
 https://news.ycombinator.com/item?id=44015367

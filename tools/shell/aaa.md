@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://news.ycombinator.com/item?id=44095553
+
 https://news.ycombinator.com/item?id=43943984
 
 https://news.ycombinator.com/item?id=43908368

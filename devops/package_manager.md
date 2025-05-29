@@ -87,6 +87,8 @@ https://news.ycombinator.com/item?id=43065217
 
 https://dinislam.substack.com/p/why-nix-is-useful-a-minimal-example
 
+https://determinate.systems/posts/changelog-determinate-nix-352/
+
 #
 https://medium.com/data-science-collective/pipask-know-what-youre-installing-before-it-s-too-late-2a6afce80987
 > https://github.com/feynmanix/pipask

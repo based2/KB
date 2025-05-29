@@ -50,6 +50,12 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://github.com/bdavidzhang/flower-garden-cli
+> https://news.ycombinator.com/item?id=44082472
+
+https://lazytetris.com/
+> https://news.ycombinator.com/item?id=44103839
+
 https://news.ycombinator.com/item?id=44057606
 
 https://schaoss.github.io/wall-go/

@@ -35,6 +35,8 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://news.ycombinator.com/item?id=44127109
+
 https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/
 > https://news.ycombinator.com/item?id=42558763
 

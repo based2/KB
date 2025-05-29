@@ -271,6 +271,9 @@ https://news.ycombinator.com/item?id=41959428
 
 https://github.com/changesets/changesets/blob/main/docs/intro-to-using-changesets.md
 
+https://blog.swgillespie.me/posts/monorepo-ingredients/
+> https://news.ycombinator.com/item?id=44086917
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -291,6 +294,8 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://news.ycombinator.com/item?id=44115467
+
 https://news.ycombinator.com/item?id=44020914
 
 https://news.ycombinator.com/item?id=43971620 bug tracker

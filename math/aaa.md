@@ -211,7 +211,17 @@ https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted P
 
 https://news.ycombinator.com/item?id=43985489
 
+# I
+https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
+
 # News
+https://susam.net/from-finite-integral-domains-to-finite-fields.html
+> https://news.ycombinator.com/item?id=44097362
+
+https://news.ycombinator.com/item?id=44110931
+
+https://news.ycombinator.com/item?id=44086830
+
 https://news.ycombinator.com/item?id=44007714
 
 https://leancrew.com/all-this/2025/05/mathml-with-pandoc/

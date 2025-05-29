@@ -90,6 +90,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://addyo.substack.com/p/the-prompt-engineering-playbook-for
+
 https://mistral.ai/news/devstral
 > https://news.ycombinator.com/item?id=44051733
 
