@@ -34,6 +34,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://github.com/volution/punchcard-key-backup
+> https://news.ycombinator.com/item?id=44145202
+
 https://news.ycombinator.com/item?id=43802675
 
 https://linuxfr.org/users/siltaar/journaux/apres-photorec

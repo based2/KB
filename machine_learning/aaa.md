@@ -622,6 +622,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.neuronpedia.org/
+> https://github.com/hijohnnylin/neuronpedia?tab=readme-ov-file#about-neuronpedia
+> https://www.neuronpedia.org/blog/neuronpedia-is-now-open-source
+
 https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse
 
 https://singa.apache.org/ Distributed Deep Learning Library

@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=44137867
+
+https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/
+> https://news.ycombinator.com/item?id=44135638
+
 https://news.ycombinator.com/item?id=44124529
 
 https://news.ycombinator.com/item?id=44099096

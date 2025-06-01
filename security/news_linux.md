@@ -58,6 +58,13 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://malwaretech.com/2024/08/exploiting-CVE-2024-38063.html ipV6
+
+https://news.ycombinator.com/item?id=44137715
+> https://old.reddit.com/r/GrapheneOS/comments/bddq5u/os_security_ios_vs_grapheneos_vs_stock_android/ekzo6c0/?context=3#ekzo6c0
+
+https://www.openwall.com/lists/oss-security/2025/05/29/3
+
 https://news.ycombinator.com/item?id=44081338
 
 https://news.ycombinator.com/item?id=43971716

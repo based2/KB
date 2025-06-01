@@ -349,6 +349,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=44134728
+
 https://github.com/pgdogdev/pgdog Horizontal scaling for PostgreSQL with automatic sharding
 > https://news.ycombinator.com/item?id=44099187
 

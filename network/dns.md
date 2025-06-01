@@ -57,6 +57,9 @@ https://blog.apnic.net/2024/05/28/calling-time-on-dnssec/
 
 https://www.bortzmeyer.org/9718.html
 
+https://egbert.net/blog/articles/dns-dnssec-private.html
+> https://news.ycombinator.com/item?id=44146145
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times
@@ -174,6 +177,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=44095549
+
 https://news.ycombinator.com/item?id=44095549
 
 https://datatracker.ietf.org/doc/statement-iab-statement-dotless-domains-considered-harmful/

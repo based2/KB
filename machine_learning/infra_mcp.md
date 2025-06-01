@@ -29,6 +29,10 @@ https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine MCP on 
 https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
 > https://news.ycombinator.com/item?id=43691230
 
+https://news.ycombinator.com/item?id=44130498
+
+https://news.ycombinator.com/item?id=44132823 bash
+
 # I
 https://invariantlabs.ai/blog/mcp-github-vulnerability
 > https://news.ycombinator.com/item?id=44097390

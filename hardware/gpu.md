@@ -16,6 +16,8 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=44123757
+
 https://news.ycombinator.com/item?id=44055454
 
 https://news.ycombinator.com/item?id=43900463

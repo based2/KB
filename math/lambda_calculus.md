@@ -22,3 +22,5 @@ https://news.ycombinator.com/item?id=41426898
 
 https://franklin.dyer.me/post/212
 > https://news.ycombinator.com/item?id=41566122
+
+https://news.ycombinator.com/item?id=44137439

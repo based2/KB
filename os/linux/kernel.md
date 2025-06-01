@@ -54,6 +54,11 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://anemato.de/blog/kctf-vdf
+> https://news.ycombinator.com/item?id=44137715
+
+https://www.phoronix.com/news/Linux-6.15-Released
+
 https://news.ycombinator.com/item?id=44047741
 
 https://news.ycombinator.com/item?id=44080803

@@ -178,6 +178,11 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.silentpush.com/blog/infrastructure-laundering/
+> https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/
+> > https://news.ycombinator.com/item?id=44132075
+> > https://support.aws.amazon.com/#/contacts/report-abuse
+
 https://www.wired.com/story/elon-musk-x-datacenter-fire/
 
 https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/

@@ -126,6 +126,8 @@ https://diffusion-policy.cs.columbia.edu/
 https://arxiv.org/abs/2412.10631
 
 # News
+https://www.theregister.com/2025/05/30/uks_darpa_invests_233_million/
+
 https://news.ycombinator.com/item?id=43972689
 
 https://news.ycombinator.com/item?id=43935586

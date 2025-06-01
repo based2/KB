@@ -219,6 +219,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44128322
+
 https://news.ycombinator.com/item?id=44126214
 
 https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/

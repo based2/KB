@@ -90,6 +90,8 @@ https://news.ycombinator.com/item?id=43330782
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://news.ycombinator.com/item?id=44106048
+
 https://news.ycombinator.com/item?id=44049252
 
 https://www.theregister.com/2025/05/03/20_years_open_document_format/

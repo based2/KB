@@ -88,6 +88,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://juhache.substack.com/p/boring-iceberg-catalog
+
 https://nifi.apache.org/
 
 https://hop.apache.org/ Hop Orchestration Platform - aims to facilitate all aspects of data and metadata orchestration

@@ -90,6 +90,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://crfm.stanford.edu/2025/05/28/fast-kernels.html
+> https://news.ycombinator.com/item?id=44139454
+
 https://addyo.substack.com/p/the-prompt-engineering-playbook-for
 
 https://mistral.ai/news/devstral

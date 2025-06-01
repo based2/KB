@@ -192,6 +192,11 @@ https://news.ycombinator.com/item?id=43030388
 
 https://neighbourhood.ie/blog/2025/03/04/case-study-10x-couchdb-performance-gains-for-a-aaa-game-launch
 
+https://anemato.de/blog/kctf-vdf
+> https://news.ycombinator.com/item?id=44137715
+
+https://news.ycombinator.com/item?id=44132673
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

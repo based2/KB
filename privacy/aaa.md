@@ -120,6 +120,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://newrepublic.com/post/195904/trump-palantir-data-americans
+
 https://news.ycombinator.com/item?id=44101101
 
 https://news.ycombinator.com/item?id=44044459

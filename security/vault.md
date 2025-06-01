@@ -161,6 +161,7 @@ https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-pas
 
 # News
 https://openbao.org/blog/namespaces-announcement/
+> https://news.ycombinator.com/item?id=44132486
 
 https://github.com/dani-garcia/vaultwarden rust
 

@@ -41,6 +41,10 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.theregister.com/2025/05/30/connectwise_compromised_by_sophisticated_government/
+
+https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/
+
 https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/
 
 https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/

@@ -403,6 +403,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=44128322
+
 https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
 > https://news.ycombinator.com/item?id=43590569
 
