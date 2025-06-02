@@ -214,6 +214,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=44158756
+
 https://www.netmeister.org/blog/http-123.html
 
 https://news.ycombinator.com/item?id=43805358

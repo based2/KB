@@ -90,6 +90,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://github.com/cloudflare/workers-oauth-provider/commits/main/
+> https://news.ycombinator.com/item?id=44159166
+
 https://crfm.stanford.edu/2025/05/28/fast-kernels.html
 > https://news.ycombinator.com/item?id=44139454
 

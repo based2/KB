@@ -39,6 +39,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incidents
+https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates
+
 https://news.ycombinator.com/item?id=43167087
 
 https://news.ycombinator.com/item?id=42764277

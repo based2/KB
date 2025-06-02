@@ -114,3 +114,6 @@ https://fuma-nama.vercel.app/blog/svg-art
 https://news.ycombinator.com/item?id=43935394
 
 https://news.ycombinator.com/item?id=44087049
+
+https://www.thorvg.org/about
+> https://news.ycombinator.com/item?id=44157406

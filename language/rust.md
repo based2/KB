@@ -562,6 +562,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=44158720
+
 https://news.ycombinator.com/item?id=44107655
 
 https://news.ycombinator.com/item?id=44118023

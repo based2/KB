@@ -329,6 +329,11 @@ https://news.ycombinator.com/item?id=42971446
 https://news.ycombinator.com/item?id=43517585
 
 # History
+https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/
+> https://news.ycombinator.com/item?id=44146339
+> > https://api.digie.ai/publications/Hoyle-paper-review.pdf
+> > https://en.wikipedia.org/wiki/Adaptive_resonance_theory
+
 https://news.ycombinator.com/item?id=28343118
 
 https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias

@@ -88,6 +88,9 @@ https://cantunsee.space/
 https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
+# ML
+https://news.ycombinator.com/item?id=44127653
+
 # News
 https://news.ycombinator.com/item?id=44123852
 
