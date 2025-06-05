@@ -58,6 +58,8 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://news.ycombinator.com/item?id=44173193
+
 https://malwaretech.com/2024/08/exploiting-CVE-2024-38063.html ipV6
 
 https://news.ycombinator.com/item?id=44137715

@@ -10,3 +10,5 @@ https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a Kerber
 
 https://slashdot.org/story/00/05/11/0153247/microsoft-asks-slashdot-to-remove-readers-posts
 > https://news.ycombinator.com/item?id=36077779
+
+https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/

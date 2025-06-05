@@ -7,6 +7,8 @@ https://imbue.com/product/sculptor/
 https://huggingface.co/datasets/bigcode/the-stack
 
 # Model
+https://mistral.ai/products/mistral-code
+> https://news.ycombinator.com/item?id=44183515
 
 https://mistral.ai/news/codestral-mamba/
 > https://news.ycombinator.com/item?id=40977103

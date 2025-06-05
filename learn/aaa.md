@@ -156,6 +156,8 @@ https://news.ycombinator.com/item?id=44078314
 https://news.ycombinator.com/item?id=44100035
 
 # News
+https://news.ycombinator.com/item?id=44161607
+
 https://www.youtube.com/watch?v=okHkUIW46ks
 
 https://news.ycombinator.com/item?id=44020591

@@ -26,6 +26,9 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://diffx.org/
+> https://news.ycombinator.com/item?id=44176737
+
 https://github.com/ThomasAlscher1991/DIRKU Deformable Image Registration KU Repository
 > https://news.ycombinator.com/item?id=42622143
 

@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=44191634
+
+https://news.ycombinator.com/item?id=44185836
+
 https://www.anthropic.com/research/open-source-circuit-tracing
 > https://news.ycombinator.com/item?id=44128101
 > https://github.com/safety-research/circuit-tracer

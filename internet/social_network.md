@@ -88,6 +88,10 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=44193390
+
+https://news.ycombinator.com/item?id=44191591
+
 https://www.theregister.com/2025/05/30/meta_is_now_a_defense/
 
 https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/

@@ -328,6 +328,8 @@ https://news.ycombinator.com/item?id=42971446
 
 https://news.ycombinator.com/item?id=43517585
 
+https://news.ycombinator.com/item?id=44185913
+
 # History
 https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/
 > https://news.ycombinator.com/item?id=44146339
@@ -627,6 +629,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing
+> https://news.ycombinator.com/item?id=44194469
+
 https://www.neuronpedia.org/
 > https://github.com/hijohnnylin/neuronpedia?tab=readme-ov-file#about-neuronpedia
 > https://www.neuronpedia.org/blog/neuronpedia-is-now-open-source

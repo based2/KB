@@ -109,6 +109,13 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=44178468
+
+https://news.ycombinator.com/item?id=44180954
+
+https://www.cursor.com/en/changelog/1-0
+> https://news.ycombinator.com/item?id=44185256
+
 https://news.ycombinator.com/item?id=44134896
 
 https://news.ycombinator.com/item?id=44081081

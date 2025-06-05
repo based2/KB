@@ -110,3 +110,5 @@ https://transitiverobotics.com/caps/transitive-robotics/webrtc-video/
 https://news.ycombinator.com/item?id=43654813
 
 https://news.ycombinator.com/item?id=43848798
+
+https://news.ycombinator.com/item?id=44182186

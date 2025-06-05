@@ -219,6 +219,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow
+> https://news.ycombinator.com/item?id=44186496
+
 https://news.ycombinator.com/item?id=44160573
 
 https://news.ycombinator.com/item?id=44128322

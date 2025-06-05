@@ -151,5 +151,8 @@ https://news.ycombinator.com/item?id=44053744
 https://jules.google/
 > https://news.ycombinator.com/item?id=44034918
 
+https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+> https://news.ycombinator.com/item?id=44181700
+
 # I
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

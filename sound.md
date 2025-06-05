@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://merlin.allaboutbirds.org/
+> https://news.ycombinator.com/item?id=44176829
+
 https://sethares.engr.wisc.edu/ttss.html
 
 https://news.ycombinator.com/item?id=43852527

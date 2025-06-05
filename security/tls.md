@@ -133,6 +133,9 @@ https://news.ycombinator.com/item?id=41046956
 https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/
 > https://news.ycombinator.com/item?id=44018400
 
+https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/
+> https://news.ycombinator.com/item?id=44182184
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 

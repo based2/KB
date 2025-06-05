@@ -12,7 +12,6 @@ https://guardianproject.info/
 
 #
 https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/
-> ycombinator
 
 https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53
 > https://news.ycombinator.com/item?id=36089104
@@ -33,6 +32,9 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/
+> https://news.ycombinator.com/item?id=44193198
+
 https://lineageos.org/Changelog-29/
 > https://news.ycombinator.com/item?id=42555066
 
