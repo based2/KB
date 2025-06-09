@@ -210,6 +210,8 @@ https://news.ycombinator.com/item?id=43517833
 https://news.ycombinator.com/item?id=43956115
 
 # Ocean
+https://www.theguardian.com/environment/2025/jun/09/sea-acidity-ecosystems-ocean-acidification-planetary-health-scientists
+
 https://news.ycombinator.com/item?id=42611573
 
 https://news.ycombinator.com/item?id=42516021

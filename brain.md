@@ -62,6 +62,13 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes
+> https://news.ycombinator.com/item?id=44224874
+
+https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/
+> https://news.ycombinator.com/item?id=44201812
+> > https://knowm.org/thermodynamic-computing/
+
 https://www.psypost.org/type-2-diabetes-alters-brain-circuits-involved-in-reward-processing-study-finds/
 
 https://news.itsfoss.com/pieeg-kit/

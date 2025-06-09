@@ -92,6 +92,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=44188839
+
 https://github.com/cloudflare/workers-oauth-provider/commits/main/
 > https://news.ycombinator.com/item?id=44159166
 

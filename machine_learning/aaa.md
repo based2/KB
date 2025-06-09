@@ -629,6 +629,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44222885
+
 https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing
 > https://news.ycombinator.com/item?id=44194469
 

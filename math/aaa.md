@@ -215,6 +215,11 @@ https://news.ycombinator.com/item?id=43985489
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml
+> https://news.ycombinator.com/item?id=44200240
+
+https://news.ycombinator.com/item?id=44212449
+
 https://susam.net/from-finite-integral-domains-to-finite-fields.html
 > https://news.ycombinator.com/item?id=44097362
 

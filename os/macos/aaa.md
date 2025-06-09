@@ -511,6 +511,10 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/
+
+https://news.ycombinator.com/item?id=44226612
+
 https://news.ycombinator.com/item?id=42987848
 
 https://news.ycombinator.com/item?id=42984420

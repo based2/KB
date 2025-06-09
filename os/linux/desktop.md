@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=40175731
 
 https://news.ycombinator.com/item?id=40936808
 
+https://news.ycombinator.com/item?id=44227915
+
 # Audio
 
 # Printer

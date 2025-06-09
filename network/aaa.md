@@ -149,6 +149,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/theopfr/somo
+> https://news.ycombinator.com/item?id=44227207
+
 https://news.ycombinator.com/item?id=43934869
 
 https://news.ycombinator.com/item?id=43933683

@@ -177,6 +177,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://www.ahmedsaoudi.com/blog/domains-i-love/
+
 https://news.ycombinator.com/item?id=44095549
 
 https://news.ycombinator.com/item?id=44095549
