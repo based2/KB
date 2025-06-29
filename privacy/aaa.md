@@ -111,6 +111,9 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad
+> https://news.ycombinator.com/item?id=44411069
+
 https://news.ycombinator.com/item?id=44016530
 
 https://news.ycombinator.com/item?id=43995302
@@ -120,6 +123,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=44408929
+
+https://news.ycombinator.com/item?id=44401406
+
 https://newrepublic.com/post/195904/trump-palantir-data-americans
 
 https://news.ycombinator.com/item?id=44101101

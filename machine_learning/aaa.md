@@ -436,6 +436,8 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://news.ycombinator.com/item?id=44407350
+
 https://news.ycombinator.com/item?id=42971446
 
 https://chiraaggohel.com/posts/llms-eda/ Are LLMs able to notice the “gorilla in the data”?
@@ -629,6 +631,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.wired.com/story/generative-ai-backlash/
+
 https://news.ycombinator.com/item?id=44222885
 
 https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing

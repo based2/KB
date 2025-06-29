@@ -6,6 +6,9 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://blog.vbang.dk/2025/06/29/tools-i-love-mise/
+> https://news.ycombinator.com/item?id=44414987
+
 https://news.ycombinator.com/item?id=43943792
 
 https://news.ycombinator.com/item?id=43799396

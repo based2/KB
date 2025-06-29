@@ -48,6 +48,8 @@ https://x-stream.github.io/security.html
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2254
 
 #
+https://news.ycombinator.com/item?id=44393817
+
 https://news.ycombinator.com/item?id=43502291
 
 https://news.ycombinator.com/item?id=41367658

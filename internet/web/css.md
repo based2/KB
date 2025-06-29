@@ -149,6 +149,9 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://garden.bradwoods.io/
+> https://news.ycombinator.com/item?id=44393920
+
 https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API
 
 https://news.ycombinator.com/item?id=44100148

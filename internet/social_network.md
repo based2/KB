@@ -88,6 +88,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.axios.com/2017/12/15/sean-parker-facebook-was-designed-to-exploit-human-vulnerability-1513306782
+
 https://news.ycombinator.com/item?id=44193390
 
 https://news.ycombinator.com/item?id=44191591

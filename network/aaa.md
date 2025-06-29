@@ -149,6 +149,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://halb.it/posts/ebpf-fingerprinting-1/
+> https://news.ycombinator.com/item?id=44412080
+
 https://github.com/theopfr/somo
 > https://news.ycombinator.com/item?id=44227207
 

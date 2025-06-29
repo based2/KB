@@ -3,6 +3,8 @@ https://modelcontextprotocol.io/introduction
 https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
 
 #
+https://news.ycombinator.com/item?id=44379792
+
 https://block.github.io/mcp-jupyter/
 
 https://news.ycombinator.com/item?id=44086062
@@ -32,6 +34,9 @@ https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
 https://news.ycombinator.com/item?id=44130498
 
 https://news.ycombinator.com/item?id=44132823 bash
+
+https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
+> https://news.ycombinator.com/item?id=44404905
 
 # I
 https://invariantlabs.ai/blog/mcp-github-vulnerability

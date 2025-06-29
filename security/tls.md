@@ -136,6 +136,11 @@ https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/
 https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/
 > https://news.ycombinator.com/item?id=44182184
 
+https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777
+> https://news.ycombinator.com/item?id=44379034
+
+https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 

@@ -413,6 +413,8 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://news.ycombinator.com/item?id=44372380
+
 https://devblogs.microsoft.com/commandline/edit-is-now-open-source/
 > https://news.ycombinator.com/item?id=44031529
 

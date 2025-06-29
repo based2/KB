@@ -7,6 +7,8 @@ https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/
 https://beyondloom.com/tools/ditherpaint.html
 
 # Emulation
+https://news.ycombinator.com/item?id=44385562
+
 https://news.ycombinator.com/item?id=43377998 powerpc
 
 https://news.ycombinator.com/item?id=41348338 floppy drive

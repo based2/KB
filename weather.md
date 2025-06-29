@@ -34,7 +34,12 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 https://www.weatherspark.com
 
+# I
+https://news.ycombinator.com/item?id=44409175
+
 # News
+https://news.ycombinator.com/item?id=44355409
+
 https://news.ycombinator.com/item?id=44127109
 
 https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/

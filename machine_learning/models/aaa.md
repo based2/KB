@@ -219,6 +219,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44367811
+
 https://news.ycombinator.com/item?id=44215352
 
 https://news.ycombinator.com/item?id=44203732

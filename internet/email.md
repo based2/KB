@@ -299,6 +299,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://useplaintext.email/
+> https://news.ycombinator.com/item?id=44406837
+
 https://news.ycombinator.com/item?id=43943236
 
 https://news.ycombinator.com/item?id=43560885

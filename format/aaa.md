@@ -8,6 +8,9 @@ https://microformats.org/wiki/Main_Page
 > https://news.ycombinator.com/item?id=32643152
 
 # Images
+https://www.programmax.net/articles/png-is-back/
+> https://news.ycombinator.com/item?id=44365754
+
 https://www.bortzmeyer.org/9649.html webp
 
 https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going
