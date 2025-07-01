@@ -219,6 +219,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://github.com/M4THYOU/TokenDagger
+> https://news.ycombinator.com/item?id=44422480
+
 https://news.ycombinator.com/item?id=44367811
 
 https://news.ycombinator.com/item?id=44215352

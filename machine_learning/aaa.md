@@ -631,6 +631,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.philschmid.de/context-engineering
+> https://news.ycombinator.com/item?id=44427757
+
 https://www.wired.com/story/generative-ai-backlash/
 
 https://news.ycombinator.com/item?id=44222885

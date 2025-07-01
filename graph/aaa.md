@@ -126,6 +126,9 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://utk.claranguyen.me/talks.php?id=videogames Graph Theory Applications in Video Games
+> https://news.ycombinator.com/item?id=44403547
+
 https://news.ycombinator.com/item?id=43977147
 
 https://graph-explorer.net/

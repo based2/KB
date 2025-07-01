@@ -61,6 +61,9 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard
+> https://news.ycombinator.com/item?id=44416221
+
 https://news.ycombinator.com/item?id=43554769
 
 https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging

@@ -156,5 +156,8 @@ https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-buildi
 
 https://news.ycombinator.com/item?id=44386887
 
+https://github.com/embabel/embabel-agent
+> https://news.ycombinator.com/item?id=44410925
+
 # I
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

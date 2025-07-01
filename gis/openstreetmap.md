@@ -44,6 +44,9 @@ https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/
 https://operations.osmfoundation.org/2025/02/15/post-mortem.html
 
 # News
+https://github.com/osmzoso/pbf2sqlite
+> https://news.ycombinator.com/item?id=44432058
+
 https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10
 > https://news.ycombinator.com/item?id=42626964
 

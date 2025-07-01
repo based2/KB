@@ -81,6 +81,8 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=44425461
+
 https://arxiv.org/abs/2505.18818 Automated Verification of Monotonic Data Structure Traversals in C
 
 https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/

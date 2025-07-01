@@ -1,3 +1,6 @@
+https://docs.anthropic.com/en/docs/claude-code/hooks
+> https://news.ycombinator.com/item?id=44429225
+
 https://news.ycombinator.com/item?id=44191634
 
 https://news.ycombinator.com/item?id=44185836
