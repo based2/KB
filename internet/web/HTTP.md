@@ -214,6 +214,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport
+> https://news.ycombinator.com/item?id=44465206
+
 https://news.ycombinator.com/item?id=44158756
 
 https://www.netmeister.org/blog/http-123.html

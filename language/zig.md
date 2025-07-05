@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44461067
+
 https://github.com/ZigEmbeddedGroup/microzig
 
 https://news.ycombinator.com/item?id=44089054

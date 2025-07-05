@@ -174,6 +174,8 @@ https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-d
 # ML
 https://news.ycombinator.com/item?id=43614546
 
+https://news.ycombinator.com/item?id=44463967
+
 # News
 https://news.ycombinator.com/item?id=44225761
 

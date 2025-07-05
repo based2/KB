@@ -631,6 +631,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44433996
+
 https://www.philschmid.de/context-engineering
 > https://news.ycombinator.com/item?id=44427757
 

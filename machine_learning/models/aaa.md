@@ -219,6 +219,11 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44441089
+
+https://github.com/awwaiid/gremllm
+> https://news.ycombinator.com/item?id=44465980
+
 https://github.com/M4THYOU/TokenDagger
 > https://news.ycombinator.com/item?id=44422480
 

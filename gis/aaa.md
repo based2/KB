@@ -252,6 +252,8 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://news.ycombinator.com/item?id=44464641
+
 https://github.com/r-follador/delta-relief High-resolution surface analysis with LiDAR data
 > https://news.ycombinator.com/item?id=44056097
 
