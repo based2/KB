@@ -39,6 +39,10 @@ https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
 > https://news.ycombinator.com/item?id=44404905
 
 # I
+https://www.trendmicro.com/en_us/research/25/f/why-a-classic-mcp-server-vulnerability-can-undermine-your-entire-ai-agent.html
+
+https://news.ycombinator.com/item?id=44430029
+
 https://invariantlabs.ai/blog/mcp-github-vulnerability
 > https://news.ycombinator.com/item?id=44097390
 

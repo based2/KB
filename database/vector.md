@@ -135,3 +135,5 @@ http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html
 > https://news.ycombinator.com/item?id=44120306
 
 https://news.ycombinator.com/item?id=44139382
+
+https://news.ycombinator.com/item?id=44470464

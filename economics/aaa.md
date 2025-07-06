@@ -290,6 +290,10 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://news.ycombinator.com/item?id=44480916
+
+https://news.ycombinator.com/item?id=44477426
+
 https://news.ycombinator.com/item?id=44410878
 
 https://news.ycombinator.com/item?id=43843821

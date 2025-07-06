@@ -159,5 +159,9 @@ https://news.ycombinator.com/item?id=44386887
 https://github.com/embabel/embabel-agent
 > https://news.ycombinator.com/item?id=44410925
 
+https://arxiv.org/pdf/2504.16902 Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol
+
+https://news.ycombinator.com/item?id=44482504
+
 # I
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

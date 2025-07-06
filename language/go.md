@@ -121,6 +121,8 @@ https://github.com/ebitengine/purego library for calling C functions from Go wit
 > https://news.ycombinator.com/item?id=34763681
 
 #
+https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+
 https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909
 
 https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html

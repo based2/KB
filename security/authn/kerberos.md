@@ -12,3 +12,6 @@ https://slashdot.org/story/00/05/11/0153247/microsoft-asks-slashdot-to-remove-re
 > https://news.ycombinator.com/item?id=36077779
 
 https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/
+
+# I
+https://blog.redteam-pentesting.de/2025/reflective-kerberos-relay-attack/

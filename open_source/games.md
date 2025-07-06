@@ -79,6 +79,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=44473063
+
 https://news.ycombinator.com/item?id=43197131
 
 https://github.com/OpenLoco/OpenLoco

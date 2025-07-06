@@ -120,6 +120,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo
+
 https://news.ycombinator.com/item?id=44070626 gitlab duo
 
 https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/

@@ -38,6 +38,8 @@ https://github.com/Rikorose/DeepFilterNet
 https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
+https://news.ycombinator.com/item?id=44476115
+
 # News
 https://merlin.allaboutbirds.org/
 > https://news.ycombinator.com/item?id=44176829

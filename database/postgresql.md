@@ -189,6 +189,9 @@ https://supabase.com/blog/2022/03/08/audit
 > https://www.reddit.com/r/programming/comments/tpj6zk/postgres_auditing_in_150_lines_of_sql/
 
 ## Backup
+https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql
+> https://news.ycombinator.com/item?id=44473888
+
 https://abishekmuthian.com/backup-postgresql-to-cloud/
 
 https://pganalyze.com/blog/5mins-postgres-17-incremental-backups

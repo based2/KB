@@ -5,6 +5,8 @@ https://www.seaplastics.org
 # IT
 https://repair.wiki/w/Repair_Wiki
 
+https://permacomputing.net/principles/
+
 ## Laptop
 https://frame.work/
 > https://news.ycombinator.com/item?id=27143545

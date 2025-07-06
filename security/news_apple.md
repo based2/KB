@@ -22,6 +22,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://afine.com/threat-of-tcc-bypasses-on-macos/
+
 https://blog.noahhw.dev/posts/cve-2025-31200/ coreAudio
 > https://news.ycombinator.com/item?id=44161894
 

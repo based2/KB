@@ -122,6 +122,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=44465319
+
 https://news.ycombinator.com/item?id=44364541
 
 https://news.ycombinator.com/item?id=44367071

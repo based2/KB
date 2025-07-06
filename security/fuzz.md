@@ -16,6 +16,10 @@ https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-hand
 https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
 
 #
+https://www.incendium.rocks/posts/Automating-MS-RPC-Vulnerability-Research/
+
+https://medium.com/@cy1337/finding-heap-overflows-with-afl-unicorn-mode-18e85d571c0f
+
 https://news.ycombinator.com/item?id=43822575
 
 https://news.ycombinator.com/item?id=42756286

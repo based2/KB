@@ -436,6 +436,8 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://horizon3.ai/attack-research/disclosures/unsafe-at-any-speed-abusing-python-exec-for-unauth-rce-in-langflow-ai/
+
 https://news.ycombinator.com/item?id=44407350
 
 https://news.ycombinator.com/item?id=42971446
@@ -631,6 +633,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://docs.pasteurlabs.ai/projects/tesseract-jax/latest/examples/fem-shapeopt/demo.html Parametric shape optimization with differentiable FEM simulation
+> https://news.ycombinator.com/item?id=44453814
+
+https://fi-le.net/baba/
+> https://news.ycombinator.com/item?id=44455124
+
+https://news.ycombinator.com/item?id=44471695
+
 https://news.ycombinator.com/item?id=44433996
 
 https://www.philschmid.de/context-engineering

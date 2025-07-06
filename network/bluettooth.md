@@ -14,6 +14,8 @@ https://news.ycombinator.com/item?id=38969759
 https://news.ycombinator.com/item?id=40798837
 
 # Sec
+https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/
+
 https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint
 > https://news.ycombinator.com/item?id=40958946
 > > https://cseweb.ucsd.edu/~schulman/docs/oakland24-phyobfuscation.pdf

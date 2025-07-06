@@ -41,6 +41,14 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
+
+https://www.securityweek.com/new-vulnerabilities-expose-millions-of-brother-printers-to-hacking/
+
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/
+
+https://iank.org/posts/loftie-rce/
+
 https://www.theregister.com/2025/05/30/connectwise_compromised_by_sophisticated_government/
 
 https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/

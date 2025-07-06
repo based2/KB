@@ -87,11 +87,17 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # I
+https://news.ycombinator.com/item?id=44466826
+
 https://news.ycombinator.com/item?id=44087150
 
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://github.com/codelion/openevolve
+
+https://github.com/rejot-dev/semcheck
+
 https://news.ycombinator.com/item?id=44353241
 
 https://news.ycombinator.com/item?id=44188839

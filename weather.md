@@ -38,6 +38,8 @@ https://www.weatherspark.com
 https://news.ycombinator.com/item?id=44409175
 
 # News
+https://news.ycombinator.com/item?id=44472992
+
 https://news.ycombinator.com/item?id=44355409
 
 https://news.ycombinator.com/item?id=44127109

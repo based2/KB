@@ -78,6 +78,8 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://news.ycombinator.com/item?id=44469880
+
 https://news.ycombinator.com/item?id=44147945
 
 https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer

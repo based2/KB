@@ -45,7 +45,10 @@ https://github.com/TUDSSL/BFree
 # VHDL
 https://verik.io/docs/overview/ 
 
-# News
+#
+https://privateisland.tech/betsy Open Source and FPGA Maker Board for Networking
+> https://news.ycombinator.com/item?id=44467539
+
 https://news.ycombinator.com/item?id=43962138
 
 https://github.com/Blinkinlabs/circuitpainter

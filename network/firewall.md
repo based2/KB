@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # Incidents
+https://labs.watchtowr.com/sonicboom-from-stolen-tokens-to-remote-shells-sonicwall-sma100-cve-2023-44221-cve-2024-38475/
+
 https://www.bleepingcomputer.com/news/security/zyxel-warns-of-bad-signature-update-causing-firewall-boot-loops/
 
 https://old.reddit.com/r/netsec/comments/1i12s72/threat_actors_exploit_a_probable_0day_in_exposed/

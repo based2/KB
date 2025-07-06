@@ -67,6 +67,9 @@ https://news.ycombinator.com/item?id=38471475
 
 https://news.ycombinator.com/item?id=43080378
 
+# ML
+https://github.com/iris-sast/iris
+
 # I
 https://socket.dev/blog/60-malicious-npm-packages-leak-network-and-host-data
 

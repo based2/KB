@@ -158,6 +158,9 @@ https://news.ycombinator.com/item?id=40911500
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://blog.nelhage.com/post/ittage-branch-predictor/
+> https://news.ycombinator.com/item?id=44468999
+
 https://news.ycombinator.com/item?id=44404831
 
 https://news.ycombinator.com/item?id=44183299

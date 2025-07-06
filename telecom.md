@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.infostealers.com/article/pakistan-telecommunication-company-ptcl-targeted-by-bitter-apt-during-heightened-regional-conflict/
+
 https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/
 
 https://www.bfdi.bund.de/SharedDocs/Pressemitteilungen/EN/2025/06_Geldbu%C3%9Fe-Vodafone.html?nn=355282

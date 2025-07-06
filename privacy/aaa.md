@@ -123,6 +123,16 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=44478279
+
+https://news.ycombinator.com/item?id=44471359
+
+https://www.inkandswitch.com/essay/local-first/
+> https://news.ycombinator.com/item?id=44473135
+
+https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale
+> https://news.ycombinator.com/item?id=44473590
+
 https://news.ycombinator.com/item?id=44408929
 
 https://news.ycombinator.com/item?id=44401406

@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://news.ycombinator.com/item?id=44443832
+
 https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/
 
 https://www.bleepingcomputer.com/news/microsoft/hijacked-microsoft-stream-classic-domain-spams-sharepoint-sites/

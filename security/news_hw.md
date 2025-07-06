@@ -12,6 +12,12 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://comsec.ethz.ch/research/microarch/branch-privilege-injection/
+
+https://oddvar.moe/2025/07/03/applocker-bypass-on-lenovo-machines-the-curious-case-of-mfgstat-zip/
+
+https://arstechnica.com/security/2025/06/active-exploitation-of-ami-management-tool-imperils-thousands-of-servers/
+
 https://news.ycombinator.com/item?id=44150803
 
 https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/ arm
