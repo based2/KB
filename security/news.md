@@ -1,3 +1,5 @@
+https://www.synacktiv.com/en/publications/open-source-toolset-of-an-ivanti-csa-attacker
+
 https://news.ycombinator.com/item?id=44426049
 
 https://xbow.com/blog/top-1-how-xbow-did-it/

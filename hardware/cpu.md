@@ -1,3 +1,6 @@
+https://thetumultuousunicornofdarkness.github.io/CPU-X/
+> https://news.ycombinator.com/item?id=44490386 cpu
+
 https://news.ycombinator.com/item?id=43850238
 
 https://news.ycombinator.com/item?id=42793597

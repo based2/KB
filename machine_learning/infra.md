@@ -109,6 +109,13 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/MrLesk/Backlog.md
+> https://news.ycombinator.com/item?id=44483530
+
+https://github.com/sst/opencode
+> https://news.ycombinator.com/item?id=44482504
+> > https://aider.chat/
+
 https://news.ycombinator.com/item?id=44407058
 
 https://news.ycombinator.com/item?id=44178468

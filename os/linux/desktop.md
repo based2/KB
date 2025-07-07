@@ -116,6 +116,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power
+
 https://www.neowin.net/news/kde-is-fixing-blurry-screens-by-snapping-almost-1x-scale-factors-back-to-1x-on-wayland/
 
 https://linuxfr.org/users/faya/journaux/des-points-et-des-points-de-code

@@ -333,6 +333,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=44485322
+
 https://news.ycombinator.com/item?id=44442189
 
 https://arstechnica.com/tech-policy/2025/06/senate-gop-budget-bill-has-little-noticed-provision-that-could-hurt-your-wi-fi/

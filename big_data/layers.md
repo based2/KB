@@ -88,6 +88,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://database-doctor.com/posts/iceberg-is-wrong-1.html
+
 https://juhache.substack.com/p/boring-iceberg-catalog
 
 https://nifi.apache.org/

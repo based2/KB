@@ -124,6 +124,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://thetumultuousunicornofdarkness.github.io/CPU-X/
+> https://news.ycombinator.com/item?id=44490386 cpu
+
 https://news.ycombinator.com/item?id=44426399
 
 https://news.ycombinator.com/item?id=44426399

@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://news.ycombinator.com/item?id=44463960
+
 https://news.ycombinator.com/item?id=43972714
 
 https://slcyber.io/assetnote-security-research-center/loose-types-sink-ships-pre-authentication-sql-injection-in-halo-itsm/

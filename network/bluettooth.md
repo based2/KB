@@ -13,6 +13,9 @@ https://news.ycombinator.com/item?id=38969759
 
 https://news.ycombinator.com/item?id=40798837
 
+https://github.com/jackjackbits/bitchat decentralized messaging app that works over Bluetooth mesh networks
+> https://news.ycombinator.com/item?id=44485342
+
 # Sec
 https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/
 

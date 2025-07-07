@@ -16,6 +16,8 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html
+
 https://news.ycombinator.com/item?id=44468175
 
 https://news.ycombinator.com/item?id=44123757
