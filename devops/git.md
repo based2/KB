@@ -290,6 +290,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 # I
+https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384
+> https://news.ycombinator.com/item?id=44502330
+
 https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   

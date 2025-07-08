@@ -209,6 +209,8 @@ https://samwho.dev/reservoir-sampling/
 https://samwho.dev/reservoir-sampling/
 > https://news.ycombinator.com/item?id=43928315
 
+https://news.ycombinator.com/item?id=44471251
+
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
 

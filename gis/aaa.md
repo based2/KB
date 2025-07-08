@@ -252,6 +252,8 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://macwright.com/2025/07/03/epanet-placemark
+
 https://news.ycombinator.com/item?id=44478861
 
 https://news.ycombinator.com/item?id=44464641

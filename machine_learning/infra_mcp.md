@@ -39,6 +39,9 @@ https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
 > https://news.ycombinator.com/item?id=44404905
 
 # I
+https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/
+> https://news.ycombinator.com/item?id=44502318
+
 https://www.trendmicro.com/en_us/research/25/f/why-a-classic-mcp-server-vulnerability-can-undermine-your-entire-ai-agent.html
 
 https://news.ycombinator.com/item?id=44430029

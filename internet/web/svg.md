@@ -119,3 +119,5 @@ https://www.thorvg.org/about
 > https://news.ycombinator.com/item?id=44157406
 
 https://news.ycombinator.com/item?id=44187645
+
+https://news.ycombinator.com/item?id=44498133

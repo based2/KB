@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44455707
+
 https://www.synacktiv.com/en/publications/open-source-toolset-of-an-ivanti-csa-attacker
 
 https://news.ycombinator.com/item?id=44426049
