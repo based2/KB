@@ -94,6 +94,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443
+> https://news.ycombinator.com/item?id=44498766
+
 https://github.com/codelion/openevolve
 
 https://github.com/rejot-dev/semcheck

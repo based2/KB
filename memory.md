@@ -187,3 +187,6 @@ https://news.ycombinator.com/item?id=43668333
 https://zylinski.se/posts/dynamic-arrays-and-arenas/
 
 https://news.ycombinator.com/item?id=44432900
+
+https://github.com/surban/memstop
+> https://news.ycombinator.com/item?id=44468022

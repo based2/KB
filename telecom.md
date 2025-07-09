@@ -333,6 +333,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://security-explorations.com/esim-security.html
+> https://news.ycombinator.com/item?id=44507830
+
 https://news.ycombinator.com/item?id=44485322
 
 https://news.ycombinator.com/item?id=44442189

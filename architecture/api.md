@@ -1,3 +1,6 @@
+https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html
+> https://news.ycombinator.com/item?id=44507076
+
 https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a
 > https://news.ycombinator.com/item?id=40881077
 

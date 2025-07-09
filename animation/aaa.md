@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/
+> https://news.ycombinator.com/item?id=44495154
+
 https://news.ycombinator.com/item?id=44465434
 
 https://news.ycombinator.com/item?id=44088216

@@ -105,6 +105,8 @@ https://pixspeed.com/
 https://noisetools.vercel.app/
 > https://news.ycombinator.com/item?id=43491245
 
+https://news.ycombinator.com/item?id=44505876 RAW
+
 # Photography
 https://news.ycombinator.com/item?id=43580815
 

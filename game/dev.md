@@ -177,6 +177,8 @@ https://news.ycombinator.com/item?id=43614546
 https://news.ycombinator.com/item?id=44463967
 
 # News
+https://news.ycombinator.com/item?id=44472812
+
 https://news.ycombinator.com/item?id=44444916 tetra
 
 https://news.ycombinator.com/item?id=44225761

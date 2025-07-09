@@ -211,6 +211,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://news.ycombinator.com/item?id=44512684
+
 https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/
 
 https://www.welivesecurity.com/en/eset-research/operation-roundpress/
