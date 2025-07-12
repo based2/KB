@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.nextplatform.com/2025/07/10/sizing-up-aws-blackwell-gpu-systems-against-prior-gpus-and-trainiums/
+
 https://github.com/google-research/circuit_training
 
 https://news.ycombinator.com/item?id=43736739

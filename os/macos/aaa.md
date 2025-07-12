@@ -511,6 +511,12 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://christianselig.com/2025/07/repaste-macbook/
+> https://news.ycombinator.com/item?id=44531569
+
+https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price
+> https://news.ycombinator.com/item?id=44532306
+
 https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/
 
 https://news.ycombinator.com/item?id=44226612

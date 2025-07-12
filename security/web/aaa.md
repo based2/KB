@@ -59,3 +59,6 @@ https://caido.io/
 https://old.reddit.com/r/netsec/comments/1jxoqgz/question_about_sessionbased_cookies_vs/
 
 https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops/
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Integrity-Policy
+> https://lobste.rs/s/bputka/integrity_policy_header

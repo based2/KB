@@ -38,6 +38,12 @@ https://news.ycombinator.com/item?id=44132823 bash
 https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
 > https://news.ycombinator.com/item?id=44404905
 
+https://mcp-b.ai/
+> https://news.ycombinator.com/item?id=44515403
+
+https://github.com/bh-rat/asyncmcp
+> https://news.ycombinator.com/item?id=44523094
+
 # I
 https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/
 > https://news.ycombinator.com/item?id=44502318

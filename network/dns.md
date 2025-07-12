@@ -177,6 +177,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=44533055
+
 https://news.ycombinator.com/item?id=44480223 Get the location of the ISS using DNS
 
 https://www.ahmedsaoudi.com/blog/domains-i-love/

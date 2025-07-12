@@ -74,6 +74,10 @@ https://news.ycombinator.com/item?id=43474490
 https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
 
 # News
+https://futures.cs.utah.edu/papers/25ATC.pdf Bin2Wrong: A unified fuzzing framework for uncovering semantic errors in binary-to-C decompilers
+
+https://news.ycombinator.com/item?id=44527014
+
 https://frida.re/news/2025/06/18/frida-17-2-0-released/
 
 https://news.ycombinator.com/item?id=44422356

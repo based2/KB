@@ -142,6 +142,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://news.ycombinator.com/item?id=44540402
+
 https://blog.1bitrainbow.com/pico-mac-nano/
 
 https://sourceforge.net/projects/minivmac/

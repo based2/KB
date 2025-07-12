@@ -163,5 +163,11 @@ https://arxiv.org/pdf/2504.16902 Building A Secure Agentic AI Application Levera
 
 https://news.ycombinator.com/item?id=44482504
 
+https://news.ycombinator.com/item?id=44533004
+
+https://news.ycombinator.com/item?id=44531697
+
+https://news.ycombinator.com/item?id=44535078
+
 # I
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

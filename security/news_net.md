@@ -41,6 +41,10 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://news.ycombinator.com/item?id=44537093
+
+https://news.ycombinator.com/item?id=44513940
+
 https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
 
 https://www.securityweek.com/new-vulnerabilities-expose-millions-of-brother-printers-to-hacking/

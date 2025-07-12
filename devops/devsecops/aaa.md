@@ -80,6 +80,9 @@ https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templa
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/
+> https://news.ycombinator.com/item?id=44539745
+
 https://news.ycombinator.com/item?id=43614199
 
 https://news.ycombinator.com/item?id=43614199

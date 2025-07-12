@@ -54,6 +54,8 @@ https://www.dataprotectioncontrol.org/spec/
 
 https://www.pixeldetracking.com/fr/comment-les-editeurs-se-moquent-de-la-cnil
 
+https://gitlab.adullact.net/soluris/madis
+
 ## Twitter
 1. Go to the following URL: https://help.twitter.com/en/forms/privacy
 

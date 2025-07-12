@@ -7,6 +7,8 @@ https://kitops.ml/docs/modelkit/intro.html
 > https://news.ycombinator.com/item?id=41963890
 
 #
+https://github.com/awslabs/cfn-ecr-aws-soci-index-builder
+
 https://github.com/spegel-org/spegel Stateless cluster local OCI registry mirror
 > https://philiplaine.com/posts/getting-forked-by-microsoft/
 > https://github.com/Azure/peerd Peer to peer distribution of container content in Kubernetes clusters

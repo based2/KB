@@ -193,6 +193,8 @@ https://news.ycombinator.com/item?id=39797889
 https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/
 > https://news.ycombinator.com/item?id=40656747
 
+https://news.ycombinator.com/item?id=44497808
+
 ## Phoenix
 https://news.ycombinator.com/item?id=43653054
 

@@ -94,6 +94,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=44542578
+
+https://news.ycombinator.com/item?id=44522772
+
 https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443
 > https://news.ycombinator.com/item?id=44498766
 

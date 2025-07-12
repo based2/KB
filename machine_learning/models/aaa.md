@@ -219,6 +219,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://bentoml.com/llm/
+> https://news.ycombinator.com/item?id=44527947
+
+https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html
+> https://news.ycombinator.com/item?id=44535637
+
 https://news.ycombinator.com/item?id=44501413
 
 https://news.ycombinator.com/item?id=44489690 Mercury: Ultra-fast language models based on diffusion

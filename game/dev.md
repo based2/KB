@@ -176,6 +176,8 @@ https://news.ycombinator.com/item?id=43614546
 
 https://news.ycombinator.com/item?id=44463967
 
+https://blog.luden.io/generating-prototypes-from-game-design-document-with-cursor-zed-and-l%C3%B6ve-7b8d932194d7
+
 # News
 https://news.ycombinator.com/item?id=44472812
 

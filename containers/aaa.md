@@ -70,6 +70,11 @@ https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://linuxcontainers.org/incus/
+> https://news.ycombinator.com/item?id=44539338
+
+https://news.ycombinator.com/item?id=44524430
+
 https://alpinelinux.org/posts/Alpine-3.22.0-released.html
 > https://www.neowin.net/news/alpine-linux-322-swaps-out-gummiboot-for-systemd-efistub-and-makes-several-improvements/
 

@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 https://news.ycombinator.com/item?id=43257323
 
 # I
+https://news.ycombinator.com/item?id=44536691
+
 https://news.ycombinator.com/item?id=44016030
 
 https://news.ycombinator.com/item?id=43307996

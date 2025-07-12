@@ -35,6 +35,8 @@ https://github.com/flipt-io/reverst go
 https://openreplay.com/
 
 # News
+https://news.ycombinator.com/item?id=44526015
+
 https://shenyu.apache.org/ Java native API Gateway for service proxy, protocol conversion and API governance
 
 https://tailscale.com/blog/4via6-connectivity-to-edge-devices
