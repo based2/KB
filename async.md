@@ -61,6 +61,8 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://news.ycombinator.com/item?id=44545949
+
 https://news.ycombinator.com/item?id=44482194
 
 https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard

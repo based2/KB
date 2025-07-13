@@ -126,6 +126,8 @@ https://diffusion-policy.cs.columbia.edu/
 https://arxiv.org/abs/2412.10631
 
 # News
+https://news.ycombinator.com/item?id=44517649
+
 https://news.ycombinator.com/item?id=44456904
 
 https://news.ycombinator.com/item?id=44158353 How do I learn robotics in 2025?

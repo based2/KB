@@ -1,3 +1,6 @@
+https://news.ycombinator.com/item?id=44549762
+> https://www.fbi.gov/wanted/cyber/dprk-it-workers
+
 https://news.ycombinator.com/item?id=44455707
 
 https://www.synacktiv.com/en/publications/open-source-toolset-of-an-ivanti-csa-attacker

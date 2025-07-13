@@ -219,6 +219,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b
+> https://news.ycombinator.com/item?id=44548906
+
 https://bentoml.com/llm/
 > https://news.ycombinator.com/item?id=44527947
 
