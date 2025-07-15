@@ -131,6 +131,8 @@ https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama
 
 https://news.ycombinator.com/item?id=42036995
 
+https://news.ycombinator.com/item?id=44573799
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

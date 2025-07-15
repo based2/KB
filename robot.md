@@ -125,6 +125,9 @@ https://diffusion-policy.cs.columbia.edu/
 
 https://arxiv.org/abs/2412.10631
 
+https://www.matthieulc.com/posts/shoggoth-mini tentacle
+> https://news.ycombinator.com/item?id=44572377
+
 # News
 https://news.ycombinator.com/item?id=44517649
 

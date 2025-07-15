@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://techlib.com/electronics/lightningnew.htm
+> https://news.ycombinator.com/item?id=44561104
+
 https://privateisland.tech/betsy Open Source and FPGA Maker Board for Networking
 > https://news.ycombinator.com/item?id=44467539
 

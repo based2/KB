@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=44570363
+
+https://news.ycombinator.com/item?id=44556406
+
 https://news.ycombinator.com/item?id=44549762
 > https://www.fbi.gov/wanted/cyber/dprk-it-workers
 

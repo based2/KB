@@ -633,6 +633,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44565416
+
+https://news.ycombinator.com/item?id=44573574
+
+https://news.ycombinator.com/item?id=44553257
+
+https://news.ycombinator.com/item?id=44563324
+
 https://docs.pasteurlabs.ai/projects/tesseract-jax/latest/examples/fem-shapeopt/demo.html Parametric shape optimization with differentiable FEM simulation
 > https://news.ycombinator.com/item?id=44453814
 

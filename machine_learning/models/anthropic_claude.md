@@ -1,3 +1,5 @@
+https://github.com/ryoppippi/ccusage
+
 https://docs.anthropic.com/en/docs/claude-code/hooks
 > https://news.ycombinator.com/item?id=44429225
 

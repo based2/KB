@@ -45,3 +45,5 @@ https://www.bleepingcomputer.com/news/security/ftc-bans-one-more-data-broker-fro
 https://news.ycombinator.com/item?id=40998481
 
 https://news.ycombinator.com/item?id=43949975
+
+https://news.ycombinator.com/item?id=44561736

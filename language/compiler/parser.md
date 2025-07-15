@@ -68,3 +68,6 @@ https://news.ycombinator.com/item?id=42907139
 https://ohmjs.org/
 > https://news.ycombinator.com/item?id=42982755
 > > https://ohmjs.org/editor
+
+https://xnacly.me/posts/2025/fast-lexer-strategies/
+> https://news.ycombinator.com/item?id=44560871

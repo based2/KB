@@ -109,6 +109,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://kiro.dev/blog/introducing-kiro/
+> https://news.ycombinator.com/item?id=44560662
+
 https://github.com/MrLesk/Backlog.md
 > https://news.ycombinator.com/item?id=44483530
 

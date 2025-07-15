@@ -30,6 +30,12 @@ https://www.amiunique.org/
 https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
 
 # Incidents
+https://news.ycombinator.com/item?id=44527739
+
+https://news.ycombinator.com/item?id=44544266
+
+https://news.ycombinator.com/item?id=44557348
+
 https://github.com/explainers-by-googlers/Partitioning-visited-links-history
 > https://www.bleepingcomputer.com/news/security/chrome-136-fixes-20-year-browser-history-privacy-risk/
 

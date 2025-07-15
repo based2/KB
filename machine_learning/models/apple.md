@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=44565668
+
+https://news.ycombinator.com/item?id=44570048
+
 https://news.ycombinator.com/item?id=44483485
 
 https://huggingface.co/apple/DiffuCoder-7B-cpGRPO

@@ -45,6 +45,9 @@ https://spectrum.ieee.org/quantum-programming-language-twist
 # Algorithms
 
 # Physics
+https://home.cern/news/news/physics/century-quantum-mechanics
+> https://news.ycombinator.com/item?id=44519470
+
 https://news.columbia.edu/news/coldest-lab-new-york-has-new-quantum-offering
 > https://news.ycombinator.com/item?id=40563744
 

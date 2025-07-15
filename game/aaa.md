@@ -50,6 +50,10 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=44535202
+
+https://news.ycombinator.com/item?id=44554734
+
 https://github.com/bdavidzhang/flower-garden-cli
 > https://news.ycombinator.com/item?id=44082472
 
