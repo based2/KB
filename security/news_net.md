@@ -41,6 +41,10 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.galacticadvisors.com/release/critical-vulnerabilities-in-network-detective/
+
+https://www.lrqa.com/en/cyber-labs/remote-code-execution-in-broadcom-altiris-irm/
+
 https://doublepulsar.com/citrixbleed-2-exploitation-started-mid-june-how-to-spot-it-f3106392aa71
 > https://www.theregister.com/2025/07/10/cisa_citrixbleed_kev/?td=keepreading
 

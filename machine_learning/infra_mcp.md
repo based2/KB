@@ -3,16 +3,6 @@ https://modelcontextprotocol.io/introduction
 https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
 
 #
-80.10.246.2
-
-https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/
-43.254.132[.]118
-146.70.24[.]144
-176.111.218[.]190
-113.161.16[.]130
-23.146.242[.]131
-58.247.195[.]208
-
 https://jp.security.ntt/tech_blog/contagious-interview-ottercookie
 
 https://news.ycombinator.com/item?id=44583014
