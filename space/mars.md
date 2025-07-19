@@ -21,6 +21,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/
+> https://news.ycombinator.com/item?id=44541662
+
 https://news.ycombinator.com/item?id=43495665
 
 https://news.ycombinator.com/item?id=43305842

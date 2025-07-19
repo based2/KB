@@ -18,6 +18,8 @@ https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-rive
 > https://news.ycombinator.com/item?id=36744135
 
 # Drone
+https://news.ycombinator.com/item?id=44572068
+
 https://www.aiaa.org/news/news/2025/02/03/pipistrel-flight-tests-nuuva-v300-hybrid-electric-vtol
 
 https://news.ycombinator.com/item?id=42617825
@@ -129,6 +131,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://www.popsci.com/technology/robots-in-china-subway-7-eleven-deliveries/
+
 https://news.ycombinator.com/item?id=44517649
 
 https://news.ycombinator.com/item?id=44456904

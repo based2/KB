@@ -6,6 +6,8 @@ https://github.com/easylist/easylist/issues/16372
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://www.universetoday.com/articles/a-rare-object-found-deep-in-the-kuiper-belt
+
 https://news.ycombinator.com/item?id=44186660
 
 https://news.ycombinator.com/item?id=43857191

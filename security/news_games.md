@@ -3,6 +3,9 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/
+> https://news.ycombinator.com/item?id=44609479
+
 https://news.ycombinator.com/item?id=44463960
 
 https://news.ycombinator.com/item?id=43972714
@@ -77,6 +80,9 @@ https://research.nccgroup.com/2023/12/19/retro-gaming-vulnerability-research-war
 https://news.ycombinator.com/item?id=38684034
 
 https://www.shadowstackre.com/analysis/rhysida
+
+https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/
+> https://news.ycombinator.com/item?id=44589384
 
 https://research.checkpoint.com/2019/hacking-fortnite/
 

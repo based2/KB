@@ -109,6 +109,14 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/Netflix/metaflow Build, Manage and Deploy AI/ML Systems
+> https://news.ycombinator.com/item?id=44586530
+
+https://github.com/dyoshikawa/rulesync
+
+https://burn.dev/blog/sota-multiplatform-matmul/
+> https://news.ycombinator.com/item?id=44609137
+
 https://kiro.dev/blog/introducing-kiro/
 > https://news.ycombinator.com/item?id=44560662
 

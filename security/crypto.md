@@ -150,6 +150,8 @@ https://azeemba.com/posts/homomorphic-encryption-with-images.html
 
 https://news.ycombinator.com/item?id=41111129
 
+https://www.jeremykun.com/frequently-asked-questions-about-fhe/
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

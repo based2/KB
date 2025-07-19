@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=44598254
+
+https://news.ycombinator.com/item?id=44610412 expand data processing to include infrastructure in multiple geographic regions
+
+https://news.ycombinator.com/item?id=44610925
+
 https://github.com/ryoppippi/ccusage
 
 https://docs.anthropic.com/en/docs/claude-code/hooks

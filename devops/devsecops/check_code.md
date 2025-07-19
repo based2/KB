@@ -12,3 +12,5 @@ https://news.ycombinator.com/item?id=40001194 python
 
 https://github.com/batfish/batfish
 > https://news.ycombinator.com/item?id=40612934
+
+https://socket.dev/blog/knip-hits-500-releases

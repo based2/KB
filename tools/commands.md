@@ -63,6 +63,9 @@ https://drew.shoes/posts/sup/ net send win
 https://news.ycombinator.com/item?id=40764113
 
 # News
+https://rockorager.dev/log/lsr-ls-but-with-io-uring/
+> https://news.ycombinator.com/item?id=44604050 ls io_uring
+
 https://news.ycombinator.com/item?id=44126612
 
 https://news.ycombinator.com/item?id=43410692

@@ -61,6 +61,12 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://kristoff.it/blog/asynchrony-is-not-concurrency/
+> https://lobste.rs/s/oeuohp/asynchrony_is_not_concurrency
+> https://news.ycombinator.com/item?id=44608754
+
+https://lobste.rs/s/f0um5j/async_rust_is_bad_language
+
 https://news.ycombinator.com/item?id=44545949
 
 https://news.ycombinator.com/item?id=44482194

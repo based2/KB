@@ -80,6 +80,8 @@ https://github.com/seq-lang/seq
 > https://news.ycombinator.com/item?id=28537179
 
 # Exotic
+https://100r.co/site/orca.html music lang
+
 https://news.ycombinator.com/item?id=39798542
 
 ## APL
@@ -323,6 +325,8 @@ https://cobolworx.com/pages/cobforgcc.html
 
 https://github.com/meyfa/CobolCraft
 > https://news.ycombinator.com/item?id=42513022
+
+https://news.ycombinator.com/item?id=44604257
 
 ## LISP
 http://www.paulgraham.com/bel.html

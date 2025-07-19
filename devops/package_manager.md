@@ -174,6 +174,10 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=44569032
+
+https://news.ycombinator.com/item?id=44585495
+
 https://fossa.com/blog/understanding-purl-specification-package-url/
 > https://news.ycombinator.com/item?id=44192955
 

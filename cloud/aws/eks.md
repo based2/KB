@@ -74,6 +74,8 @@ https://www.onepane.ai/blog/fluent-bit-modify-log-data-with-modify-filter-plugin
 https://www.wiz.io/blog/eks-cluster-access-management-and-pod-identity-security-recommendations
 
 #
+https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-ultra-scale-clusters/
+
 https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/
 > https://news.ycombinator.com/item?id=43320024
 

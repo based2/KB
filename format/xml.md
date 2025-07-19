@@ -47,7 +47,14 @@ https://x-stream.github.io/security.html
 
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2254
 
+# I
+https://blog.hartwork.org/posts/expat-2-4-4-released/ sec
+
 #
+https://news.ycombinator.com/item?id=44606646
+
+https://news.ycombinator.com/item?id=44612569
+
 https://news.ycombinator.com/item?id=44393817
 
 https://news.ycombinator.com/item?id=43502291
@@ -63,5 +70,3 @@ https://borretti.me/article/brief-defense-of-xml
 
 https://invisiblexml.org/ language for describing the implicit structure of data
 > https://news.ycombinator.com/item?id=32120230
-
-https://blog.hartwork.org/posts/expat-2-4-4-released/ sec

@@ -167,6 +167,8 @@ https://news.ycombinator.com/item?id=40954679
 
 https://news.ycombinator.com/item?id=41987352
 
+https://100r.co/site/orca.html music lang
+
 #
 https://news.ycombinator.com/item?id=44487366 Flute
 

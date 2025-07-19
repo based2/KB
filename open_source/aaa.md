@@ -261,6 +261,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://100r.co/site/home.html
+> https://news.ycombinator.com/item?id=44561516
+
 https://linuxfr.org/news/un-serveur-musical-pour-mon-salon
 
 https://news.ycombinator.com/item?id=44105148

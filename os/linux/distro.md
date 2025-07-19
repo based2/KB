@@ -99,22 +99,45 @@ https://neptuneos.com/en/about-neptune.html
 
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
-# News
-https://zorin.com/os/
-> https://news.ycombinator.com/item?id=44501034
+# Debian
+
+https://news.ycombinator.com/item?id=44611223
 
 https://optimizedbyotto.com/post/debian-packaging-from-git/
 > https://news.ycombinator.com/item?id=44098705
 
 https://lists.debian.org/debian-devel-announce/2025/05/msg00004.html
 
+https://news.ycombinator.com/item?id=43729427 apt
+
+https://mikecoats.com/debian-packaging-first-principles-part-1-simple/
+> https://news.ycombinator.com/item?id=41641367
+
+https://www.debian.org/News/2024/20240831 Debian releases 12.7 with 55 security updates and stability improvements
+> https://news.ycombinator.com/item?id=41411724
+
+https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html A new Debian package helper: debputy
+> https://news.ycombinator.com/item?id=39173031
+
+https://news.ycombinator.com/item?id=38738336 debian
+
+https://www.debian.org/News/2023/20230610 Bookworm
+> https://news.ycombinator.com/item?id=36269934
+
+https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html
+
+# News
+https://www.phoronix.com/news/Intel-Ends-Clear-Linux
+> https://news.ycombinator.com/item?id=44611270
+
+https://zorin.com/os/
+> https://news.ycombinator.com/item?id=44501034
+
 https://lwn.net/SubscriberLink/1017846/957a6970ed507964/
 
 https://news.itsfoss.com/ubuntu-25-04-release/
 
 https://news.itsfoss.com/systemd-particle-os/
-
-https://news.ycombinator.com/item?id=43729427 apt
 
 https://news.ycombinator.com/item?id=43653672
 
@@ -157,12 +180,6 @@ https://news.ycombinator.com/item?id=41816320
 
 https://news.ycombinator.com/item?id=41747966
 
-https://mikecoats.com/debian-packaging-first-principles-part-1-simple/
-> https://news.ycombinator.com/item?id=41641367
-
-https://www.debian.org/News/2024/20240831 Debian releases 12.7 with 55 security updates and stability improvements
-> https://news.ycombinator.com/item?id=41411724
-
 https://news.ycombinator.com/item?id=41150091
 
 https://news.ycombinator.com/item?id=41006492
@@ -194,9 +211,6 @@ https://news.ycombinator.com/item?id=40077751
 https://www.gobolinux.org/
 > https://news.ycombinator.com/item?id=39532650
 
-https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html A new Debian package helper: debputy
-> https://news.ycombinator.com/item?id=39173031
-
 https://news.ycombinator.com/item?id=39173229
 
 https://news.ycombinator.com/item?id=39155142
@@ -216,8 +230,6 @@ https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linu
 https://www.journalduhacker.net/s/4s0joy/fedora_40_va_fusionner_usr_sbin_et_usr_bin
 
 https://www.slitaz.org/en/about/ mem
-
-https://news.ycombinator.com/item?id=38738336 debian
 
 https://news.ycombinator.com/item?id=38696612
 
@@ -313,9 +325,6 @@ https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb
 https://www.suse.com/c/closing-the-leap-gap-src/
 > https://news.ycombinator.com/item?id=36443398
 
-https://www.debian.org/News/2023/20230610 Bookworm
-> https://news.ycombinator.com/item?id=36269934
-
 https://borretti.me/article/nixos-for-the-impatient
 > https://news.ycombinator.com/item?id=36260626
 
@@ -403,8 +412,6 @@ https://rwmj.wordpress.com/2023/02/02/fedora-now-has-frame-pointers/
 
 https://blendos.co/
 > https://news.ycombinator.com/item?id=34578197
-
-https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html
 
 https://communityblog.fedoraproject.org/cpe-weekly-update-week-3-2023/
 

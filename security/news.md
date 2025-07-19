@@ -1,3 +1,10 @@
+https://news.ycombinator.com/item?id=44592377
+
+https://www.reuters.com/world/us/microsoft-stop-using-engineers-china-tech-support-us-military-hegseth-orders-2025-07-18/
+> https://news.ycombinator.com/item?id=44611264
+
+https://news.ycombinator.com/item?id=44579902
+
 https://news.ycombinator.com/item?id=44570363
 
 https://news.ycombinator.com/item?id=44556406

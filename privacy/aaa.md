@@ -153,15 +153,11 @@ https://news.ycombinator.com/item?id=43970637
 
 https://news.ycombinator.com/item?id=43858080
 
-https://www.techdirt.com/2025/04/21/microsoft-is-dedicated-to-building-a-dodgy-new-database-of-every-windows-11-users-online-behaviors/
-
 https://news.ycombinator.com/item?id=43741273
 
 https://news.ycombinator.com/item?id=43716704
 
 https://news.ycombinator.com/item?id=43730545
-
-https://www.bleepingcomputer.com/news/technology/meta-to-resume-ai-training-on-content-shared-by-europeans/
 
 https://news.ycombinator.com/item?id=43648444
 
@@ -181,9 +177,6 @@ https://news.ycombinator.com/item?id=43129439
 
 https://news.ycombinator.com/item?id=43128253
 
-https://www.bbc.com/news/articles/c4gex0x87g4o South Korean regulator accuses DeepSeek of sharing user data with ByteDance
-> https://news.ycombinator.com/item?id=43094651
-
 https://news.ycombinator.com/item?id=43093328
 
 https://news.ycombinator.com/item?id=43054632
@@ -195,8 +188,6 @@ https://news.ycombinator.com/item?id=43056710
 https://news.ycombinator.com/item?id=42909921
 
 https://news.ycombinator.com/item?id=42970400
-
-https://thehackernews.com/2025/01/italy-bans-chinese-deepseek-ai-over.html
 
 https://news.ycombinator.com/item?id=42909921
 
@@ -254,8 +245,6 @@ https://news.ycombinator.com/item?id=41224070
 https://news.ycombinator.com/item?id=41116414
 
 https://news.ycombinator.com/item?id=41111145
-
-https://www.bleepingcomputer.com/news/security/x-begins-training-grok-ai-with-your-posts-heres-how-to-disable/
 
 https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/
 > https://news.ycombinator.com/item?id=40998647

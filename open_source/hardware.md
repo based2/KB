@@ -146,6 +146,8 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://news.ycombinator.com/item?id=44610130
+
 https://github.com/lraton/FlopperZiro
 > https://news.ycombinator.com/item?id=44512763
 

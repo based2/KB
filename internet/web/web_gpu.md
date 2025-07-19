@@ -67,3 +67,6 @@ https://github.com/lisyarus/webgpu-raytracer
 > https://news.ycombinator.com/item?id=42516433
 
 https://news.ycombinator.com/item?id=42623593
+
+https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/
+> https://news.ycombinator.com/item?id=44579317

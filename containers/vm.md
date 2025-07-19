@@ -101,5 +101,7 @@ https://news.ycombinator.com/item?id=44031385 wsl
 
 https://news.ycombinator.com/item?id=44135977
 
+https://forum.proxmox.com/threads/proxmox-ve-9-0-beta-released.168618/
+
 # I
 https://news.ycombinator.com/item?id=43994306

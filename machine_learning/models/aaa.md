@@ -19,6 +19,8 @@ https://github.com/simonw/llm
 
 https://medium.com/@saverio3107/arena-elo-rating-system-5655e16fead5
 
+https://eqbench.com/
+
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -209,6 +211,8 @@ https://news.ycombinator.com/item?id=43796935 70% Size, 100% Accuracy: Lossless 
 https://news.ycombinator.com/item?id=43817377 Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models
 
 https://news.ycombinator.com/item?id=43866797
+
+https://news.ycombinator.com/item?id=44595811
 
 # Sec
 https://news.ycombinator.com/item?id=43994486

@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://www.reuters.com/world/uk/uk-discovers-russian-espionage-tool-sanctions-gru-officers-over-cyberattacks-2025-07-18/?utm_source=reddit.com
+
 https://news.ycombinator.com/item?id=44443832
 
 https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/

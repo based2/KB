@@ -120,6 +120,15 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://socket.dev/blog/npm-phishing-email-targets-developers-with-typosquatted-domain
+
+https://www.stepsecurity.io/blog/supply-chain-security-alert-eslint-config-prettier-package-shows-signs-of-compromise
+> https://news.ycombinator.com/item?id=44609732
+> https://github.com/prettier/eslint-config-prettier/issues/339
+
+https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/
+> https://news.ycombinator.com/item?id=44610001
+
 https://news.ycombinator.com/item?id=44539879 Malware found in official gravityforms plugin indicating supply chain breach
 
 https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo

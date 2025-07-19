@@ -98,6 +98,8 @@ https://blog.asciinema.org/post/smaller-faster/
 https://madned.substack.com/p/ascii-double-murder
 > https://news.ycombinator.com/item?id=35004503
 
+https://news.ycombinator.com/item?id=44569019
+
 #
 https://blogs.oracle.com/mysql/mysql%3a-character-sets%2c-unicode%2c-and-uca-compliant-collations
 

@@ -77,6 +77,8 @@ https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 https://news.ycombinator.com/item?id=44009848
 
 # News
+https://news.ycombinator.com/item?id=44570089
+
 https://datafusion.apache.org/
 
 https://github.com/jgarzik/sqawk
