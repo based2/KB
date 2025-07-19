@@ -67,6 +67,8 @@ https://news.ycombinator.com/item?id=38471475
 
 https://news.ycombinator.com/item?id=43080378
 
+https://github.com/Atelier-Logos/platform.atelierlogos.studio
+
 # ML
 https://github.com/iris-sast/iris
 

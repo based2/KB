@@ -40,6 +40,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://destevez.net/2025/07/n78-band-5g-nr-recordings/
+
 https://news.ycombinator.com/item?id=44535977
 
 https://news.ycombinator.com/item?id=44116412

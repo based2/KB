@@ -94,6 +94,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai
+> https://news.ycombinator.com/item?id=44616479
+> https://gist.github.com/swerner/b7fd285ec3f2edbcc55ebccdaffc950a
+
 https://news.ycombinator.com/item?id=44542578
 
 https://news.ycombinator.com/item?id=44522772
