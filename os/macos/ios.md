@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44636774
+
 https://daduckmsft.github.io/WiFiProfileGenerator/
 > https://news.ycombinator.com/item?id=38824644
 

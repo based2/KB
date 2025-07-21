@@ -55,6 +55,8 @@ https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-t
 
 https://news.ycombinator.com/item?id=42786627
 
+https://news.ycombinator.com/item?id=44591775
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

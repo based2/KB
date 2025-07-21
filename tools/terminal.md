@@ -287,3 +287,6 @@ https://github.com/charmbracelet/gum
 > https://news.ycombinator.com/item?id=39572528
 
 https://news.ycombinator.com/item?id=41639976
+
+https://utkarshkanwat.com/writing/betting-against-agents/
+> https://news.ycombinator.com/item?id=44627590

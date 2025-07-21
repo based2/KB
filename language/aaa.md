@@ -387,6 +387,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://viralinstruction.com/posts/borrowchecker/
+> https://news.ycombinator.com/item?id=44618535
+
+https://news.ycombinator.com/item?id=44590034
+
 https://news.ycombinator.com/item?id=44013157
 
 https://suberic.net/~dmm/projects/mystical/README.html

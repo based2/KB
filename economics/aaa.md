@@ -290,6 +290,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://news.ycombinator.com/item?id=44620011
+
 https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/
 > https://news.ycombinator.com/item?id=44612023
 

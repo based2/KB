@@ -34,6 +34,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://source.colostate.edu/csu-students-3d-printing-project-improves-campus-wi-fi-saves-thousands-of-dollars/
+
 https://news.ycombinator.com/item?id=44426726
 
 https://news.ycombinator.com/item?id=43379129

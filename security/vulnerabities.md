@@ -84,6 +84,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://socket.dev/blog/new-cve-forecasting-tool-predicts-47-000-disclosures-in-2025
+
 https://news.ycombinator.com/item?id=44567925
 
 https://www.enisa.europa.eu/news/another-step-forward-towards-responsible-vulnerability-disclosure-in-europe

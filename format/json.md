@@ -78,6 +78,9 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://github.com/noperator/jqfmt
+> https://news.ycombinator.com/item?id=44637716
+
 https://news.ycombinator.com/item?id=44469880
 
 https://news.ycombinator.com/item?id=44147945

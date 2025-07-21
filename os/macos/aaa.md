@@ -511,6 +511,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://github.com/KrishKrosh/TrackWeight
+> https://news.ycombinator.com/item?id=44635808
+
 https://christianselig.com/2025/07/repaste-macbook/
 > https://news.ycombinator.com/item?id=44531569
 

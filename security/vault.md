@@ -160,6 +160,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/
+> https://news.ycombinator.com/item?id=44636691
+
 https://openbao.org/blog/namespaces-announcement/
 > https://news.ycombinator.com/item?id=44132486
 

@@ -383,6 +383,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=44590034
+
 https://news.ycombinator.com/item?id=44614370
 
 https://news.ycombinator.com/item?id=44579717

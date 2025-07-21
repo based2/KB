@@ -59,6 +59,8 @@ https://fctorial.github.io/posts/tst.html
 https://bsless.github.io/stressed-servers/
 > https://github.com/bsless/stress-server
 
+https://news.ycombinator.com/item?id=44616405
+
 # ClosureScript
 https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/
 > https://news.ycombinator.com/item?id=27089576

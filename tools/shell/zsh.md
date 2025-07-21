@@ -21,3 +21,5 @@ https://scriptingosx.com/2019/06/moving-to-zsh/
 > https://news.ycombinator.com/item?id=32186638
 
 https://news.ycombinator.com/item?id=41757713
+
+https://news.ycombinator.com/item?id=44626363

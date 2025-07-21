@@ -109,6 +109,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/
+> https://news.ycombinator.com/item?id=44617184
+
 https://github.com/Netflix/metaflow Build, Manage and Deploy AI/ML Systems
 > https://news.ycombinator.com/item?id=44586530
 

@@ -38,6 +38,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://github.com/tidwall/pogocache
+> https://news.ycombinator.com/item?id=44638076
+
 https://news.ycombinator.com/item?id=44537760
 
 https://news.ycombinator.com/item?id=44432506

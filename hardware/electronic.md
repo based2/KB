@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://github.com/revk/ESP32-Faikin
+> https://news.ycombinator.com/item?id=44631594
+
 https://techlib.com/electronics/lightningnew.htm
 > https://news.ycombinator.com/item?id=44561104
 

@@ -122,6 +122,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=44618762
+
 https://news.ycombinator.com/item?id=44501821
 
 https://sus-lang.org/ Hardware Description Language

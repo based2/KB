@@ -87,6 +87,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # I
+https://news.ycombinator.com/item?id=44625119
+
 https://news.ycombinator.com/item?id=44466826
 
 https://news.ycombinator.com/item?id=44087150
@@ -94,6 +96,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://antirez.com/news/154 Coding with LLMs in the summer of 2025 – an update
+> https://news.ycombinator.com/item?id=44623953
+
 https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai
 > https://news.ycombinator.com/item?id=44616479
 > https://gist.github.com/swerner/b7fd285ec3f2edbcc55ebccdaffc950a

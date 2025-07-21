@@ -123,3 +123,5 @@ https://news.ycombinator.com/item?id=44187645
 https://news.ycombinator.com/item?id=44498133
 
 https://news.ycombinator.com/item?id=44504250
+
+https://news.ycombinator.com/item?id=44591305

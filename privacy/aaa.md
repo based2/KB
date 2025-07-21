@@ -123,6 +123,13 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=44636896
+
+https://news.ycombinator.com/item?id=44637700
+
+https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/
+> https://news.ycombinator.com/item?id=44624114
+
 https://news.ycombinator.com/item?id=44478279
 
 https://news.ycombinator.com/item?id=44471359

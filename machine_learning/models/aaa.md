@@ -1,5 +1,8 @@
 An introduction to large language models and their relevance for statistical https://op.europa.eu/en/publication-detail/-/publication/f4a703b3-ea60-11ee-bf53-01aa75ed71a1/language-en
 
+https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+> https://news.ycombinator.com/item?id=44622608
+
 https://mistral.ai/news/announcing-mistral-7b/
 
 https://huggingface.co/
@@ -214,6 +217,8 @@ https://news.ycombinator.com/item?id=43866797
 
 https://news.ycombinator.com/item?id=44595811
 
+https://arxiv.org/abs/2507.12472 Survey of AIOps in the Era of Large Language Models
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
 
@@ -223,6 +228,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://accounting.penrose.com/
+> https://news.ycombinator.com/item?id=44637352
+
 https://tomrenner.com/posts/llm-inevitabilism/
 > https://news.ycombinator.com/item?id=44567857
 

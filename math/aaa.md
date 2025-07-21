@@ -217,6 +217,8 @@ https://news.ycombinator.com/item?id=43985489
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=44600070
+
 https://news.ycombinator.com/item?id=44439242
 
 https://news.ycombinator.com/item?id=44405937

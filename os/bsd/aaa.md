@@ -43,6 +43,10 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://news.ycombinator.com/item?id=44627793
+
+https://undeadly.org/cgi?action=article;sid=20250717103345
+
 https://news.ycombinator.com/item?id=44602532 When root meets immutable: OpenBSD chflags vs. log tampering
 
 https://news.ycombinator.com/item?id=43143777

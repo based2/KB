@@ -252,6 +252,8 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons
+
 https://news.ycombinator.com/item?id=44538669
 
 https://macwright.com/2025/07/03/epanet-placemark
