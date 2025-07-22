@@ -1,3 +1,5 @@
+https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai
+
 https://news.ycombinator.com/item?id=44574204
 
 https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/

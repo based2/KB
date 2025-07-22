@@ -1,3 +1,5 @@
+https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack
+
 https://news.ycombinator.com/item?id=44592377
 
 https://www.reuters.com/world/us/microsoft-stop-using-engineers-china-tech-support-us-military-hegseth-orders-2025-07-18/

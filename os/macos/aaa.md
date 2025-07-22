@@ -185,6 +185,8 @@ pfctl: DIOCXCOMMIT: Resource busy
 
 https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-apple-system-services-wants-to-use-the-login-key
 
+https://news.ycombinator.com/item?id=44606653
+
 # Dev
 https://news.ycombinator.com/item?id=42908061
 

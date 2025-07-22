@@ -58,6 +58,8 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://news.ycombinator.com/item?id=44632240
+
 https://proofnet.de/publikationen/konsole_rce.html
 
 https://www.stratascale.com/vulnerability-alert-CVE-2025-32462-sudo-host sudo

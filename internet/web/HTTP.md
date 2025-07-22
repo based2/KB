@@ -214,6 +214,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=44647600
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport
 > https://news.ycombinator.com/item?id=44465206
 

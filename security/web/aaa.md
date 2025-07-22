@@ -62,3 +62,5 @@ https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-invol
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Integrity-Policy
 > https://lobste.rs/s/bputka/integrity_policy_header
+
+https://news.ycombinator.com/item?id=44648957

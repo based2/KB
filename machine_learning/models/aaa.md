@@ -219,6 +219,8 @@ https://news.ycombinator.com/item?id=44595811
 
 https://arxiv.org/abs/2507.12472 Survey of AIOps in the Era of Large Language Models
 
+https://news.ycombinator.com/item?id=44650840
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
 

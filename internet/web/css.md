@@ -95,6 +95,11 @@ https://news.ycombinator.com/item?id=41147933
 
 https://news.ycombinator.com/item?id=42232424
 
+https://news.ycombinator.com/item?id=44649036
+
+https://daisyui.com/
+> https://news.ycombinator.com/item?id=44646869
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916
