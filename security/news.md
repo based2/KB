@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44672003
+
 https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack
 
 https://news.ycombinator.com/item?id=44592377

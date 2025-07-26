@@ -261,6 +261,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=44669858
+
 https://100r.co/site/home.html
 > https://news.ycombinator.com/item?id=44561516
 

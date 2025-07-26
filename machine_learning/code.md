@@ -96,6 +96,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=44671601
+
+https://news.ycombinator.com/item?id=44634469
+
 https://antirez.com/news/154 Coding with LLMs in the summer of 2025 – an update
 > https://news.ycombinator.com/item?id=44623953
 

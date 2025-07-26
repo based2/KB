@@ -387,6 +387,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=44684168 null
+
+https://news.ycombinator.com/item?id=44685669
+
+https://news.ycombinator.com/item?id=44640471
+
 https://viralinstruction.com/posts/borrowchecker/
 > https://news.ycombinator.com/item?id=44618535
 

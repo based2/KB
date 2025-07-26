@@ -112,6 +112,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://socket.dev/blog/npm-is-package-hijacked-in-expanding-supply-chain-attack
+
 https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/
 
 https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code
@@ -174,6 +176,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=44646925
+
 https://news.ycombinator.com/item?id=44569032
 
 https://news.ycombinator.com/item?id=44585495

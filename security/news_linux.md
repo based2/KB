@@ -25,6 +25,8 @@ https://secureblue.dev/
 https://github.com/a13xp0p0v/linux-kernel-defence-map
 > https://news.ycombinator.com/item?id=43597264
 
+https://news.ycombinator.com/item?id=44619485
+
 # Tools
 https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html
 > https://news.ycombinator.com/item?id=39804214

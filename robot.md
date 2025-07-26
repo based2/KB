@@ -133,6 +133,10 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://news.ycombinator.com/item?id=44666353
+
+https://news.ycombinator.com/item?id=44661846
+
 https://www.popsci.com/technology/robots-in-china-subway-7-eleven-deliveries/
 
 https://news.ycombinator.com/item?id=44517649

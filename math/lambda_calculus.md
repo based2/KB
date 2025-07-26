@@ -1,6 +1,8 @@
 https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-handout.pdf
 > https://news.ycombinator.com/item?id=27648871
 
+https://news.ycombinator.com/item?id=44682626 diagram
+
 https://news.ycombinator.com/item?id=43148032
 
 https://mvanier.livejournal.com/2897.html Y combinator

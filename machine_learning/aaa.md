@@ -633,6 +633,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44660323
+
 https://blog.eladgil.com/p/ai-market-clarity
 > https://news.ycombinator.com/item?id=44649817
 

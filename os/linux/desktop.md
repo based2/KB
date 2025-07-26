@@ -116,6 +116,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=44683011
+
 https://news.ycombinator.com/item?id=44637151
 
 https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power

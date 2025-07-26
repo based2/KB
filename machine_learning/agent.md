@@ -174,4 +174,6 @@ https://news.ycombinator.com/item?id=44560662
 https://news.ycombinator.com/item?id=44542163
 
 # I
+https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/
+
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

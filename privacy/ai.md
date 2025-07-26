@@ -1,3 +1,6 @@
+https://proton.me/blog/lumo-ai
+> https://news.ycombinator.com/item?id=44657556
+
 https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html
 > https://news.ycombinator.com/item?id=44607838
 

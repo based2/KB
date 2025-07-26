@@ -32,6 +32,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 https://news.ycombinator.com/item?id=36889610
 
 # News
+https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view
+
 https://news.ycombinator.com/item?id=43359412
 
 https://news.ycombinator.com/item?id=43265303

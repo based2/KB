@@ -109,6 +109,11 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://developers.googleblog.com/en/introducing-opal/
+> https://news.ycombinator.com/item?id=44681786
+
+https://news.ycombinator.com/item?id=44674830
+
 https://news.ycombinator.com/item?id=44637715
 
 https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/

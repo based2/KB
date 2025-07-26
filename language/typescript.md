@@ -113,6 +113,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=44634143
+
 https://news.ycombinator.com/item?id=44611467 Bun
 
 https://news.ycombinator.com/item?id=44080808

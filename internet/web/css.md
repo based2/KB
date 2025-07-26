@@ -100,6 +100,8 @@ https://news.ycombinator.com/item?id=44649036
 https://daisyui.com/
 > https://news.ycombinator.com/item?id=44646869
 
+https://news.ycombinator.com/item?id=44686317
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916
@@ -154,6 +156,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://news.ycombinator.com/item?id=44658009
+
 https://news.ycombinator.com/item?id=44445091 if
 
 https://garden.bradwoods.io/

@@ -155,6 +155,12 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.starlink.com/us
+> https://news.ycombinator.com/item?id=44674960
+
+https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html
+> https://news.ycombinator.com/item?id=44670326
+
 https://www.infostealers.com/article/pakistan-telecommunication-company-ptcl-targeted-by-bitter-apt-during-heightened-regional-conflict/
 
 https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/

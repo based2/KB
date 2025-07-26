@@ -73,6 +73,8 @@ https://signalsandthreads.com/clock-synchronization/
 https://www.usenix.org/system/files/osdi20-li_yuliang.pdf
 
 # Calendar
+https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/
+
 https://news.ycombinator.com/item?id=44068204
 
 https://osmcal.org/
@@ -284,6 +286,10 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://news.ycombinator.com/item?id=44686246
+
+https://news.ycombinator.com/item?id=44685875
+
 https://news.ycombinator.com/item?id=44540241 js
 
 https://news.ycombinator.com/item?id=44095176

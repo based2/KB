@@ -60,6 +60,8 @@ https://www.bortzmeyer.org/9718.html
 https://egbert.net/blog/articles/dns-dnssec-private.html
 > https://news.ycombinator.com/item?id=44146145
 
+https://www.theregister.com/2025/07/25/systems_approach_column_dns_security/
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times

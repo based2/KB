@@ -109,6 +109,13 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://github.com/manticoresoftware/manticoresearch
+> https://news.ycombinator.com/item?id=44658978
+
+https://news.ycombinator.com/item?id=44663227
+
+https://news.ycombinator.com/item?id=44687766
+
 https://news.ycombinator.com/item?id=44116503
 
 https://news.ycombinator.com/item?id=43829490

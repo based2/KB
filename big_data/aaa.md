@@ -215,6 +215,8 @@ https://xcorr.net/2021/06/02/dynamic-scientific-visualizations-in-the-browser-fo
 https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039
 > https://news.ycombinator.com/item?id=27581336
 
+https://news.ycombinator.com/item?id=44634598
+
 # Database
 
 https://trino.io/

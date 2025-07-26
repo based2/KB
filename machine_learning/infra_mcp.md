@@ -3,6 +3,8 @@ https://modelcontextprotocol.io/introduction
 https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
 
 #
+https://news.ycombinator.com/item?id=44671601
+
 https://socket.dev/blog/mcp-spec-updated-to-add-structured-tool-output-and-improved-oauth-2-1-compliance
 
 https://jp.security.ntt/tech_blog/contagious-interview-ottercookie

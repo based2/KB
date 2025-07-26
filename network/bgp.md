@@ -38,6 +38,8 @@ https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath
 
 https://news.ycombinator.com/item?id=42353778
 
+https://news.ycombinator.com/item?id=44665815
+
 # Incidents
 https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/
 

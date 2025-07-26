@@ -156,6 +156,8 @@ https://news.ycombinator.com/item?id=42627245
 
 https://news.ycombinator.com/item?id=43057375
 
+https://news.ycombinator.com/item?id=44634030
+
 # Profiler
 
 https://github.com/bloomberg/memray

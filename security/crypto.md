@@ -217,6 +217,8 @@ https://news.ycombinator.com/item?id=44471251
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=44684212
+
 https://news.ycombinator.com/item?id=44605169
 
 https://words.filippo.io/passkey-encryption/

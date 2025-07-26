@@ -179,6 +179,12 @@ https://news.ycombinator.com/item?id=44463967
 https://blog.luden.io/generating-prototypes-from-game-design-document-with-cursor-zed-and-l%C3%B6ve-7b8d932194d7
 
 # News
+https://kubicki.org/workbench/brain-box/
+
+https://news.ycombinator.com/item?id=44680547
+
+https://news.ycombinator.com/item?id=44683682 vehicle
+
 https://news.ycombinator.com/item?id=44472812
 
 https://news.ycombinator.com/item?id=44444916 tetra

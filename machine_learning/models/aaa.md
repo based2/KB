@@ -230,6 +230,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44693803
+
 https://accounting.penrose.com/
 > https://news.ycombinator.com/item?id=44637352
 

@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=44685342
+
 https://news.ycombinator.com/item?id=43558182
 
 https://news.ycombinator.com/item?id=42314547
