@@ -330,6 +330,8 @@ https://news.ycombinator.com/item?id=43517585
 
 https://news.ycombinator.com/item?id=44185913
 
+https://tech.slashdot.org/story/25/07/25/0133216/american-airlines-chief-blasts-deltas-ai-pricing-plans-as-inappropriate
+
 # History
 https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/
 > https://news.ycombinator.com/item?id=44146339

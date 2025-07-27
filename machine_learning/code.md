@@ -87,6 +87,9 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # I
+https://research.eye.security/how-we-rooted-copilot/
+> https://news.ycombinator.com/item?id=44695098
+
 https://news.ycombinator.com/item?id=44625119
 
 https://news.ycombinator.com/item?id=44466826

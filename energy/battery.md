@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://hardware.slashdot.org/story/25/07/25/0022231/mercedes-benz-is-already-testing-solid-state-batteries-in-evs-with-over-600-miles-range
+
 https://news.ycombinator.com/item?id=44685067
 
 https://news.ycombinator.com/item?id=44637137

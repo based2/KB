@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.slashdot.org/story/25/07/25/181205/the-manmade-clouds-that-could-help-save-the-great-barrier-reef
+
 https://news.ycombinator.com/item?id=44642927
 
 https://news.ycombinator.com/item?id=44515210

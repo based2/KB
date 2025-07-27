@@ -132,6 +132,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide
+> https://news.ycombinator.com/item?id=44658665
+
 https://news.ycombinator.com/item?id=44669318
 
 https://news.ycombinator.com/item?id=44613947

@@ -50,6 +50,9 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
+> https://news.ycombinator.com/item?id=44691935
+
 https://news.ycombinator.com/item?id=44614372
 
 https://news.ycombinator.com/item?id=44535202

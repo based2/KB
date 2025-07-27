@@ -1,3 +1,7 @@
+https://cside.dev/blog/cryptojacking-is-dead-long-live-cryptojacking
+
+https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/
+
 https://news.ycombinator.com/item?id=44672003
 
 https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack

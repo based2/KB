@@ -54,6 +54,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://linux.slashdot.org/story/25/07/25/1950226/linux-kernel-could-soon-expose-every-line-ai-helps-write
+
 https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/
 
 https://github.com/vvaltchev/tilck

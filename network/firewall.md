@@ -100,6 +100,8 @@ https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-conte
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://news.ycombinator.com/item?id=44657803
+
 https://news.ycombinator.com/item?id=44463747
 
 https://github.com/puzed/wrapguard

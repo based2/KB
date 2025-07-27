@@ -60,6 +60,9 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://nvd.nist.gov/vuln/detail/CVE-2025-53905 vim
+> https://old.reddit.com/r/netsec/comments/1m4yeqf/path_traversal_in_vim_tar_archive_cve202553905/
+
 https://news.ycombinator.com/item?id=44632240
 
 https://proofnet.de/publikationen/konsole_rce.html
