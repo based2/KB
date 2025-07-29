@@ -117,6 +117,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://news.ycombinator.com/item?id=44695364
+
 https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft
 
 https://ephemeral.cx/2023/09/five-of-the-best-fly-in-camping-airports-in-washington/

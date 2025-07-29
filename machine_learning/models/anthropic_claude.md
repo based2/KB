@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44713757
+
 https://news.ycombinator.com/item?id=44598254
 
 https://news.ycombinator.com/item?id=44610412 expand data processing to include infrastructure in multiple geographic regions

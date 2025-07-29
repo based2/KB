@@ -261,6 +261,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.neowin.net/news/linux-dev-quits-after-personal-attacks-from-user-over-kapitano-antivirus-tool/
+> https://news.ycombinator.com/item?id=44711788
+
 https://news.ycombinator.com/item?id=44669858
 
 https://100r.co/site/home.html

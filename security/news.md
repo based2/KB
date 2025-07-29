@@ -1,3 +1,5 @@
+https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/#more-71635
+
 https://cside.dev/blog/cryptojacking-is-dead-long-live-cryptojacking
 
 https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/

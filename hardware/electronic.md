@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+http://a64.in/posts/learning-basic-electronics-by-building-fireflies/
+> https://news.ycombinator.com/item?id=44725757
+
 https://github.com/revk/ESP32-Faikin
 > https://news.ycombinator.com/item?id=44631594
 

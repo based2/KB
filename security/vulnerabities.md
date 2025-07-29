@@ -84,6 +84,9 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html
+> https://news.ycombinator.com/item?id=44724287
+
 https://socket.dev/blog/new-cve-forecasting-tool-predicts-47-000-disclosures-in-2025
 
 https://news.ycombinator.com/item?id=44567925

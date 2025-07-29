@@ -178,6 +178,9 @@ https://news.ycombinator.com/item?id=44463967
 
 https://blog.luden.io/generating-prototypes-from-game-design-document-with-cursor-zed-and-l%C3%B6ve-7b8d932194d7
 
+https://www.kathaaverse.com/
+> https://news.ycombinator.com/item?id=44725202
+
 # News
 https://kubicki.org/workbench/brain-box/
 

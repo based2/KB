@@ -1,3 +1,5 @@
+https://support.apple.com/en-us/100100 29 Jul 2025: iPhone / MacOS / +
+
 https://iyanmv.medium.com/setting-up-correctly-packet-filter-pf-firewall-on-any-macos-from-sierra-to-big-sur-47e70e062a0e
 
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware

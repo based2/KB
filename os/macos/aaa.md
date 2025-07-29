@@ -188,6 +188,8 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://notes.billmill.org/computer_usage/mac_os/debugging_os_x.html
+
 https://news.ycombinator.com/item?id=42908061
 
 https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/

@@ -36,4 +36,6 @@ https://koshka.love/babel/irc-forever.html
 
 https://news.ycombinator.com/item?id=43715306
 
+https://news.ycombinator.com/item?id=44705494
+
 

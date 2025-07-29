@@ -86,6 +86,8 @@ https://news.ycombinator.com/item?id=42991019
 https://github.com/akavel/clawtype
 > https://news.ycombinator.com/item?id=43590775
 
+https://news.ycombinator.com/item?id=44704422
+
 # Mouse
 https://github.com/madprops/blog/blob/main/mouse.md
 > https://news.ycombinator.com/item?id=34739163
@@ -122,6 +124,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=44675438
+
 https://news.ycombinator.com/item?id=44693815
 
 https://news.ycombinator.com/item?id=44685050

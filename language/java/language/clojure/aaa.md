@@ -99,6 +99,8 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://news.ycombinator.com/item?id=44723818
+
 https://jank-lang.org/blog/2025-07-11-jank-is-cpp/
 > https://news.ycombinator.com/item?id=44534787
 

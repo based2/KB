@@ -123,6 +123,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=44705240
+
 https://news.ycombinator.com/item?id=44691312
 
 https://news.ycombinator.com/item?id=44636896

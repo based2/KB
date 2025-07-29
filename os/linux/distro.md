@@ -127,6 +127,9 @@ https://www.debian.org/News/2023/20230610 Bookworm
 https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html
 
 # News
+https://www.theregister.com/2025/07/25/y2k38_bug_debian/
+> https://news.ycombinator.com/item?id=44709408
+
 https://www.phoronix.com/news/Intel-Ends-Clear-Linux
 > https://news.ycombinator.com/item?id=44611270
 

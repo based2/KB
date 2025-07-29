@@ -635,6 +635,15 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://arxiv.org/abs/2506.21734 Hierarchical Reasoning Model
+> https://news.ycombinator.com/item?id=44699452
+
+https://news.ycombinator.com/item?id=44672230
+
+https://news.ycombinator.com/item?id=44711075
+
+https://news.ycombinator.com/item?id=44711106
+
 https://news.ycombinator.com/item?id=44660323
 
 https://blog.eladgil.com/p/ai-market-clarity

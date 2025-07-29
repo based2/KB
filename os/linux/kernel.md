@@ -54,6 +54,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/
+> https://news.ycombinator.com/item?id=44726551
+
 https://linux.slashdot.org/story/25/07/25/1950226/linux-kernel-could-soon-expose-every-line-ai-helps-write
 
 https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/

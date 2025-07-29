@@ -71,3 +71,5 @@ https://ohmjs.org/
 
 https://xnacly.me/posts/2025/fast-lexer-strategies/
 > https://news.ycombinator.com/item?id=44560871
+
+https://news.ycombinator.com/item?id=44666824

@@ -48,5 +48,9 @@ https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
 https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 
 # I
+https://tracebit.com/blog/code-exec-deception-gemini-ai-cli-hijack
+> https://old.reddit.com/r/netsec/comments/1mc5pdm/google_gemini_ai_cli_hijack_code_execution/
+> https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/
+
 https://news.ycombinator.com/item?id=43508418
 
