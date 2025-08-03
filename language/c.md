@@ -81,6 +81,8 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=44733968
+
 https://news.ycombinator.com/item?id=44656472
 
 https://news.ycombinator.com/item?id=44496229 SIMD

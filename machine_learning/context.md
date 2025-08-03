@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44718173
+
 https://news.ycombinator.com/item?id=44613072
 
 https://nlp.elvissaravia.com/p/context-engineering-guide

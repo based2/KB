@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=44755279 deep
+
+https://news.ycombinator.com/item?id=44747457 rag context embedding
+
 https://news.ycombinator.com/item?id=44648926
 
 https://news.ycombinator.com/item?id=44193328

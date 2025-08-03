@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://pixieditor.net/blog/2025/07/30/20-release/
+> https://news.ycombinator.com/item?id=44746583
+
 https://news.ycombinator.com/item?id=44686164
 
 https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/

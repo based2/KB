@@ -173,6 +173,13 @@ https://news.ycombinator.com/item?id=44560662
 
 https://news.ycombinator.com/item?id=44542163
 
+https://news.ycombinator.com/item?id=44761299
+
+https://arxiv.org/abs/2507.22358 Magentic-UI: Towards Human-in-the-Loop Agentic Systems
+> https://news.ycombinator.com/item?id=44746321
+
+https://news.ycombinator.com/item?id=44712315
+
 # I
 https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/
 

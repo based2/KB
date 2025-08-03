@@ -123,3 +123,8 @@ https://news.ycombinator.com/item?id=43605003
 
 https://github.com/freeman-jiang/beatsync
 > https://news.ycombinator.com/item?id=43835584
+
+https://github.com/pontoon-data/Pontoon Open source data export platform. For devs who ship data to their customers Python
+> https://github.com/pontoon-data/Pontoon?tab=License-1-ov-file#readme MIT Elastic License 2.0 (ELv2)
+> https://github.com/pontoon-data/Pontoon/blob/master/docs/docs/getting-started/architecture.md
+> https://news.ycombinator.com/item?id=44758281

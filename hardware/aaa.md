@@ -124,6 +124,11 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.dougmacdowell.com/coffeematic-pc.html
+> https://news.ycombinator.com/item?id=44762880
+
+https://news.ycombinator.com/item?id=44767125
+
 https://news.ycombinator.com/item?id=44675438
 
 https://news.ycombinator.com/item?id=44693815

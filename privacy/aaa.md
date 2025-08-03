@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://www.theregister.com/2025/07/31/7_years_of_back_debt/
+
 https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad
 > https://news.ycombinator.com/item?id=44411069
 
@@ -123,6 +125,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=44755528
+
 https://news.ycombinator.com/item?id=44705240
 
 https://news.ycombinator.com/item?id=44691312

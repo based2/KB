@@ -62,6 +62,8 @@ https://news.ycombinator.com/item?id=39538335
 https://news.ycombinator.com/item?id=42306742
 
 #
+https://news.ycombinator.com/item?id=44733817 oxide
+
 https://news.ycombinator.com/item?id=44613625
 
 https://news.ycombinator.com/item?id=44612151

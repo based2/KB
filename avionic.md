@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 https://news.ycombinator.com/item?id=43257323
 
 # I
+https://www.theregister.com/2025/07/30/uk_airspace_outage/
+
 https://news.ycombinator.com/item?id=44536691
 
 https://news.ycombinator.com/item?id=44016030
@@ -117,6 +119,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://news.ycombinator.com/item?id=44755551
+
 https://news.ycombinator.com/item?id=44695364
 
 https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft

@@ -70,6 +70,9 @@ https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://blog.yelinaung.com/posts/gvisor/
+> https://news.ycombinator.com/item?id=44745539
+
 https://github.com/bitnami/charts/issues/35164 Broadcom to discontinue free Bitnami Helm charts
 > https://news.ycombinator.com/item?id=44608856
 > > Bitnami: https://hub.docker.com/u/bitnami - Bitnami Legacy: https://hub.docker.com/u/bitnamilegacy - Bitnami Secure Images: https://hub.docker.com/u/bitnamisecure

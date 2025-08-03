@@ -117,6 +117,8 @@ https://learnopencv.com/annotating-images-using-opencv/
 https://towardsdatascience.com/image-data-labelling-and-annotation-everything-you-need-to-know-86ede6c684b1
 
 # text2img
+https://news.ycombinator.com/item?id=44746117
+
 https://news.ycombinator.com/item?id=41824390
 
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/

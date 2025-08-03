@@ -635,6 +635,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://spectrum.ieee.org/data-labeling-scale-ai-agents
+
+https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution
+> https://news.ycombinator.com/item?id=44744331
+
+https://news.ycombinator.com/item?id=44757247
+
 https://arxiv.org/abs/2506.21734 Hierarchical Reasoning Model
 > https://news.ycombinator.com/item?id=44699452
 

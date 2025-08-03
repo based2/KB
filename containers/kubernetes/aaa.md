@@ -75,6 +75,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incidents
+https://www.theregister.com/2025/08/01/kubesphere_open_source_edition/?td=rt-3a
+
 https://cert.europa.eu/publications/security-advisories/2025-012/ Critical Vulnerabilities in Kubernetes Ingress-NGINX
 
 https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/the-risk-of-default-configuration-how-out-of-the-box-helm-charts-can-breach-your/4409560
@@ -114,6 +116,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://github.com/kubenote/KubeForge
+> https://news.ycombinator.com/item?id=44752469
+
 https://news.ycombinator.com/item?id=44088551 minio
 
 https://news.ycombinator.com/item?id=43988975 mqtt

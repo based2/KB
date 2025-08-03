@@ -110,6 +110,8 @@ https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistak
 https://github.com/ScottArbeit/Grace
 > https://news.ycombinator.com/item?id=40272439
 
+https://news.ycombinator.com/item?id=44754717
+
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
@@ -600,6 +602,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.theregister.com/2025/07/31/nist_devsecops_guide/
+
 https://news.ycombinator.com/item?id=44658909 github
 
 https://news.ycombinator.com/item?id=44651766

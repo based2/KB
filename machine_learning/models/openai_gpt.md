@@ -1,5 +1,9 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=44758511
+
+https://news.ycombinator.com/item?id=44742513
+
 https://openai.com/index/chatgpt-study-mode/
 > https://news.ycombinator.com/item?id=44725764
 

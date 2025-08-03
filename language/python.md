@@ -385,6 +385,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=44698413
+
+https://news.ycombinator.com/item?id=44759085
+
 https://news.ycombinator.com/item?id=44653509
 
 https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/

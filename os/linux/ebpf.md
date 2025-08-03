@@ -53,6 +53,8 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://news.ycombinator.com/item?id=44722518
+
 https://pchaigno.github.io/bpf/2025/01/07/research-papers-bpf.html
 
 https://news.ycombinator.com/item?id=40085044

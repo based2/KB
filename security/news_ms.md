@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://news.ycombinator.com/item?id=44761576
+
 https://news.ycombinator.com/item?id=44710965
 
 https://news.ycombinator.com/item?id=44629710

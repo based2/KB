@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://www.theregister.com/2025/07/31/beijing_nvidia_backdoors/
+
 https://news.ycombinator.com/item?id=44689402
 
 https://news.ycombinator.com/item?id=44577268

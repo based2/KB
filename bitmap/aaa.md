@@ -83,6 +83,8 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://news.ycombinator.com/item?id=44733742
+
 https://github.com/hugomd/parrot.live
 > https://news.ycombinator.com/item?id=44186536
 

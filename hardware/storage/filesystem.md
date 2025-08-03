@@ -84,6 +84,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://www.phoronix.com/news/Linux-6.17-EXT4
+
 https://news.ycombinator.com/item?id=43896011
 
 https://news.ycombinator.com/item?id=43788728

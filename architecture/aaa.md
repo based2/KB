@@ -334,6 +334,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.hyrumslaw.com/
+> https://news.ycombinator.com/item?id=44757755
+
+https://eatonphil.com/2025-art-of-multiprocessor-programming.html
+> https://news.ycombinator.com/item?id=44767555
+
 https://news.ycombinator.com/item?id=44700744
 
 https://news.ycombinator.com/item?id=44645846

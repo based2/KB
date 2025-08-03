@@ -98,6 +98,8 @@ https://medium.com/gopher-time/enhancing-unit-testing-in-go-with-mocking-the-emb
 https://go.dev/blog/execution-traces-2024
 > https://news.ycombinator.com/item?id=39708591
 
+https://news.ycombinator.com/item?id=44747870
+
 ## Profiler
 https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541
@@ -132,6 +134,8 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://news.ycombinator.com/item?id=44724072
+
 https://news.ycombinator.com/item?id=44647572
 
 https://www.datadoghq.com/blog/engineering/go-swiss-tables/

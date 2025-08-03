@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/08/01/virgin_media_ditches_plans_for/?td=rt-3a
+
 https://www.starlink.com/us
 > https://news.ycombinator.com/item?id=44674960
 

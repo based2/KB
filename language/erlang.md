@@ -30,6 +30,8 @@ https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87
 https://beam-wisdoms.clau.se/en/latest/
 > https://news.ycombinator.com/item?id=26889048
 
+https://news.ycombinator.com/item?id=44758957
+
 #
 https://github.com/geocar/inet_ssh_dist
 

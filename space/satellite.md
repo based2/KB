@@ -48,6 +48,8 @@ https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert
 
 https://news.ycombinator.com/item?id=44084892
 
+https://news.ycombinator.com/item?id=44753298
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

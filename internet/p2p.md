@@ -64,6 +64,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://github.com/ethersync/ethersync
+> https://news.ycombinator.com/item?id=44722950
+
 https://news.ycombinator.com/item?id=44648772
 
 https://news.ycombinator.com/item?id=44578143

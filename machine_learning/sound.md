@@ -231,6 +231,8 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://news.ycombinator.com/item?id=44737372
+
 https://news.ycombinator.com/item?id=43899028
 
 https://open-earable.teco.edu/

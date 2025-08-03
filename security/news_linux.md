@@ -60,6 +60,9 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://www.phoronix.com/news/Attack-Vector-Controls-6.17
+> https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/admin-guide/hw-vuln/attack_vector_controls.rst?id=04d29e3609b62896b94b60250d475f8f7c15db98
+
 https://nvd.nist.gov/vuln/detail/CVE-2025-53905 vim
 > https://old.reddit.com/r/netsec/comments/1m4yeqf/path_traversal_in_vim_tar_archive_cve202553905/
 

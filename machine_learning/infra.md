@@ -109,8 +109,12 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
-https://developers.googleblog.com/en/introducing-opal/
-> https://news.ycombinator.com/item?id=44681786
+https://news.ycombinator.com/item?id=44698946 rust
+
+https://github.com/charmbracelet/crush
+> https://news.ycombinator.com/item?id=44736176
+
+https://news.ycombinator.com/item?id=44745820
 
 https://news.ycombinator.com/item?id=44674830
 
