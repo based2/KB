@@ -88,6 +88,10 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://github.com/apache/hamilton Portable & expressive data transformation DAGs
+> https://hamilton.apache.org/hamilton-ui/ui/
+> https://hamilton.apache.org/get-started/why-hamilton/
+
 https://www.database-doctor.com/posts/iceberg-is-wrong-2.html
 
 https://news.ycombinator.com/item?id=44671584

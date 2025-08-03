@@ -87,6 +87,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # I
+https://www.aim.security/lp/aim-labs-curxecute-blogpost
+
 https://news.ycombinator.com/item?id=44736101
 
 https://research.eye.security/how-we-rooted-copilot/

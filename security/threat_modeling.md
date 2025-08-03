@@ -57,3 +57,5 @@ https://news.ycombinator.com/item?id=41701733
 https://news.ycombinator.com/item?id=43371603
 
 https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944?hl=en
+
+https://unit42.paloaltonetworks.com/unit-42-attribution-framework/

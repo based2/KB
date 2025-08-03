@@ -387,6 +387,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=44726347 perl
+
+https://seed7.net/
+> https://news.ycombinator.com/item?id=44774027
+
 https://news.ycombinator.com/item?id=44719413
 
 https://news.ycombinator.com/item?id=44684168 null

@@ -103,6 +103,9 @@ https://news.ycombinator.com/item?id=42493544
 https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078
 > https://news.ycombinator.com/item?id=42509760
 
+https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728
+> https://news.ycombinator.com/item?id=44743432
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

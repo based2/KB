@@ -602,6 +602,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
+> https://news.ycombinator.com/item?id=44740617
+
 https://www.theregister.com/2025/07/31/nist_devsecops_guide/
 
 https://news.ycombinator.com/item?id=44658909 github

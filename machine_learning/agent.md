@@ -181,6 +181,9 @@ https://arxiv.org/abs/2507.22358 Magentic-UI: Towards Human-in-the-Loop Agentic 
 https://news.ycombinator.com/item?id=44712315
 
 # I
+https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/
+> https://news.ycombinator.com/item?id=44716653
+
 https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/
 
 https://labs.guard.io/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side-1ec2fbdf0a35

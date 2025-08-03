@@ -43,3 +43,6 @@ https://news.ycombinator.com/item?id=42308051
 
 https://konvajs.org/
 > https://news.ycombinator.com/item?id=43410988
+
+https://github.com/WICG/html-in-canvas
+> https://news.ycombinator.com/item?id=44772177

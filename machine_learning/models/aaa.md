@@ -230,6 +230,11 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44777760
+
+https://github.com/google/langextract Python library for extracting structured data from language models
+> https://news.ycombinator.com/item?id=44735059
+
 https://news.ycombinator.com/item?id=44767775 webgpu
 
 https://news.ycombinator.com/item?id=44726838 licences

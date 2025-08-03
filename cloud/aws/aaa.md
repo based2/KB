@@ -189,6 +189,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://github.com/aws/aws-cdk/issues/34892 NOTICE: CDK CLI will begin to collect anonymous telemetry data on or after Sep 1st, 2025
+
 https://news.ycombinator.com/item?id=44537768
 
 https://aws.amazon.com/products/lifecycle/ EOL

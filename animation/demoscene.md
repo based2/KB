@@ -69,3 +69,9 @@ https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html
 https://news.ycombinator.com/item?id=44020107
 
 https://news.ycombinator.com/item?id=44436838
+
+https://news.ycombinator.com/item?id=44774104
+
+https://keygenmusic.tk/
+> https://news.ycombinator.com/item?id=44730544
+

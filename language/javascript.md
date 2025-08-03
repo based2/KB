@@ -706,6 +706,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://kashw1n.com/blog/nodejs-2025/
+> https://news.ycombinator.com/item?id=4477893
+
 https://news.ycombinator.com/item?id=44701574
 
 https://news.ycombinator.com/item?id=44407139 trademark

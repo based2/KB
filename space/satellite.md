@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=44084892
 
 https://news.ycombinator.com/item?id=44753298
 
+https://arstechnica.com/space/2025/08/the-militarys-squad-of-satellite-trackers-is-now-routinely-going-on-alert/
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

@@ -69,6 +69,8 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+https://news.ycombinator.com/item?id=44745727
+
 https://news.ycombinator.com/item?id=44492986
 
 https://leanprover-community.github.io/100.html

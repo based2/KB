@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44739041
+
 https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/#more-71635
 
 https://cside.dev/blog/cryptojacking-is-dead-long-live-cryptojacking

@@ -635,6 +635,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://arxiv.org/abs/2507.12547 Modeling open-world cognition as on-demand synthesis of probabilistic models
+
+https://news.ycombinator.com/item?id=44739998
+
 https://spectrum.ieee.org/data-labeling-scale-ai-agents
 
 https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution
