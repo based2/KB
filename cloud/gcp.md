@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incidents
+https://news.ycombinator.com/item?id=44812198
+
 https://news.ycombinator.com/item?id=44224684
 
 https://news.ycombinator.com/item?id=43645331

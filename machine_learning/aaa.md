@@ -635,6 +635,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44802916
+
 https://arxiv.org/abs/2507.12547 Modeling open-world cognition as on-demand synthesis of probabilistic models
 
 https://news.ycombinator.com/item?id=44739998

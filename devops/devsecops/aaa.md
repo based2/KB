@@ -74,6 +74,8 @@ https://github.com/iris-sast/iris
 
 https://news.ycombinator.com/item?id=44747204
 
+https://www.anthropic.com/news/automate-security-reviews-with-claude-code
+
 # I
 https://socket.dev/blog/60-malicious-npm-packages-leak-network-and-host-data
 

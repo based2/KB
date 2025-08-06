@@ -122,6 +122,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://news.ycombinator.com/item?id=44799494
+
 https://medium.com/deriv-tech/brewing-trouble-dissecting-a-macos-malware-campaign-90c2c24de5dc
 
 https://socket.dev/blog/npm-phishing-email-targets-developers-with-typosquatted-domain
@@ -602,6 +604,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=44790191
+
+https://news.ycombinator.com/item?id=44777086
+
+https://www.praetorian.com/blog/hunting-for-secrets-in-plain-sight-leveraging-internal-logging-and-monitoring-services/
+
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
 > https://news.ycombinator.com/item?id=44740617
 

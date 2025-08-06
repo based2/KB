@@ -109,6 +109,11 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=44811879
+
+https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/
+> https://news.ycombinator.com/item?id=44798215
+
 https://github.com/manticoresoftware/manticoresearch
 > https://news.ycombinator.com/item?id=44658978
 

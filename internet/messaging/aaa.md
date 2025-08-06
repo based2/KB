@@ -28,6 +28,11 @@ https://blog.beeper.com/p/beeper-mini-is-back
 https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline
 > https://news.ycombinator.com/item?id=27587911
 
+# Incidents
+https://www.praetorian.com/blog/ghost-calls-abusing-web-conferencing-for-covert-command-control-part-2-of-2/
+
+https://www.praetorian.com/blog/ghost-calls-abusing-web-conferencing-for-covert-command-control-part-1-of-2/
+
 # News
 https://news.ycombinator.com/item?id=42752402
 

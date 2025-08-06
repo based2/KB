@@ -230,6 +230,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=44810307
+
 https://news.ycombinator.com/item?id=44777760
 
 https://github.com/google/langextract Python library for extracting structured data from language models

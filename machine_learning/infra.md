@@ -109,6 +109,8 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=44802414
+
 https://news.ycombinator.com/item?id=44698946 rust
 
 https://github.com/charmbracelet/crush

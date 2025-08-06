@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=42789670
 https://news.ycombinator.com/item?id=42796292
 
 # News
+https://news.ycombinator.com/item?id=44801399
+
 https://news.ycombinator.com/item?id=44769338
 
 https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble

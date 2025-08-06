@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=44800185
+
+https://news.ycombinator.com/item?id=44793446
+
+https://news.ycombinator.com/item?id=44811567
+
 https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
 > https://news.ycombinator.com/item?id=44767003
 
