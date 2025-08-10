@@ -252,6 +252,12 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://www.mapillary.com
+
+https://foreverpollution.eu/map/
+
+https://news.ycombinator.com/item?id=44846318
+
 https://eclipse.dev/sumo/ Simulation of Urban Mobility
 > https://news.ycombinator.com/item?id=44710256
 

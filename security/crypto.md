@@ -217,6 +217,11 @@ https://news.ycombinator.com/item?id=44471251
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://arxiv.org/abs/2505.15917
+> https://phys.org/news/2025-05-quantum-rsa-encryption-qubits.html
+
+https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/
+
 https://news.ycombinator.com/item?id=44684212
 
 https://news.ycombinator.com/item?id=44605169

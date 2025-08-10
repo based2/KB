@@ -109,6 +109,9 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://radar.com/blog/high-performance-geocoding-in-rust
+> https://news.ycombinator.com/item?id=44836463
+
 https://news.ycombinator.com/item?id=44811879
 
 https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/

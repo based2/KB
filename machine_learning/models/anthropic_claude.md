@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44836879 code
+
 https://news.ycombinator.com/item?id=44800185
 
 https://news.ycombinator.com/item?id=44793446
@@ -66,4 +68,7 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://cymulate.com/blog/cve-2025-547954-54795-claude-inverseprompt/
+> https://old.reddit.com/r/netsec/comments/1mhj0ek/finding_vulnerabilities_in_claude_code/
+
 https://news.ycombinator.com/item?id=44100082

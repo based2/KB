@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/08/06/mauritius_investigates_afrinic/
+
 https://www.theregister.com/2025/08/01/virgin_media_ditches_plans_for/?td=rt-3a
 
 https://www.starlink.com/us
@@ -341,6 +343,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=44755394
+
 https://news.ycombinator.com/item?id=44561520
 
 https://security-explorations.com/esim-security.html

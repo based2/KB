@@ -77,6 +77,10 @@ https://news.ycombinator.com/item?id=44747204
 https://www.anthropic.com/news/automate-security-reviews-with-claude-code
 
 # I
+https://socket.dev/blog/nestjs-rce-vuln
+
+https://blog.koi.security/amazons-ai-assistant-almost-nuked-your-dev-environment-and-no-one-noticed-for-5-days-6d8091f78f05
+
 https://socket.dev/blog/60-malicious-npm-packages-leak-network-and-host-data
 
 https://www.bleepingcomputer.com/news/security/ai-hallucinated-code-dependencies-become-new-supply-chain-risk/
@@ -86,6 +90,8 @@ https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templa
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://socket.dev/blog/npm-trusted-publishing oidc
+
 https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/
 > https://news.ycombinator.com/item?id=44539745
 

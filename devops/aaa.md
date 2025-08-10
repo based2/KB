@@ -604,6 +604,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://immich.app/cursed-knowledge/
+> https://news.ycombinator.com/item?id=44831704
+
 https://news.ycombinator.com/item?id=44790191
 
 https://news.ycombinator.com/item?id=44777086

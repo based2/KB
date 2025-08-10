@@ -16,3 +16,6 @@ https://news.ycombinator.com/item?id=44009321
 
 https://github.com/apple/ml-fastvlm
 > https://news.ycombinator.com/item?id=43968897
+
+https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/
+> https://news.ycombinator.com/item?id=40636844

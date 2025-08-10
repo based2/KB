@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://blog.koi.security/greedy-bear-massive-crypto-wallet-attack-spans-across-multiple-vectors-3e8628831a05?gi=d7f16a38b8c7
+
 https://moonlock.com/anti-ledger-malware
 
 https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/

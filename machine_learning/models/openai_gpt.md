@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://help.openai.com/en/articles/11752874-chatgpt-agent
+> https://news.ycombinator.com/item?id=44847368
+
 https://openai.com/open-models/
 > https://news.ycombinator.com/item?id=44800746
 

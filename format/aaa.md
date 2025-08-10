@@ -93,6 +93,8 @@ https://news.ycombinator.com/item?id=43330782
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://news.ycombinator.com/item?id=44845112
+
 https://cborbook.com/introduction/from_xml_to_json_to_cbor.html
 > https://lobste.rs/s/bf8a5i/from_xml_json_cbor
 

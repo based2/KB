@@ -44,6 +44,9 @@ https://nightshade.cs.uchicago.edu/whatis.html
 
 https://www.kereva.io/articles/3
 
+https://simonwillison.net/2025/Aug/9/bay-area-ai/ Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup
+> https://news.ycombinator.com/item?id=44846922
+
 # Fine tuning
 https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 > https://news.ycombinator.com/item?id=38533105
@@ -221,8 +224,20 @@ https://arxiv.org/abs/2507.12472 Survey of AIOps in the Era of Large Language Mo
 
 https://news.ycombinator.com/item?id=44650840
 
+https://www.alphaxiv.org/abs/2507.10524 Mixture of Recursions
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
+
+https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.
+
+https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai
+
+https://thesequence.substack.com/p/the-sequence-radar-688-the-transparent
+
+https://arxiv.org/html/2507.11473v1
+
+https://snitchbench.t3.gg/
 
 # I
 https://news.ycombinator.com/item?id=43865097
@@ -230,6 +245,17 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://queue.acm.org/detail.cfm?id=3746223 Unleashing the Power of End-User Programmable AI, Creating an AI-first program Synthesis framework
+
+https://news.ycombinator.com/item?id=44798624
+
+https://www.oreilly.com/radar/hanoi-turned-upside-down/
+
+https://z.ai/blog/glm-4.5
+
+https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html
+> https://news.ycombinator.com/item?id=44791923
+
 https://news.ycombinator.com/item?id=44810307
 
 https://news.ycombinator.com/item?id=44777760
@@ -900,7 +926,7 @@ https://news.ycombinator.com/item?id=38472128
 
 https://news.ycombinator.com/item?id=38481970
 
-http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything
+http://simonwillison.net/2023/Nov/29/llamafile/
 > https://news.ycombinator.com/item?id=38489533
 
 https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/

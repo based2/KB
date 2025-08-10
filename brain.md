@@ -62,6 +62,8 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/
+
 https://news.ycombinator.com/item?id=44587486
 
 https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes

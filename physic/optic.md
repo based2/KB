@@ -1,5 +1,7 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://news.ycombinator.com/item?id=44784297
+
 https://news.ycombinator.com/item?id=44075254
 
 https://news.ycombinator.com/item?id=43692746

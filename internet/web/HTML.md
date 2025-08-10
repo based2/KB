@@ -163,6 +163,14 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=44810284
+
+https://github.com/jon49/html-traits
+> https://news.ycombinator.com/item?id=44831943
+
+https://una.im/popover-hint/
+> https://news.ycombinator.com/item?id=44785144
+
 https://news.ycombinator.com/item?id=44133830
 
 https://news.ycombinator.com/item?id=43878728

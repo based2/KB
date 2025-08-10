@@ -92,6 +92,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 # Meta
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
+# LLM
+https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine
+
 # Incidents
 https://www.aquasec.com/blog/300000-prometheus-servers-and-exporters-exposed-to-dos-attacks/ /debug/pprof Endpoints
 

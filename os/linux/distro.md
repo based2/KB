@@ -101,6 +101,8 @@ https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # Debian
 
+https://www.theregister.com/2025/08/06/debian_13_mx_25/
+
 https://news.ycombinator.com/item?id=44611223
 
 https://optimizedbyotto.com/post/debian-packaging-from-git/
@@ -126,7 +128,11 @@ https://www.debian.org/News/2023/20230610 Bookworm
 
 https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html
 
+https://cdimage.debian.org/cdimage/release/
+
 # News
+https://news.opensuse.org/2025/08/04/leap-16-rc/
+
 https://www.theregister.com/2025/07/31/ubuntu_tpm_fde/
 
 https://www.theregister.com/2025/07/25/y2k38_bug_debian/

@@ -156,6 +156,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://news.ycombinator.com/item?id=44846281
+
 https://news.ycombinator.com/item?id=44658009
 
 https://news.ycombinator.com/item?id=44445091 if
@@ -337,6 +339,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://news.ycombinator.com/item?id=44824056
+
 https://github.com/elcritch/cssgrid
 
 https://news.ycombinator.com/item?id=43012714

@@ -292,6 +292,11 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://news.ycombinator.com/item?id=44838161
+
+https://alhadaqa.github.io/globaltradedynamics/
+> https://news.ycombinator.com/item?id=44824728
+
 https://news.ycombinator.com/item?id=44656961 The rise and fall of the Hanseatic League
 
 https://news.ycombinator.com/item?id=44620011

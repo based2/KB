@@ -230,6 +230,9 @@ https://news.ycombinator.com/item?id=39720049
 
 https://news.ycombinator.com/item?id=39998149
 
+https://github.com/KittenML/KittenTTS
+> https://news.ycombinator.com/item?id=44807868
+
 # News
 https://news.ycombinator.com/item?id=44737372
 

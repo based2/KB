@@ -80,6 +80,8 @@ https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://news.ycombinator.com/item?id=44836608
+
 https://news.ycombinator.com/item?id=43985624
 
 https://github.com/krallin/tini

@@ -60,6 +60,8 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://www.theregister.com/2025/08/08/stardict_leaky_app_of_week/
+
 https://www.phoronix.com/news/Attack-Vector-Controls-6.17
 > https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/admin-guide/hw-vuln/attack_vector_controls.rst?id=04d29e3609b62896b94b60250d475f8f7c15db98
 

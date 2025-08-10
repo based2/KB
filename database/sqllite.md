@@ -109,9 +109,17 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # Incidents
+https://theori.io/blog/exploring-traces-63950
+> https://sqlite.org/src/info/2025-08-05T01:53z
+> https://old.reddit.com/r/netsec/comments/1ml6i6g/theori_aixcc_writeup_0day_in_sqlite_more/
+
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://news.ycombinator.com/item?id=44835308
+
+https://news.ycombinator.com/item?id=44788997 android sync
+
 https://news.ycombinator.com/item?id=44757316 lts
 
 https://avi.im/blag/2025/sqlite-wal-checksum/

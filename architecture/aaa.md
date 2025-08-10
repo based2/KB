@@ -334,6 +334,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://martinfowler.com/articles/2025-nature-abstraction.html
+
 https://www.hyrumslaw.com/
 > https://news.ycombinator.com/item?id=44757755
 

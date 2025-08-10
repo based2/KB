@@ -1,3 +1,10 @@
+https://blog.danielh.cc/blog/passwords
+> https://news.ycombinator.com/item?id=44819917
+
+https://news.ycombinator.com/item?id=44825221
+
+https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/
+
 https://cloud.google.com/blog/topics/threat-intelligence/voice-phishing-data-extortion
 
 https://news.ycombinator.com/item?id=44739041

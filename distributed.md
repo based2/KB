@@ -139,6 +139,8 @@ https://www.moment.dev/blog/lies-i-was-told-pt-1 Algorithms for offline editing
 
 https://news.ycombinator.com/item?id=44069304
 
+https://news.ycombinator.com/item?id=44777086 Automerge 3.0
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -247,9 +249,12 @@ https://news.ycombinator.com/item?id=39759344
 https://jepsen.io/analyses/datomic-pro-1.0.7075
 > https://news.ycombinator.com/item?id=40369467
 
+https://news.ycombinator.com/item?id=44825146
+
 # concurrencyngs
 
 # News
+
 https://github.com/traceroot-ai/traceroot debug
 
 http://ratis.apache.org/ raft java

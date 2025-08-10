@@ -106,6 +106,9 @@ https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078
 https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728
 > https://news.ycombinator.com/item?id=44743432
 
+https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html
+> https://news.ycombinator.com/item?id=44754697
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/
@@ -114,6 +117,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://techxplore.com/news/2025-07-quantum-bottlenecks-breakthroughs.html
+
 https://news.ycombinator.com/item?id=44608622
 
 https://news.ycombinator.com/item?id=44510038

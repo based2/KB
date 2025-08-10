@@ -1,3 +1,5 @@
+https://qwenlm.github.io/blog/qwen3-coder/
+
 https://news.ycombinator.com/item?id=44813627
 
 https://news.ycombinator.com/item?id=44681565

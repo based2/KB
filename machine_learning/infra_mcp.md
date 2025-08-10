@@ -54,7 +54,19 @@ https://mcp-b.ai/
 https://github.com/bh-rat/asyncmcp
 > https://news.ycombinator.com/item?id=44523094
 
-# I
+https://masonyarbrough.com/blog/ask-human
+
+https://github.com/microsoft/playwright-mcp
+
+https://asimovaddendum.substack.com/p/protocols-and-power
+
+# Incidents
+https://news.ycombinator.com/item?id=44846871
+
+https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
+
+https://invariantlabs.ai/blog/mcp-github-vulnerability
+
 https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/
 > https://news.ycombinator.com/item?id=44502318
 

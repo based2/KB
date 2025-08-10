@@ -116,6 +116,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://quickshell.org/
+> https://news.ycombinator.com/item?id=44800048
+
+https://www.theregister.com/2025/08/04/kde_linux_prealpha
+
 https://news.ycombinator.com/item?id=44683011
 
 https://news.ycombinator.com/item?id=44637151

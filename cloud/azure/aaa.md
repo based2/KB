@@ -148,6 +148,8 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
 # News
+https://www.theregister.com/2025/08/08/sudden_spike_in_demand_azure_issues/
+
 https://www.hunters.security/en/blog/azure-managed-identity-threat-hunting-detection-methods
 
 https://news.ycombinator.com/item?id=43061826

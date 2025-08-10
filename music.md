@@ -303,6 +303,12 @@ https://news.ycombinator.com/item?id=42993661
 
 https://news.ycombinator.com/item?id=43047255
 
+https://magenta.withgoogle.com/magenta-realtime
+> https://github.com/magenta/magenta-realtime
+> https://huggingface.co/google/magenta-realtime
+
+https://news.ycombinator.com/item?id=44784090
+
 # Incidents
 https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349

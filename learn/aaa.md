@@ -155,6 +155,10 @@ https://news.ycombinator.com/item?id=40717052
 
 https://news.ycombinator.com/item?id=44078314
 
+# ML
+https://openai.com/index/chatgpt-study-mode/
+> https://news.ycombinator.com/item?id=44745490
+
 # I
 https://news.ycombinator.com/item?id=44100035
 

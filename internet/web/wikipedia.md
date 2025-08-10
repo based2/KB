@@ -62,6 +62,10 @@ https://www.404media.co/russia-clones-wikipedia-censors-it-bans-original/
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion
+
+https://www.monkeon.co.uk/wikiradio/
+
 https://news.ycombinator.com/item?id=42992194
 
 https://news.ycombinator.com/item?id=42377770

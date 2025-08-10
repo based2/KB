@@ -179,6 +179,10 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://martinfowler.com/articles/expert-generalist.html
+
+https://thenewstack.io/google-study-65-of-developer-time-wasted-without-platforms/
+
 https://newsletter.eng-leadership.com/p/setting-effective-targets-for-developer
 
 https://news.ycombinator.com/item?id=43972535

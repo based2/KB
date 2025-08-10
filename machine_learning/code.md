@@ -103,6 +103,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.oreilly.com/radar/interfaces-that-build-themselves/
+
+https://simonwillison.net/2025/Jun/23/phoenix-new/
+
 https://news.ycombinator.com/item?id=44762959
 
 https://developers.googleblog.com/en/introducing-opal/

@@ -42,6 +42,10 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://news.ycombinator.com/item?id=44823262
+
+https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/
+
 https://news.ycombinator.com/item?id=44035158
 
 https://ftp.halifax.rwth-aachen.de/ccc/congress/2024/h264-hd/38c3-748-eng-Warum_Nutzende_Logins_nerven.mp4

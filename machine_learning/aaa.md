@@ -635,6 +635,14 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.mechanize.work/blog/sweatshop-data-is-over/
+> https://news.ycombinator.com/item?id=44824560
+
+https://news.ycombinator.com/item?id=44839842
+
+https://arxiv.org/abs/2507.07284 robust, open-source framework for Spiking Neural Networks on low-end FPGAs
+> https://news.ycombinator.com/item?id=44790472
+
 https://news.ycombinator.com/item?id=44802916
 
 https://arxiv.org/abs/2507.12547 Modeling open-world cognition as on-demand synthesis of probabilistic models
@@ -994,9 +1002,6 @@ https://news.ycombinator.com/item?id=40730156
 https://news.ycombinator.com/item?id=40672843
 
 https://news.ycombinator.com/item?id=40704435
-
-https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/
-> https://news.ycombinator.com/item?id=40636844
 
 https://link.springer.com/article/10.1007/s10676-024-09775-5
 > https://news.ycombinator.com/item?id=40626692
@@ -2796,8 +2801,6 @@ https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-google
 > https://news.ycombinator.com/item?id=29629665
 
 https://gregorygundersen.com/blog/2020/02/09/log-sum-exp/
-
-https://arxiv.org/abs/2112.10123 Early Detection of Security-Relevant Bug Reports using Machine Learning: How Far Are We?
 
 https://news.ycombinator.com/item?id=29639120
 

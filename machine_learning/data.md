@@ -27,3 +27,5 @@ https://news.ycombinator.com/item?id=39241172
 https://news.ycombinator.com/item?id=39945104
 
 https://news.ycombinator.com/item?id=41403768
+
+https://arxiv.org/abs/2506.08300

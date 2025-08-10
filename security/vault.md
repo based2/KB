@@ -54,6 +54,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incidents
+https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/
+> https://news.ycombinator.com/item?id=44821434
+
 https://news.ycombinator.com/item?id=43296656
 
 https://www.bleepingcomputer.com/news/security/samsung-to-pay-1-000-000-for-rces-on-galaxys-secure-vault/

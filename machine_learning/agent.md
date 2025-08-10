@@ -180,7 +180,21 @@ https://arxiv.org/abs/2507.22358 Magentic-UI: Towards Human-in-the-Loop Agentic 
 
 https://news.ycombinator.com/item?id=44712315
 
+https://news.ycombinator.com/item?id=44838733
+
+https://mistral.ai/news/agents-api
+
 # I
+https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+
+https://simonwillison.net/2025/Jun/15/ai-agent-security/
+
+https://arxiv.org/abs/2506.08837
+
+https://research.google/pubs/an-introduction-to-googles-approach-for-secure-ai-agents/
+
+https://arxiv.org/abs/2502.08586
+
 https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/
 > https://news.ycombinator.com/item?id=44716653
 

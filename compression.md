@@ -36,7 +36,11 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
-#
+# Incidents
+https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/
+
+https://news.ycombinator.com/item?id=44826465
+
 https://hackarcana.com/article/yet-another-zip-trick Schizophrenic zip file
 > https://news.ycombinator.com/item?id=44442691
 
@@ -53,6 +57,8 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://news.ycombinator.com/item?id=44801027
+
 https://news.ycombinator.com/item?id=44523876
 
 https://news.ycombinator.com/item?id=44489359

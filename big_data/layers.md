@@ -26,6 +26,8 @@ https://ducklake.select/
 https://atlas.apache.org/
 > https://atlas.apache.org/#/Architecture
 
+https://ducklake.select/
+
 # Data Lake Ligthhouse
 https://amoro.apache.org/
 

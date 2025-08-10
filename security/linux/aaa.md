@@ -14,6 +14,8 @@ https://github.com/lcp/mokutil
 https://github.com/rhboot/shim/blob/main/SBAT.md
 
 #
+https://blog.ovhcloud.com/introduction-to-the-linux-laptop-pci-dss-at-ovhcloud/
+
 https://lwn.net/Articles/962782/ When ELF notes reveal too much
 
 https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/LinuxRNG/LinuxRNG_Kerneltabelle_EN.html random

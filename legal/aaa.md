@@ -77,6 +77,8 @@ https://news.ycombinator.com/item?id=43955025
 
 https://www.columntax.com/posts/introducing-iris-our-ai-tax-development-agent
 
+https://www.damiencharlotin.com/hallucinations/
+
 # News
 https://news.ycombinator.com/item?id=43852145
 

@@ -12,6 +12,12 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/
+
+https://www.theregister.com/2025/08/07/windows_hello_hell_no/
+
+https://news.ycombinator.com/item?id=44830408
+
 https://www.theregister.com/2025/07/31/beijing_nvidia_backdoors/
 
 https://news.ycombinator.com/item?id=44689402

@@ -368,6 +368,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # Incidents
+https://www.upwind.io/feed/cve-2024-12718-path-escape-via-pythons-tarfile-extraction-filters
+
 https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329
 
 https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190
@@ -385,6 +387,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=44838687
+
 https://news.ycombinator.com/item?id=44698413
 
 https://news.ycombinator.com/item?id=44759085

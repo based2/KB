@@ -60,3 +60,5 @@ https://badkeming.com/
 https://news.ycombinator.com/item?id=43053419
 
 https://news.ycombinator.com/item?id=43205968
+
+https://news.ycombinator.com/item?id=44767727

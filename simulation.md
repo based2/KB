@@ -1,3 +1,6 @@
+https://www.nature.com/articles/s41586-025-09215-4 centaur
+> https://techxplore.com/news/2025-07-centaur-ai.html
+
 https://alien-project.org/
 > https://news.ycombinator.com/item?id=27472224
 

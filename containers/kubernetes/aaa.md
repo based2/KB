@@ -116,6 +116,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/
+
 https://github.com/kubenote/KubeForge
 > https://news.ycombinator.com/item?id=44752469
 

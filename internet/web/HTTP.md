@@ -214,6 +214,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # I
+https://http1mustdie.com/
+> https://old.reddit.com/r/netsec/comments/1mjkq38/http11_must_die_the_desync_endgame_whitepaper/
+
 https://news.ycombinator.com/item?id=44666896
 
 # News

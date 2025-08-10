@@ -79,6 +79,8 @@ https://news.ycombinator.com/item?id=44387659
 
 https://news.ycombinator.com/item?id=44513843 agent
 
+https://biomni.stanford.edu/paper.pdf
+
 # News
 https://news.ycombinator.com/item?id=44682033
 

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44791984
+
 https://sergioprado.blog/rpmb-a-secret-place-inside-the-emmc/
 
 https://news.ycombinator.com/item?id=41959498
