@@ -1,3 +1,8 @@
+https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff
+> https://news.ycombinator.com/item?id=44841262
+
+https://news.ycombinator.com/item?id=44855690
+
 https://github.com/menloresearch/jan Ollama alternative with local UI
 > https://news.ycombinator.com/item?id=44845272
 

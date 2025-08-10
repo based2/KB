@@ -63,6 +63,8 @@ https://asimovaddendum.substack.com/p/protocols-and-power
 # Incidents
 https://news.ycombinator.com/item?id=44846871
 
+https://news.ycombinator.com/item?id=44846871
+
 https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
 
 https://invariantlabs.ai/blog/mcp-github-vulnerability

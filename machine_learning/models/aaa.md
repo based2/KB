@@ -226,6 +226,8 @@ https://news.ycombinator.com/item?id=44650840
 
 https://www.alphaxiv.org/abs/2507.10524 Mixture of Recursions
 
+https://news.ycombinator.com/item?id=44834918
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
 

@@ -125,6 +125,9 @@ https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.htm
 
 https://news.ycombinator.com/item?id=44074668
 
+https://github.com/microsoft/poml
+> https://news.ycombinator.com/item?id=44853184
+
 # I
 https://news.ycombinator.com/item?id=44088482
 

@@ -42,6 +42,8 @@ https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vm
 
 https://news.ycombinator.com/item?id=43486647
 
+https://news.ycombinator.com/item?id=44855868 Create and manage the lifecycle of MicroVMs, backed by containerd
+
 # Perf
 https://github.com/google/cadvisor
 

@@ -25,6 +25,8 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://xvw.lol/pages/oop-refl.html
+
 https://news.ycombinator.com/item?id=44016325
 
 https://blog.janestreet.com/why-gadts-matter-for-performance/

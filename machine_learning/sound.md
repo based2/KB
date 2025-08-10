@@ -234,6 +234,9 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://github.com/denizsafak/abogen Generate audiobooks from EPUBs, PDFs and text
+> https://news.ycombinator.com/item?id=44853064
+
 https://news.ycombinator.com/item?id=44737372
 
 https://news.ycombinator.com/item?id=43899028

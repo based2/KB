@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://research.eye.security/consent-and-compromise/ Abusing Entra OAuth for fun and access to internal Microsoft applications
+> https://news.ycombinator.com/item?id=44850681
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/
 
 https://www.reuters.com/world/uk/uk-discovers-russian-espionage-tool-sanctions-gru-officers-over-cyberattacks-2025-07-18/?utm_source=reddit.com

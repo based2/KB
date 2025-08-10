@@ -103,6 +103,14 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=44851214
+
+https://blog.tolki.dev/posts/2025/08-07-llms/ The current state of LLM-driven development
+> https://news.ycombinator.com/item?id=44847741
+
+https://wuu73.org/blog/aiguide1.html How I code with AI on a budget/free
+> https://news.ycombinator.com/item?id=44850913
+
 https://www.oreilly.com/radar/interfaces-that-build-themselves/
 
 https://simonwillison.net/2025/Jun/23/phoenix-new/

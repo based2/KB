@@ -58,6 +58,8 @@ https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
 https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 
 # I
+https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/
+
 https://www.theregister.com/2025/08/08/infosec_hounds_spot_prompt_injection/
 
 https://tracebit.com/blog/code-exec-deception-gemini-ai-cli-hijack

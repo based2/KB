@@ -109,6 +109,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/mendableai/open-lovable Clone and recreate any website as a modern React app in seconds
+> https://news.ycombinator.com/item?id=44854120
+
 https://news.ycombinator.com/item?id=44802414
 
 https://news.ycombinator.com/item?id=44698946 rust

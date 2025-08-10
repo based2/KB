@@ -124,6 +124,10 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=44847001
+
+https://news.ycombinator.com/item?id=44855469
+
 https://news.ycombinator.com/item?id=44839705
 
 https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html
