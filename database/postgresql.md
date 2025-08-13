@@ -352,6 +352,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=44867374
+
 https://news.ycombinator.com/item?id=44783368
 
 https://www.paradedb.com/blog/lsm_trees_in_postgres pg_search

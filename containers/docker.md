@@ -59,6 +59,8 @@ https://github.com/duaraghav8/dockershrink
 https://github.com/iximiuz/docker-to-linux
 
 # I
+https://www.bleepingcomputer.com/news/security/docker-hub-still-hosts-dozens-of-linux-images-with-the-xz-backdoor/
+
 https://raniseth.com/blog/2025-01-04-Home-Server-Security.html
 > https://news.ycombinator.com/item?id=42601374
 

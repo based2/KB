@@ -185,6 +185,8 @@ https://news.ycombinator.com/item?id=44838733
 https://mistral.ai/news/agents-api
 
 # I
+https://news.ycombinator.com/item?id=44888210
+
 https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
 
 https://simonwillison.net/2025/Jun/15/ai-agent-security/

@@ -90,6 +90,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html
+> https://news.ycombinator.com/item?id=44866677
+
 https://github.com/apache/hamilton Portable & expressive data transformation DAGs
 > https://hamilton.apache.org/hamilton-ui/ui/
 > https://hamilton.apache.org/get-started/why-hamilton/

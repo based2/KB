@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=44824811
+
 https://pixieditor.net/blog/2025/07/30/20-release/
 > https://news.ycombinator.com/item?id=44746583
 

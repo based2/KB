@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=44878650
+
+https://news.ycombinator.com/item?id=44878147
+
+https://news.ycombinator.com/item?id=44860015
+
 https://news.ycombinator.com/item?id=44836879 code
 
 https://news.ycombinator.com/item?id=44800185

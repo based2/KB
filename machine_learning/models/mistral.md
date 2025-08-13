@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=44862583
+
 https://mistral.ai/news/magistral
 
 https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai

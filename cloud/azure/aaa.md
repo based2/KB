@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/
+> https://news.ycombinator.com/item?id=44892701
+
 https://research.eye.security/consent-and-compromise/ Abusing Entra OAuth for fun and access to internal Microsoft applications
 > https://news.ycombinator.com/item?id=44850681
 

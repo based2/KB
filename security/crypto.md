@@ -216,10 +216,33 @@ https://news.ycombinator.com/item?id=44471251
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
 
-# News
+# PQC
+https://www.openssh.com/pq.html
+> https://news.ycombinator.com/item?id=44863242
+
 https://arxiv.org/abs/2505.15917
 > https://phys.org/news/2025-05-quantum-rsa-encryption-qubits.html
 
+https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/
+
+https://words.filippo.io/dispatches/mlkem768/ go PQC
+> https://news.ycombinator.com/item?id=39214743
+
+https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/W2VOzy0wz_E/m/LjmQyMurBQAJ Re: Kyber security level?
+> https://news.ycombinator.com/item?id=37874454
+
+https://blog.cr.yp.to/20231003-countcorrectly.html PQC Kyber
+> https://news.ycombinator.com/item?id=37756656
+
+https://media.ccc.de/v/rc3-2021-cwtv-230-kyber-and-post-quantum
+
+https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk
+> https://news.ycombinator.com/item?id=31990276
+
+https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms
+> https://news.ycombinator.com/item?id=31990696
+
+# News
 https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/
 
 https://news.ycombinator.com/item?id=44684212
@@ -297,8 +320,6 @@ https://news.ycombinator.com/item?id=40941463
 
 https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae MD5 Collision with CRC32 Preimage
 
-https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/
-
 https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex
 > https://news.ycombinator.com/item?id=40316788
 
@@ -326,9 +347,6 @@ https://news.ycombinator.com/item?id=39341180
 https://news.ycombinator.com/item?id=39284711
 
 https://news.ycombinator.com/item?id=39233855
-
-https://words.filippo.io/dispatches/mlkem768/ go PQC
-> https://news.ycombinator.com/item?id=39214743
 
 https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data
 > https://news.ycombinator.com/item?id=39244254
@@ -374,14 +392,6 @@ https://last-chance-for-eidas.org/
 > https://news.ycombinator.com/item?id=38109494
 
 https://news.ycombinator.com/item?id=38092272
-
-https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/W2VOzy0wz_E/m/LjmQyMurBQAJ Re: Kyber security level?
-> https://news.ycombinator.com/item?id=37874454
-
-https://blog.cr.yp.to/20231003-countcorrectly.html PQC Kyber
-> https://news.ycombinator.com/item?id=37756656
-
-https://media.ccc.de/v/rc3-2021-cwtv-230-kyber-and-post-quantum
 
 https://news.ycombinator.com/item?id=37866421
 
@@ -545,12 +555,6 @@ https://eprint.iacr.org/2022/975 An efficient key recovery attack on SIDH (preli
 > https://news.ycombinator.com/item?id=32287342
 
 https://taoa.io/posts/Understanding-KZG10-Polynomial-Commitments
-
-https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk
-> https://news.ycombinator.com/item?id=31990276
-
-https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms
-> https://news.ycombinator.com/item?id=31990696
 
 https://news.ycombinator.com/item?id=31873896 Ask HN: Seeking Cryptography Certification
 

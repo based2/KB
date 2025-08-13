@@ -80,6 +80,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=44888445
+
 https://noyb.eu/en/noyb-win-dutch-authority-fines-netflix-eu475-million
 
 https://www.bleepingcomputer.com/news/security/gdpr-complaints-filed-against-tiktok-temu-for-sending-user-data-to-china/

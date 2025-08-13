@@ -50,6 +50,9 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 https://news.ycombinator.com/item?id=39706004
 
 # Incidents
+https://issues.chromium.org/issues/412578726
+> https://news.ycombinator.com/item?id=44861106
+
 https://www.theregister.com/2025/08/06/apples_webkit_rule_japan/
 
 https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/

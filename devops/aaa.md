@@ -604,6 +604,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
+> https://news.ycombinator.com/item?id=44865560
+
 https://immich.app/cursed-knowledge/
 > https://news.ycombinator.com/item?id=44831704
 

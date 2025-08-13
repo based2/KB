@@ -1,3 +1,6 @@
+https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev
+> https://news.ycombinator.com/item?id=44867312
+
 https://news.ycombinator.com/item?id=44827794 gpt
 
 https://news.ycombinator.com/item?id=44682465

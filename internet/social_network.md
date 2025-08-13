@@ -218,6 +218,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=44889715
+
 https://www.patreon.com/posts/mastodon-4-4-is-134090971
 
 https://news.ycombinator.com/item?id=44544388
