@@ -234,6 +234,9 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://docs.hyprnote.com/owhisper/what-is-this Ollama for realtime speech-to-text
+> https://news.ycombinator.com/item?id=44901853
+
 https://github.com/denizsafak/abogen Generate audiobooks from EPUBs, PDFs and text
 > https://news.ycombinator.com/item?id=44853064
 

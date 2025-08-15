@@ -59,3 +59,5 @@ https://news.ycombinator.com/item?id=43371603
 https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944?hl=en
 
 https://unit42.paloaltonetworks.com/unit-42-attribution-framework/
+
+https://security.googlecloudcommunity.com/community-blog-42/actionable-threat-hunting-with-gti-ii-analyzing-a-massive-phishing-campaign-part-1-4009

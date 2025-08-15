@@ -1,5 +1,8 @@
 # llama Facebook - Forbids commercial use, weights required
 
+https://github.com/facebookresearch/dinov3
+> https://news.ycombinator.com/item?id=44904993
+
 https://news.ycombinator.com/item?id=44111673
 
 https://news.ycombinator.com/item?id=44052984

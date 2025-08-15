@@ -6,6 +6,9 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://danielchasehooper.com/posts/syscall-build-snooping/ I made a real-time C/C++/Rust build visualizer
+> https://news.ycombinator.com/item?id=44902127
+
 https://blog.vbang.dk/2025/06/29/tools-i-love-mise/
 > https://news.ycombinator.com/item?id=44414987
 

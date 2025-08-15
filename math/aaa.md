@@ -217,6 +217,8 @@ https://news.ycombinator.com/item?id=43985489
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=44912727 interactive guide to sensor fusion with quaternions
+
 https://news.ycombinator.com/item?id=44739315
 
 https://news.ycombinator.com/item?id=44759152

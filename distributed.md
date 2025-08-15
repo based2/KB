@@ -254,6 +254,8 @@ https://news.ycombinator.com/item?id=44825146
 # concurrencyngs
 
 # News
+http://erlang.org/download/armstrong_thesis_2003.pdf Making reliable distributed systems in the presence of software errors (2003)
+> https://news.ycombinator.com/item?id=44860732
 
 https://github.com/traceroot-ai/traceroot debug
 

@@ -79,6 +79,8 @@ https://github.com/BloodHoundAD/BloodHound/releases/tag/v4.3.1 5? neo4j Azure Po
 
 https://news.ycombinator.com/item?id=38149303
 
+https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/
+
 # Tests
 https://docs.gns3.com/docs/
 

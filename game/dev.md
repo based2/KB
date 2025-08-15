@@ -182,6 +182,8 @@ https://www.kathaaverse.com/
 > https://news.ycombinator.com/item?id=44725202
 
 # News
+https://news.ycombinator.com/item?id=44906305
+
 https://news.ycombinator.com/item?id=44856161
 
 https://news.ycombinator.com/item?id=44882441 doom go

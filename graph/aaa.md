@@ -126,6 +126,9 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://arxiv.org/abs/2504.17033 Breaking the Sorting Barrier for Directed Single-Source Shortest Paths
+> https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/
+
 https://r.igraph.org/reference/cluster_leiden.html
 
 https://news.ycombinator.com/item?id=44522505

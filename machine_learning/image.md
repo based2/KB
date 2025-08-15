@@ -405,6 +405,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/
+> https://news.ycombinator.com/item?id=44915187
+
 https://enhancelab.fr/
 
 https://news.ycombinator.com/item?id=44787631

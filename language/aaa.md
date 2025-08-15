@@ -387,6 +387,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://masatohagiwara.net/recto.html
+> https://news.ycombinator.com/item?id=44877201
+
 https://news.ycombinator.com/item?id=44726347 perl
 
 https://seed7.net/

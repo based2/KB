@@ -87,6 +87,8 @@ https://news.ycombinator.com/item?id=37240363 sql
 https://news.ycombinator.com/item?id=42531993
 
 # I
+https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/
+
 https://www.aim.security/lp/aim-labs-curxecute-blogpost
 
 https://news.ycombinator.com/item?id=44736101
@@ -103,6 +105,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=44900116
+
 https://news.ycombinator.com/item?id=44851214
 
 https://blog.tolki.dev/posts/2025/08-07-llms/ The current state of LLM-driven development

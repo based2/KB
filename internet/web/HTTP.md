@@ -214,6 +214,11 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # I
+https://galbarnahum.com/posts/made-you-reset-intro
+
+https://deepness-lab.org/publications/madeyoureset/ CVE-2025-8671 CVE-2023-44487 Rapid Reset
+> https://www.theregister.com/2025/08/14/madeyoureset_http2_flaw_lets_attackers/
+
 https://http1mustdie.com/
 > https://old.reddit.com/r/netsec/comments/1mjkq38/http11_must_die_the_desync_endgame_whitepaper/
 

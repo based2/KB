@@ -1,3 +1,6 @@
+https://developers.googleblog.com/en/introducing-gemma-3-270m/
+> https://news.ycombinator.com/item?id=44902148
+
 https://github.com/google-gemini/gemini-cli
 
 https://news.ycombinator.com/item?id=44837646

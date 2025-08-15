@@ -57,3 +57,6 @@ https://www.edgedb.com/blog/edgedb-2-0
 https://engula.io/posts/release-0.2/
 > https://news.ycombinator.com/item?id=29589129
 
+# I
+https://sensepost.com/blog/2025/nosql-error-based-injection/
+

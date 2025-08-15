@@ -635,6 +635,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=44914773
+
 https://news.ycombinator.com/item?id=44846140
 
 https://www.mechanize.work/blog/sweatshop-data-is-over/

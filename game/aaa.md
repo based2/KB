@@ -52,6 +52,8 @@ https://news.ycombinator.com/item?id=42796292
 https://news.ycombinator.com/item?id=44877404
 
 # News
+https://news.ycombinator.com/item?id=44906662
+
 https://baldursgate3.game/news/community-update-35-baldur-s-gate-3-turns-two_143
 
 https://news.ycombinator.com/item?id=44801399

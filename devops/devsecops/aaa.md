@@ -90,6 +90,8 @@ https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templa
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://sensepost.com/blog/2025/depscanner-find-orphaned-packages-before-the-bad-guys-do/
+
 https://socket.dev/blog/npm-trusted-publishing oidc
 
 https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/

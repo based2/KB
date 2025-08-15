@@ -12,6 +12,9 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://ope nreview.net/forum?id=4tDNvQe2G0 Spectre in the real world: Leaking your private data from the cloud with CPU vulnerabilities
+> https://news.ycombinator.com/item?id=44867842
+
 https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/
 
 https://www.theregister.com/2025/08/07/windows_hello_hell_no/

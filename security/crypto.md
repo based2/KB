@@ -243,6 +243,11 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # News
+https://eprint.iacr.org/2022/1336 One-Wayness in Quantum Cryptography
+> https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/
+
+https://arxiv.org/abs/2310.11526 Commitments from Quantum One-Wayness
+
 https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/
 
 https://news.ycombinator.com/item?id=44684212

@@ -93,6 +93,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://news.ycombinator.com/item?id=44911560
+
 https://news.ycombinator.com/item?id=44186736
 
 https://news.ycombinator.com/item?id=44117059

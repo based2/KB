@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/
+
 https://blog.danielh.cc/blog/passwords
 > https://news.ycombinator.com/item?id=44819917
 
