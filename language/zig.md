@@ -1,3 +1,6 @@
+https://github.com/habedi/zig-dbc Design by contract library for Zig
+> https://news.ycombinator.com/item?id=44876174
+
 https://news.ycombinator.com/item?id=44862414
 
 https://news.ycombinator.com/item?id=44855881

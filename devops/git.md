@@ -297,6 +297,9 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://tylercipriani.com/blog/2025/08/15/git-lfs/
+> https://news.ycombinator.com/item?id=44916783
+
 https://www.tomups.com/posts/git-worktrees/
 > https://news.ycombinator.com/item?id=44830480
 

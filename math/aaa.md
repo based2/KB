@@ -217,6 +217,9 @@ https://news.ycombinator.com/item?id=43985489
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://pudding.cool/2025/08/onions/
+> https://news.ycombinator.com/item?id=44923465
+
 https://news.ycombinator.com/item?id=44912727 interactive guide to sensor fusion with quaternions
 
 https://news.ycombinator.com/item?id=44739315

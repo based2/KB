@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://news.ycombinator.com/item?id=44931383
+
 https://sensepost.com/blog/2025/is-tls-more-secure-the-winrms-case./
 
 https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/

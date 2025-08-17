@@ -21,6 +21,12 @@ https://outage.sr.ht/
 > > https://news.ycombinator.com/item?id=38939532
 
 # News
+https://forgefed.org/ federation protocol for software forges
+> https://news.ycombinator.com/item?id=44873341
+
+https://code.ffmpeg.org/FFmpeg/FFmpeg
+> https://news.ycombinator.com/item?id=44886997
+
 https://forgejo.org/
 > https://news.ycombinator.com/item?id=42753523
 

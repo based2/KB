@@ -133,6 +133,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://news.ycombinator.com/item?id=44926990
+
 https://news.ycombinator.com/item?id=44666353
 
 https://news.ycombinator.com/item?id=44661846

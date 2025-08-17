@@ -234,6 +234,9 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://github.com/superstarryeyes/lue Terminal eBook Reader with Text-to-Speech
+> https://news.ycombinator.com/item?id=44925597
+
 https://docs.hyprnote.com/owhisper/what-is-this Ollama for realtime speech-to-text
 > https://news.ycombinator.com/item?id=44901853
 

@@ -635,6 +635,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://gonzoml.substack.com/p/tversky-neural-networks
+> https://news.ycombinator.com/item?id=44925123
+
+https://news.ycombinator.com/item?id=44930222
+
 https://news.ycombinator.com/item?id=44914773
 
 https://news.ycombinator.com/item?id=44846140

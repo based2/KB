@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://jeclark.net/articles/tcp-initcwnd/?tag=performance
+> https://news.ycombinator.com/item?id=44889673
+
 https://halb.it/posts/ebpf-fingerprinting-1/
 > https://news.ycombinator.com/item?id=44412080
 

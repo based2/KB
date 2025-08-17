@@ -42,6 +42,8 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://news.ycombinator.com/item?id=44893118
+
 https://news.ycombinator.com/item?id=44823262
 
 https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/

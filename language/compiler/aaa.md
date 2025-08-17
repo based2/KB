@@ -158,6 +158,9 @@ https://news.ycombinator.com/item?id=40911500
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage
+> https://news.ycombinator.com/item?id=44881638
+
 https://news.ycombinator.com/item?id=44613791
 
 https://blog.m-ou.se/floats/

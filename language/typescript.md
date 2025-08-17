@@ -113,6 +113,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://nodejs.org/en/blog/release/v22.18.0
+> https://news.ycombinator.com/item?id=44929260
+
 https://news.ycombinator.com/item?id=44634143
 
 https://news.ycombinator.com/item?id=44611467 Bun

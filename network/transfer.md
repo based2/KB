@@ -128,3 +128,6 @@ https://github.com/pontoon-data/Pontoon Open source data export platform. For de
 > https://github.com/pontoon-data/Pontoon?tab=License-1-ov-file#readme MIT Elastic License 2.0 (ELv2)
 > https://github.com/pontoon-data/Pontoon/blob/master/docs/docs/getting-started/architecture.md
 > https://news.ycombinator.com/item?id=44758281
+
+https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity
+> https://news.ycombinator.com/item?id=44929478

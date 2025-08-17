@@ -38,3 +38,6 @@ https://news.ycombinator.com/item?id=43539103
 
 https://github.com/ernestofgonzalez/epub-utils
 > https://news.ycombinator.com/item?id=43875505
+
+https://github.com/superstarryeyes/lue Terminal eBook Reader with Text-to-Speech
+> https://news.ycombinator.com/item?id=44925597

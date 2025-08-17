@@ -10,6 +10,8 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://news.ycombinator.com/item?id=44923962
+
 https://news.ycombinator.com/item?id=44764479
 
 https://hardware.slashdot.org/story/25/07/25/0022231/mercedes-benz-is-already-testing-solid-state-batteries-in-evs-with-over-600-miles-range

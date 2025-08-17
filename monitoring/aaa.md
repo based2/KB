@@ -127,6 +127,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html
+> https://news.ycombinator.com/item?id=44930625
+
 https://news.ycombinator.com/item?id=44781683
 
 https://johnscolaro.xyz/blog/log-by-time-not-by-count

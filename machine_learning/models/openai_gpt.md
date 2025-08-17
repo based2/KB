@@ -1,5 +1,10 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=44930581
+
+https://progress.openai.com/
+> https://news.ycombinator.com/item?id=44924461
+
 https://help.openai.com/en/articles/11752874-chatgpt-agent
 > https://news.ycombinator.com/item?id=44847368
 

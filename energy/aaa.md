@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=44931763
+
 https://news.ycombinator.com/item?id=44706428
 
 https://news.ycombinator.com/item?id=44686021

@@ -12,6 +12,8 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=44914773
+
 https://www.cloudflare.com/galileo/
 
 https://news.ycombinator.com/item?id=44670319

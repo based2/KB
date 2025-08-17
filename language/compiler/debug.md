@@ -12,10 +12,16 @@ https://pernos.co/blog/function-prologues/
 
 https://news.ycombinator.com/item?id=32709045
 
+https://victorwynne.com/processor-trace-instrument/
+> https://news.ycombinator.com/item?id=44926758
+
 # ML
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://flak.tedunangst.com/post/stylish-bugs
+> https://news.ycombinator.com/item?id=44876115
+
 https://news.ycombinator.com/item?id=44076300
 
 https://news.ycombinator.com/item?id=44025979
