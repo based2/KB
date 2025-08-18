@@ -1,3 +1,6 @@
+https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/
+> https://news.ycombinator.com/item?id=44942600
+
 https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev
 > https://news.ycombinator.com/item?id=44867312
 

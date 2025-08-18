@@ -247,6 +247,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://arxiv.org/abs/2501.04765 TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training
+> https://news.ycombinator.com/item?id=44943160
+
 https://queue.acm.org/detail.cfm?id=3746223 Unleashing the Power of End-User Programmable AI, Creating an AI-first program Synthesis framework
 
 https://news.ycombinator.com/item?id=44798624

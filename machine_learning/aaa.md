@@ -362,6 +362,9 @@ https://dl.acm.org/doi/pdf/10.1145/987452.987458
 
 https://news.ycombinator.com/item?id=42350768
 
+https://people.idsia.ch/~juergen/who-invented-backpropagation.html
+> https://news.ycombinator.com/item?id=44941963
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307

@@ -86,6 +86,10 @@ https://news.ycombinator.com/item?id=37240363 sql
 # Test
 https://news.ycombinator.com/item?id=42531993
 
+# Vibe
+https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
+> https://news.ycombinator.com/item?id=44940089
+
 # I
 https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/
 

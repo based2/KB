@@ -2,6 +2,9 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://scrollguard.app/
+> https://news.ycombinator.com/item?id=44923520
+
 https://news.ycombinator.com/item?id=43973395
 
 https://lobste.rs/s/qoebwd/gitdroid_third_party_android_app_manager

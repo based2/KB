@@ -387,6 +387,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/FFmpeg/asm-lessons
+> https://news.ycombinator.com/item?id=44940485
+
 https://dyna.org/ Logic Programming for Machine Learning
 > https://news.ycombinator.com/item?id=44926414
 

@@ -142,6 +142,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://news.ycombinator.com/item?id=44942954
+
 http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
 > https://news.ycombinator.com/item?id=44774567
 
