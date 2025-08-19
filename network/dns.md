@@ -181,6 +181,9 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/
+> https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/
+
 https://news.ycombinator.com/item?id=44790282
 
 https://news.ycombinator.com/item?id=44813905

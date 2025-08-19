@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://securitylabs.datadoghq.com/articles/enumerating-aws-the-quiet-way-cloudtrail-free-discovery-with-resource-explorer/
+
 https://zero-defense.com/blog/how-we-gained-full-access-to-a-100m-zero-trust-startup/
 > https://old.reddit.com/r/netsec/comments/1m908uy/how_we_gained_full_access_to_a_100m_zerotrust/
 

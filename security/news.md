@@ -1,3 +1,5 @@
+https://www.elastic.co/blog/elastic-response-edr-0-day-vulnerability-blog
+
 https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/
 
 https://blog.danielh.cc/blog/passwords

@@ -91,6 +91,8 @@ https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 > https://news.ycombinator.com/item?id=44940089
 
 # I
+https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
+
 https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/
 
 https://www.aim.security/lp/aim-labs-curxecute-blogpost
