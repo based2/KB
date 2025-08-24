@@ -54,6 +54,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt
+
 https://news.ycombinator.com/item?id=44899488
 
 https://news.ycombinator.com/item?id=44844324 intel
