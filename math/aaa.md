@@ -217,6 +217,10 @@ https://news.ycombinator.com/item?id=43985489
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=44937819
+
+https://news.ycombinator.com/item?id=44942547
+
 https://pudding.cool/2025/08/onions/
 > https://news.ycombinator.com/item?id=44923465
 
@@ -1060,6 +1064,7 @@ https://www.manim.community/
 > https://news.ycombinator.com/item?id=30658390
 
 https://github.com/3b1b/manim
+> https://news.ycombinator.com/item?id=44994071
 > https://news.ycombinator.com/item?id=31636657
 
 https://github.com/sharkdp/insect high precision scientific calculator with full support for physical units.

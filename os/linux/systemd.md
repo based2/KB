@@ -96,3 +96,6 @@ https://news.ycombinator.com/item?id=43326080
 https://news.ycombinator.com/item?id=43649088
 
 https://www.phoronix.com/news/systemd-258-rc1
+
+https://roguesecurity.dev/blog/systemd-hardening
+> https://news.ycombinator.com/item?id=44937550

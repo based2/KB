@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=44997145
+
+https://news.ycombinator.com/item?id=44959073
+
 https://www.elastic.co/blog/elastic-response-edr-0-day-vulnerability-blog
 
 https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/

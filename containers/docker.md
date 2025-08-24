@@ -58,7 +58,10 @@ https://github.com/duaraghav8/dockershrink
 #
 https://github.com/iximiuz/docker-to-linux
 
-# I
+# Incidents
+https://blog.qwertysecurity.com/Articles/blog3.html
+> https://old.reddit.com/r/netsec/comments/1mwhisp/when_a_ssrf_is_enough_full_docker_escape_on/
+
 https://www.bleepingcomputer.com/news/security/docker-hub-still-hosts-dozens-of-linux-images-with-the-xz-backdoor/
 
 https://raniseth.com/blog/2025-01-04-Home-Server-Security.html

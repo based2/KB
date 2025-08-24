@@ -286,6 +286,9 @@ https://news.ycombinator.com/item?id=43090214
 
 https://news.ycombinator.com/item?id=43334190
 
+https://labplot.org/
+> https://news.ycombinator.com/item?id=44982409
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -380,6 +383,9 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://theheasman.com/short_stories/why-is-d3-code-so-long-and-complicated-or-why-is-it-so-verbose/
+> https://news.ycombinator.com/item?id=44970981
+
 https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/
 > https://news.ycombinator.com/item?id=44794926
 

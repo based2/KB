@@ -181,7 +181,18 @@ https://blog.luden.io/generating-prototypes-from-game-design-document-with-curso
 https://www.kathaaverse.com/
 > https://news.ycombinator.com/item?id=44725202
 
+https://news.ycombinator.com/item?id=44978286
+
 # News
+https://bejofo.com/blog/no-js-game-case-study
+> https://news.ycombinator.com/item?id=44952836
+
+https://github.com/librebox-devs/librebox-demo
+> https://news.ycombinator.com/item?id=44995147
+
+https://muffinman.io/blog/invaders/
+> https://news.ycombinator.com/item?id=44956915
+
 https://news.ycombinator.com/item?id=44906305
 
 https://news.ycombinator.com/item?id=44856161

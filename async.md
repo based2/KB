@@ -61,6 +61,9 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://clojure.github.io/core.async/flow-guide.html
+> https://news.ycombinator.com/item?id=44936309
+
 https://kristoff.it/blog/asynchrony-is-not-concurrency/
 > https://lobste.rs/s/oeuohp/asynchrony_is_not_concurrency
 > https://news.ycombinator.com/item?id=44608754

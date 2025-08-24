@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://www.aquasec.com/blog/bucket-monopoly-breaching-aws-accounts-through-shadow-resources/
+
 https://securitylabs.datadoghq.com/articles/enumerating-aws-the-quiet-way-cloudtrail-free-discovery-with-resource-explorer/
 
 https://zero-defense.com/blog/how-we-gained-full-access-to-a-100m-zero-trust-startup/
@@ -191,6 +193,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://news.ycombinator.com/item?id=44962844
+
 https://news.ycombinator.com/item?id=44825660
 
 https://github.com/aws/aws-cdk/issues/34892 NOTICE: CDK CLI will begin to collect anonymous telemetry data on or after Sep 1st, 2025

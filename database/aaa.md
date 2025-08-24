@@ -80,6 +80,11 @@ https://news.ycombinator.com/item?id=44070532
 https://research.google/blog/graph-foundation-models-for-relational-data/
 
 # News
+https://news.ycombinator.com/item?id=44952895
+
+https://chrispenner.ca/posts/views-for-debugging
+> https://news.ycombinator.com/item?id=44934476
+
 https://sensepost.com/blog/2025/a-journey-implementing-channel-binding-on-mssqlclient.py/
 
 https://minimalmodeling.substack.com/p/virtual-6nf

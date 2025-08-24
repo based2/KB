@@ -141,6 +141,9 @@ https://news.ycombinator.com/item?id=44069304
 
 https://news.ycombinator.com/item?id=44777086 Automerge 3.0
 
+https://madebyevan.com/algos/crdt-text-buffer/ RGA
+> https://news.ycombinator.com/item?id=44955459
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

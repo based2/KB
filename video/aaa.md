@@ -145,6 +145,14 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://news.ycombinator.com/item?id=44974651
+
+https://blog.cloudflare.com/moq/
+> https://news.ycombinator.com/item?id=44984785
+
+https://ffmpeg.org/index.html#pr8.0
+> https://news.ycombinator.com/item?id=44985730
+
 https://news.ycombinator.com/item?id=44571908
 
 https://app.ilograph.com/demo.ilograph.AWS%2520Video-On-Demand/Workflow aws

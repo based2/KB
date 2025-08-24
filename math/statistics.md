@@ -24,3 +24,5 @@ https://www.stat.cmu.edu/~cshalizi/TALR/ The Truth About Linear Regression (2015
 https://news.ycombinator.com/item?id=43200450
 
 https://news.ycombinator.com/item?id=44779688
+
+https://news.ycombinator.com/item?id=44967796

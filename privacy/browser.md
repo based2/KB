@@ -47,6 +47,10 @@ https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://news.ycombinator.com/item?id=44965883
+
+https://news.ycombinator.com/item?id=44950695
+
 https://news.ycombinator.com/item?id=44795825
 
 https://github.com/uBlockOrigin/uBOL-home/issues/327

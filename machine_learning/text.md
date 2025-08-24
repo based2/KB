@@ -86,6 +86,8 @@ https://news.ycombinator.com/item?id=42784373
 https://news.ycombinator.com/item?id=44849129
 
 # News
+https://news.ycombinator.com/item?id=44987422
+
 https://github.com/mirth/chonky neural approach for text semantic chunking
 > https://news.ycombinator.com/item?id=43652968
 

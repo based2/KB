@@ -55,6 +55,8 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://news.ycombinator.com/item?id=44941369
+
 https://news.ycombinator.com/item?id=44872948
 
 https://news.ycombinator.com/item?id=44906662

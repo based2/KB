@@ -25,6 +25,11 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://news.ycombinator.com/item?id=44940896
+
+https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/
+> https://news.ycombinator.com/item?id=44961847
+
 https://xvw.lol/en/articles/why-ocaml.html
 > https://news.ycombinator.com/item?id=44891759
 

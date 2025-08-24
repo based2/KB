@@ -1,3 +1,5 @@
+https://boliv.substack.com/p/claude-code-usage-patterns-2
+
 https://claudiacode.com/
 > https://news.ycombinator.com/item?id=44933255
 

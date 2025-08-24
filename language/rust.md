@@ -562,6 +562,11 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://jyn.dev/the-core-of-rust/
+>  https://news.ycombinator.com/item?id=44974688
+
+https://news.ycombinator.com/item?id=44981989
+
 https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/
 
 https://news.ycombinator.com/item?id=44724507

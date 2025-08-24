@@ -1,5 +1,7 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=44979107
+
 https://news.ycombinator.com/item?id=44930581
 
 https://progress.openai.com/

@@ -80,6 +80,9 @@ https://shapecatcher.com/
 https://mcilloni.ovh/2023/07/23/unicode-is-hard/
 > https://news.ycombinator.com/item?id=36865287
 
+https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839
+> https://news.ycombinator.com/item?id=44995640
+
 # ASCII
 https://bestasciitable.com/
 > https://news.ycombinator.com/item?id=34399598
@@ -147,6 +150,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://news.ycombinator.com/item?id=44981525
+
 https://news.ycombinator.com/item?id=44862861
 
 https://news.ycombinator.com/item?id=44072922

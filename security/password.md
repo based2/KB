@@ -1,3 +1,5 @@
+https://www.rfc-editor.org/rfc/rfc8265  Preparation, Enforcement, and Comparison of Internationalized String - Representing Usernames and Passwords
+
 https://keepass.info/
 
 https://hashcat.net/hashcat/

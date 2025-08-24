@@ -82,6 +82,8 @@ https://news.ycombinator.com/item?id=44513843 agent
 https://biomni.stanford.edu/paper.pdf
 
 # News
+https://news.ycombinator.com/item?id=44986809
+
 https://news.ycombinator.com/item?id=44682033
 
 https://arxiv.org/abs/2506.13232 Two-photon 3D printing of functional microstructures inside living cells [pdf]

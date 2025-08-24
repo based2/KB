@@ -184,6 +184,12 @@ https://news.ycombinator.com/item?id=44838733
 
 https://mistral.ai/news/agents-api
 
+https://agents.md/
+> https://news.ycombinator.com/item?id=44957443
+
+https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed
+> https://news.ycombinator.com/item?id=44971530
+
 # I
 https://news.ycombinator.com/item?id=44888210
 

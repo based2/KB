@@ -415,6 +415,9 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://github.com/zedless-editor/zed
+> https://news.ycombinator.com/item?id=44964916
+
 https://news.ycombinator.com/item?id=44574815
 
 https://news.ycombinator.com/item?id=44372380

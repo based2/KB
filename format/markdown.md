@@ -126,3 +126,5 @@ https://sli.dev/ Presentation Slides with Markdown
 https://news.ycombinator.com/item?id=44191558
 
 https://news.ycombinator.com/item?id=44167592
+
+https://news.ycombinator.com/item?id=44932651

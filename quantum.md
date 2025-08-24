@@ -117,6 +117,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://interestingengineering.com/science/living-cell-protein-turnedinto-quantum-bit
+
 https://techxplore.com/news/2025-07-quantum-bottlenecks-breakthroughs.html
 
 https://news.ycombinator.com/item?id=44608622

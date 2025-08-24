@@ -303,6 +303,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=44987380
+
 https://www.emailprivacytester.com/badClients
 > https://news.ycombinator.com/item?id=44616595
 

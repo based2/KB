@@ -179,6 +179,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://churchofturing.github.io/the-enterprise-experience.html
+> https://news.ycombinator.com/item?id=44932980
+
 https://treeform.github.io/devcompas/
 > https://news.ycombinator.com/item?id=44927244
 

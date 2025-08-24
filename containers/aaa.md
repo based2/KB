@@ -72,6 +72,9 @@ https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/
+> https://news.ycombinator.com/item?id=44971212
+
 https://github.com/P-p-H-d/c-stl-comparison
 > https://news.ycombinator.com/item?id=44889132
 

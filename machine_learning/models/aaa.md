@@ -228,6 +228,8 @@ https://www.alphaxiv.org/abs/2507.10524 Mixture of Recursions
 
 https://news.ycombinator.com/item?id=44834918
 
+https://news.ycombinator.com/item?id=44985278 Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
 

@@ -22,3 +22,6 @@ https://blog.research.google/2023/09/re-weighted-gradient-descent-via.html
 https://news.ycombinator.com/item?id=42554209
 
 https://news.ycombinator.com/item?id=42803774
+
+https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/
+> https://news.ycombinator.com/item?id=44931666

@@ -387,6 +387,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=44942936
+
 https://github.com/FFmpeg/asm-lessons
 > https://news.ycombinator.com/item?id=44940485
 

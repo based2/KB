@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # Incidents
+https://gfw.report/blog/gfw_unconditional_rst_20250820/en/
+> https://news.ycombinator.com/item?id=44958621
+
 https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/
 
 https://fortiguard.fortinet.com/psirt/FG-IR-25-152

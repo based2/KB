@@ -110,6 +110,8 @@ https://www.formance.com/blog/engineering/color-of-money
 > https://news.ycombinator.com/item?id=42280641
 
 ## Trading
+https://news.ycombinator.com/item?id=44971396
+
 https://news.ycombinator.com/item?id=44810552
 
 https://news.ycombinator.com/item?id=44157378 ml

@@ -17,6 +17,9 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://lwn.net/Articles/1030818/ Rethinking the Linux cloud stack for confidential VMs
+> https://news.ycombinator.com/item?id=44995234
+
 https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/
 > https://news.ycombinator.com/item?id=43125176
 

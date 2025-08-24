@@ -96,14 +96,16 @@ https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
 https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
-#
+# I
+https://news.ycombinator.com/item?id=44936945
+
 https://news.ycombinator.com/item?id=40155489
 
 https://news.ycombinator.com/item?id=40175395
 
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
-# ml
+# ML
 https://news.ycombinator.com/item?id=41458083
 
 https://news.ycombinator.com/item?id=41448985 kagi

@@ -90,7 +90,14 @@ https://news.ycombinator.com/item?id=42531993
 https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 > https://news.ycombinator.com/item?id=44940089
 
+https://news.ycombinator.com/item?id=44985207
+
 # I
+https://news.ycombinator.com/item?id=44976568
+
+https://pistachioapp.com/blog/copilot-broke-your-audit-log
+> https://news.ycombinator.com/item?id=44957454
+
 https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
 
 https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/
@@ -111,6 +118,11 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.zacsweers.dev/forklifts-require-training/
+> https://news.ycombinator.com/item?id=44954040
+
+https://news.ycombinator.com/item?id=44991884
+
 https://news.ycombinator.com/item?id=44900116
 
 https://news.ycombinator.com/item?id=44851214

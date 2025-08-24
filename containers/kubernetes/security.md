@@ -86,6 +86,8 @@ https://github.com/falcosecurity/falcosidekick
 https://github.com/draios/sysdig-inspect
 
 # News
+https://www.aquasec.com/blog/risks-misconfigured-kubernetes-policy-engines-opa-gatekeeper/
+
 https://news.ycombinator.com/item?id=42658407
 
 https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges

@@ -126,5 +126,7 @@ https://news.ycombinator.com/item?id=44504250
 
 https://news.ycombinator.com/item?id=44591305
 
+https://news.ycombinator.com/item?id=44941605
+
 # I
 https://www.seqrite.com/blog/unmasking-the-svg-threat-how-hackers-use-vector-graphics-for-phishing-attacks/

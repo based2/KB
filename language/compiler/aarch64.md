@@ -1,3 +1,6 @@
+https://www.nmichaels.org/musings/d4d4/d4d4/
+> https://news.ycombinator.com/item?id=44932401
+
 https://news.ycombinator.com/item?id=39959946
 
 https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/
