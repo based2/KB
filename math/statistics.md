@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45051798
+
 https://blog.foletta.net/post/2025-07-14-clt/ Central Limit Theorem
 > https://news.ycombinator.com/item?id=44909133
 

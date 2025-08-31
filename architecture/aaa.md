@@ -223,6 +223,8 @@ https://github.com/wolfpld/tracy
 
 https://news.ycombinator.com/item?id=44632674
 
+https://news.ycombinator.com/item?id=45002911
+
 # Microservice
 https://microservices.io/patterns/
 > https://news.ycombinator.com/item?id=16014278

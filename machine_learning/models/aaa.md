@@ -230,6 +230,8 @@ https://news.ycombinator.com/item?id=44834918
 
 https://news.ycombinator.com/item?id=44985278 Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing
 
+https://news.ycombinator.com/item?id=45072160 From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
 
@@ -244,11 +246,20 @@ https://arxiv.org/html/2507.11473v1
 https://snitchbench.t3.gg/
 
 # I
+https://www.usenix.org/conference/usenixsecurity20/presentation/quiring
+
 https://news.ycombinator.com/item?id=43865097
 
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45050415
+
+https://modelpilot.co/leaderboard carbon impact of different LLMs
+> https://news.ycombinator.com/item?id=45021885
+
+https://news.ycombinator.com/item?id=45018708
+
 https://arxiv.org/abs/2501.04765 TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training
 > https://news.ycombinator.com/item?id=44943160
 

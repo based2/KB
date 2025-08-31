@@ -1,3 +1,19 @@
+https://www.anthropic.com/news/claude-for-chrome
+> https://news.ycombinator.com/item?id=45030760
+> > https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+
+https://claude-checkpoints.com/
+> https://news.ycombinator.com/item?id=45050090
+
+https://www.anthropic.com/news/updates-to-our-consumer-terms
+> https://news.ycombinator.com/item?id=45062683
+
+https://news.ycombinator.com/item?id=45062738
+
+https://news.ycombinator.com/item?id=45002315
+
+https://news.ycombinator.com/item?id=45013572
+
 https://boliv.substack.com/p/claude-code-usage-patterns-2
 
 https://claudiacode.com/
@@ -79,6 +95,9 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://www.bleepingcomputer.com/news/security/malware-devs-abuse-anthropics-claude-ai-to-build-ransomware/
+> https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf Threat Intelligence Report: August 2025
+
 https://cymulate.com/blog/cve-2025-547954-54795-claude-inverseprompt/
 > https://old.reddit.com/r/netsec/comments/1mhj0ek/finding_vulnerabilities_in_claude_code/
 

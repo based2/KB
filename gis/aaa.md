@@ -124,6 +124,10 @@ https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-
 > https://news.ycombinator.com/item?id=36985197
 > https://news.ycombinator.com/item?id=37015290
 
+# I
+https://nvd.nist.gov/vuln/detail/cve-2024-36401 GeoServer geospatial database
+> https://unit42.paloaltonetworks.com/attackers-sell-your-bandwidth-using-sdks/
+
 # Maps
 https://news.ycombinator.com/item?id=41602519
 

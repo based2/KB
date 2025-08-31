@@ -192,3 +192,6 @@ https://github.com/surban/memstop
 > https://news.ycombinator.com/item?id=44468022
 
 https://news.ycombinator.com/item?id=44931079
+
+https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs
+> https://news.ycombinator.com/item?id=45012414

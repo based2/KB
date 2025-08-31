@@ -10,6 +10,8 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://news.ycombinator.com/item?id=45012942
+
 https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/
 > https://news.ycombinator.com/item?id=44936535
 

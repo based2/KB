@@ -151,6 +151,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.f-stack.org/ Tencent
+> https://news.ycombinator.com/item?id=45074115
+
+https://dseltzer.gitlab.io/sping/docs/ HTTP/TCP latency tool that's easy on the eye
+> https://news.ycombinator.com/item?id=45008819
+
 https://news.ycombinator.com/item?id=44972000
 
 https://jeclark.net/articles/tcp-initcwnd/?tag=performance

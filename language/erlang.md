@@ -226,6 +226,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # i
+https://unit42.paloaltonetworks.com/erlang-otp-cve-2025-32433/
+
 https://news.ycombinator.com/item?id=43716526
 
 # News

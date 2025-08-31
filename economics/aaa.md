@@ -294,6 +294,13 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://www.washingtonpost.com/business/2025/08/30/de-minimis-tax-canceled-orders-delays/
+> https://news.ycombinator.com/item?id=45074110
+
+https://news.ycombinator.com/item?id=45028785
+
+https://news.ycombinator.com/item?id=45067423
+
 https://news.ycombinator.com/item?id=44838161
 
 https://alhadaqa.github.io/globaltradedynamics/

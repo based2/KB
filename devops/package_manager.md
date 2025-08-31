@@ -112,6 +112,10 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://news.ycombinator.com/item?id=45034496
+
+https://www.stepsecurity.io/blog/supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware
+
 https://socket.dev/blog/npm-is-package-hijacked-in-expanding-supply-chain-attack
 
 https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/
@@ -176,6 +180,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://www.theregister.com/2025/08/27/popular_nodejs_utility_used_by/
+
 https://news.ycombinator.com/item?id=44986251
 
 https://socket.dev/blog/astral-launches-pyx-a-python-native-package-registry

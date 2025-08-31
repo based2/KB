@@ -24,6 +24,9 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://nlp.seas.harvard.edu/annotated-transformer/
+> https://news.ycombinator.com/item?id=45002896
+
 https://arxiv.org/abs/2407.12034
 
 https://news.ycombinator.com/item?id=43823485

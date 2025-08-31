@@ -1,6 +1,15 @@
+https://www.oreilly.com/radar/working-with-contexts/
+
+https://www.devplan.com/
+> https://news.ycombinator.com/item?id=45053581
+
+https://ai.google.dev/gemini-api/docs/url-context
+> https://news.ycombinator.com/item?id=45019262
+
 https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html
 
 https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html
+> https://news.ycombinator.com/item?id=45002048
 
 https://news.ycombinator.com/item?id=44718173
 

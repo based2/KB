@@ -11,5 +11,10 @@ https://news.ycombinator.com/item?id=42225099
 
 https://news.ycombinator.com/item?id=44189426
 
+https://arxiv.org/abs/2508.21038 The Theoretical Limitations of Embedding-Based Retrieval
+> https://news.ycombinator.com/item?id=45068986
+
+https://arxiv.org/abs/2508.10003
+
 # I
 https://news.ycombinator.com/item?id=44185158

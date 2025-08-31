@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45052200
+
 https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025
 >  https://news.ycombinator.com/item?id=44596275
 

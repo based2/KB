@@ -412,6 +412,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=45061153
+
 https://news.ycombinator.com/item?id=44848698
 
 https://www.theregister.com/2025/08/08/stargate_launch_delays/

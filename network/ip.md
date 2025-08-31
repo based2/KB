@@ -128,6 +128,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 #
+https://dw-news.dreamwidth.org/44429.html Mississippi legal challenge: beginning 1 September, we will need to geoblock Mississippi IPs
+> https://news.ycombinator.com/item?id=45044440
+
 https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726
 > https://news.ycombinator.com/item?id=41585249
 

@@ -387,6 +387,13 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.strlen.com/lobster/
+> https://news.ycombinator.com/item?id=45018089
+
+https://news.ycombinator.com/item?id=45028002
+
+https://news.ycombinator.com/item?id=45041744
+
 https://news.ycombinator.com/item?id=44942936
 
 https://github.com/FFmpeg/asm-lessons

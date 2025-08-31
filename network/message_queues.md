@@ -108,6 +108,11 @@ https://news.ycombinator.com/item?id=40961101
 
 https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34
 
+https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/
+
+https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created
+> https://news.ycombinator.com/item?id=44988845
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

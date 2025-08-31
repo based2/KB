@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-on-planet-wgs-804hpt-industrial-switches
+
 https://www.galacticadvisors.com/release/critical-vulnerabilities-in-network-detective/
 
 https://www.lrqa.com/en/cyber-labs/remote-code-execution-in-broadcom-altiris-irm/

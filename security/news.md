@@ -1,3 +1,17 @@
+https://aws.amazon.com/en/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/
+
+https://news.ycombinator.com/item?id=45030836
+
+https://news.ycombinator.com/item?id=45042461
+
+https://www.wired.com/story/charles-borges-resignation-email-disappearance/
+> https://old.reddit.com/r/fednews/comments/1n3mm9m/ssa_chief_data_officer_resigns/
+
+https://www.praetorian.com/blog/ghost-calls-abusing-web-conferencing-for-covert-command-control-part-1-of-2/
+
+https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/
+> https://news.ycombinator.com/item?id=45026810
+
 https://news.ycombinator.com/item?id=44997145
 
 https://news.ycombinator.com/item?id=44959073

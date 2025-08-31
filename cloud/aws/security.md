@@ -28,6 +28,8 @@ https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 https://news.ycombinator.com/item?id=43893906
 
 #
+https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html
+
 https://tracebit.com/blog/no-wildcard-how-i-discovered-the-organization-id-of-any-aws-account
 > https://old.reddit.com/r/netsec/comments/1eacbaq/no_wildcard_how_we_discovered_the_aws/
 

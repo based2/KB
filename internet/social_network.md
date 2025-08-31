@@ -65,6 +65,9 @@ https://news.ycombinator.com/item?id=42035981
 
 https://news.ycombinator.com/item?id=44018886
 
+https://news.ycombinator.com/item?id=45064210
+> https://news.ycombinator.com/pool
+
 # Slashdot
 # Reddit
 
@@ -88,6 +91,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.reuters.com/sustainability/society-equity/egypt-rounds-up-teenaged-tiktokkers-crackdown-social-media-2025-08-29/
+
 https://news.ycombinator.com/item?id=44663684
 
 https://www.axios.com/2017/12/15/sean-parker-facebook-was-designed-to-exploit-human-vulnerability-1513306782
@@ -218,6 +223,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=45018773
+
 https://news.ycombinator.com/item?id=44997194
 
 https://news.ycombinator.com/item?id=44958020

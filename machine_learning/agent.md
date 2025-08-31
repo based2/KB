@@ -190,7 +190,11 @@ https://agents.md/
 https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed
 > https://news.ycombinator.com/item?id=44971530
 
+https://news.ycombinator.com/item?id=45001051
+
 # I
+https://news.ycombinator.com/item?id=45011096
+
 https://news.ycombinator.com/item?id=44888210
 
 https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/

@@ -409,6 +409,9 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
+> https://news.ycombinator.com/item?id=45026719
+
 https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/
 > https://news.ycombinator.com/item?id=44915187
 

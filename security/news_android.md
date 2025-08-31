@@ -23,6 +23,9 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://9to5google.com/2025/08/25/android-apps-developer-verification/
+> https://news.ycombinator.com/item?id=45017028
+
 https://yro.slashdot.org/story/25/07/18/2212220/google-sues-operators-of-10-million-device-badbox-20-botnet
 
 https://news.ycombinator.com/item?id=44535604

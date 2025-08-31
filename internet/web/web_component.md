@@ -79,3 +79,5 @@ https://news.ycombinator.com/item?id=42415298
 https://news.ycombinator.com/item?id=43651549
 
 https://news.ycombinator.com/item?id=44053603
+
+https://luckydye.dev/tailwind-for-web-components/

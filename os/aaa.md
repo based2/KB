@@ -34,6 +34,9 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://newatlas.com/computers/cornell-microwave-brain/ analog
+> https://news.ycombinator.com/item?id=45012191
+
 https://news.ycombinator.com/item?id=44012615
 
 https://news.ycombinator.com/item?id=43866585

@@ -40,6 +40,9 @@ https://news.ycombinator.com/item?id=42353778
 
 https://news.ycombinator.com/item?id=44665815
 
+https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/
+> https://www.theregister.com/2025/08/27/systems_approach_securing_internet_infrastructure/
+
 # Incidents
 https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/
 

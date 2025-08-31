@@ -57,6 +57,9 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://github.com/ENDESGA/PEP Prediction-Encoded Pixels image format
+> https://news.ycombinator.com/item?id=45012548
+
 https://news.ycombinator.com/item?id=44882428
 
 https://news.ycombinator.com/item?id=44801027

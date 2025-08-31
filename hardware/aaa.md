@@ -124,6 +124,11 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://frame.work/ro/en/laptop16?tab=whats-new
+> https://news.ycombinator.com/item?id=45027725
+
+https://github.com/ginkage/wearmouse
+
 https://news.ycombinator.com/item?id=44989773
 
 https://news.ycombinator.com/item?id=44933290

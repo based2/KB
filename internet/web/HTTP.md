@@ -225,6 +225,8 @@ https://http1mustdie.com/
 https://news.ycombinator.com/item?id=44666896
 
 # News
+https://news.ycombinator.com/item?id=45056142
+
 https://news.ycombinator.com/item?id=44647600
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport

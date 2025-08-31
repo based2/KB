@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45001778
+
 https://news.ycombinator.com/item?id=44696167 amd
 
 https://thetumultuousunicornofdarkness.github.io/CPU-X/

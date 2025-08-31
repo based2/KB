@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.greynoise.io/blog/surge-malicious-ips-probe-microsoft-remote-desktop
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/
 
 https://news.ycombinator.com/item?id=44931383

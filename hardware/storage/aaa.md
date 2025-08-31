@@ -75,6 +75,10 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=45060920
+
+https://news.ycombinator.com/item?id=44985619
+
 https://news.ycombinator.com/item?id=44989215
 
 https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification

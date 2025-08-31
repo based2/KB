@@ -21,6 +21,11 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/
+> Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/delete
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-azure-resource-management-in-october/
+
 https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/
 > https://news.ycombinator.com/item?id=44892701
 

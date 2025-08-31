@@ -80,6 +80,8 @@ https://news.ycombinator.com/item?id=44070532
 https://research.google/blog/graph-foundation-models-for-relational-data/
 
 # News
+https://news.ycombinator.com/item?id=45066999
+
 https://news.ycombinator.com/item?id=44952895
 
 https://chrispenner.ca/posts/views-for-debugging

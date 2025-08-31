@@ -69,6 +69,8 @@ https://news.ycombinator.com/item?id=43080378
 
 https://github.com/Atelier-Logos/platform.atelierlogos.studio
 
+https://socket.dev/blog/cisa-2025-sbom-guidance-update
+
 # ML
 https://github.com/iris-sast/iris
 

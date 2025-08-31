@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=43796419
 
 https://news.ycombinator.com/item?id=44473319
 
+https://news.ycombinator.com/item?id=45071703
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

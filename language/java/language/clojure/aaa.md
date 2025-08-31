@@ -99,6 +99,8 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://github.com/arohner/spectrum Static analysis of Clojure code, catching clojure.spec conform errors at compile time
+
 https://news.ycombinator.com/item?id=44723818
 
 https://jank-lang.org/blog/2025-07-11-jank-is-cpp/

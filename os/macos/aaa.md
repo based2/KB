@@ -188,6 +188,10 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://news.ycombinator.com/item?id=45020109
+
+https://news.ycombinator.com/item?id=45022383
+
 https://notes.billmill.org/computer_usage/mac_os/debugging_os_x.html
 
 https://news.ycombinator.com/item?id=42908061
@@ -626,6 +630,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons
+> https://news.ycombinator.com/item?id=45020685
+
 https://github.com/chadmed/triforce
 >
 

@@ -109,6 +109,12 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb
+> https://news.ycombinator.com/item?id=45036944
+
+https://github.com/martianlantern/ThinkMesh Python lib for parallel thinking in LLMs
+> https://news.ycombinator.com/item?id=45001371
+
 https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html
 
 https://news.ycombinator.com/item?id=44939642

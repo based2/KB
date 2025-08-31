@@ -90,6 +90,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=44970769
+
 https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html
 > https://news.ycombinator.com/item?id=44866677
 

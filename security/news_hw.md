@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis
+
 https://ope nreview.net/forum?id=4tDNvQe2G0 Spectre in the real world: Leaking your private data from the cloud with CPU vulnerabilities
 > https://news.ycombinator.com/item?id=44867842
 

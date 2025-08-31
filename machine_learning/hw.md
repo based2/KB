@@ -7,6 +7,11 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.cnbc.com/2025/08/29/alibaba-is-developing-a-new-ai-chip-heres-what-we-know-so-far.html
+
+https://www.nvidia.com/en-us/products/workstations/dgx-spark/
+> https://news.ycombinator.com/item?id=45008434
+
 https://news.ycombinator.com/item?id=44995508
 
 https://news.ycombinator.com/item?id=44955424

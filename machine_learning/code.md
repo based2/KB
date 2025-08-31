@@ -118,6 +118,19 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://spectrum.ieee.org/ai-for-coding
+> https://news.ycombinator.com/item?id=45065343
+
+https://news.ycombinator.com/item?id=45063874
+
+https://news.ycombinator.com/item?id=45015838
+
+https://news.ycombinator.com/item?id=45005434
+
+https://news.ycombinator.com/item?id=45024865
+
+https://news.ycombinator.com/item?id=45002092
+
 https://www.zacsweers.dev/forklifts-require-training/
 > https://news.ycombinator.com/item?id=44954040
 

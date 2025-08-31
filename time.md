@@ -288,6 +288,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://scottstuff.net/posts/2025/05/19/ntp-limits/
+> https://news.ycombinator.com/item?id=45021078
+
 https://www.historicaltechtree.com/
 > https://news.ycombinator.com/item?id=44829185
 

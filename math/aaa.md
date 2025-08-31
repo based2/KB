@@ -217,6 +217,13 @@ https://news.ycombinator.com/item?id=43985489
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=45000142
+
+https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/
+> https://news.ycombinator.com/item?id=45070793
+
+https://news.ycombinator.com/item?id=45024595
+
 https://news.ycombinator.com/item?id=44937819
 
 https://news.ycombinator.com/item?id=44942547

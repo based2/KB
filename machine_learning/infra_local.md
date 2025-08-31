@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45064329
+
 https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff
 > https://news.ycombinator.com/item?id=44841262
 

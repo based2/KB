@@ -84,7 +84,10 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
-socket.dev/blog/60-malicious-ruby-gems-used-in-targeted-credential-theft-campaign
+https://cacm.acm.org/opinion/stop-using-vulnerability-counts-to-measure-software-security/
+> https://news.ycombinator.com/item?id=45057260
+
+https://socket.dev/blog/60-malicious-ruby-gems-used-in-targeted-credential-theft-campaign
 
 https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html
 > https://news.ycombinator.com/item?id=44724287

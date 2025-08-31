@@ -638,6 +638,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45045500
+
+https://news.ycombinator.com/item?id=45050931
+
+https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website
+> https://news.ycombinator.com/item?id=45069014
+
 https://news.ycombinator.com/item?id=44982748
 
 https://gonzoml.substack.com/p/tversky-neural-networks

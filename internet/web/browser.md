@@ -62,6 +62,9 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://docs.weblibre.eu/
+> https://news.ycombinator.com/item?id=45036939
+
 https://blog.cloudflare.com/announcing-the-cloudflare-browser-developer-program/
 
 https://nyxt.atlas.engineer/

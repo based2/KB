@@ -36,6 +36,10 @@ https://news.ycombinator.com/item?id=41936855
 https://news.ycombinator.com/item?id=43796003
 
 #
+https://news.ycombinator.com/item?id=45038074
+
+https://news.ycombinator.com/item?id=44962869
+
 https://news.ycombinator.com/item?id=43591246 pytest
 
 https://news.ycombinator.com/item?id=43357078

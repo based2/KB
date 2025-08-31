@@ -41,4 +41,6 @@ https://www.rfc-editor.org/rfc/rfc1178 Choosing a Name for Your Computer
 
 https://news.ycombinator.com/item?id=42338134
 
+https://news.ycombinator.com/item?id=44996940
+
 # naming thi

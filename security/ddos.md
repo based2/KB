@@ -12,6 +12,12 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=45055452
+
+https://news.ycombinator.com/item?id=45066258
+
+https://news.ycombinator.com/item?id=45010183
+
 https://news.ycombinator.com/item?id=44962529
 
 https://news.ycombinator.com/item?id=44914773

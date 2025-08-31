@@ -64,6 +64,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://github.com/hotheadhacker/seedbox-lite
+> https://news.ycombinator.com/item?id=45065278
+
 https://github.com/ethersync/ethersync
 > https://news.ycombinator.com/item?id=44722950
 

@@ -81,6 +81,9 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev
+> https://news.ycombinator.com/item?id=45023857
+
 https://news.ycombinator.com/item?id=44733968
 
 https://news.ycombinator.com/item?id=44656472

@@ -113,6 +113,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=45001466
+
 https://nodejs.org/en/blog/release/v22.18.0
 > https://news.ycombinator.com/item?id=44929260
 

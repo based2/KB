@@ -39,6 +39,11 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incidents
+https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates
+> https://news.ycombinator.com/item?id=45010846
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-certificate-enrollment-errors/
+
 https://lwn.net/ml/all/aG4ts3kDHk1w_9rl@redhat.com/
 > https://fwupd.github.io/libfwupdplugin/uefi-db.html
 > > https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/
@@ -96,6 +101,8 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://news.ycombinator.com/item?id=45047897
+
 https://github.com/fabriziosalmi/certmate SSL Certificate Management System
 > https://news.ycombinator.com/item?id=44427452
 

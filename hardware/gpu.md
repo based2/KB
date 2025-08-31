@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45019458
+
 https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
@@ -16,6 +18,8 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=45051542
+
 https://news.ycombinator.com/item?id=44876346
 
 https://news.ycombinator.com/item?id=44692876 rust
