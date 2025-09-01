@@ -102,6 +102,8 @@ https://www.bitsand.cloud/posts/llvm-pass/
 
 https://www.phoronix.com/news/LLVM-PGO-Windows-Build ~22% Faster Builds
 
+https://news.ycombinator.com/item?id=45084111
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -158,6 +160,8 @@ https://news.ycombinator.com/item?id=40911500
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://news.ycombinator.com/item?id=45085156
+
 https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage
 > https://news.ycombinator.com/item?id=44881638
 

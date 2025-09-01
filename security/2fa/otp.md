@@ -74,6 +74,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://news.ycombinator.com/item?id=45091202
+
 https://news.ycombinator.com/item?id=44724842
 
 https://news.ycombinator.com/item?id=44436812

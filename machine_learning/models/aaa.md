@@ -232,6 +232,9 @@ https://news.ycombinator.com/item?id=44985278 Making LLMs Cheaper and Better via
 
 https://news.ycombinator.com/item?id=45072160 From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms
 
+https://arxiv.org/abs/2508.21141 Adaptive LLM routing under budget constraints
+> https://news.ycombinator.com/item?id=45094421
+
 # Sec
 https://news.ycombinator.com/item?id=43994486
 
@@ -253,6 +256,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45050732
+
 https://news.ycombinator.com/item?id=45050415
 
 https://modelpilot.co/leaderboard carbon impact of different LLMs

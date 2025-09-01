@@ -145,6 +145,10 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/
+> https://news.ycombinator.com/item?id=45043126
+> > https://www.blackmagicdesign.com/products/davinciresolve/
+
 https://news.ycombinator.com/item?id=44974651
 
 https://blog.cloudflare.com/moq/

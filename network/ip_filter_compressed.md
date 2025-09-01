@@ -32,6 +32,8 @@ block from any to 1.2.210.0/24
 block from any to 1.2.227.2
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 1.4.139.21
+# https://threatfox.abuse.ch/browse/malware/win.coinminer/
+block from any to 1.4.210.14
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs/blob/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 1.4.232.123
 # Malaysia https://www.abuseipdb.com/check/1.9.46.36
@@ -76,6 +78,10 @@ block from any to 1.13.187.54
 block from any to 1.13.195.134
 # Tencent cloud computing (Beijing) Co., Ltd.:CN Nanjing, Jiangsu https://threatfox.abuse.ch/browse/malware/win.valley_rat/ https://threatfox.abuse.ch/browse/malware/win.ghost_rat/
 block from any to 1.13.249.0/24
+# https://threatfox.abuse.ch/browse/malware/win.ghost_rat/
+block from any to 1.13.249.49
+# Tencent cloud computing (Beijing) Co., Ltd.:CN Nanjing, Jiangsu https://threatfox.abuse.ch/browse/malware/win.valley_rat/
+block from any to 1.13.249.217
 # China https://www.abuseipdb.com/check/
 block from any to 1.14.13.51
 # China https://github.com/tachyonsecurity/security_ioc/blob/main/TS_Blocked_IPs.txt https://www.abuseipdb.com/check/
@@ -1868,28 +1874,20 @@ block from any to 3.226.243.175
 block from any to 3.226.244.170
 # https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
 block from any to 3.227.0.159
-# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/climbing-green-botany.glitch.me/relations
-block from any to 3.227.147.71
-# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
-block from any to 3.227.252.20
-# https://threatfox.abuse.ch/browse/malware/win.havoc/
-block from any to 4.201.154.55
-# https://threatfox.abuse.ch/browse/malware/win.njrat/
-block from any to 4.203.104.98
-# https://github.com/Cisco-Talos/IOCs/blob/main/2024/05/carnavalhiest.txt
-block from any to 4.203.105.118
-# https://threatfox.abuse.ch/browse/malware/win.metastealer/
-block from any to 4.224.60.120
 # https://threatfox.abuse.ch/browse/tag/Mythic/
 block from any to 4.227.88.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 4.227.142.4
+# https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/ https://www.virustotal.com/gui/domain/climbing-green-botany.glitch.me/relations
+block from any to 3.227.147.71
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 4.227.176.184
 # US https://www.abuseipdb.com/check/
 block from any to 4.227.180.95
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 4.227.206.117
+# https://raw.githubusercontent.com/Orange-Cyberdefense/russia-ukraine_IOCs/main/OCD-Datalake-russia-ukraine_IOCs-IP.txt
+block from any to 3.227.252.20
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 4.228.56.58
 # https://threatfox.abuse.ch/browse/tag/villain/
@@ -2316,8 +2314,6 @@ block from any to 4.197.75.190
 block from any to 4.201.154.55
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 4.203.104.98
-# https://threatfox.abuse.ch/browse/malware/win.njrat/
-block from any to 4.203.104.98
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/05/carnavalhiest.txt
 block from any to 4.203.105.118
 # AS8075 Microsoft Corporation:FR Paris, Ile-de-France https://www.abuseipdb.com/check/
@@ -2424,7 +2420,7 @@ block from any to 4.242.135.65
 block from any to 4.245.215.11
 # AS8075 Microsoft Corporation:US Ashburn, Virginia https://www.abuseipdb.com/check/
 block from any to 4.246.231.234
-# US https://www.abuseipdb.com/check/
+# AS8075 Microsoft Corporation:US Ashburn, Virginia https://www.abuseipdb.com/check/
 block from any to 4.246.247.0/24
 # https://asec.ahnlab.com/en/66088/
 block from any to 4.246.149.227
@@ -2779,7 +2775,7 @@ block from any to 5.78.91.237
 block from any to 5.78.105.122
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 5.78.119.141
-# AS60781 LeaseWeb Netherlands B.V.:Netherlands Lelystad, Flevoland https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/ dcylog(.)com https://github.com/HarfangLab/iocs/blob/main/iv_lastauthserverused_js/20240122_lastauthserverused_js.txt duorhytm[.]fun https://github.com/eset/malware-ioc/tree/master/windigo https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf pbarsec(.)com https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json boostetits(.)com
+# AS60781 LeaseWeb Netherlands B.V.:Netherlands Lelystad, Flevoland https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/ dcylog(.)com https://github.com/HarfangLab/iocs/blob/main/iv_lastauthserverused_js/20240122_lastauthserverused_js.txt duorhytm[.]fun https://github.com/eset/malware-ioc/tree/master/windigo https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf pbarsec(.)com https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json boostetits(.)com https://www.elastic.co/security-labs/fragile-web-ref7707 support.vmphere[.]com https://blog.xlab.qianxin.com/long-live-the-vo1d_botnet/ ssl8rrs2(.)com https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/ yxcrl(.)com meiboot(.)com qocoll(.)com dcylog(.)com https://github.com/HarfangLab/iocs/blob/main/iv_lastauthserverused_js/20240122_lastauthserverused_js.txt duorhytm[.]fun
 block from any to 5.79.71.0/24
 # https://threatfox.abuse.ch/browse/malware/win.netsupportmanager_rat/
 block from any to 5.79.72.218

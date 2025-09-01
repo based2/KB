@@ -18,6 +18,9 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://github.com/seanwevans/fluid-sims
+> https://news.ycombinator.com/item?id=45044442
+
 https://news.ycombinator.com/item?id=45051542
 
 https://news.ycombinator.com/item?id=44876346

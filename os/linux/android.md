@@ -2,6 +2,8 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://news.ycombinator.com/item?id=45095537
+
 https://scrollguard.app/
 > https://news.ycombinator.com/item?id=44923520
 

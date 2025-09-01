@@ -111,6 +111,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://news.ycombinator.com/item?id=45093693
+
 https://news.ycombinator.com/item?id=44855157
 
 https://radar.com/blog/high-performance-geocoding-in-rust

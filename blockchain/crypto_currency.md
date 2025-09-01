@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://www.bitdefender.com/en-us/blog/labs/malvertising-campaign-on-meta-expands-to-android-pushing-advanced-crypto-stealing-malware-to-users-worldwide
+
 https://blog.koi.security/greedy-bear-massive-crypto-wallet-attack-spans-across-multiple-vectors-3e8628831a05?gi=d7f16a38b8c7
 
 https://moonlock.com/anti-ledger-malware

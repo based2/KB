@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45081711
+
 https://www.anthropic.com/news/claude-for-chrome
 > https://news.ycombinator.com/item?id=45030760
 > > https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/

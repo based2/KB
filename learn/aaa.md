@@ -163,6 +163,11 @@ https://openai.com/index/chatgpt-study-mode/
 https://news.ycombinator.com/item?id=44100035
 
 # News
+https://www.youtube.com/watch?v=Unzc731iCUY Patrick Winston: How to Speak - 2018
+> https://news.ycombinator.com/item?id=45095849
+
+https://news.ycombinator.com/item?id=45076367
+
 https://news.ycombinator.com/item?id=44161607
 
 https://www.youtube.com/watch?v=okHkUIW46ks
