@@ -12,6 +12,8 @@ https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
 
 # Incidents
+https://news.ycombinator.com/item?id=45108131
+
 https://news.ycombinator.com/item?id=43116217
 
 https://matrix.org/blog/2023/08/bridges-vulnerability-disclosure/

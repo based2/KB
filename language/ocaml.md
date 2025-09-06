@@ -25,6 +25,8 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://news.ycombinator.com/item?id=45133652
+
 https://news.ycombinator.com/item?id=44940896
 
 https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/

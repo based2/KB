@@ -113,6 +113,8 @@ https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/
 https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created
 > https://news.ycombinator.com/item?id=44988845
 
+https://news.ycombinator.com/item?id=45107353
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

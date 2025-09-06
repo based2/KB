@@ -72,6 +72,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://news.ycombinator.com/item?id=45106314
+
 https://news.ycombinator.com/item?id=44048775
 
 https://dl.acm.org/doi/pdf/10.1145/181476.181483

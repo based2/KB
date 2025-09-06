@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45125859
+
 https://news.ycombinator.com/item?id=44862583
 
 https://mistral.ai/news/magistral

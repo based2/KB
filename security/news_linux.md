@@ -60,6 +60,8 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://news.ycombinator.com/item?id=45112996
+
 https://www.theregister.com/2025/08/08/stardict_leaky_app_of_week/
 
 https://www.phoronix.com/news/Attack-Vector-Controls-6.17

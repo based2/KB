@@ -92,6 +92,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 https://news.ycombinator.com/item?id=44127653
 
 # News
+https://emilkowal.ski/ui/you-dont-need-animations
+> https://news.ycombinator.com/item?id=45139088
+
 https://sliding-window-visualizer-bryanneumann.replit.app/
 > https://news.ycombinator.com/item?id=44436006
 

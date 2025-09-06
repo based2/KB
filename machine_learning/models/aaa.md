@@ -26,6 +26,7 @@ https://eqbench.com/
 
 # Visu
 https://bbycroft.net/llm
+> https://news.ycombinator.com/item?id=45130260
 > https://news.ycombinator.com/item?id=38507672
 
 https://news.ycombinator.com/item?id=43080531
@@ -256,6 +257,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45083271
+
+https://news.ycombinator.com/item?id=45118302
+
+https://openrouter.ai/rankings
+
 https://news.ycombinator.com/item?id=45050732
 
 https://news.ycombinator.com/item?id=45050415

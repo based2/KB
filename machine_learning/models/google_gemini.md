@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45128772
+
 https://news.ycombinator.com/item?id=44962059
 
 https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/

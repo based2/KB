@@ -31,6 +31,8 @@ https://fathy.fr/carbonyl
 https://kmandla.wordpress.com/2011/01/13/a-comparison-of-text-based-browsers/
 > https://news.ycombinator.com/item?id=36371512
 
+https://news.ycombinator.com/item?id=45133935
+
 #
 https://en.wikipedia.org/wiki/Amazon_Silk
 
@@ -62,6 +64,8 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://news.ycombinator.com/item?id=45128578
+
 https://docs.weblibre.eu/
 > https://news.ycombinator.com/item?id=45036939
 

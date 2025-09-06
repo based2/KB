@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=45142885
+
+https://www.axios.com/2025/09/05/anthropic-ai-copyright-settlement
+
 https://news.ycombinator.com/item?id=45081711
 
 https://www.anthropic.com/news/claude-for-chrome

@@ -1,0 +1,1 @@
+https://www.swisscom.ch/en/about/news/2025/09/02-apertus.html

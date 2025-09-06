@@ -213,6 +213,8 @@ https://news.ycombinator.com/item?id=43137445 Terence Tao – Machine-Assisted P
 
 https://news.ycombinator.com/item?id=43985489
 
+https://news.ycombinator.com/item?id=45075751
+
 # I
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 

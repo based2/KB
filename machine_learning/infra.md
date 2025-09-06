@@ -104,11 +104,17 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://news.ycombinator.com/item?id=45113418
+
 https://news.ycombinator.com/item?id=44003741
 
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=45130322
+
+https://news.ycombinator.com/item?id=45137373
+
 https://news.ycombinator.com/item?id=45074467
 
 https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb

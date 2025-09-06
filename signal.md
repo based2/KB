@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=42807387
 
 https://news.ycombinator.com/item?id=44081617
 
+https://news.ycombinator.com/item?id=45132810
+
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
@@ -40,6 +42,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=45127983
+
 https://news.ycombinator.com/item?id=44712311
 
 https://news.ycombinator.com/item?id=44665982
