@@ -91,6 +91,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=45166972
+
 https://www.reuters.com/sustainability/society-equity/egypt-rounds-up-teenaged-tiktokkers-crackdown-social-media-2025-08-29/
 
 https://news.ycombinator.com/item?id=44663684

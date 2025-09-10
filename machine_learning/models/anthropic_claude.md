@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45182381
+
 https://news.ycombinator.com/item?id=45142885
 
 https://www.axios.com/2025/09/05/anthropic-ai-copyright-settlement

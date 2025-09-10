@@ -1,3 +1,8 @@
+https://www.huntress.com/blog/rare-look-inside-attacker-operation
+> https://news.ycombinator.com/item?id=45183589
+
+https://news.ycombinator.com/item?id=45160774
+
 https://aws.amazon.com/en/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/
 
 https://news.ycombinator.com/item?id=45030836

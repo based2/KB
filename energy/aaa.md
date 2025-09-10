@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=45188749
+
 https://www.reuters.com/business/energy/mitsubishi-led-groups-withdraw-three-offshore-wind-projects-japan-nikkei-says-2025-08-26/
 
 https://news.ycombinator.com/item?id=45009760

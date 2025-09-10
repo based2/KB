@@ -118,6 +118,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=45163362
+
 https://spectrum.ieee.org/ai-for-coding
 > https://news.ycombinator.com/item?id=45065343
 

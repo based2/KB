@@ -60,7 +60,11 @@ https://github.com/microsoft/playwright-mcp
 
 https://asimovaddendum.substack.com/p/protocols-and-power
 
+https://news.ycombinator.com/item?id=45176580
+
 # Incidents
+https://blog.gitguardian.com/a-look-into-the-secrets-of-mcp/
+
 https://news.ycombinator.com/item?id=44846871
 
 https://news.ycombinator.com/item?id=44846871

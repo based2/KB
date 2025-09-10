@@ -141,3 +141,6 @@ https://news.ycombinator.com/item?id=44470464
 https://www.pinecone.io/blog/cascading-retrieval-with-multi-vector-representations/
 
 https://opensearch.org/platform/vector-search
+
+https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them
+> https://news.ycombinator.com/item?id=45169624

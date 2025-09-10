@@ -52,6 +52,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://news.ycombinator.com/item?id=45175628
+
 https://www.merelkarhof.nl/work/wind-knitting-factory
 > https://news.ycombinator.com/item?id=44458890
 

@@ -47,6 +47,8 @@ https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://news.ycombinator.com/item?id=45169286
+
 https://news.ycombinator.com/item?id=45073746
 
 https://news.ycombinator.com/item?id=44965883

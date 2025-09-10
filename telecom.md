@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://news.ycombinator.com/item?id=45119310
+
 https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/
 
 https://news.ycombinator.com/item?id=44885821
@@ -347,6 +349,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=45186044
+
+https://news.ycombinator.com/item?id=45186015
+
 https://news.ycombinator.com/item?id=45135554
 
 https://news.ycombinator.com/item?id=44963939

@@ -15,3 +15,6 @@ https://news.ycombinator.com/item?id=43111963
 https://news.ycombinator.com/item?id=43085957
 
 https://github.com/xai-org/grok-1
+
+# I
+https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/

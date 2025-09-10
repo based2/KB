@@ -79,6 +79,14 @@ https://news.ycombinator.com/item?id=44747204
 https://www.anthropic.com/news/automate-security-reviews-with-claude-code
 
 # I
+https://news.ycombinator.com/item?id=45179889
+
+https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c
+> https://news.ycombinator.com/item?id=45179939
+
+https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
+> https://news.ycombinator.com/item?id=45169657
+
 https://socket.dev/blog/nestjs-rce-vuln
 
 https://blog.koi.security/amazons-ai-assistant-almost-nuked-your-dev-environment-and-no-one-noticed-for-5-days-6d8091f78f05

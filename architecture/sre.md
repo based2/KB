@@ -16,4 +16,6 @@ https://awsmaniac.com/aws-outages/
 
 https://news.ycombinator.com/item?id=41131181
 
+https://news.ycombinator.com/item?id=45161556
+
 

@@ -187,6 +187,8 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://undeadly.org/cgi?action=article;sid=20250818113047
+
 https://news.ycombinator.com/item?id=44919891
 
 https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/
