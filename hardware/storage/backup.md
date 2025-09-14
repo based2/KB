@@ -34,6 +34,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://news.ycombinator.com/item?id=45196568
+
 https://news.ycombinator.com/item?id=44720285
 
 https://news.ycombinator.com/item?id=44618687

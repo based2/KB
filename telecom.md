@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://english.elpais.com/technology/2025-09-13/never-steal-a-hackers-girlfriends-phone-how-an-expert-exposed-a-global-network-of-thieves.html
+
 https://news.ycombinator.com/item?id=45119310
 
 https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/

@@ -68,7 +68,13 @@ https://news.ycombinator.com/item?id=43998115
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771
 
+# ML
+https://www.math.inc/gauss
+
 #
+https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1
+> https://news.ycombinator.com/item?id=45174328
+
 https://news.ycombinator.com/item?id=44745727
 
 https://news.ycombinator.com/item?id=44492986

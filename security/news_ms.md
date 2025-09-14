@@ -7,6 +7,9 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/
+> https://news.ycombinator.com/item?id=45213299
+
 https://www.crowdfense.com/cve-2025-53149-windows-ksthunk-heap-overflow/
 
 https://www.greynoise.io/blog/surge-malicious-ips-probe-microsoft-remote-desktop

@@ -79,6 +79,10 @@ https://news.ycombinator.com/item?id=44747204
 https://www.anthropic.com/news/automate-security-reviews-with-claude-code
 
 # I
+https://news.ycombinator.com/item?id=45179939
+
+https://news.ycombinator.com/item?id=45222772
+
 https://news.ycombinator.com/item?id=45179889
 
 https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c

@@ -222,6 +222,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://reshaped.so/blog/reshaped-oss
+> https://news.ycombinator.com/item?id=45209558
+
 https://news.ycombinator.com/item?id=43945293
 
 https://news.ycombinator.com/item?id=43471838
@@ -700,12 +703,17 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # Incidents
+https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/
+> https://news.ycombinator.com/item?id=45172330
+
 https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bug-in-vm2-javascript-sandbox-library/
 > https://nvd.nist.gov/vuln/detail/CVE-2023-29017
 > > https://github.com/patriksimek/vm2/issues/515
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=45224542
+
 https://news.ycombinator.com/item?id=45071024
 
 https://kashw1n.com/blog/nodejs-2025/

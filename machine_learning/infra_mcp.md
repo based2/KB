@@ -62,7 +62,17 @@ https://asimovaddendum.substack.com/p/protocols-and-power
 
 https://news.ycombinator.com/item?id=45176580
 
+https://news.ycombinator.com/item?id=45199713
+
+https://news.ycombinator.com/item?id=45199256
+
+# Security
+https://github.com/Edison-Watch/open-edison
+> https://news.ycombinator.com/item?id=45223102
+
 # Incidents
+https://www.koi.security/blog/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape
+
 https://blog.gitguardian.com/a-look-into-the-secrets-of-mcp/
 
 https://news.ycombinator.com/item?id=44846871

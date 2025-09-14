@@ -412,6 +412,14 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.theregister.com/2025/08/28/grafanas_tom_wilkie_interview/?td=keepreading
+
+https://www.theregister.com/2025/09/04/ibm_cloud_basic_support_changes/?td=keepreading
+
+https://www.theregister.com/2025/09/10/big_clouds_scramble_over_eu/
+
+https://www.theregister.com/2025/09/12/google_cloud_mod_contract/
+
 https://news.ycombinator.com/item?id=45136558
 
 https://news.ycombinator.com/item?id=45061153

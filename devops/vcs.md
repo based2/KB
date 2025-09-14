@@ -12,3 +12,5 @@ https://github.com/facebook/sapling
 https://news.ycombinator.com/item?id=43438659
 
 https://news.ycombinator.com/item?id=44093334
+
+https://news.ycombinator.com/item?id=45199378

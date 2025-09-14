@@ -151,6 +151,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://news.ycombinator.com/item?id=45212915
+
 https://blog.broulik.de/2025/08/on-window-activation/
 > https://news.ycombinator.com/item?id=44784685
 

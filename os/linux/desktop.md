@@ -74,6 +74,9 @@ https://usebottles.com/
 > https://lutris.net/
 > https://www.playonlinux.com
 
+https://gitlab.winehq.org/wine/wine/-/releases/wine-10.15
+> https://news.ycombinator.com/item?id=45226523
+
 https://www.winehq.org/announce/8.9
 > https://news.ycombinator.com/item?id=36092224
 

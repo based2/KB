@@ -65,6 +65,11 @@ https://news.ycombinator.com/item?id=41992314
 
 https://news.ycombinator.com/item?id=44885761
 
+https://rachelbythebay.com/w/2025/09/11/debtz/ Debian 13, Postgres, and the US time zones
+> https://news.ycombinator.com/item?id=45218111
+
+https://news.ycombinator.com/item?id=45162559
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 

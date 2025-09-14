@@ -186,6 +186,12 @@ https://dnsrepo.noc.org/
 # News
 https://news.ycombinator.com/item?id=45142397
 
+https://news.ycombinator.com/item?id=45167688
+
+https://github.com/sleevi/psl-problems
+
+https://news.ycombinator.com/item?id=45142397
+
 https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/
 > https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/
 

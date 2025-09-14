@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://www.theregister.com/2025/09/01/microsoft_azure_migration_misfire/?td=keepreading
+
 https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/
 > Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/delete
 
@@ -159,6 +161,8 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
 # News
+https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2048
+
 https://www.theregister.com/2025/08/08/sudden_spike_in_demand_azure_issues/
 
 https://www.hunters.security/en/blog/azure-managed-identity-threat-hunting-detection-methods

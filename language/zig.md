@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45214159
+
 https://steelcake.com/blog/nvme-zig/
 
 https://github.com/habedi/zig-dbc Design by contract library for Zig

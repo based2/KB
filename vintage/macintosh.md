@@ -142,6 +142,10 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://news.ycombinator.com/item?id=45187778
+
+https://news.ycombinator.com/item?id=45174366
+
 https://news.ycombinator.com/item?id=44984958
 
 https://news.ycombinator.com/item?id=44942954

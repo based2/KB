@@ -24,6 +24,11 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://www.jamf.com/blog/chillyhell-a-modular-macos-backdoor/
+> https://www.theregister.com/2025/09/10/chillyhell_modular_macos_malware/
+
+https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/
+
 https://news.ycombinator.com/item?id=45186265
 
 https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/

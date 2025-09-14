@@ -76,6 +76,11 @@ https://news.ycombinator.com/item?id=45008740
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://bottlefire.dev/
+> https://news.ycombinator.com/item?id=45158118
+
+https://news.ycombinator.com/item?id=45192963
+
 https://news.ycombinator.com/item?id=45137802
 
 https://news.ycombinator.com/item?id=45137525

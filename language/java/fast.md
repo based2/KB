@@ -12,3 +12,5 @@ https://richardstartin.github.io/posts/loop-fission
 https://old.reddit.com/r/java/comments/xrmmn2/threadring_with_vthreads_java_is_much_greener_and/
 
 https://medium.com/wix-engineering/a-java-exploring-jni-performance-via-decoding-base64-4388683102a2
+
+https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/

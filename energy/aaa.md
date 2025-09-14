@@ -19,6 +19,8 @@ https://poweroutage.us/
 > https://news.ycombinator.com/item?id=43069399
 
 # Incidents
+https://news.ycombinator.com/item?id=45198485
+
 https://theconversation.com/spain-portugal-blackouts-what-actually-happened-and-what-can-iberia-and-europe-learn-from-it-255666
 
 https://news.ycombinator.com/item?id=43819791
@@ -32,6 +34,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=45224967
+
 https://news.ycombinator.com/item?id=45188749
 
 https://www.reuters.com/business/energy/mitsubishi-led-groups-withdraw-three-offshore-wind-projects-japan-nikkei-says-2025-08-26/

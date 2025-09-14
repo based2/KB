@@ -52,6 +52,8 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 https://news.ycombinator.com/item?id=39706004
 
 # Incidents
+https://news.ycombinator.com/item?id=45201692
+
 https://issues.chromium.org/issues/412578726
 > https://news.ycombinator.com/item?id=44861106
 

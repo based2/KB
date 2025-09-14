@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=45232100
+
 https://modelpilot.co/leaderboard carbon impact of different LLMs
 > https://news.ycombinator.com/item?id=45021885
 

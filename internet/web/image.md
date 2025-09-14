@@ -108,6 +108,9 @@ https://noisetools.vercel.app/
 https://news.ycombinator.com/item?id=44505876 RAW
 
 # Photography
+https://avidandrew.com/telephoto.html
+> https://news.ycombinator.com/item?id=45184052
+
 https://news.ycombinator.com/item?id=43580815
 
 https://snap-scope.shj.rip/?lng=en focal

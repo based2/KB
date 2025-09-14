@@ -85,6 +85,8 @@ https://news.ycombinator.com/item?id=42784373
 
 https://news.ycombinator.com/item?id=44849129
 
+https://news.ycombinator.com/item?id=45227134
+
 # I
 https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other-celebrities-without-permission-2025-08-29/
 > https://news.ycombinator.com/item?id=45069247

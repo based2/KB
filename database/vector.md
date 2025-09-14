@@ -144,3 +144,5 @@ https://opensearch.org/platform/vector-search
 
 https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them
 > https://news.ycombinator.com/item?id=45169624
+
+https://news.ycombinator.com/item?id=45224141

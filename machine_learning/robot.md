@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=45213549
+
+https://toddlerbot.github.io/
+> https://news.ycombinator.com/item?id=45217372
+
 https://news.ycombinator.com/item?id=44996571
 
 https://news.ycombinator.com/item?id=44688096

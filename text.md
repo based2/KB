@@ -44,6 +44,8 @@ https://blog.pgdp.net/2021/06/01/cha%e1%b9%9b%e1%be%80%cf%82t%ce%adr-%e2%99%ad%e
 
 https://nullprogram.com/blog/2017/10/06/
 
+https://news.ycombinator.com/item?id=45225098
+
 # Unicode
 
 http://cldr.unicode.org/

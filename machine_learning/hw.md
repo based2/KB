@@ -2,11 +2,12 @@
 
 # Inference
 Google TPU v4
-Telsa
 
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.nextplatform.com/2025/09/11/nvidia-disaggregates-long-context-inference-to-drive-bang-for-the-buck/
+
 https://www.cnbc.com/2025/08/29/alibaba-is-developing-a-new-ai-chip-heres-what-we-know-so-far.html
 
 https://www.nvidia.com/en-us/products/workstations/dgx-spark/

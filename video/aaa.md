@@ -145,6 +145,15 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://ffglitch.org/gallery/
+> https://news.ycombinator.com/item?id=45227212
+
+https://news.ycombinator.com/item?id=45197302
+
+https://news.ycombinator.com/item?id=45176471
+
+https://news.ycombinator.com/item?id=45123015
+
 https://github.com/immich-app/immich
 > https://news.ycombinator.com/item?id=45165684
 

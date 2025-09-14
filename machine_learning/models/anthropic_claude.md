@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=45191932
+
+https://news.ycombinator.com/item?id=45214908
+
 https://news.ycombinator.com/item?id=45182381
 
 https://news.ycombinator.com/item?id=45142885
@@ -103,6 +107,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://news.ycombinator.com/item?id=45200118
+
 https://www.bleepingcomputer.com/news/security/malware-devs-abuse-anthropics-claude-ai-to-build-ransomware/
 > https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf Threat Intelligence Report: August 2025
 

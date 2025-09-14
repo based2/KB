@@ -65,5 +65,7 @@ https://news.ycombinator.com/item?id=43638308
 https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose
 > https://news.ycombinator.com/item?id=44584603
 
+https://news.ycombinator.com/item?id=45227033
+
 # ml
 https://news.ycombinator.com/item?id=39787176

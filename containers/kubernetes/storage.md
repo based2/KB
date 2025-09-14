@@ -10,6 +10,8 @@ https://koor.tech/blog/2022/kubernetes-deserves-more-than-ephemeral-data-persist
 
 https://cubefs.io/docs/master/overview/introduction.html#multi-engine
 
+https://news.ycombinator.com/item?id=45155731
+
 # Backup
 
 https://longhorn.io/

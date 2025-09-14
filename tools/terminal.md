@@ -292,3 +292,5 @@ https://news.ycombinator.com/item?id=41639976
 
 https://utkarshkanwat.com/writing/betting-against-agents/
 > https://news.ycombinator.com/item?id=44627590
+
+https://news.ycombinator.com/item?id=45167295

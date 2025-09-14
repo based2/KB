@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader
+> https://news.ycombinator.com/item?id=45163417
+
 https://allenchou.net/2015/04/game-math-precise-control-over-numeric-springing/
 
 https://news.ycombinator.com/item?id=44824811

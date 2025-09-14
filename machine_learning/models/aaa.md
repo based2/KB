@@ -236,7 +236,13 @@ https://news.ycombinator.com/item?id=45072160 From Multi-Head to Latent Attentio
 https://arxiv.org/abs/2508.21141 Adaptive LLM routing under budget constraints
 > https://news.ycombinator.com/item?id=45094421
 
+https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+> https://news.ycombinator.com/item?id=45200925
+
 # Sec
+https://news.ycombinator.com/item?id=45224219
+> https://www.sri.inf.ethz.ch/blog/k2think
+
 https://news.ycombinator.com/item?id=43994486
 
 https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.
@@ -257,6 +263,11 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45214670
+
+https://synbol.github.io/Lumina-DiMOO/
+> https://news.ycombinator.com/item?id=45221103
+
 https://news.ycombinator.com/item?id=45177507
 
 https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/

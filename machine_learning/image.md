@@ -409,6 +409,11 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://news.ycombinator.com/item?id=45174944
+
+https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md
+> https://news.ycombinator.com/item?id=45215869
+
 https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
 > https://news.ycombinator.com/item?id=45026719
 

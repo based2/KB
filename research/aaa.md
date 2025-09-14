@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=44473319
 
 https://news.ycombinator.com/item?id=45071703
 
+https://statmodeling.stat.columbia.edu/2025/07/07/chatbot-prompts/
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

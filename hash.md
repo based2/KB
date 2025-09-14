@@ -135,6 +135,8 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://news.ycombinator.com/item?id=45165721
+
 https://news.ycombinator.com/item?id=45065705
 
 https://re.factorcode.org/2023/08/drunken-bishop.html

@@ -7,6 +7,9 @@ https://kitops.ml/docs/modelkit/intro.html
 > https://news.ycombinator.com/item?id=41963890
 
 #
+https://oci.dag.dev/
+> https://news.ycombinator.com/item?id=45228891
+
 https://github.com/awslabs/cfn-ecr-aws-soci-index-builder
 
 https://github.com/spegel-org/spegel Stateless cluster local OCI registry mirror

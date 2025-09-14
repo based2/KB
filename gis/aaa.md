@@ -2,6 +2,7 @@ https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/
 > https://news.ycombinator.com/item?id=29691474
 
 https://www.qgis.org/
+> https://news.ycombinator.com/item?id=45224156
 
 http://www.zoo-project.org/
 

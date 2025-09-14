@@ -343,6 +343,8 @@ https://news.ycombinator.com/item?id=43014481
 
 https://news.ycombinator.com/item?id=43498696
 
+https://news.ycombinator.com/item?id=45223239
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -417,6 +419,8 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://old.reddit.com/r/dotnet/comments/1ncoezl/visual_studio_2026_insiders_is_here/ndc4wb9/
+
 https://github.com/zedless-editor/zed
 > https://news.ycombinator.com/item?id=44964916
 

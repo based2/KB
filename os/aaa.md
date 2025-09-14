@@ -34,6 +34,13 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://www.theregister.com/2025/09/12/three_new_microkernels/
+> https://asterinas.github.io/
+> https://betrusted.io/
+
+https://skiftos.org/
+> https://news.ycombinator.com/item?id=45229414
+
 https://newatlas.com/computers/cornell-microwave-brain/ analog
 > https://news.ycombinator.com/item?id=45012191
 

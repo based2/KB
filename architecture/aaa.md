@@ -197,6 +197,8 @@ https://anemato.de/blog/kctf-vdf
 
 https://news.ycombinator.com/item?id=44132673
 
+https://www.uniprof.sh/
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -336,6 +338,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://github.com/plutov/oq Terminal OpenAPI Spec Viewer
+> https://news.ycombinator.com/item?id=45222799
+
 https://martinfowler.com/articles/2025-nature-abstraction.html
 
 https://www.hyrumslaw.com/

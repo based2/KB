@@ -55,6 +55,9 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://ironicsans.ghost.io/doomscrolling-the-game/
+> https://news.ycombinator.com/item?id=45205232
+
 https://news.ycombinator.com/item?id=45142704
 
 https://news.ycombinator.com/item?id=45183050

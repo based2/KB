@@ -59,6 +59,8 @@ https://github.com/duaraghav8/dockershrink
 https://github.com/iximiuz/docker-to-linux
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/
+
 https://blog.qwertysecurity.com/Articles/blog3.html
 > https://old.reddit.com/r/netsec/comments/1mwhisp/when_a_ssrf_is_enough_full_docker_escape_on/
 

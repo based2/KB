@@ -35,6 +35,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nytimes.com/interactive/2025/upshot/zodiac-signs.html
+
 https://www.popsci.com/science/3d-printing-tackles-titanium-to-create-rocket-parts/
 
 https://news.ycombinator.com/item?id=44817539

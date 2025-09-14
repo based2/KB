@@ -383,6 +383,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://entropicthoughts.com/wiggling-into-correlation
+
 https://alexshtf.github.io/2025/08/19/Orthogonality.html
 
 https://theheasman.com/short_stories/why-is-d3-code-so-long-and-complicated-or-why-is-it-so-verbose/

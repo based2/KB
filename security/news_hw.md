@@ -12,6 +12,10 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://www.theregister.com/2025/09/11/vmscape_spectre_vulnerability/
+
+https://comsec.ethz.ch/research/microarch/vmscape-exposing-and-exploiting-incomplete-branch-predictor-isolation-in-cloud-environments/
+
 https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis
 
 https://ope nreview.net/forum?id=4tDNvQe2G0 Spectre in the real world: Leaking your private data from the cloud with CPU vulnerabilities

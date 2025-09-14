@@ -243,6 +243,8 @@ https://news.ycombinator.com/item?id=39860769
 
 https://news.ycombinator.com/item?id=43989497
 
+https://news.ycombinator.com/item?id=45224028
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
@@ -352,6 +354,11 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=45214209
+
+https://www.pgedge.com/blog/pgedge-goes-open-source
+> https://news.ycombinator.com/item?id=45209065
+
 https://news.ycombinator.com/item?id=44867374
 
 https://news.ycombinator.com/item?id=44783368

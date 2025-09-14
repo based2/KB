@@ -28,6 +28,8 @@ https://atlas.apache.org/
 
 https://ducklake.select/
 
+https://lakefs.io/blog/how-we-built-lakefs-iceberg-catalog/
+
 # Data Lake Ligthhouse
 https://amoro.apache.org/
 
@@ -90,6 +92,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://www.dremio.com/blog/whats-new-in-apache-iceberg-1-10-0-and-what-comes-next/
+
 https://news.ycombinator.com/item?id=45118598
 
 https://news.ycombinator.com/item?id=45137927

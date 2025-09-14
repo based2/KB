@@ -1,5 +1,9 @@
 https://www.huntress.com/blog/rare-look-inside-attacker-operation
 > https://news.ycombinator.com/item?id=45183589
+> https://www.theregister.com/2025/09/12/huntress_attacker_surveillance/?td=rt-3a
+
+https://www.huntress.com/blog/rare-look-inside-attacker-operation
+> https://news.ycombinator.com/item?id=45183589
 
 https://news.ycombinator.com/item?id=45160774
 

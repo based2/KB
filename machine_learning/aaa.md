@@ -638,6 +638,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45210399
+
 https://news.ycombinator.com/item?id=45167625
 
 https://news.ycombinator.com/item?id=45093090

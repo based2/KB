@@ -220,6 +220,9 @@ https://bloom-ui.fly.dev/
 # Gleam
 https://gleam.run/
 
+https://mtlynch.io/notes/gleam-first-impressions/
+> https://news.ycombinator.com/item?id=45231852
+
 https://news.ycombinator.com/item?id=43307987 1.9
 
 https://gleam.run/news/gleam-v0.15-released/
