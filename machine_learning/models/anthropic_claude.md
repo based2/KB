@@ -107,6 +107,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://news.ycombinator.com/item?id=45281139
+
 https://news.ycombinator.com/item?id=45200118
 
 https://www.bleepingcomputer.com/news/security/malware-devs-abuse-anthropics-claude-ai-to-build-ransomware/

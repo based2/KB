@@ -18,6 +18,11 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=45280592
+
+https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot
+> https://news.ycombinator.com/item?id=45235293
+
 https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/
 > https://news.ycombinator.com/item?id=45162626
 

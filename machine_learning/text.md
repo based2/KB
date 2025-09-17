@@ -92,6 +92,8 @@ https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other
 > https://news.ycombinator.com/item?id=45069247
 
 # News
+https://huggingface.co/spaces/webml-community/bedtime-story-generator
+
 https://news.ycombinator.com/item?id=44987422
 
 https://github.com/mirth/chonky neural approach for text semantic chunking

@@ -17,6 +17,9 @@ https://duckdb.org/2021/06/25/querying-parquet.html
 https://hakibenita.com/sql-for-data-analysis
 > https://news.ycombinator.com/item?id=27025829
 
+https://signoz.io/blog/query-builder-v5/
+> https://news.ycombinator.com/item?id=45196991
+
 # Stats
 https://ggcarvalho.dev/posts/montecarlo/
 > https://news.ycombinator.com/item?id=27023930
@@ -383,6 +386,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://observablehq.com/notebook-kit/data-loaders
+
 https://entropicthoughts.com/wiggling-into-correlation
 
 https://alexshtf.github.io/2025/08/19/Orthogonality.html

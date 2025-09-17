@@ -2,6 +2,8 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://www.theregister.com/2025/09/12/samsung_fixes_android_0day/
+
 https://news.ycombinator.com/item?id=45095537
 
 https://scrollguard.app/

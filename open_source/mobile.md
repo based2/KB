@@ -1,3 +1,5 @@
+https://grapheneos.org/
+
 https://sailfishos.org/
 > https://news.ycombinator.com/item?id=28313750
 
@@ -11,6 +13,9 @@ https://f-droid.org/
 https://guardianproject.info/
 
 #
+https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html
+> https://news.ycombinator.com/item?id=45200133
+
 https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/
 
 https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53

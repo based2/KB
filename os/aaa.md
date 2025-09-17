@@ -34,6 +34,10 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://news.ycombinator.com/item?id=45236479
+
+https://news.ycombinator.com/item?id=45240682
+
 https://www.theregister.com/2025/09/12/three_new_microkernels/
 > https://asterinas.github.io/
 > https://betrusted.io/

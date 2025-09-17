@@ -289,7 +289,11 @@ https://www.producthunt.com/posts/gitlive
 > https://www.reddit.com/r/programming/comments/nqmnyl/extend_git_with_realtime_collaborative_superpowers/
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
-# I
+# Incidents
+https://futuresight.club/posts/0x00_exfiltrate_git_credentials_argocd.html
+
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-git-code-execution-flaw/
+
 https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384
 > https://news.ycombinator.com/item?id=44502330
 

@@ -24,6 +24,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://news.ycombinator.com/item?id=45270108
+
 https://www.jamf.com/blog/chillyhell-a-modular-macos-backdoor/
 > https://www.theregister.com/2025/09/10/chillyhell_modular_macos_malware/
 

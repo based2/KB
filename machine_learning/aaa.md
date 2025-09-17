@@ -441,6 +441,8 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://embracethered.com/blog/posts/2025/wrapping-up-month-of-ai-bugs/
+
 https://horizon3.ai/attack-research/disclosures/unsafe-at-any-speed-abusing-python-exec-for-unauth-rce-in-langflow-ai/
 
 https://news.ycombinator.com/item?id=44407350
@@ -638,6 +640,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html
+
+https://www.wikidata.org/wiki/Q136197054 AIVO Standard - SEO
+> https://news.ycombinator.com/item?id=45239866
+
 https://news.ycombinator.com/item?id=45210399
 
 https://news.ycombinator.com/item?id=45167625

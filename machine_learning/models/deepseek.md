@@ -1,3 +1,5 @@
+https://api-docs.deepseek.com/news/news250821 DeepSeekV3.1
+
 https://news.ycombinator.com/item?id=44976764
 
 https://news.ycombinator.com/item?id=44394916

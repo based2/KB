@@ -71,6 +71,10 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://news.ycombinator.com/item?id=45197896
+
+https://news.ycombinator.com/item?id=45234460
+
 https://www.cppstories.com/2025/cpp23_mdspan_adj/ Adjacency Matrix and std:mdspan, C++23
 > https://news.ycombinator.com/item?id=45167346
 

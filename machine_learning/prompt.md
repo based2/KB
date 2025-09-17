@@ -128,6 +128,10 @@ https://news.ycombinator.com/item?id=44074668
 https://github.com/microsoft/poml
 > https://news.ycombinator.com/item?id=44853184
 
+https://microsoft.github.io/poml/latest/
+
+https://news.ycombinator.com/item?id=45275354
+
 # I
 https://news.ycombinator.com/item?id=45063547
 

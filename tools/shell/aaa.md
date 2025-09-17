@@ -1,5 +1,7 @@
 https://github.com/alebcay/awesome-shell
 
+https://www.nushell.sh/
+
 http://fishshell.com/
 > https://news.ycombinator.com/item?id=27180420
 
@@ -34,6 +36,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://www.nushell.sh/blog/2025-09-02-nushell_0_107_0.html#watch-out-for-new-watch-features-toc
+
 https://news.ycombinator.com/item?id=44854035
 
 https://news.ycombinator.com/item?id=44825175

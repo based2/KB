@@ -128,6 +128,8 @@ https://news.ycombinator.com/item?id=44591305
 
 https://news.ycombinator.com/item?id=44941605
 
+https://news.ycombinator.com/item?id=45240391
+
 # I
 https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/
 

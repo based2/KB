@@ -13,6 +13,8 @@ https://slashdot.org/story/00/05/11/0153247/microsoft-asks-slashdot-to-remove-re
 
 https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/
 
+https://news.ycombinator.com/item?id=45210858
+
 # I
 https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/ MS RC4
 > https://news.ycombinator.com/item?id=45196437

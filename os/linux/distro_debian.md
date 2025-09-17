@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45226657
+
 https://www.theregister.com/2025/08/06/debian_13_mx_25/
 
 https://news.ycombinator.com/item?id=44611223

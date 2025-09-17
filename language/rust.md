@@ -270,7 +270,6 @@ https://blog.axo.dev/2023/02/cargo-dist
 > https://news.ycombinator.com/item?id=34614497
 
 # Test
-
 https://ferrous-systems.com/blog/test-embedded-app/
 
 https://dl.acm.org/doi/abs/10.1145/3453483.3454084 SyRust: automatic testing of Rust libraries with semantic-aware program synthesis
@@ -542,6 +541,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incidents
+https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html
+
 https://vigilance.fr/vulnerabilite/Rust-Tonic-deni-de-service-via-Server-Accept-Call-45461
 
 https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/ windows
@@ -562,6 +563,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=45203601
+
 https://news.ycombinator.com/item?id=45229513
 
 https://news.ycombinator.com/item?id=45214467

@@ -92,6 +92,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://github.com/anishathalye/semlib Semantic Data Processing
+> https://news.ycombinator.com/item?id=45249697
+
 https://www.dremio.com/blog/whats-new-in-apache-iceberg-1-10-0-and-what-comes-next/
 
 https://news.ycombinator.com/item?id=45118598

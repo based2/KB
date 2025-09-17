@@ -70,6 +70,8 @@ https://rachelbythebay.com/w/2025/09/11/debtz/ Debian 13, Postgres, and the US t
 
 https://news.ycombinator.com/item?id=45162559
 
+https://news.ycombinator.com/item?id=45233237
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 

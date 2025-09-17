@@ -12,6 +12,10 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://news.ycombinator.com/item?id=45251785
+
+https://www.theregister.com/2025/09/12/hopefully_just_a_poc_hybridpetya/
+
 https://www.theregister.com/2025/09/11/vmscape_spectre_vulnerability/
 
 https://comsec.ethz.ch/research/microarch/vmscape-exposing-and-exploiting-incomplete-branch-predictor-isolation-in-cloud-environments/

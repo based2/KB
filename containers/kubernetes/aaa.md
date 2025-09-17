@@ -75,6 +75,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incidents
+https://github.com/external-secrets/external-secrets/issues/5084 Health of External Secrets project
+
 https://www.bleepingcomputer.com/news/security/max-severity-argo-cd-api-flaw-leaks-repository-credentials/
 
 https://www.theregister.com/2025/08/01/kubesphere_open_source_edition/?td=rt-3a

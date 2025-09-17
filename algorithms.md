@@ -48,6 +48,9 @@ https://archive.org/details/designinglogicsystemsusingstatemachines Designing Lo
 https://news.ycombinator.com/item?id=41216560
 
 # Sort
+https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md
+> https://news.ycombinator.com/item?id=45208828
+
 https://github.com/scandum/fluxsort
 > https://news.ycombinator.com/item?id=27948535
 

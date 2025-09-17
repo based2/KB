@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45266215
+
 https://news.ycombinator.com/item?id=45089508
 
 https://github.com/Mentra-Community/MentraOS

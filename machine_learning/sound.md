@@ -234,6 +234,8 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://news.ycombinator.com/item?id=45239016
+
 https://github.com/superstarryeyes/lue Terminal eBook Reader with Text-to-Speech
 > https://news.ycombinator.com/item?id=44925597
 

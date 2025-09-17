@@ -117,6 +117,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://journals.aps.org/prl/abstract/10.1103/npr7-b7kq
+
 https://news.ycombinator.com/item?id=45082587
 
 https://interestingengineering.com/science/living-cell-protein-turnedinto-quantum-bit

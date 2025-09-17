@@ -89,6 +89,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://webassembly.org/news/2025-09-17-wasm-3.0/
+> https://news.ycombinator.com/item?id=45279384
+
 https://news.ycombinator.com/item?id=44656516
 
 https://news.ycombinator.com/item?id=44226879 os

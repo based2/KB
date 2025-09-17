@@ -75,3 +75,5 @@ https://news.ycombinator.com/item?id=44771808
 
 https://acko.net/blog/html-is-dead-long-live-html/ Rethinking DOM from first principles
 > https://news.ycombinator.com/item?id=44808542
+
+https://darkpatternstipline.org/

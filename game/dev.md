@@ -112,6 +112,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # Releases
+https://news.ycombinator.com/item?id=45254574
+
 https://news.ycombinator.com/item?id=42277344
 
 https://news.ycombinator.com/item?id=41522092

@@ -198,6 +198,10 @@ https://news.ycombinator.com/item?id=45129237
 
 https://news.ycombinator.com/item?id=45096962
 
+https://news.ycombinator.com/item?id=45199256
+
+https://news.ycombinator.com/item?id=45216460
+
 # I
 https://news.ycombinator.com/item?id=45011096
 

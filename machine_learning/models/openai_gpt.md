@@ -1,5 +1,7 @@
 Generative Pre-trained Transformer
 
+https://platform.openai.com/docs/guides/realtime
+
 https://news.ycombinator.com/item?id=45054924
 
 https://news.ycombinator.com/item?id=45011004

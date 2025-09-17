@@ -1,3 +1,7 @@
+https://developers.googleblog.com/en/introducing-langextract-a-gemini-powered-information-extraction-library/
+
+https://blog.google/technology/google-deepmind/aeneas/
+
 https://news.ycombinator.com/item?id=45223726
 
 https://news.ycombinator.com/item?id=45128772

@@ -99,6 +99,8 @@ https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-dow
 > https://news.ycombinator.com/item?id=43261933
 
 # News
+https://www.uni-stuttgart.de/en/university/news/all/New-and-simple-detection-method-for-nanoplastics/
+
 https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/
 
 https://www.theverge.com/news/665187/philips-fixables-3d-printing-personal-health-trimmer-oneblade-prura-research-printables

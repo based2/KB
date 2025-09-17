@@ -113,6 +113,10 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://cookbook.openai.com/articles/openai-harmony
+
+https://www.oreilly.com/radar/taming-chaos-with-antifragile-genai-architecture/
+
 https://news.ycombinator.com/item?id=45130322
 
 https://news.ycombinator.com/item?id=45137373

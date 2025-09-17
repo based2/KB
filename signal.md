@@ -42,6 +42,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=45262835
+
 https://news.ycombinator.com/item?id=45192012
 
 https://destevez.net/2022/04/lte-downlink-synchronization-signals/

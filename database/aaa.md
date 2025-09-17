@@ -80,6 +80,9 @@ https://news.ycombinator.com/item?id=44070532
 https://research.google/blog/graph-foundation-models-for-relational-data/
 
 # News
+https://github.com/DavidLiedle/DriftDB Experimental append-only database with time-travel queries
+> https://news.ycombinator.com/item?id=45242645
+
 https://news.ycombinator.com/item?id=45066999
 
 https://news.ycombinator.com/item?id=44952895

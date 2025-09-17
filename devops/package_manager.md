@@ -92,6 +92,8 @@ https://determinate.systems/posts/changelog-determinate-nix-352/
 https://basicbitch.software/posts/2025-07-12-NixOS-My-Savior.html
 
 #
+https://news.ycombinator.com/item?id=45260741
+
 https://medium.com/data-science-collective/pipask-know-what-youre-installing-before-it-s-too-late-2a6afce80987
 > https://github.com/feynmanix/pipask
 
@@ -112,6 +114,12 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://news.ycombinator.com/item?id=45278657
+
+https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised
+> https://news.ycombinator.com/item?id=45260741
+> > https://www.kb.cert.org/vuls/id/319816 2016
+
 https://news.ycombinator.com/item?id=45034496
 
 https://www.stepsecurity.io/blog/supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware
@@ -180,11 +188,17 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://github.com/crev-dev/cargo-crev cryptographically verifiable code review system for the cargo (Rust) package manager
+
 https://www.theregister.com/2025/08/27/popular_nodejs_utility_used_by/
 
 https://news.ycombinator.com/item?id=44986251
 
 https://socket.dev/blog/astral-launches-pyx-a-python-native-package-registry
+
+https://c-b.io/2025-07-20+-+Install+Linters%2C+Get+Malware+-+DevSecOps+Speedrun+Edition
+> https://socket.dev/blog/npm-is-package-hijacked-in-expanding-supply-chain-attack
+> > https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/
 
 https://news.ycombinator.com/item?id=44892209
 

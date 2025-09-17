@@ -91,6 +91,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.theregister.com/2025/09/12/samsung_fixes_android_0day/
+
 https://news.ycombinator.com/item?id=45166972
 
 https://www.reuters.com/sustainability/society-equity/egypt-rounds-up-teenaged-tiktokkers-crackdown-social-media-2025-08-29/

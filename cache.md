@@ -38,6 +38,13 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://github.com/s2-streamstore/cachey Read-Through Cache for S3
+> https://news.ycombinator.com/item?id=45240071
+
+https://github.com/blackbird-io/blackbird Ultra-low latency via UCX (RDMA), intelligent tiering across GPU/CPU/NVMe, and automatic failover with etcd
+
+https://news.ycombinator.com/item?id=45204003
+
 https://news.ycombinator.com/item?id=44743034
 
 https://github.com/tidwall/pogocache

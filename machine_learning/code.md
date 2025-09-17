@@ -118,6 +118,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://github.com/automazeio/ccpm
+
+https://sakana.ai/dgm/ Darwin Gödel Machine
+
 https://trifectatech.org/blog/improving-state-machine-code-generation/
 
 https://news.ycombinator.com/item?id=45209532
