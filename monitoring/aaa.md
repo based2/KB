@@ -127,6 +127,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view
+> https://news.ycombinator.com/item?id=45292475
+
 https://github.com/microsoft/ProcMon-for-Linux
 > https://news.ycombinator.com/item?id=45087748
 

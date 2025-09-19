@@ -114,6 +114,9 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://pup-e.com/goodbye-rubygems.pdf
+> https://news.ycombinator.com/item?id=45299170
+
 https://news.ycombinator.com/item?id=45278657
 
 https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised
@@ -188,6 +191,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=45286526
+
 https://github.com/crev-dev/cargo-crev cryptographically verifiable code review system for the cargo (Rust) package manager
 
 https://www.theregister.com/2025/08/27/popular_nodejs_utility_used_by/

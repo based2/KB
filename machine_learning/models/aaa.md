@@ -263,6 +263,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine
+> https://news.ycombinator.com/item?id=45260374
+
 https://news.ycombinator.com/item?id=45214670
 
 https://synbol.github.io/Lumina-DiMOO/

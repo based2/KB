@@ -26,3 +26,5 @@ https://franklin.dyer.me/post/212
 > https://news.ycombinator.com/item?id=41566122
 
 https://news.ycombinator.com/item?id=44137439
+
+https://news.ycombinator.com/item?id=45253926

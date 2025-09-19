@@ -640,6 +640,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45305660
+
 https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html
 
 https://www.wikidata.org/wiki/Q136197054 AIVO Standard - SEO

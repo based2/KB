@@ -16,3 +16,5 @@ https://www.scottantipa.com/store-app-state-in-urls
 https://github.com/ada-url/ada
 
 https://news.ycombinator.com/item?id=40689137
+
+https://news.ycombinator.com/item?id=45295898

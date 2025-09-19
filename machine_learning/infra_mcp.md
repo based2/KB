@@ -68,6 +68,8 @@ https://news.ycombinator.com/item?id=45199256
 
 https://news.ycombinator.com/item?id=45250200
 
+https://github.com/finite-sample/rmcp
+
 # Security
 https://github.com/Edison-Watch/open-edison
 > https://news.ycombinator.com/item?id=45223102

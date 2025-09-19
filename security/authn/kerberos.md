@@ -15,6 +15,8 @@ https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-
 
 https://news.ycombinator.com/item?id=45210858
 
+https://www.huntress.com/blog/recutting-the-kerberos-diamond-ticket
+
 # I
 https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/ MS RC4
 > https://news.ycombinator.com/item?id=45196437

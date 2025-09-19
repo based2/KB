@@ -1,3 +1,5 @@
+https://www.theregister.com/2025/09/19/deepseek_cost_train/
+
 https://api-docs.deepseek.com/news/news250821 DeepSeekV3.1
 
 https://news.ycombinator.com/item?id=44976764

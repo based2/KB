@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 https://news.ycombinator.com/item?id=43257323
 
 # I
+https://www.theregister.com/2025/09/18/atc_controller_falls_asleep/
+
 https://www.reuters.com/business/aerospace-defense/how-pakistan-shot-down-indias-cutting-edge-fighter-using-chinese-gear-2025-08-02/
 
 https://www.theregister.com/2025/07/30/uk_airspace_outage/

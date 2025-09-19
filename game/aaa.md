@@ -55,6 +55,8 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://news.ycombinator.com/item?id=45297258
+
 https://typo.himanshuanand.com/ Typosquat Detective
 > https://old.reddit.com/r/netsec/comments/1ne4f2u/practice_spotting_typo_squatted_domains_browser/
 

@@ -1,5 +1,7 @@
 https://ophysics.com/index.html
 
+https://news.ycombinator.com/item?id=45265760
+
 https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/
 
 https://news.ycombinator.com/item?id=44605670

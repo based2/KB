@@ -21,8 +21,10 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+
 https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
 > https://news.ycombinator.com/item?id=45275626
+> https://www.theregister.com/2025/09/19/microsoft_entra_id_bug/
 
 https://www.theregister.com/2025/09/01/microsoft_azure_migration_misfire/?td=keepreading
 

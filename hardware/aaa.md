@@ -124,6 +124,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=45288161
+
 https://www.dspe.nl/knowledge/dppm-cases/
 
 https://news.ycombinator.com/item?id=45213665
