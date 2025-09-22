@@ -1,3 +1,6 @@
+https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295
+> https://news.ycombinator.com/item?id=45326388
+
 https://news.ycombinator.com/item?id=45052200
 
 https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025

@@ -243,6 +243,9 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # News
+https://sethmlarson.dev/scream-cipher
+> https://news.ycombinator.com/item?id=45287474
+
 https://news.ycombinator.com/item?id=45186726
 
 https://eprint.iacr.org/2022/1336 One-Wayness in Quantum Cryptography

@@ -563,6 +563,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://dl.acm.org/doi/10.5555/3766078.3766435 TYPEPULSE
+
 https://news.ycombinator.com/item?id=45248242
 
 https://news.ycombinator.com/item?id=45203601

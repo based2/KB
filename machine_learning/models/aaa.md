@@ -239,6 +239,9 @@ https://arxiv.org/abs/2508.21141 Adaptive LLM routing under budget constraints
 https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
 > https://news.ycombinator.com/item?id=45200925
 
+https://arxiv.org/abs/2508.15884 Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search
+> https://arxiv.org/abs/2508.15884
+
 # Sec
 https://news.ycombinator.com/item?id=45224219
 > https://www.sri.inf.ethz.ch/blog/k2think
@@ -263,6 +266,11 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/
+> https://news.ycombinator.com/item?id=45311115
+
+https://news.ycombinator.com/item?id=45285711
+
 https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine
 > https://news.ycombinator.com/item?id=45260374
 

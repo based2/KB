@@ -55,6 +55,9 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://neal.fun/not-a-robot/
+> https://news.ycombinator.com/item?id=45263035
+
 https://news.ycombinator.com/item?id=45297258
 
 https://typo.himanshuanand.com/ Typosquat Detective

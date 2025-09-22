@@ -152,6 +152,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://arxiv.org/abs/2203.09638 Lightweight, highly accurate line and paragraph detection
+> https://news.ycombinator.com/item?id=45326740
+
+https://arxiv.org/abs/2503.05136 Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)
+> https://news.ycombinator.com/item?id=45323027
+
 https://news.ycombinator.com/item?id=44981525
 
 https://news.ycombinator.com/item?id=44862861

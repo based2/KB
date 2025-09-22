@@ -604,6 +604,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=45326773
+
+https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+> https://news.ycombinator.com/item?id=45312323
+
 https://news.ycombinator.com/item?id=45216644 Distributed progress bars that work in terminals and browsers
 
 https://news.ycombinator.com/item?id=45103205

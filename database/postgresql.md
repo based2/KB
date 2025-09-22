@@ -354,6 +354,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=45323008
+
 https://news.ycombinator.com/item?id=45248868
 
 https://news.ycombinator.com/item?id=45214209

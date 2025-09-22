@@ -91,6 +91,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=45322050
+
 https://www.theregister.com/2025/09/12/samsung_fixes_android_0day/
 
 https://news.ycombinator.com/item?id=45166972

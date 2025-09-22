@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=45327318
+
+https://news.ycombinator.com/item?id=45313597
+
 https://news.ycombinator.com/item?id=45214159
 
 https://steelcake.com/blog/nvme-zig/

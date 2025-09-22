@@ -257,6 +257,11 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/
+> https://news.ycombinator.com/item?id=45329414
+> > https://tech.marksblogg.com/overture-dec-2024-update.html
+> https://planet.openstreetmap.org/
+
 https://news.ycombinator.com/item?id=45181626
 
 https://news.ycombinator.com/item?id=44939456

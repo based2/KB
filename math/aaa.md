@@ -219,6 +219,14 @@ https://news.ycombinator.com/item?id=45075751
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=45292084
+
+https://github.com/NVIDIA/nvmath-python
+> https://news.ycombinator.com/item?id=45295878
+
+https://jacobneu.phd/ Generalized Algebraic Theory of Directed Equality
+> https://news.ycombinator.com/item?id=45292387
+
 https://news.ycombinator.com/item?id=45000142
 
 https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/

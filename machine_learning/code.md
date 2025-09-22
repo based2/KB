@@ -118,6 +118,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=45310529
+
+https://news.ycombinator.com/item?id=45325410
+
 https://github.com/automazeio/ccpm
 
 https://sakana.ai/dgm/ Darwin Gödel Machine

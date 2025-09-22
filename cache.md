@@ -34,13 +34,13 @@ https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-r
 # Cloud
 https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
 > https://news.ycombinator.com/item?id=29388588
+4
+https://github.com/s2-streamstore/cachey Read-Through Cache for S3
+> https://news.ycombinator.com/item?id=45240071
 
 # cache invalidation
 
 # News
-https://github.com/s2-streamstore/cachey Read-Through Cache for S3
-> https://news.ycombinator.com/item?id=45240071
-
 https://github.com/blackbird-io/blackbird Ultra-low latency via UCX (RDMA), intelligent tiering across GPU/CPU/NVMe, and automatic failover with etcd
 
 https://news.ycombinator.com/item?id=45204003

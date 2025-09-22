@@ -184,6 +184,9 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://dgl.cx/2025/09/images-over-dns
+> https://news.ycombinator.com/item?id=45312515
+
 https://datatracker.ietf.org/doc/html/rfc9460 SVCB and HTTPS DNS Records
 > https://news.ycombinator.com/item?id=45236444
 

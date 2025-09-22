@@ -1,6 +1,8 @@
 https://datatracker.ietf.org/doc/html/rfc791
 > https://news.ycombinator.com/item?id=28389173
 
+https://github.com/hexydec/ip-ranges
+
 https://datatracker.ietf.org/doc/html/rfc5211 2008 An Internet Transition Plan from IPv4 to IPv6
 
 http://ifconfig.co/

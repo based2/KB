@@ -155,6 +155,9 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/09/21/optus_emergency_call_incident/
+> https://news.ycombinator.com/item?id=45330464
+
 https://apnews.com/article/equatorial-guinea-internet-shutdown-africa-d7daacc641475743972b33eaffffa4fc
 
 https://english.elpais.com/technology/2025-09-13/never-steal-a-hackers-girlfriends-phone-how-an-expert-exposed-a-global-network-of-thieves.html
@@ -353,6 +356,11 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=45312326
+
+https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf Privacy and Security Risks in the eSIM Ecosystem
+> https://news.ycombinator.com/item?id=45329127
+
 https://news.ycombinator.com/item?id=45186044
 
 https://news.ycombinator.com/item?id=45186015

@@ -57,6 +57,9 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html
+> https://news.ycombinator.com/item?id=45312202
+
 https://github.com/ENDESGA/PEP Prediction-Encoded Pixels image format
 > https://news.ycombinator.com/item?id=45012548
 

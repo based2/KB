@@ -274,6 +274,8 @@ https://github.com/changesets/changesets/blob/main/docs/intro-to-using-changeset
 https://blog.swgillespie.me/posts/monorepo-ingredients/
 > https://news.ycombinator.com/item?id=44086917
 
+https://news.ycombinator.com/item?id=45259623
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -301,6 +303,12 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/
+> https://news.ycombinator.com/item?id=45312696
+
+https://blog.plover.com/2025/09/21/#what-changed-twice
+> https://news.ycombinator.com/item?id=45327059
+
 https://news.ycombinator.com/item?id=45012776
 
 https://www.helpnetsecurity.com/2025/08/19/git-2-51-sha-256/
