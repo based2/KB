@@ -640,6 +640,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://github.com/JerryZLiu/Dayflow
+> https://news.ycombinator.com/item?id=45361268
+
+https://news.ycombinator.com/item?id=45361476
+
 https://news.ycombinator.com/item?id=45305660
 
 https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html

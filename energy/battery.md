@@ -10,6 +10,9 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain
+> https://news.ycombinator.com/item?id=45364932
+
 https://news.ycombinator.com/item?id=45304222
 
 https://news.ycombinator.com/item?id=45197240

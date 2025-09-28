@@ -92,6 +92,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://blog.cloudflare.com/cloudflare-data-platform/
+> https://news.ycombinator.com/item?id=45381584
+
 https://github.com/anishathalye/semlib Semantic Data Processing
 > https://news.ycombinator.com/item?id=45249697
 

@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.syncdna.com/blog/time-travel-or-just-clever-tech
+> https://news.ycombinator.com/item?id=45375462
+
 https://www.f-stack.org/ Tencent
 > https://news.ycombinator.com/item?id=45074115
 

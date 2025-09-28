@@ -86,6 +86,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://system76.com/pop/pop-beta/
+> https://news.ycombinator.com/item?id=45384481
+
 https://www.theregister.com/2025/09/11/ubuntu_2510/
 
 https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/

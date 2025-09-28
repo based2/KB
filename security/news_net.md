@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.theregister.com/2025/09/26/an_apts_playground_goanywhere_perfect10/
+
 https://www.theregister.com/2025/09/19/gortra_goanywhere_bug/
 
 https://www.theregister.com/2025/09/19/cisa_ivanti_bugs_exploited/

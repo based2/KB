@@ -16,6 +16,9 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 
 # News
+https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train
+> https://news.ycombinator.com/item?id=45405285
+
 https://piotrminkowski.com/2023/01/04/native-java-with-graalvm-and-virtual-threads-on-kubernetes/
 > https://www.reddit.com/r/java/comments/1032lbg/native_java_with_graalvm_and_virtual_threads_on/
 

@@ -117,10 +117,15 @@ rpm -qpR
 https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/
 > https://news.ycombinator.com/item?id=45268084
 
+https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/
+> https://news.ycombinator.com/item?id=45405221
+
 https://pup-e.com/goodbye-rubygems.pdf
 > https://news.ycombinator.com/item?id=45299170
 
 https://news.ycombinator.com/item?id=45278657
+
+https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack
 
 https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised
 > https://news.ycombinator.com/item?id=45260741

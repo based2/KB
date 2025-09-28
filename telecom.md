@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/09/26/brits_warned_as_illegal_robocallers/?td=rt-3a
+
 https://www.theregister.com/2025/09/21/optus_emergency_call_incident/
 > https://news.ycombinator.com/item?id=45330464
 
@@ -356,6 +358,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=45400828
+
 https://news.ycombinator.com/item?id=45312326
 
 https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf Privacy and Security Risks in the eSIM Ecosystem

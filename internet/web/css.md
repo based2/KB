@@ -156,6 +156,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://news.ycombinator.com/item?id=45350207
+
 https://news.ycombinator.com/item?id=45219406
 
 https://webkit.org/blog/17339/subgrid-how-to-line-up-elements-to-your-hearts-content/

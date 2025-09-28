@@ -30,6 +30,9 @@ https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://xn--gckvb8fzb.com/thoughts-on-cloudflare/
+> https://news.ycombinator.com/item?id=45396234
+
 https://blog.cloudflare.com/serverless-atproto/
 
 https://blog.cloudflare.com/cloudflare-containers-coming-2025/

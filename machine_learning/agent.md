@@ -203,6 +203,8 @@ https://news.ycombinator.com/item?id=45199256
 https://news.ycombinator.com/item?id=45216460
 
 # I
+https://www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/
+
 https://news.ycombinator.com/item?id=45011096
 
 https://news.ycombinator.com/item?id=44888210

@@ -152,6 +152,10 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://news.ycombinator.com/item?id=45371309
+
+https://news.ycombinator.com/item?id=45361568 @
+
 https://arxiv.org/abs/2203.09638 Lightweight, highly accurate line and paragraph detection
 > https://news.ycombinator.com/item?id=45326740
 

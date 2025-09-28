@@ -266,6 +266,10 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45391444
+
+https://news.ycombinator.com/item?id=45399637
+
 https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/
 > https://news.ycombinator.com/item?id=45311115
 

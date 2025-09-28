@@ -188,6 +188,9 @@ https://news.ycombinator.com/item?id=44978286
 https://news.ycombinator.com/item?id=45051188
 
 # News
+https://gamedevtorch.com/
+> https://news.ycombinator.com/item?id=45403288
+
 https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/
 > https://news.ycombinator.com/item?id=45323207
 

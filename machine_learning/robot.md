@@ -1,3 +1,6 @@
+https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/
+> https://news.ycombinator.com/item?id=45374474
+
 https://news.ycombinator.com/item?id=45213549
 
 https://toddlerbot.github.io/
@@ -25,3 +28,6 @@ https://www.figure.ai/news/helix Vision-language-action model for generalist hum
 > https://news.ycombinator.com/item?id=43115079
 
 https://news.ycombinator.com/item?id=43718493
+
+# I
+https://news.ycombinator.com/item?id=45381590

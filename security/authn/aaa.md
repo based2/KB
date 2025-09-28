@@ -70,6 +70,8 @@ https://news.ycombinator.com/item?id=27351769
 https://pgp.governikus.de/?lang=EN
 > https://news.ycombinator.com/item?id=36141170
 
+https://news.ycombinator.com/item?id=45405675 ch
+
 # Greenpass
 https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913

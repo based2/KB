@@ -62,3 +62,6 @@ https://news.ycombinator.com/item?id=43053419
 https://news.ycombinator.com/item?id=43205968
 
 https://news.ycombinator.com/item?id=44767727
+
+https://brutalita.com/
+> https://news.ycombinator.com/item?id=45347072

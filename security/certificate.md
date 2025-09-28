@@ -39,6 +39,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incidents
+https://expel.com/blog/the-history-of-appsuite-the-certs-of-the-baoloader-developer/
+
 https://news.ycombinator.com/item?id=45082595
 
 https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates

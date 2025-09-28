@@ -1,5 +1,10 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=45375477
+
+https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning
+> https://news.ycombinator.com/item?id=45392744
+
 https://platform.openai.com/docs/guides/realtime
 
 https://news.ycombinator.com/item?id=45054924

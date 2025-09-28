@@ -387,6 +387,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=45358841
+
 https://homepages.cwi.nl/~steven/abc/
 > https://news.ycombinator.com/item?id=45057974
 

@@ -229,6 +229,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=45385926
+
 https://www.lemonde.fr/en/opinion/article/2025/09/12/regulating-tiktok-and-other-social-media-is-a-necessity-to-protect-minors_6745327_23.html
 
 https://www.cryptopolitan.com/nepal-elects-interim-pm-via-discord-vote/

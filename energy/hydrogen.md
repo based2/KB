@@ -27,6 +27,8 @@ https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest
 https://en.wikipedia.org/wiki/Spin_isomers_of_hydrogen
 
 # News
+https://www.theregister.com/2025/09/24/lambda_nvidia_hydrogen/
+
 https://news.ycombinator.com/item?id=43441809
 
 https://news.ycombinator.com/item?id=43363293

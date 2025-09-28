@@ -70,11 +70,23 @@ https://news.ycombinator.com/item?id=45250200
 
 https://github.com/finite-sample/rmcp
 
+https://news.ycombinator.com/item?id=45405584
+
+https://news.ycombinator.com/item?id=45402820
+
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+
 # Security
 https://github.com/Edison-Watch/open-edison
 > https://news.ycombinator.com/item?id=45223102
 
 # Incidents
+https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
+> https://news.ycombinator.com/item?id=45395957
+
+https://verialabs.com/blog/from-mcp-to-shell/
+> https://news.ycombinator.com/item?id=45348183
+
 https://www.koi.security/blog/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape
 
 https://blog.gitguardian.com/a-look-into-the-secrets-of-mcp/

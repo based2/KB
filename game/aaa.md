@@ -20,6 +20,12 @@ https://jvm-gaming.org/
 
 https://en.wikipedia.org/wiki/Metal_Slug
 
+# Go
+kgs
+sensei
+
+https://news.ycombinator.com/item?id=45400376
+
 # ML
 https://mythmaker.ai/
 
@@ -55,6 +61,13 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://news.ycombinator.com/item?id=45382645
+
+https://messenger.abeto.co/
+> https://news.ycombinator.com/item?id=45396441
+
+https://boardgamegeek.com/boardgame/157779/barragoon
+
 https://neal.fun/not-a-robot/
 > https://news.ycombinator.com/item?id=45263035
 

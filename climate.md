@@ -71,6 +71,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=45391987
+
+https://news.ycombinator.com/item?id=45396284
+
 https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en
 
 https://news.ycombinator.com/item?id=45232100

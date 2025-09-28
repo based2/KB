@@ -12,6 +12,11 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://news.ycombinator.com/item?id=45403278 asus
+
+https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/
+> https://news.ycombinator.com/item?id=45363465
+
 https://news.ycombinator.com/item?id=45251785
 
 https://www.theregister.com/2025/09/12/hopefully_just_a_poc_hybridpetya/

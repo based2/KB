@@ -199,6 +199,9 @@ https://news.ycombinator.com/item?id=44132673
 
 https://www.uniprof.sh/
 
+https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming
+> https://news.ycombinator.com/item?id=45405750
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

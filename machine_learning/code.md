@@ -118,6 +118,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap
+> https://news.ycombinator.com/item?id=45405177
+
 https://news.ycombinator.com/item?id=45310529
 
 https://news.ycombinator.com/item?id=45325410
