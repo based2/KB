@@ -202,6 +202,20 @@ https://news.ycombinator.com/item?id=45199256
 
 https://news.ycombinator.com/item?id=45216460
 
+https://labs.leaningtech.com/blog/browserpod-annoucement
+> https://news.ycombinator.com/item?id=45426099
+
+https://simonwillison.net/2025/Sep/30/designing-agentic-loops/
+> https://news.ycombinator.com/item?id=45426680
+
+https://github.com/anthropics/claude-agent-sdk-python
+
+https://openai.com/index/buy-it-in-chatgpt/
+> https://news.ycombinator.com/item?id=45416080
+
+# Sec
+https://news.ycombinator.com/item?id=45415814
+
 # I
 https://www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/
 

@@ -18,6 +18,8 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=45395156
+
 https://github.com/Leoneq/iNapGPU
 > https://news.ycombinator.com/item?id=45285562
 

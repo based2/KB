@@ -9,3 +9,5 @@ https://pypi.org/project/jvmcoredump-gczuczy/
 
 https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/
 > https://news.ycombinator.com/item?id=35020781
+
+https://news.ycombinator.com/item?id=45378450

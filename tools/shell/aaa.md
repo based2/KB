@@ -36,6 +36,11 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://news.ycombinator.com/item?id=45422353
+
+https://www2.dmst.aueb.gr/dds/sw/dgsh/
+> https://news.ycombinator.com/item?id=45425298
+
 https://www.nushell.sh/blog/2025-09-02-nushell_0_107_0.html#watch-out-for-new-watch-features-toc
 
 https://news.ycombinator.com/item?id=44854035

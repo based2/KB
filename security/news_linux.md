@@ -60,6 +60,8 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://old.reddit.com/r/netsec/comments/1nmctnd/linux_kernel_runtime_guard_lkrg_10_first_mature/
+
 https://news.ycombinator.com/item?id=45112996
 
 https://www.theregister.com/2025/08/08/stardict_leaky_app_of_week/

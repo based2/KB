@@ -358,6 +358,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=45416231
+
 https://news.ycombinator.com/item?id=45400828
 
 https://news.ycombinator.com/item?id=45312326

@@ -1,3 +1,5 @@
+https://www.rcesecurity.com/2025/09/when-audits-fail-four-critical-pre-auth-vulnerabilities-in-trufusion-enterprise/
+
 https://news.ycombinator.com/item?id=45261574
 
 https://www.huntress.com/blog/rare-look-inside-attacker-operation

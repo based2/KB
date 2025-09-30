@@ -28,6 +28,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://news.ycombinator.com/item?id=45406749
+
 https://news.ycombinator.com/item?id=45087971
 
 https://news.ycombinator.com/item?id=44810916

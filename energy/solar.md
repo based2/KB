@@ -18,6 +18,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://news.ycombinator.com/item?id=45414215
+
 https://news.ycombinator.com/item?id=45401051
 
 https://www.theregister.com/2025/09/12/china_polysilicon_monopoly/

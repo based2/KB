@@ -37,6 +37,8 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # Incidents
+https://news.ycombinator.com/item?id=45422653
+
 https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/
 
 https://news.ycombinator.com/item?id=44826465
@@ -57,6 +59,10 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://news.ycombinator.com/item?id=45389716
+
+https://news.ycombinator.com/item?id=45373784
+
 https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html
 > https://news.ycombinator.com/item?id=45312202
 

@@ -120,6 +120,8 @@ https://coe.psu.ac.th/ad/invhyper/
 
 https://news.ycombinator.com/item?id=43189703
 
+https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705
@@ -219,6 +221,10 @@ https://news.ycombinator.com/item?id=45075751
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://travisdoesmath.github.io/s6/
+
+https://news.ycombinator.com/item?id=45424648
+
 https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base
 > https://news.ycombinator.com/item?id=45404803
 

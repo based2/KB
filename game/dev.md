@@ -188,6 +188,8 @@ https://news.ycombinator.com/item?id=44978286
 https://news.ycombinator.com/item?id=45051188
 
 # News
+https://news.ycombinator.com/item?id=45382300
+
 https://gamedevtorch.com/
 > https://news.ycombinator.com/item?id=45403288
 

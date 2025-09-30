@@ -24,6 +24,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://blog.lastpass.com/posts/attack-targeting-macs-via-github-pages
+
 https://news.ycombinator.com/item?id=45270108
 
 https://www.jamf.com/blog/chillyhell-a-modular-macos-backdoor/

@@ -28,6 +28,8 @@ https://quantus.finance/
 > https://news.ycombinator.com/item?id=42398471
 
 # Bank
+https://news.ycombinator.com/item?id=45424827
+
 https://news.ycombinator.com/item?id=45201549
 
 https://fintechbusinessweekly.substack.com/p/mercurys-high-risk-high-rewards-strategy

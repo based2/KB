@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/sora-2/
+> https://news.ycombinator.com/item?id=45428122
+
 https://news.ycombinator.com/item?id=45375477
 
 https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning

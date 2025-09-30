@@ -114,6 +114,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://socket.dev/blog/two-malicious-rust-crates-impersonate-popular-logger-to-steal-wallet-keys
+
 https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/
 > https://news.ycombinator.com/item?id=45268084
 
@@ -199,6 +201,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=45409526
+
 https://github.com/bodadotsh/npm-security-best-practices
 > https://news.ycombinator.com/item?id=45326754
 

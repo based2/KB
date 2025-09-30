@@ -332,6 +332,9 @@ https://news.ycombinator.com/item?id=44185913
 
 https://tech.slashdot.org/story/25/07/25/0133216/american-airlines-chief-blasts-deltas-ai-pricing-plans-as-inappropriate
 
+https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/
+> https://news.ycombinator.com/item?id=45418428
+
 # History
 https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/
 > https://news.ycombinator.com/item?id=44146339

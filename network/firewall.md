@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/
+
 https://gfw.report/blog/gfw_unconditional_rst_20250820/en/
 > https://news.ycombinator.com/item?id=44958621
 

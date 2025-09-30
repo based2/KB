@@ -61,6 +61,11 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://swapple.fuglede.dk/
+> https://news.ycombinator.com/item?id=45403912
+
+https://news.ycombinator.com/item?id=45408021
+
 https://news.ycombinator.com/item?id=45382645
 
 https://messenger.abeto.co/
