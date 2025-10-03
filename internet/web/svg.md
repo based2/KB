@@ -131,6 +131,8 @@ https://news.ycombinator.com/item?id=44941605
 https://news.ycombinator.com/item?id=45240391
 
 # I
+https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/
+
 https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/
 
 https://www.seqrite.com/blog/unmasking-the-svg-threat-how-hackers-use-vector-graphics-for-phishing-attacks/

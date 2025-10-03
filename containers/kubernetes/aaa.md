@@ -120,6 +120,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://news.ycombinator.com/item?id=45436148
+
 https://kubernetes.io/blog/2025/08/27/kubernetes-v1-34-release/
 
 https://news.ycombinator.com/item?id=44915164 Hetzner

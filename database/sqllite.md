@@ -104,6 +104,8 @@ https://github.com/vlcn-io/cr-sqlite crdt
 
 https://news.ycombinator.com/item?id=33906784
 
+https://news.ycombinator.com/item?id=45453936
+
 # History
 https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701

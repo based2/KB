@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://news.ycombinator.com/item?id=45462713
+
 https://www.darkreading.com/vulnerabilities-threats/luna-grabber-malware-targets-roblox-gaming-devs
 
 > https://krebsonsecurity.com/wp-content/uploads/2025/07/deduped_scambling_domains.txt

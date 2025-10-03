@@ -7,6 +7,8 @@ https://kitops.ml/docs/modelkit/intro.html
 > https://news.ycombinator.com/item?id=41963890
 
 #
+https://news.ycombinator.com/item?id=45412472
+
 https://oci.dag.dev/
 > https://news.ycombinator.com/item?id=45228891
 

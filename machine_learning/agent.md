@@ -217,6 +217,8 @@ https://openai.com/index/buy-it-in-chatgpt/
 https://news.ycombinator.com/item?id=45415814
 
 # I
+https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/
+
 https://www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/
 
 https://news.ycombinator.com/item?id=45011096

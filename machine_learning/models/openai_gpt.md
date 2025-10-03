@@ -1,5 +1,10 @@
 Generative Pre-trained Transformer
 
+https://www.wheresyoured.at/sora2-openai/
+> https://news.ycombinator.com/item?id=45464849
+
+https://news.ycombinator.com/item?id=45453586
+
 https://openai.com/index/sora-2/
 > https://news.ycombinator.com/item?id=45428122
 

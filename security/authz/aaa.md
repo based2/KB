@@ -29,3 +29,5 @@ https://www.nextlabs.com/products/technology/abac/
 
 https://github.com/Permify/permify go ASLv2
 > https://news.ycombinator.com/item?id=41311489
+
+https://news.ycombinator.com/item?id=45445114

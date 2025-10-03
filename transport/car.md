@@ -21,6 +21,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/
+
 https://news.ycombinator.com/item?id=45400540
 
 https://arstechnica.com/cars/2025/09/when-will-jaguar-land-rover-restart-production-no-one-actually-knows/

@@ -131,3 +131,6 @@ https://github.com/pontoon-data/Pontoon Open source data export platform. For de
 
 https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity
 > https://news.ycombinator.com/item?id=44929478
+
+https://github.com/google/cdc-file-transfer
+> https://news.ycombinator.com/item?id=45433768

@@ -6,6 +6,10 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://news.ycombinator.com/item?id=45463642
+
+https://news.ycombinator.com/item?id=45458948
+
 https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/
 
 https://www.nextplatform.com/2025/09/11/nvidia-disaggregates-long-context-inference-to-drive-bang-for-the-buck/

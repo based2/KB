@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/
+
 https://news.ycombinator.com/item?id=45174221
 
 https://www.theregister.com/2025/07/31/7_years_of_back_debt/

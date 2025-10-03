@@ -122,6 +122,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/
+
 https://news.ycombinator.com/item?id=44799494
 
 https://medium.com/deriv-tech/brewing-trouble-dissecting-a-macos-malware-campaign-90c2c24de5dc
