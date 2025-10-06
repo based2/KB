@@ -20,3 +20,5 @@ https://xmpp.org/2022/03/the-xmpp-newsletter-february-2022/
 
 https://github.com/dino/dino
 > https://news.ycombinator.com/item?id=36923220
+
+https://news.ycombinator.com/item?id=45490439

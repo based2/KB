@@ -178,6 +178,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=45483386
+
 https://edition.cnn.com/2025/09/27/asia/south-korea-fire-data-center-daejeon-intl-hnk
 
 https://www.silentpush.com/blog/infrastructure-laundering/

@@ -193,6 +193,9 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://www.flightcontrol.dev/
+> https://news.ycombinator.com/item?id=45488441
+
 https://news.ycombinator.com/item?id=44962844
 
 https://news.ycombinator.com/item?id=44825660

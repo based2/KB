@@ -12,6 +12,9 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://batteringram.eu/ Low-Cost Interposer Attacks on Confidential Computing
+> https://news.ycombinator.com/item?id=45488713
+
 https://news.ycombinator.com/item?id=45403278 asus
 
 https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/

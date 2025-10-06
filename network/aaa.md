@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/fleximus/pfjson
+> https://news.ycombinator.com/item?id=45465821
+
 https://www.syncdna.com/blog/time-travel-or-just-clever-tech
 > https://news.ycombinator.com/item?id=45375462
 

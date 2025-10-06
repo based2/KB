@@ -108,6 +108,9 @@ https://everyuuid.com/
 https://brandur.org/fragments/uuid-v7-monotonicity
 > https://news.ycombinator.com/item?id=42575900
 
+https://mikenotthepope.com/primary-keys-using-uuid-v7-are-potentially-an-hr-violation/
+> https://news.ycombinator.com/item?id=45493390
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

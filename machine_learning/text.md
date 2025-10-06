@@ -92,6 +92,9 @@ https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other
 > https://news.ycombinator.com/item?id=45069247
 
 # News
+https://github.com/mavdol/npc-neural-affect-matrix
+> https://news.ycombinator.com/item?id=45413208
+
 https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959 Textile Encoding via Elastically Graded Embroidered Tessellations
 > https://news.ycombinator.com/item?id=45365927
 

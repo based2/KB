@@ -134,3 +134,5 @@ https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity
 
 https://github.com/google/cdc-file-transfer
 > https://news.ycombinator.com/item?id=45433768
+
+https://news.ycombinator.com/item?id=45448747

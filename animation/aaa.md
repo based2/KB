@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://chiuhans111.github.io/fluidglass/
+> https://news.ycombinator.com/item?id=45422147
+
 https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader
 > https://news.ycombinator.com/item?id=45163417
 

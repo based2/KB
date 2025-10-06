@@ -213,6 +213,9 @@ https://github.com/anthropics/claude-agent-sdk-python
 https://openai.com/index/buy-it-in-chatgpt/
 > https://news.ycombinator.com/item?id=45416080
 
+https://zed.dev/blog/jetbrains-on-acp
+> https://news.ycombinator.com/item?id=45493609
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

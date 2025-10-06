@@ -234,6 +234,8 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://news.ycombinator.com/item?id=45450392
+
 https://news.ycombinator.com/item?id=45388822
 
 https://news.ycombinator.com/item?id=45239016
