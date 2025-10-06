@@ -206,11 +206,15 @@ https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spamme
 
 https://news.ycombinator.com/item?id=30838564
 
+https://github.com/Tomev
+
 # New mail systems
 https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://strikeready.com/blog/0day-ics-attack-in-the-wild/
+
 https://news.ycombinator.com/item?id=45226903
 
 https://news.ycombinator.com/item?id=44679854
@@ -305,6 +309,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://www.spinellis.gr/blog/20250926/?li Why I Choose Email over Messaging
+> https://news.ycombinator.com/item?id=45479820
+
 https://blog.cloudflare.com/email-service/
 > https://news.ycombinator.com/item?id=45373081
 

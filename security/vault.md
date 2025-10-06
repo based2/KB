@@ -54,6 +54,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incidents
+https://codeberg.org/manchicken/1password-cli-vuln-disclosure
+> https://news.ycombinator.com/item?id=45478553
+
 https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/
 > https://news.ycombinator.com/item?id=44821434
 

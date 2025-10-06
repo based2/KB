@@ -4,6 +4,9 @@ IPv4 A record
 
 https://en.wikipedia.org/wiki/SRV_record
 
+https://en.wikipedia.org/wiki/Autonomous_system_(Internet)
+> https://github.com/ArcHound/asn-check
+
 http://www-inf.int-evry.fr/~hennequi/CoursDNS/NOTES-COURS_eng/msg.html
 
 https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
@@ -88,6 +91,8 @@ https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
 https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
 https://red.flag.domains/
+
+https://www.kb.cert.org/vuls/id/457875 DNS cache poisoning birthday attack
 
 https://blogs.infoblox.com/cyber-threat-intelligence/introducing-dns-threat-actors/
 
@@ -184,6 +189,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://strikeready.com/blog/finding-the-unknown-unknowns-part-2/
+
 https://dgl.cx/2025/09/images-over-dns
 > https://news.ycombinator.com/item?id=45312515
 

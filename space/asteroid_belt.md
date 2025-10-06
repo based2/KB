@@ -6,6 +6,8 @@ https://github.com/easylist/easylist/issues/16372
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://news.ycombinator.com/item?id=45477742
+
 https://news.ycombinator.com/item?id=45218017
 
 https://www.livescience.com/space/james-webb-telescope-reveals-that-asteroids-bennu-and-ryugu-may-be-parts-of-the-same-gigantic-space-rock

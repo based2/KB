@@ -1,3 +1,6 @@
+https://pagedout.institute/download/PagedOut_007.pdf
+>
+
 https://news.ycombinator.com/item?id=45464269
 
 https://www.rcesecurity.com/2025/09/when-audits-fail-four-critical-pre-auth-vulnerabilities-in-trufusion-enterprise/

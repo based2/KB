@@ -217,6 +217,8 @@ https://news.ycombinator.com/item?id=44471251
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # PQC
+https://news.ycombinator.com/item?id=45477206
+
 https://www.openssh.com/pq.html
 > https://news.ycombinator.com/item?id=44863242
 

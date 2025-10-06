@@ -1,0 +1,1 @@
+https://www.iso.org/standard/83757.html  ISO/IEC TS 10866:2024 Information technology — Cloud computing and distributed platforms — Framework and concepts for organizational autonomy and digital sovereignty

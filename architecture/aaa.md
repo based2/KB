@@ -202,6 +202,8 @@ https://www.uniprof.sh/
 https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming
 > https://news.ycombinator.com/item?id=45405750
 
+https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

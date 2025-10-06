@@ -234,6 +234,8 @@ https://unit42.paloaltonetworks.com/erlang-otp-cve-2025-32433/
 https://news.ycombinator.com/item?id=43716526
 
 # News
+https://news.ycombinator.com/item?id=45478033
+
 https://news.ycombinator.com/item?id=43939877
 
 https://news.ycombinator.com/item?id=43655221

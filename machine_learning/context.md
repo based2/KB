@@ -20,3 +20,6 @@ https://nlp.elvissaravia.com/p/context-engineering-guide
 https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering
 
 https://news.ycombinator.com/item?id=44542749
+
+https://www.anthropic.com/news/context-management
+> https://news.ycombinator.com/item?id=45479006

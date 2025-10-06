@@ -63,6 +63,9 @@ https://ptsjs.org/
 
 https://dynamicsjs.com/
 
+# ML
+https://news.ycombinator.com/item?id=45438288
+
 # News
 https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader
 > https://news.ycombinator.com/item?id=45163417
