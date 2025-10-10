@@ -6,6 +6,8 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://openjdk.org/projects/babylon/
+
 https://news.ycombinator.com/item?id=45490549
 
 https://news.ycombinator.com/item?id=45463642

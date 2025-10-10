@@ -118,6 +118,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://github.com/dyad-sh/dyad
+
 https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/
 > https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models
 > > https://news.ycombinator.com/item?id=45414350

@@ -124,6 +124,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=45502541
+
 https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/
 > https://news.ycombinator.com/item?id=45376605
 

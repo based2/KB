@@ -245,6 +245,8 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # News
+https://camm.h-da.io/ Crypto Agility Maturity Model
+
 https://sethmlarson.dev/scream-cipher
 > https://news.ycombinator.com/item?id=45287474
 

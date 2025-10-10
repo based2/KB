@@ -387,6 +387,11 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://pdoc.dev/
+> https://news.ycombinator.com/item?id=45499170
+
+https://news.ycombinator.com/item?id=45524702
+
 https://news.ycombinator.com/item?id=45466086
 
 https://news.ycombinator.com/item?id=45358841

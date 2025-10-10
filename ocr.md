@@ -117,6 +117,8 @@ https://mistral.ai/fr/news/mistral-ocr
 https://news.ycombinator.com/item?id=43590998
 
 # News
+https://news.ycombinator.com/item?id=45489881
+
 https://szeliski.org/Book/ Computer Vision: Algorithms and Applications, 2nd ed
 > https://news.ycombinator.com/item?id=45395132
 

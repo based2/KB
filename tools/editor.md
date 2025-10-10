@@ -419,6 +419,8 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://news.ycombinator.com/item?id=45539609
+
 https://old.reddit.com/r/dotnet/comments/1ncoezl/visual_studio_2026_insiders_is_here/ndc4wb9/
 
 https://github.com/zedless-editor/zed

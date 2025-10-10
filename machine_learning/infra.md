@@ -113,6 +113,8 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/Mozilla-Ocho/llamafile
+
 https://www.youtube.com/watch?v=iPoL03tFBtU
 > https://news.ycombinator.com/item?id=45398468
 

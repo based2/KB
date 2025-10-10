@@ -122,6 +122,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://news.ycombinator.com/item?id=45528735
+
 https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/
 
 https://news.ycombinator.com/item?id=44799494
@@ -606,6 +608,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=45517173
+> https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/
+
 https://news.ycombinator.com/item?id=45326773
 
 https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/

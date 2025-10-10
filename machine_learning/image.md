@@ -409,6 +409,8 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://github.com/lllyasviel/Fooocus
+
 https://news.ycombinator.com/item?id=45174944
 
 https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md

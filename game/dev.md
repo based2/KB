@@ -188,6 +188,9 @@ https://news.ycombinator.com/item?id=44978286
 https://news.ycombinator.com/item?id=45051188
 
 # News
+https://technology.riotgames.com/news/valorants-128-tick-servers
+> https://news.ycombinator.com/item?id=45496146
+
 https://news.ycombinator.com/item?id=45382300
 
 https://gamedevtorch.com/

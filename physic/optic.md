@@ -174,3 +174,6 @@ https://gizmodo.com/glasses-fog-anti-no-fog-without-spray-heating-gold-laye-1849
 https://opg.optica.org/abstract.cfm?URI=OFC-2023-Th4A.4
 
 https://news.ycombinator.com/item?id=36686721
+
+https://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html
+> https://news.ycombinator.com/item?id=45501114

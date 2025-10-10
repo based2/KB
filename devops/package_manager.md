@@ -114,6 +114,12 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://words.filippo.io/compromise-survey/
+
+https://news.ycombinator.com/item?id=45540011
+
+https://news.ycombinator.com/item?id=45535149
+
 https://socket.dev/blog/two-malicious-rust-crates-impersonate-popular-logger-to-steal-wallet-keys
 
 https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/

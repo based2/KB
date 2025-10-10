@@ -92,6 +92,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it
+> https://news.ycombinator.com/item?id=45491128
+
 https://blog.cloudflare.com/cloudflare-data-platform/
 > https://news.ycombinator.com/item?id=45381584
 

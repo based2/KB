@@ -74,7 +74,15 @@ https://news.ycombinator.com/item?id=45405584
 
 https://news.ycombinator.com/item?id=45402820
 
+https://news.ycombinator.com/item?id=45521788
+
+https://mcpui.dev/
+
+# Tests
 https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+https://www.npmjs.com/package/@desplega.ai/qa-use-mcp
+> https://news.ycombinator.com/item?id=45489274
 
 # Security
 https://github.com/Edison-Watch/open-edison

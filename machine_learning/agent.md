@@ -216,8 +216,14 @@ https://openai.com/index/buy-it-in-chatgpt/
 https://zed.dev/blog/jetbrains-on-acp
 > https://news.ycombinator.com/item?id=45493609
 
+https://news.ycombinator.com/item?id=45489884
+
+https://news.ycombinator.com/item?id=45515640
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
+
+https://news.ycombinator.com/item?id=45496533
 
 # I
 https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/

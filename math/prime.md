@@ -48,3 +48,7 @@ https://news.ycombinator.com/item?id=41953063
 https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/
 
 https://news.ycombinator.com/item?id=44888548
+
+https://news.ycombinator.com/item?id=45490434
+
+https://news.ycombinator.com/item?id=45534270

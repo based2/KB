@@ -114,6 +114,8 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain
 
 # Incidents
+https://news.ycombinator.com/item?id=45538760
+
 https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html Critical Cache Poisoning Vulnerability in Dnsmasq
 > https://news.ycombinator.com/item?id=44950981
 

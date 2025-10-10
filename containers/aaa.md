@@ -76,6 +76,8 @@ https://news.ycombinator.com/item?id=45008740
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://news.ycombinator.com/item?id=45501279
+
 https://wiki.alpinelinux.org/wiki/Diskless_Mode
 
 https://bottlefire.dev/

@@ -61,6 +61,8 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://news.ycombinator.com/item?id=45535424
+
 https://swapple.fuglede.dk/
 > https://news.ycombinator.com/item?id=45403912
 

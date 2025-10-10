@@ -643,6 +643,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45521629
+
 https://github.com/JerryZLiu/Dayflow
 > https://news.ycombinator.com/item?id=45361268
 

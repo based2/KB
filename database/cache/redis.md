@@ -64,3 +64,7 @@ https://news.ycombinator.com/item?id=42778795
 https://news.ycombinator.com/item?id=42771403
 
 https://news.ycombinator.com/item?id=43859446
+
+# I
+https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844
+> https://news.ycombinator.com/item?id=45497027

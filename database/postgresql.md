@@ -354,6 +354,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=45533870
+
 https://multigres.com/
 
 https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data

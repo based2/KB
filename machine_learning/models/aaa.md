@@ -1,3 +1,5 @@
+https://onnx.ai/
+
 An introduction to large language models and their relevance for statistical https://op.europa.eu/en/publication-detail/-/publication/f4a703b3-ea60-11ee-bf53-01aa75ed71a1/language-en
 
 https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
@@ -33,20 +35,9 @@ https://news.ycombinator.com/item?id=43080531
 
 https://news.ycombinator.com/item?id=43080531
 
-# Sec
-https://github.com/laiyer-ai/llm-guard
-> https://news.ycombinator.com/item?id=37103757
-
-https://nightshade.cs.uchicago.edu/whatis.html
-> https://arxiv.org/abs/2310.13828
-> https://nightshade.cs.uchicago.edu/userguide.html
-> https://news.ycombinator.com/item?id=39067912
-> https://glaze.cs.uchicago.edu/what-is-glaze.html
-
-https://www.kereva.io/articles/3
-
-https://simonwillison.net/2025/Aug/9/bay-area-ai/ Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup
-> https://news.ycombinator.com/item?id=44846922
+# History
+https://gregorygundersen.com/blog/2025/10/01/large-language-models/
+> https://news.ycombinator.com/item?id=45488892
 
 # Fine tuning
 https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
@@ -242,6 +233,8 @@ https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
 https://arxiv.org/abs/2508.15884 Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search
 > https://arxiv.org/abs/2508.15884
 
+https://news.ycombinator.com/item?id=45536694 Discrete Distribution Networks
+
 # Sec
 https://news.ycombinator.com/item?id=45224219
 > https://www.sri.inf.ethz.ch/blog/k2think
@@ -258,7 +251,26 @@ https://arxiv.org/html/2507.11473v1
 
 https://snitchbench.t3.gg/
 
+https://github.com/laiyer-ai/llm-guard
+> https://news.ycombinator.com/item?id=37103757
+
+https://nightshade.cs.uchicago.edu/whatis.html
+> https://arxiv.org/abs/2310.13828
+> https://nightshade.cs.uchicago.edu/userguide.html
+> https://news.ycombinator.com/item?id=39067912
+> https://glaze.cs.uchicago.edu/what-is-glaze.html
+
+https://www.kereva.io/articles/3
+
+https://simonwillison.net/2025/Aug/9/bay-area-ai/ Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup
+> https://news.ycombinator.com/item?id=44846922
+
+https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322
+
 # I
+https://www.anthropic.com/research/small-samples-poison
+> https://news.ycombinator.com/item?id=45529587
+
 https://www.usenix.org/conference/usenixsecurity20/presentation/quiring
 
 https://news.ycombinator.com/item?id=43865097
@@ -266,6 +278,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://twitter.com/karpathy/status/1976077806443569355
+> https://news.ycombinator.com/item?id=45530486
+
 https://news.ycombinator.com/item?id=45458455
 
 https://news.ycombinator.com/item?id=45455648

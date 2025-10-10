@@ -19,6 +19,8 @@ https://victorwynne.com/processor-trace-instrument/
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://news.ycombinator.com/item?id=45489625
+
 https://flak.tedunangst.com/post/stylish-bugs
 > https://news.ycombinator.com/item?id=44876115
 

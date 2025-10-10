@@ -53,6 +53,8 @@ https://statmodeling.stat.columbia.edu/2025/07/07/chatbot-prompts/
 https://agents4science.stanford.edu/
 > https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/
 
+https://news.ycombinator.com/item?id=45501326
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

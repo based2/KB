@@ -1,3 +1,11 @@
+https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3.pdf
+
+https://developers.googleblog.com/en/introducing-embeddinggemma/
+
+https://news.ycombinator.com/item?id=45519944
+
+https://news.ycombinator.com/item?id=45516426
+
 https://news.ycombinator.com/item?id=45375845
 
 https://developers.googleblog.com/en/introducing-langextract-a-gemini-powered-information-extraction-library/

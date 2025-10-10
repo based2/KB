@@ -12,6 +12,10 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://news.ycombinator.com/item?id=45490740 smarttv
+
+https://github.com/tinygrad/7900xtx
+
 https://batteringram.eu/ Low-Cost Interposer Attacks on Confidential Computing
 > https://news.ycombinator.com/item?id=45488713
 
