@@ -61,6 +61,9 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/
+> https://news.ycombinator.com/item?id=45568708
+
 https://news.ycombinator.com/item?id=45535424
 
 https://swapple.fuglede.dk/

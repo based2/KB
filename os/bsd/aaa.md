@@ -270,6 +270,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://news.ycombinator.com/item?id=45582758
+
 https://news.ycombinator.com/item?id=43057721
 
 https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/
@@ -284,7 +286,6 @@ https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/
 https://ghostbsd.org/news/GhostBSD_23.10.1_Now_Available
 
 https://www.midnightbsd.org/notes/
->
 
 https://hellosystem.github.io/docs/
 > https://news.ycombinator.com/item?id=37262857

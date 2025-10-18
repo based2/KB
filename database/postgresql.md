@@ -354,6 +354,10 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care
+
+https://news.ycombinator.com/item?id=45593358
+
 https://news.ycombinator.com/item?id=45533870
 
 https://multigres.com/

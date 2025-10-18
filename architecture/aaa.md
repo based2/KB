@@ -343,6 +343,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+> https://news.ycombinator.com/item?id=45610996
+
 https://github.com/plutov/oq Terminal OpenAPI Spec Viewer
 > https://news.ycombinator.com/item?id=45222799
 

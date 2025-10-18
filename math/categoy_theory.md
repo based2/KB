@@ -42,3 +42,5 @@ https://news.ycombinator.com/item?id=40700213
 
 https://liamoc.net/forest/dt-001Y/index.xml Domain Theory Lecture Notes
 > https://news.ycombinator.com/item?id=44084577
+
+https://news.ycombinator.com/item?id=45526846

@@ -114,6 +114,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://news.ycombinator.com/item?id=45592401
+
 https://words.filippo.io/compromise-survey/
 
 https://news.ycombinator.com/item?id=45540011
@@ -207,6 +209,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=45606070
+
 https://news.ycombinator.com/item?id=45409526
 
 https://github.com/bodadotsh/npm-security-best-practices

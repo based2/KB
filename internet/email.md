@@ -309,6 +309,11 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=45564619
+
+https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/
+> https://news.ycombinator.com/item?id=45599084
+
 https://www.spinellis.gr/blog/20250926/?li Why I Choose Email over Messaging
 > https://news.ycombinator.com/item?id=45479820
 

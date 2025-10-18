@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=43041929
 https://news.ycombinator.com/item?id=43781888
 
 # Incidents
+https://github.com/liquibase/liquibase/issues/7374
+> https://news.ycombinator.com/item?id=45602676
+
 https://www.theregister.com/2025/04/28/cncf_synadia_nats_dispute/
 
 https://news.ycombinator.com/item?id=42576443

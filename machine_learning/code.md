@@ -118,6 +118,15 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=45595760
+
+https://den.dev/blog/github-spec-kit/
+> https://news.ycombinator.com/item?id=45577377
+
+https://news.ycombinator.com/item?id=45601834
+
+https://news.ycombinator.com/item?id=45604451
+
 https://github.com/dyad-sh/dyad
 
 https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/

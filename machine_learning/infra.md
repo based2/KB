@@ -113,6 +113,8 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://www.aivojournal.org/embedding-visibility-data-into-ai-workflows-why-it-demands-an-audit-layer/
+
 https://github.com/Mozilla-Ocho/llamafile
 
 https://www.youtube.com/watch?v=iPoL03tFBtU

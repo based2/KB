@@ -325,9 +325,19 @@ https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodat
 > https://news.ycombinator.com/item?id=33635720
 
 # M5
+https://news.ycombinator.com/item?id=45591799
+> disable Glass. In a terminal: defaults write -g com.apple.SwiftUI.DisableSolarium -bool YES
+
+This gets rid of the slow animations, inconsistent window cornering, and other annoyances.
+
+Then (so menus aren't transparent and unreadable): System Settings > Accessibility > Display > Reduce Transparency
+
 https://news.ycombinator.com/item?id=45427197
 
 # M4
+https://asahilinux.org/docs/platform/feature-support/m4/
+> https://news.ycombinator.com/item?id=45609251
+
 https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/
 > https://news.ycombinator.com/item?id=43266474
 
@@ -525,6 +535,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://news.ycombinator.com/item?id=45583787
+
 https://discussions.apple.com/thread/255316715?sortBy=rank Can I turn off the power connected beep?
 > defaults write com.apple.PowerChime ChimeOnNoHardware -bool true;killall PowerChime
 

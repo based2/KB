@@ -59,6 +59,12 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://ritiksahni.com/blog/peeking-inside-gigantic-zips-with-only-kilobytes/
+> https://news.ycombinator.com/item?id=45556904
+
+https://github.com/ianling/steg-experiments Compression-Resistant Data Transfers
+> https://news.ycombinator.com/item?id=45555690
+
 https://github.com/facebook/openzl
 > https://news.ycombinator.com/item?id=45494592
 > https://openzl.org/

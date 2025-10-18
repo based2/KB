@@ -1,3 +1,6 @@
+https://simonwillison.net/2025/Oct/16/claude-skills/
+> https://news.ycombinator.com/item?id=45619537
+
 https://news.ycombinator.com/item?id=45427697
 
 https://news.ycombinator.com/item?id=45415962

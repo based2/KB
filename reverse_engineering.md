@@ -74,6 +74,9 @@ https://news.ycombinator.com/item?id=43474490
 https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
 
 # News
+https://andrews.substack.com/p/reverse-engineering-iwork
+> https://news.ycombinator.com/item?id=45590935
+
 https://news.ycombinator.com/item?id=45152779
 
 https://news.ycombinator.com/item?id=45018509

@@ -1,7 +1,10 @@
+https://clickfix-wiki.github.io/
+
+https://news.ycombinator.com/item?id=45566123
+
 https://research.checkpoint.com/2025/zipline-phishing-campaign/
 
 https://pagedout.institute/download/PagedOut_007.pdf
->
 
 https://news.ycombinator.com/item?id=45464269
 

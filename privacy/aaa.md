@@ -129,6 +129,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://libroot.org/posts/cloudflare-the-irresistible-hub-for-mass-surveillance/
+
+https://news.ycombinator.com/item?id=45599075
+
 https://news.ycombinator.com/item?id=44962771
 
 https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/

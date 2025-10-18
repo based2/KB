@@ -62,6 +62,10 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://news.ycombinator.com/item?id=45613667
+
+https://news.ycombinator.com/item?id=45617819
+
 https://news.ycombinator.com/item?id=45415178
 
 https://github.com/rougier/braincraft

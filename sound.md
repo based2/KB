@@ -218,6 +218,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://github.com/OpenMixerProject/StageConnect
+> https://news.ycombinator.com/item?id=45625251
+
 https://news.ycombinator.com/item?id=42526625
 
 https://news.ycombinator.com/item?id=41529844

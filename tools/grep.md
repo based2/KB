@@ -77,3 +77,6 @@ https://news.ycombinator.com/item?id=41380065
 https://news.ycombinator.com/item?id=41430772
 
 https://news.ycombinator.com/item?id=41567262
+
+https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0
+> https://news.ycombinator.com/item?id=45627324

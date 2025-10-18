@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45575127
+
 https://news.ycombinator.com/item?id=45168953
 
 https://cline.bot/blog/local-models

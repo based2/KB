@@ -6,6 +6,9 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
+> https://news.ycombinator.com/item?id=45600470
+
 https://openjdk.org/projects/babylon/
 
 https://news.ycombinator.com/item?id=45490549

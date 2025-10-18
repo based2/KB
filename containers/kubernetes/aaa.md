@@ -120,6 +120,11 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://isovalent.com/blog/post/demystifying-cni/
+
+https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes
+> https://news.ycombinator.com/item?id=45518159
+
 https://news.ycombinator.com/item?id=45436148
 
 https://kubernetes.io/blog/2025/08/27/kubernetes-v1-34-release/

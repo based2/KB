@@ -12,6 +12,11 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://eclypsium.com/blog/bombshell-the-signed-backdoor-hiding-in-plain-sight-on-framework-devices/
+> https://news.ycombinator.com/item?id=45584343
+
+https://news.ycombinator.com/item?id=45610226
+
 https://news.ycombinator.com/item?id=45490740 smarttv
 
 https://github.com/tinygrad/7900xtx

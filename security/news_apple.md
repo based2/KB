@@ -24,6 +24,14 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://www.synacktiv.com/publications/appledbrs-un-outil-daide-a-la-recherche-sur-plateformes-apple
+
+https://arxiv.org/abs/2510.09272
+> https://news.ycombinator.com/item?id=45571688
+
+https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/
+> https://news.ycombinator.com/item?id=45580315
+
 https://security.apple.com/blog/apple-security-bounty-evolved/
 
 https://blog.lastpass.com/posts/attack-targeting-macs-via-github-pages

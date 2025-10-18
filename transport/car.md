@@ -21,6 +21,10 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://news.ycombinator.com/item?id=45623526
+
+https://news.ycombinator.com/item?id=45568700
+
 https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/
 
 https://news.ycombinator.com/item?id=45400540
@@ -45,6 +49,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://news.ycombinator.com/item?id=45615237
+
 https://news.ycombinator.com/item?id=45223694
 
 https://news.ycombinator.com/item?id=44652374

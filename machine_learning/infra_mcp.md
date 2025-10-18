@@ -78,6 +78,13 @@ https://news.ycombinator.com/item?id=45521788
 
 https://mcpui.dev/
 
+https://news.ycombinator.com/item?id=45618536
+
+https://github.com/jasonjmcghee/WebMCP
+> https://news.ycombinator.com/item?id=45622604
+
+https://news.ycombinator.com/item?id=45618536
+
 # Tests
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 

@@ -268,6 +268,8 @@ https://simonwillison.net/2025/Aug/9/bay-area-ai/ Simon Willison's Lethal Trifec
 https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322
 
 # I
+https://www.synacktiv.com/publications/llm-poisoning-13-lire-les-pensees-dun-transformer
+
 https://www.anthropic.com/research/small-samples-poison
 > https://news.ycombinator.com/item?id=45529587
 
@@ -278,6 +280,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers
+
 https://twitter.com/karpathy/status/1976077806443569355
 > https://news.ycombinator.com/item?id=45530486
 

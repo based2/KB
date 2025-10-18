@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45607758
+
 https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3.pdf
 
 https://developers.googleblog.com/en/introducing-embeddinggemma/

@@ -25,6 +25,9 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://ryan.freumh.org/eon.html Effects-Based OCaml Nameserver
+> https://news.ycombinator.com/item?id=45547891
+
 https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html
 
 https://news.ycombinator.com/item?id=45133652

@@ -10,6 +10,8 @@ https://github.com/sigstore/rekor Software Supply Chain Transparency Log
 https://openssf.org/press-release/2022/10/25/sigstore-announces-general-availability-at-sigstorecon/
 
 #
+https://www.synacktiv.com/publications/transition-post-quantique-lhybridation-des-signatures
+
 https://news.ycombinator.com/item?id=42990948
 
 https://www.bortzmeyer.org/9421.html RFC 9421: HTTP Message Signatures

@@ -130,6 +130,8 @@ https://news.ycombinator.com/item?id=44941605
 
 https://news.ycombinator.com/item?id=45240391
 
+https://news.ycombinator.com/item?id=45565977
+
 # I
 https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/
 

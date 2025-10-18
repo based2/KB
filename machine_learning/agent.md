@@ -220,6 +220,9 @@ https://news.ycombinator.com/item?id=45489884
 
 https://news.ycombinator.com/item?id=45515640
 
+https://www.dwarkesh.com/p/andrej-karpathy
+> https://news.ycombinator.com/item?id=45619329
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

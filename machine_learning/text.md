@@ -30,6 +30,11 @@ https://www.chatpdf.com/
 https://news.ycombinator.com/item?id=41810507
 
 # Chatbot
+https://news.ycombinator.com/item?id=45575051
+
+https://github.com/karpathy/nanochat
+> https://news.ycombinator.com/item?id=45569350
+
 https://lmarena.ai/
 > https://news.ycombinator.com/item?id=42341788
 
@@ -92,6 +97,9 @@ https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other
 > https://news.ycombinator.com/item?id=45069247
 
 # News
+https://blog.burkert.me/posts/llm_evolution_character_manipulation/
+> https://news.ycombinator.com/item?id=45572478
+
 https://github.com/mavdol/npc-neural-affect-matrix
 > https://news.ycombinator.com/item?id=45413208
 

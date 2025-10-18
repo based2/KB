@@ -151,6 +151,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://tailscale.com/blog/nat-traversal-improvements-pt-1
+
+https://www.mptcp.dev/ MPTCP for Linux
+> https://news.ycombinator.com/item?id=45566441
+
 https://github.com/fleximus/pfjson
 > https://news.ycombinator.com/item?id=45465821
 

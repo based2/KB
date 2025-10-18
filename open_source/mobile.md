@@ -13,6 +13,12 @@ https://f-droid.org/
 https://guardianproject.info/
 
 #
+https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/
+> https://news.ycombinator.com/item?id=45585869
+
+https://www.fsf.org/news/librephone-project
+> https://news.ycombinator.com/item?id=45586339
+
 https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html
 > https://news.ycombinator.com/item?id=45200133
 

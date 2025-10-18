@@ -12,6 +12,11 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=45613567
+
+https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/
+> https://news.ycombinator.com/item?id=45574393
+
 https://news.ycombinator.com/item?id=45092604
 
 https://news.ycombinator.com/item?id=45055452

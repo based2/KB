@@ -70,6 +70,8 @@ https://news.ycombinator.com/item?id=35654621
 
 https://news.ycombinator.com/item?id=42815288
 
+https://news.ycombinator.com/item?id=45555989
+
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts
 > https://news.ycombinator.com/item?id=27773601

@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.usenabla.com/blog/emergency-scanning-cisa-endpoint
+
 https://www.huntress.com/blog/gladinet-centrestack-triofox-local-file-inclusion-flaw
 
 https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/

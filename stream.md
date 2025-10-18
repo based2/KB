@@ -1,3 +1,5 @@
+https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc)
+
 https://news.ycombinator.com/item?id=44801363 HTTP
 
 https://news.ycombinator.com/item?id=43833310

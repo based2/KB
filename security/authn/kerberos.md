@@ -21,4 +21,6 @@ https://www.huntress.com/blog/recutting-the-kerberos-diamond-ticket
 https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/ MS RC4
 > https://news.ycombinator.com/item?id=45196437
 
+https://www.synacktiv.com/publications/abusing-multicast-poisoning-for-pre-authenticated-kerberos-relay-over-http-with
+
 https://blog.redteam-pentesting.de/2025/reflective-kerberos-relay-attack/

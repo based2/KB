@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.nature.com/articles/d41586-025-03313-z Carbon credits are failing to help with climate change – here's why
+
 https://news.ycombinator.com/item?id=45391987
 
 https://news.ycombinator.com/item?id=45396284

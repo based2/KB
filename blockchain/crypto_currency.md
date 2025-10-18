@@ -32,6 +32,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://www.citationneeded.news/anatomy-of-a-crypto-meltdown/
+> https://news.ycombinator.com/item?id=45624262
+
+https://news.ycombinator.com/item?id=45604121
+
 https://news.ycombinator.com/item?id=45221274
 
 https://www.bitdefender.com/en-us/blog/labs/malvertising-campaign-on-meta-expands-to-android-pushing-advanced-crypto-stealing-malware-to-users-worldwide

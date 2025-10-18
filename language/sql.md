@@ -77,6 +77,9 @@ https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 https://news.ycombinator.com/item?id=44009848
 
 # News
+https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid
+> https://news.ycombinator.com/item?id=45626985
+
 https://news.ycombinator.com/item?id=45413525
 
 https://news.ycombinator.com/item?id=44570089

@@ -9,3 +9,5 @@ https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/
 https://exact.realty/blog/posts/2022/12/29/csrf-prevention/
 
 https://news.ycombinator.com/item?id=44891302
+
+https://news.ycombinator.com/item?id=45581288 go

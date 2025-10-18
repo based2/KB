@@ -44,6 +44,9 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://ciamweekly.substack.com/p/credential-stuffing
+> https://news.ycombinator.com/item?id=45571647
+
 https://news.ycombinator.com/item?id=44893118
 
 https://news.ycombinator.com/item?id=44823262
