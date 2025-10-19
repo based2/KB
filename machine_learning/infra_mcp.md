@@ -95,6 +95,10 @@ https://www.npmjs.com/package/@desplega.ai/qa-use-mcp
 https://github.com/Edison-Watch/open-edison
 > https://news.ycombinator.com/item?id=45223102
 
+https://www.adversis.io/blogs/the-mcp-security-tool-you-probably-need---mcp-snitch
+> https://old.reddit.com/r/netsec/comments/1o6qxcf/mcp_snitch_the_mcp_security_tool_you_probably_need/
+> http://github.com/Adversis/mcp-snitch
+
 # Incidents
 https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
 > https://news.ycombinator.com/item?id=45395957

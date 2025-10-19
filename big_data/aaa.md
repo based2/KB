@@ -164,6 +164,12 @@ https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-n
 
 https://news.ycombinator.com/item?id=41579517
 
+https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263
+> https://news.ycombinator.com/item?id=45563589
+> > https://github.com/jupytercad/JupyterCAD
+
+https://news.ycombinator.com/item?id=45635069
+
 ##
 http://zeppelin.apache.org/
 

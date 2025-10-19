@@ -114,6 +114,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://news.ycombinator.com/item?id=45634367
+
 https://news.ycombinator.com/item?id=45592401
 
 https://words.filippo.io/compromise-survey/

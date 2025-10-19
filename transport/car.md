@@ -21,6 +21,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://old.reddit.com/r/netsec/comments/1o5na8l/def_con_33_how_i_hacked_over_1000_car_dealerships/
+
 https://news.ycombinator.com/item?id=45623526
 
 https://news.ycombinator.com/item?id=45568700

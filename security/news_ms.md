@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.theregister.com/2025/10/14/microsoft_warns_of_the_dangers/?td=keepreading
+
 https://github.com/dotnet/aspnetcore/issues/64033#issuecomment-3403054914
 > https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/
 > https://news.ycombinator.com/item?id=45590302

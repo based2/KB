@@ -12,3 +12,8 @@ https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/
 https://securitypitfalls.wordpress.com/2018/05/08/raid-doesnt-work/
 
 https://news.ycombinator.com/item?id=33047150 A surprising way to lose your files on Windows
+
+https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory
+> https://news.ycombinator.com/item?id=45570517
+
+https://github.com/agg111/nova

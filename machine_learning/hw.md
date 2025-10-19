@@ -6,6 +6,8 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.theregister.com/2025/10/16/race_to_supply_advanced_memory/?td=rt-3a
+
 https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
 > https://news.ycombinator.com/item?id=45600470
 

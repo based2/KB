@@ -48,6 +48,8 @@ https://github.com/oracle/bpftune
 > https://news.ycombinator.com/item?id=42163597
 
 #
+https://blog.doyensec.com/2025/10/08/ksmbd-3.html
+
 https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199
 
 https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption after upgrade to 6.3.3 kernel

@@ -213,6 +213,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://news.ycombinator.com/item?id=45615449
+
 https://strikeready.com/blog/0day-ics-attack-in-the-wild/
 
 https://news.ycombinator.com/item?id=45226903

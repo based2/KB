@@ -343,6 +343,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.jamesshore.com/v2/blog/2025/the-accountability-problem
+> https://news.ycombinator.com/item?id=45631678
+
 https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 > https://news.ycombinator.com/item?id=45610996
 

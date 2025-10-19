@@ -218,6 +218,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php
+> https://news.ycombinator.com/item?id=45628391
+
 https://github.com/OpenMixerProject/StageConnect
 > https://news.ycombinator.com/item?id=45625251
 

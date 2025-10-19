@@ -165,6 +165,8 @@ https://news.ycombinator.com/item?id=45395428
 https://news.ycombinator.com/item?id=44100035
 
 # News
+https://cs.stanford.edu/people/karpathy/advice.html
+
 https://news.ycombinator.com/item?id=45425061
 
 https://www.youtube.com/watch?v=Unzc731iCUY Patrick Winston: How to Speak - 2018

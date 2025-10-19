@@ -133,6 +133,9 @@ https://github.com/MegaManSec/SSH-Snake
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incidents
+https://dgl.cx/2025/10/bash-a-newline-ssh-proxycommand-cve-2025-61984
+> https://old.reddit.com/r/netsec/comments/1o170wz/bash_a_newline_exploiting_ssh_via_proxycommand/
+
 https://www.bleepingcomputer.com/news/security/new-openssh-flaws-expose-ssh-servers-to-mitm-and-dos-attacks/
 
 https://i.blackhat.com/BH-US-24/Presentations/REVISED02-US24_Moore_Secure_Shells_in_Shambles_Wednesday.pdf

@@ -643,6 +643,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/
+> https://news.ycombinator.com/item?id=45574106
+
 https://news.ycombinator.com/item?id=45583180
 
 https://news.ycombinator.com/item?id=45521629

@@ -84,6 +84,8 @@ https://biomni.stanford.edu/paper.pdf
 https://news.ycombinator.com/item?id=45390866
 
 # News
+https://news.ycombinator.com/item?id=45629970
+
 https://news.ycombinator.com/item?id=45389267
 
 https://news.ycombinator.com/item?id=45300865

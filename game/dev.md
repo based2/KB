@@ -188,6 +188,9 @@ https://news.ycombinator.com/item?id=44978286
 https://news.ycombinator.com/item?id=45051188
 
 # News
+https://taintedcoders.com/bevy/tldr
+> https://news.ycombinator.com/item?id=45631212
+
 https://technology.riotgames.com/news/valorants-128-tick-servers
 > https://news.ycombinator.com/item?id=45496146
 
