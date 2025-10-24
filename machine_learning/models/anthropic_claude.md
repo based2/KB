@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45642911
+
 https://simonwillison.net/2025/Oct/16/claude-skills/
 > https://news.ycombinator.com/item?id=45619537
 
@@ -118,6 +120,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://news.ycombinator.com/item?id=45668118
+
 https://news.ycombinator.com/item?id=45281139
 
 https://news.ycombinator.com/item?id=45200118

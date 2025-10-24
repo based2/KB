@@ -116,6 +116,10 @@ https://mistral.ai/fr/news/mistral-ocr
 
 https://news.ycombinator.com/item?id=43590998
 
+https://news.ycombinator.com/item?id=45640594
+
+https://news.ycombinator.com/item?id=45646559
+
 # News
 https://news.ycombinator.com/item?id=45489881
 

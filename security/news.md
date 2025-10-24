@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45673130
+
 https://clickfix-wiki.github.io/
 
 https://news.ycombinator.com/item?id=45566123

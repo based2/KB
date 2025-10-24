@@ -100,6 +100,10 @@ https://www.adversis.io/blogs/the-mcp-security-tool-you-probably-need---mcp-snit
 > http://github.com/Adversis/mcp-snitch
 
 # Incidents
+https://www.koi.ai/blog/command-injection-flaw-in-framelink-figma-mcp-server-puts-nearly-1-million-downloads-at-risk
+
+https://www.koi.ai/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor
+
 https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
 > https://news.ycombinator.com/item?id=45395957
 

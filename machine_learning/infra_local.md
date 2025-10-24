@@ -1,3 +1,6 @@
+https://quesma.com/blog/local-llms-security-paradox/
+> https://news.ycombinator.com/item?id=45668264
+
 https://news.ycombinator.com/item?id=45575127
 
 https://news.ycombinator.com/item?id=45168953

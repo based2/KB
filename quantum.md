@@ -117,6 +117,13 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+> https://news.ycombinator.com/item?id=45670443
+
+https://news.ycombinator.com/item?id=45556772
+
+https://news.ycombinator.com/item?id=45670443
+
 https://news.ycombinator.com/item?id=45462143
 
 https://news.ycombinator.com/item?id=45457411

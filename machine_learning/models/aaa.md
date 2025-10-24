@@ -280,6 +280,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45683897
+
+https://news.ycombinator.com/item?id=45690219
+
+https://news.ycombinator.com/item?id=45693591
+
 https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers
 
 https://twitter.com/karpathy/status/1976077806443569355

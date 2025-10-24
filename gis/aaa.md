@@ -257,6 +257,9 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/
+> https://news.ycombinator.com/item?id=45690679
+
 https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/
 > https://news.ycombinator.com/item?id=45329414
 > > https://tech.marksblogg.com/overture-dec-2024-update.html

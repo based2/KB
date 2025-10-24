@@ -24,6 +24,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://news.ycombinator.com/item?id=45657302
+
 https://www.synacktiv.com/publications/appledbrs-un-outil-daide-a-la-recherche-sur-plateformes-apple
 
 https://arxiv.org/abs/2510.09272

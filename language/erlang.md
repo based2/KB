@@ -222,6 +222,8 @@ https://bloom-ui.fly.dev/
 # Gleam
 https://gleam.run/
 
+https://news.ycombinator.com/item?id=45638588
+
 https://mtlynch.io/notes/gleam-first-impressions/
 > https://news.ycombinator.com/item?id=45231852
 

@@ -1,3 +1,6 @@
+https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation
+> https://news.ycombinator.com/item?id=45669593
+
 https://news.ycombinator.com/item?id=44461368
 
 https://mastersplinter.work/research/passkey/

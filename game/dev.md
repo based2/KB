@@ -188,6 +188,8 @@ https://news.ycombinator.com/item?id=44978286
 https://news.ycombinator.com/item?id=45051188
 
 # News
+https://news.ycombinator.com/item?id=45617948
+
 https://taintedcoders.com/bevy/tldr
 > https://news.ycombinator.com/item?id=45631212
 

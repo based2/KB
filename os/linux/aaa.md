@@ -114,6 +114,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://mazzo.li/posts/stopping-linux-threads.html
+> https://news.ycombinator.com/item?id=45589156
+
 https://news.ycombinator.com/item?id=44986205
 
 https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesImplementingAPflog

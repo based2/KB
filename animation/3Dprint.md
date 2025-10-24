@@ -1,3 +1,6 @@
+https://www.hp.com/us-en/printers/site-print/layout-robot.html
+> https://news.ycombinator.com/item?id=45672235
+
 https://www.multiboard.io/
 > https://news.ycombinator.com/item?id=43862287
 

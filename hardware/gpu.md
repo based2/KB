@@ -18,6 +18,10 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=45683153
+
+https://news.ycombinator.com/item?id=45674126
+
 https://salykova.github.io/matrix-cores-cdna amd
 > https://news.ycombinator.com/item?id=45476821
 

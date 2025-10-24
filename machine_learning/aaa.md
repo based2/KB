@@ -643,6 +643,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45605223
+
+https://pytorch.org/blog/helion/ High-Level DSL for Performant and Portable ML Kernels
+
+https://news.ycombinator.com/item?id=45671778
+
 https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/
 > https://news.ycombinator.com/item?id=45574106
 

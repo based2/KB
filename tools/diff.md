@@ -26,6 +26,8 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://news.ycombinator.com/item?id=45671427
+
 https://news.ycombinator.com/item?id=44520438
 
 https://diffx.org/

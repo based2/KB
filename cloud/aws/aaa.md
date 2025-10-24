@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://news.ycombinator.com/item?id=45640838
+
 https://www.aquasec.com/blog/bucket-monopoly-breaching-aws-accounts-through-shadow-resources/
 
 https://securitylabs.datadoghq.com/articles/enumerating-aws-the-quiet-way-cloudtrail-free-discovery-with-resource-explorer/

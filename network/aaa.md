@@ -151,6 +151,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=45681200
+
+https://zenodo.org/records/14179366 Entire Linux Network stack diagram (2024)
+> https://news.ycombinator.com/item?id=45639995
+
 https://tailscale.com/blog/nat-traversal-improvements-pt-1
 
 https://www.mptcp.dev/ MPTCP for Linux

@@ -122,6 +122,8 @@ https://news.ycombinator.com/item?id=43189703
 
 https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/
 
+https://news.ycombinator.com/item?id=45606853
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

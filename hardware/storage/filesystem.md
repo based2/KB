@@ -86,6 +86,11 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=45668160
+
+https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped
+> https://news.ycombinator.com/item?id=45646691
+
 https://bugzilla.kernel.org/show_bug.cgi?id=99171 MD RAID or DRBD can be broken from userspace when using O_DIRECT
 > https://news.ycombinator.com/item?id=45626549
 

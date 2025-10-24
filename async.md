@@ -61,6 +61,8 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://news.ycombinator.com/item?id=45684217
+
 https://news.ycombinator.com/item?id=45136008
 
 https://clojure.github.io/core.async/flow-guide.html

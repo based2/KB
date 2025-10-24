@@ -314,6 +314,11 @@ https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349
 
 # News
+https://news.ycombinator.com/item?id=45566730
+
+https://thetonnetz.com/
+> https://news.ycombinator.com/item?id=45625590
+
 https://bachcellosuites.co.uk/
 > https://news.ycombinator.com/item?id=45346014
 

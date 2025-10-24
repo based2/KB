@@ -106,5 +106,8 @@ https://forum.proxmox.com/threads/proxmox-ve-9-0-beta-released.168618/
 https://www.theregister.com/2025/09/08/vmware_in_court_opinion/
 > https://news.ycombinator.com/item?id=45167239
 
+https://github.com/Katakate/k7
+> https://news.ycombinator.com/item?id=45656952
+
 # I
 https://news.ycombinator.com/item?id=43994306

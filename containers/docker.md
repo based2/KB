@@ -59,6 +59,8 @@ https://github.com/duaraghav8/dockershrink
 https://github.com/iximiuz/docker-to-linux
 
 # Incidents
+https://news.ycombinator.com/item?id=45640877
+
 https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/
 
 https://blog.qwertysecurity.com/Articles/blog3.html

@@ -541,6 +541,10 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incidents
+https://news.ycombinator.com/item?id=45686919
+
+https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/
+
 https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html
 
 https://vigilance.fr/vulnerabilite/Rust-Tonic-deni-de-service-via-Server-Accept-Call-45461
@@ -563,6 +567,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=45693814
+
 https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/
 > https://news.ycombinator.com/item?id=45591149
 

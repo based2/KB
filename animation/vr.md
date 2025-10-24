@@ -1,3 +1,8 @@
+https://interconnected.org/home/2025/10/13/dichotomy
+> https://news.ycombinator.com/item?id=45633900
+
+https://news.ycombinator.com/item?id=45671871
+
 https://news.ycombinator.com/item?id=45456003
 
 https://news.ycombinator.com/item?id=45266215

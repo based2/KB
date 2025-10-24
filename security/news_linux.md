@@ -60,6 +60,9 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://dfir.ch/posts/linux_capabilities/
+> https://news.ycombinator.com/item?id=45669142
+
 https://old.reddit.com/r/netsec/comments/1nmctnd/linux_kernel_runtime_guard_lkrg_10_first_mature/
 
 https://news.ycombinator.com/item?id=45112996

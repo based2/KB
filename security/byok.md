@@ -8,6 +8,11 @@ https://www.opendnssec.org/softhsm/ implementation of a cryptographic store acce
 > https://en.wikipedia.org/wiki/PKCS_11
 > > https://everipedia.org/PKCS11
 
+https://cyber.gouv.fr/en/publications/technical-position-paper-confidential-computing
+
+https://cyber.gouv.fr/sites/default/files/document/anssi-technical-position-paper-coco-v1.0.pdf
+> https://www.zdnet.fr/actualites/confidential-computing-lanssi-met-en-garde-contre-les-trop-belles-promesses-483824.htm
+
 https://security.stackexchange.com/questions/243815/what-are-the-benefits-of-using-azure-rms-with-dke-instead-of-byok-hyok
 
 https://security.stackexchange.com/questions/73921/how-are-cloud-based-hsms-used-for-encryption-by-an-application-that-is-on-premis

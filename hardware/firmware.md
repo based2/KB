@@ -65,3 +65,5 @@ https://openipc.org/ alternative open firmware for your IP camera
 https://news.ycombinator.com/item?id=40959742
 
 https://www.rodsbooks.com/refind/
+
+https://news.ycombinator.com/item?id=45543746

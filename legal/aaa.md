@@ -80,6 +80,8 @@ https://www.columntax.com/posts/introducing-iris-our-ai-tax-development-agent
 https://www.damiencharlotin.com/hallucinations/
 
 # News
+https://news.ycombinator.com/item?id=45637744
+
 https://github.com/IRS-Public/fact-graph
 > https://news.ycombinator.com/item?id=45599567
 

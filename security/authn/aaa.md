@@ -95,6 +95,11 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres
+> https://news.ycombinator.com/item?id=45661547
+
+https://news.ycombinator.com/item?id=45666327
+
 https://sso.tax/
 > https://news.ycombinator.com/item?id=44955457
 

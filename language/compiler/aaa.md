@@ -162,6 +162,10 @@ https://news.ycombinator.com/item?id=45560863
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://news.ycombinator.com/item?id=45589786
+
+https://news.ycombinator.com/item?id=45674568
+
 https://news.ycombinator.com/item?id=45136367
 
 https://news.ycombinator.com/item?id=45085156

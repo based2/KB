@@ -61,6 +61,9 @@ https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
 # News
+https://neal.fun/space-elevator/
+> https://news.ycombinator.com/item?id=45640226
+
 https://news.ycombinator.com/item?id=45561382
 
 https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/

@@ -23,6 +23,8 @@ https://txt.cohere.ai/what-are-transformer-models/
 https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
+https://news.ycombinator.com/item?id=45660753
+
 #
 https://nlp.seas.harvard.edu/annotated-transformer/
 > https://news.ycombinator.com/item?id=45002896

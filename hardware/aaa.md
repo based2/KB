@@ -124,6 +124,10 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=45654512
+
+https://news.ycombinator.com/item?id=45664848
+
 https://news.ycombinator.com/item?id=45583243
 
 https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix

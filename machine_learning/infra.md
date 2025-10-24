@@ -115,6 +115,18 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://pytorch.org/blog/introducing-pytorch-monarch/
+> https://news.ycombinator.com/item?id=45680237
+
+https://news.ycombinator.com/item?id=45682776
+
+https://news.ycombinator.com/item?id=45672199
+
+https://news.ycombinator.com/item?id=45643163
+
+https://blog.abdellatif.io/production-rag-processing-5m-documents
+> https://news.ycombinator.com/item?id=45645349
+
 https://www.aivojournal.org/embedding-visibility-data-into-ai-workflows-why-it-demands-an-audit-layer/
 
 https://github.com/Mozilla-Ocho/llamafile
