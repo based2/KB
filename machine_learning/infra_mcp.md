@@ -85,6 +85,30 @@ https://github.com/jasonjmcghee/WebMCP
 
 https://news.ycombinator.com/item?id=45618536
 
+https://github.com/upstash/context7 Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
+pr: give me benchmarks of different llm integration of mcp servers - to lechat
+--Meow:
+1. Performance Benchmarks (MCP-Universe, 2025)
+
+The MCP-Universe benchmark evaluates LLMs across 6 core domains (Location Navigation, Repository Management, Financial Analysis, 3D Design, Browser Automation, Web Searching) using 11 different MCP servers.
+State-of-the-art models show significant limitations:
+
+GPT-5: 43.72% success rate
+Grok-4: 33.33%
+Claude-4.0-Sonnet: 29.44%
+
+
+The benchmark uses execution-based evaluators (format, static, dynamic) to assess real-world task completion, not just LLM-as-a-judge metrics. This addresses the need for real-time, context-sensitive evaluation, which static LLM knowledge cannot provide.
+https://huggingface.co/papers/2508.14704
+
+2. Throughput and Latency (Yoosu-L LLM API Benchmark MCP Server)
+
+This server measures generation throughput, prompt throughput, and Time To First Token (TTFT) under various concurrency levels.
+It supports both local and remote deployment, with customizable parameters for model names, token limits, and concurrency.
+Output is structured in JSON for in-depth analysis, making it useful for performance tuning and integration testing.
+--
+
 # Tests
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 

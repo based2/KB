@@ -208,6 +208,8 @@ http://akkartik.name/post/literate-programming
 
 https://github.com/Quafadas/dedav4s Declarative Data Viz 4 Scala
 
+https://old.reddit.com/r/java/comments/1o788bn/i_built_jeamlit_a_streamlit_alternative_for_java/
+
 # http://fizzygum.org/
 https://news.ycombinator.com/item?id=27421401
 
@@ -395,6 +397,10 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=45685793
+
+https://news.ycombinator.com/item?id=45696838
+
 https://www.instantdb.com/essays/count_min_sketch
 > https://news.ycombinator.com/item?id=45671569
 

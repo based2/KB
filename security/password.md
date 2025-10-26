@@ -44,6 +44,9 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills
+> https://news.ycombinator.com/item?id=45653543
+
 https://ciamweekly.substack.com/p/credential-stuffing
 > https://news.ycombinator.com/item?id=45571647
 

@@ -62,6 +62,9 @@ https://news.ycombinator.com/item?id=39538335
 https://news.ycombinator.com/item?id=42306742
 
 #
+https://github.com/linagora/twake-drive
+> https://news.ycombinator.com/item?id=45692984
+
 https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/
 > https://news.ycombinator.com/item?id=45480317
 

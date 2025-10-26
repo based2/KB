@@ -85,6 +85,8 @@ https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
 
 https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 
+https://news.ycombinator.com/item?id=45640222
+
 # I
 https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/
 

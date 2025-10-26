@@ -91,6 +91,9 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.netskope.com/blog/redtiger-new-red-teaming-tool-in-the-wild-targeting-gamers-and-discord-accounts
+> https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/
+
 https://news.ycombinator.com/item?id=45322050
 
 https://www.theregister.com/2025/09/12/samsung_fixes_android_0day/

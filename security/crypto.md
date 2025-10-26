@@ -245,6 +245,9 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # News
+https://blog.cr.yp.to/20251004-weakened.html
+> https://old.reddit.com/r/crypto/comments/1nyedpf/crypto_20251004_nsa_and_ietf/
+
 https://news.ycombinator.com/item?id=45588752
 
 https://news.ycombinator.com/item?id=45606986

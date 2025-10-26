@@ -1,3 +1,7 @@
+https://github.com/TheRobotStudio/HOPEJr/tree/main/Arm
+
+https://www.robotsgottalents.com/post/asimo
+
 https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/
 > https://news.ycombinator.com/item?id=45374474
 

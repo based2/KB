@@ -222,6 +222,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://news.ycombinator.com/item?id=45702558
+
 https://reshaped.so/blog/reshaped-oss
 > https://news.ycombinator.com/item?id=45209558
 
@@ -712,6 +714,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=45693651
+
 https://news.ycombinator.com/item?id=45224542
 
 https://news.ycombinator.com/item?id=45071024

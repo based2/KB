@@ -1,3 +1,5 @@
+https://old.reddit.com/r/crypto/comments/1nwm4y0/wiretap_breaking_server_sgx_via_dram_bus/
+
 https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation
 > https://news.ycombinator.com/item?id=45669593
 

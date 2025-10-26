@@ -93,6 +93,8 @@ https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 https://news.ycombinator.com/item?id=44985207
 
 # I
+https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/
+
 https://news.ycombinator.com/item?id=44976568
 
 https://pistachioapp.com/blog/copilot-broke-your-audit-log

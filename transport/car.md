@@ -51,6 +51,8 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://www.youtube.com/watch?v=ntLTbt8CnEA Carlos Ghosn
+
 https://news.ycombinator.com/item?id=45615237
 
 https://news.ycombinator.com/item?id=45223694

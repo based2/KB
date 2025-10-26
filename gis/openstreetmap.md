@@ -44,6 +44,9 @@ https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/
 https://operations.osmfoundation.org/2025/02/15/post-mortem.html
 
 # News
+https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151
+> https://news.ycombinator.com/item?id=45699725
+
 https://news.ycombinator.com/item?id=44653136
 
 https://news.ycombinator.com/item?id=44453888

@@ -89,6 +89,10 @@ https://github.com/akavel/clawtype
 https://news.ycombinator.com/item?id=44704422
 
 # Mouse
+https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/
+> https://news.ycombinator.com/item?id=45676376
+> https://www.servethehome.com/nextsilicon-maverick-2-brings-dataflow-and-hbm3e-to-hpc-customers/
+
 https://github.com/madprops/blog/blob/main/mouse.md
 > https://news.ycombinator.com/item?id=34739163
 

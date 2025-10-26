@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://brave.com/blog/unseeable-prompt-injections/
+
 https://news.ycombinator.com/item?id=45113418
 
 https://news.ycombinator.com/item?id=44003741
@@ -115,6 +117,17 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/
+> https://news.ycombinator.com/item?id=45684253
+
+https://pytorch.org/blog/torchcomms/
+
+https://github.com/anthropic-experimental/sandbox-runtime
+
+https://github.com/restyler/awesome-sandbox
+
+https://blog.fal.ai/introducing-flashpack-lightning-fast-model-loading-for-pytorch/
+
 https://pytorch.org/blog/introducing-pytorch-monarch/
 > https://news.ycombinator.com/item?id=45680237
 

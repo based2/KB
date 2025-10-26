@@ -234,6 +234,9 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://kyutai.org/next/codec-explainer
+> https://news.ycombinator.com/item?id=45655161
+
 https://news.ycombinator.com/item?id=45655161
 
 https://news.ycombinator.com/item?id=45450392

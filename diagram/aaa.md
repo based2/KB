@@ -59,6 +59,14 @@ https://workflows.diagrid.io/ Turn any workflow diagram into compilable, running
 > https://news.ycombinator.com/item?id=43987367
 
 #
+https://d2lang.com/tour/intro/
+> https://news.ycombinator.com/item?id=45707539
+
+https://github.com/RohanAdwankar/oxdraw
+
+https://github.com/xyflow/xyflow
+> https://news.ycombinator.com/item?id=45688836
+
 https://news.ycombinator.com/item?id=44954524
 
 https://news.ycombinator.com/item?id=44972238

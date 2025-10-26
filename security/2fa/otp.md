@@ -76,6 +76,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+
+> https://old.reddit.com/r/crypto/comments/1nu2114/2fa_privacy_analysis_w3c_webauthn_fido2_etc/
+
 https://news.ycombinator.com/item?id=45091202
 
 https://news.ycombinator.com/item?id=44724842

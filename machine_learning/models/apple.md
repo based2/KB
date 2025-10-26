@@ -1,3 +1,6 @@
+https://github.com/apple/pico-banana-400k
+> https://news.ycombinator.com/item?id=45708524
+
 https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295
 > https://news.ycombinator.com/item?id=45326388
 

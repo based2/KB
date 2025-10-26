@@ -303,6 +303,8 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://news.ycombinator.com/item?id=45710721
+
 https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/
 > https://news.ycombinator.com/item?id=45312696
 

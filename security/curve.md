@@ -36,6 +36,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 
 https://bada55.cr.yp.to/
 
+# I
+https://news.ycombinator.com/item?id=45669593
+
 # News
 https://arxiv.org/abs/2504.09584 Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve
 > https://news.ycombinator.com/item?id=43708789

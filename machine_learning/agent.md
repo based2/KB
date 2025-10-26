@@ -225,6 +225,8 @@ https://www.dwarkesh.com/p/andrej-karpathy
 
 https://news.ycombinator.com/item?id=45664431
 
+https://news.ycombinator.com/item?id=45706729
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

@@ -272,6 +272,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://news.ycombinator.com/item?id=45711279
+
 https://news.ycombinator.com/item?id=45582758
 
 https://news.ycombinator.com/item?id=43057721

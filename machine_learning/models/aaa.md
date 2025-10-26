@@ -267,6 +267,11 @@ https://simonwillison.net/2025/Aug/9/bay-area-ai/ Simon Willison's Lethal Trifec
 
 https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322
 
+https://news.ycombinator.com/item?id=45683897
+
+https://arxiv.org/abs/2510.02361 Lightweight Pluggable Framework for Accelerating LLMs Inference
+> https://news.ycombinator.com/item?id=45693591
+
 # I
 https://www.synacktiv.com/publications/llm-poisoning-13-lire-les-pensees-dun-transformer
 
@@ -280,6 +285,10 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45710454
+
+https://news.ycombinator.com/item?id=45711786
+
 https://news.ycombinator.com/item?id=45683897
 
 https://news.ycombinator.com/item?id=45690219

@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://www.welivesecurity.com/en/kids-online/minecraft-mods-minefield-risks/
+
 https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/
 
 https://www.synacktiv.com/publications/exploiting-heroes-of-might-and-magic-v

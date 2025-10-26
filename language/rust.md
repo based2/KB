@@ -567,6 +567,13 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://github.com/rustfs/rustfs
+> https://news.ycombinator.com/item?id=45673917
+
+https://cacm.acm.org/research/automatically-translating-c-to-rust/
+
+https://news.ycombinator.com/item?id=45655190
+
 https://news.ycombinator.com/item?id=45693814
 
 https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/

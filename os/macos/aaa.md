@@ -657,11 +657,12 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://news.ycombinator.com/item?id=45654708
+
 https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons
 > https://news.ycombinator.com/item?id=45020685
 
 https://github.com/chadmed/triforce
->
 
 https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html
 > https://news.ycombinator.com/item?id=38215413

@@ -124,6 +124,9 @@ https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/
 
 https://news.ycombinator.com/item?id=45606853
 
+https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
+> https://news.ycombinator.com/item?id=45694856
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

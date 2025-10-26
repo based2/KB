@@ -34,6 +34,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=45639338
+
 https://www.tomshardware.com/tech-industry/amazon-unveils-plans-for-modular-nuclear-plant-in-washington
 
 https://github.com/mijnverbruik/dsmr

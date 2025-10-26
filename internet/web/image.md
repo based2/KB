@@ -107,6 +107,11 @@ https://noisetools.vercel.app/
 
 https://news.ycombinator.com/item?id=44505876 RAW
 
+https://news.ycombinator.com/item?id=45693904 converter
+
+https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html
+> https://news.ycombinator.com/item?id=45698323
+
 # Photography
 https://avidandrew.com/telephoto.html
 > https://news.ycombinator.com/item?id=45184052

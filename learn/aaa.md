@@ -127,6 +127,8 @@ https://news.ycombinator.com/item?id=38150825
 
 https://news.ycombinator.com/item?id=39720388
 
+https://news.ycombinator.com/item?id=45690045
+
 # Phi
 https://news.ycombinator.com/item?id=40956593
 

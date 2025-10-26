@@ -120,6 +120,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://github.com/hagay3/skuber Scala Kubernetes client library
+
 https://isovalent.com/blog/post/demystifying-cni/
 
 https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes
