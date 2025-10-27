@@ -93,6 +93,9 @@ https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 https://news.ycombinator.com/item?id=44985207
 
 # I
+https://baldur.dk/blog/vibecoding-and-the-illusion-of-security.html
+> https://old.reddit.com/r/netsec/comments/1oh9mr4/vibecoding_and_the_illusion_of_security/
+
 https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/
 
 https://news.ycombinator.com/item?id=44976568
@@ -120,6 +123,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html
+> https://news.ycombinator.com/item?id=45723686
+
 https://news.ycombinator.com/item?id=45595760
 
 https://den.dev/blog/github-spec-kit/

@@ -117,6 +117,12 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://www.lotas.ai/erdos AI data science IDE
+> https://news.ycombinator.com/item?id=45722635
+
+https://github.com/johannschopplich/toon Token Oriented Object Notation
+> https://news.ycombinator.com/item?id=45715632
+
 https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/
 > https://news.ycombinator.com/item?id=45684253
 

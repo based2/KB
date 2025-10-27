@@ -514,6 +514,9 @@ https://immunant.com/blog/2020/01/quake3/
 # UI
 https://news.ycombinator.com/item?id=39837045
 
+https://github.com/longbridge/gpui-component
+> https://news.ycombinator.com/item?id=45719004
+
 # OS
 
 ## Linux kernel
@@ -567,6 +570,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://www.ncameron.org/blog/recent-rust-changes/
+
 https://github.com/rustfs/rustfs
 > https://news.ycombinator.com/item?id=45673917
 

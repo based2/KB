@@ -343,6 +343,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html
+> https://news.ycombinator.com/item?id=45701901
+
 https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/
 
 https://www.jamesshore.com/v2/blog/2025/the-accountability-problem

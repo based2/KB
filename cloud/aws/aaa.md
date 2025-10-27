@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://news.ycombinator.com/item?id=45722733
+
 https://aws.amazon.com/message/101925/
 > https://news.ycombinator.com/item?id=45677139
 

@@ -123,6 +123,9 @@ https://www.adversis.io/blogs/the-mcp-security-tool-you-probably-need---mcp-snit
 > https://old.reddit.com/r/netsec/comments/1o6qxcf/mcp_snitch_the_mcp_security_tool_you_probably_need/
 > http://github.com/Adversis/mcp-snitch
 
+https://github.com/cisco-ai-defense/mcp-scanner
+> https://news.ycombinator.com/item?id=45723699
+
 # Incidents
 https://www.koi.ai/blog/command-injection-flaw-in-framelink-figma-mcp-server-puts-nearly-1-million-downloads-at-risk
 

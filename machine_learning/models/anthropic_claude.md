@@ -1,3 +1,6 @@
+https://www.claude.com/claude-for-excel
+> https://news.ycombinator.com/item?id=45722639
+
 https://news.ycombinator.com/item?id=45642911
 
 https://simonwillison.net/2025/Oct/16/claude-skills/

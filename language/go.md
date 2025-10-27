@@ -122,6 +122,8 @@ https://news.ycombinator.com/item?id=41110946
 https://github.com/ebitengine/purego library for calling C functions from Go without Cgo
 > https://news.ycombinator.com/item?id=34763681
 
+https://news.ycombinator.com/item?id=45717724 js
+
 #
 https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
 
@@ -134,6 +136,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing
+> https://news.ycombinator.com/item?id=45644066
+
 https://news.ycombinator.com/item?id=45565793
 
 https://news.ycombinator.com/item?id=45488201

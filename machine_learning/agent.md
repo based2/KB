@@ -227,6 +227,9 @@ https://news.ycombinator.com/item?id=45664431
 
 https://news.ycombinator.com/item?id=45706729
 
+https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html
+> https://news.ycombinator.com/item?id=45723686
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

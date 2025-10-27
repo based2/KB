@@ -69,6 +69,8 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://news.ycombinator.com/item?id=45723558
+
 https://news.ycombinator.com/item?id=44123474
 
 https://aaronson.org/blog/square-theory

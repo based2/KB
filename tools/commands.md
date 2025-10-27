@@ -46,6 +46,8 @@ https://news.ycombinator.com/item?id=41460944
 
 https://news.ycombinator.com/item?id=41654723
 
+https://news.ycombinator.com/item?id=45723554
+
 # Awk
 https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
