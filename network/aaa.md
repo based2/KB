@@ -151,6 +151,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=45700165
+
+https://news.ycombinator.com/item?id=45711598
+
+https://news.ycombinator.com/item?id=45749017
+
 https://news.ycombinator.com/item?id=45681200
 
 https://zenodo.org/records/14179366 Entire Linux Network stack diagram (2024)

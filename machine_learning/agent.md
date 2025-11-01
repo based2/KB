@@ -230,6 +230,13 @@ https://news.ycombinator.com/item?id=45706729
 https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html
 > https://news.ycombinator.com/item?id=45723686
 
+https://github.com/fulcrumresearch/quibbler Critic for your coding agent that learns what you want
+> https://news.ycombinator.com/item?id=45767162
+
+https://0github.com/ heatmap diff viewer for code reviews
+> https://news.ycombinator.com/item?id=45760321
+> https://github.com/manaflow-ai/cmux
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

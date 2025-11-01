@@ -60,7 +60,12 @@ https://news.ycombinator.com/item?id=44877404
 https://www.theinterface.com/
 > https://news.ycombinator.com/item?id=44943986
 
+https://news.ycombinator.com/item?id=45730094
+
 # News
+https://board.fun/
+> https://news.ycombinator.com/item?id=45742456
+
 https://neal.fun/space-elevator/
 > https://news.ycombinator.com/item?id=45640226
 

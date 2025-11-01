@@ -105,6 +105,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://blog.cloudflare.com/bootstrap-mtc/
+> https://news.ycombinator.com/item?id=45740214
+
 https://news.ycombinator.com/item?id=45047897
 
 https://github.com/fabriziosalmi/certmate SSL Certificate Management System

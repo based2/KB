@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=45736457
+
+https://news.ycombinator.com/item?id=45733169
+
 https://github.com/TheRobotStudio/HOPEJr/tree/main/Arm
 
 https://www.robotsgottalents.com/post/asimo

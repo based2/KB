@@ -91,6 +91,8 @@ https://determinate.systems/posts/changelog-determinate-nix-352/
 
 https://basicbitch.software/posts/2025-07-12-NixOS-My-Savior.html
 
+https://news.ycombinator.com/item?id=45772347
+
 #
 https://news.ycombinator.com/item?id=45260741
 
@@ -114,6 +116,10 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://news.ycombinator.com/item?id=45753144
+
+https://news.ycombinator.com/item?id=45755027
+
 https://news.ycombinator.com/item?id=45665513
 
 https://news.ycombinator.com/item?id=45634367

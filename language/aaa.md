@@ -387,6 +387,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=45728170
+
+https://news.ycombinator.com/item?id=45703063
+
+https://news.ycombinator.com/item?id=45767725
+
 https://news.ycombinator.com/item?id=45580347
 
 https://news.ycombinator.com/item?id=45536124

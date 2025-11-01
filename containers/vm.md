@@ -112,5 +112,7 @@ https://github.com/Katakate/k7 Dozens of VMs per node for safe code exec
 https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9
 > https://news.ycombinator.com/item?id=45706866
 
+https://news.ycombinator.com/item?id=45727097
+
 # I
 https://news.ycombinator.com/item?id=43994306

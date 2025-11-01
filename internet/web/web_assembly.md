@@ -89,6 +89,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly
+
 https://news.ycombinator.com/item?id=45362023
 
 https://webassembly.org/news/2025-09-17-wasm-3.0/

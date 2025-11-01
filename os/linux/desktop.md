@@ -97,6 +97,8 @@ https://usebottles.com/
 https://labwc.github.io/ Wlroots-based window-stacking compositor for Wayland, inspired by openbox
 > https://news.ycombinator.com/item?id=42597283
 
+https://news.ycombinator.com/item?id=45736925
+
 # Mac
 https://www.gitclear.com/blog/linux_touchpad_update_january_2023
 > https://news.ycombinator.com/item?id=34300973

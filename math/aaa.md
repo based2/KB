@@ -226,6 +226,12 @@ https://news.ycombinator.com/item?id=45075751
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=45766156
+
+https://news.ycombinator.com/item?id=45702281
+
+https://news.ycombinator.com/item?id=45712620
+
 https://travisdoesmath.github.io/s6/
 
 https://news.ycombinator.com/item?id=45424648

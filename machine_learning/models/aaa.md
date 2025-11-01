@@ -285,6 +285,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://eurollm.io/
+> https://news.ycombinator.com/item?id=45733707
+
 https://news.ycombinator.com/item?id=45710454
 
 https://news.ycombinator.com/item?id=45711786

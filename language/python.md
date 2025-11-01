@@ -387,6 +387,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=45751400
+
+https://news.ycombinator.com/item?id=45703860
+
 https://pythonkoans.substack.com/p/koan-15-the-invisible-ink
 
 https://news.ycombinator.com/item?id=45633311

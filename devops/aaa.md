@@ -608,6 +608,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=45694032
+
+https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/
+
 https://news.ycombinator.com/item?id=45517173
 > https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/
 

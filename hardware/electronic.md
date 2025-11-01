@@ -193,3 +193,6 @@ http://www.cburch.com/logisim/
 
 https://nostarch.com/open-circuits
 > https://news.ycombinator.com/item?id=31942329
+
+https://github.com/itsfrank/MinecraftHDL
+> https://news.ycombinator.com/item?id=45763877

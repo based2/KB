@@ -21,6 +21,7 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://news.ycombinator.com/item?id=45748661
 
 https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
 > https://news.ycombinator.com/item?id=45275626

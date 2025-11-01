@@ -60,6 +60,8 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/
+
 https://dfir.ch/posts/linux_capabilities/
 > https://news.ycombinator.com/item?id=45669142
 

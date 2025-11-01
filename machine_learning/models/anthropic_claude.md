@@ -1,3 +1,9 @@
+https://karashiiro.leaflet.pub/3m4gf7geefs2l ANTML: Anthropic’s Markup Language
+> https://news.ycombinator.com/item?id=45768482
+
+https://www.anthropic.com/research/introspection
+> https://news.ycombinator.com/item?id=45762064
+
 https://www.claude.com/claude-for-excel
 > https://news.ycombinator.com/item?id=45722639
 
@@ -123,6 +129,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://news.ycombinator.com/item?id=45770317
+
 https://news.ycombinator.com/item?id=45668118
 
 https://news.ycombinator.com/item?id=45281139

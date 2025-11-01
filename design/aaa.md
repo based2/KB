@@ -102,6 +102,8 @@ https://ralphammer.com/make-me-think/
 > https://news.ycombinator.com/item?id=30269350
 
 #
+https://news.ycombinator.com/item?id=45761445
+
 https://inspec.design/
 
 https://news.ycombinator.com/item?id=43787676

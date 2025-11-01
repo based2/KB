@@ -197,3 +197,6 @@ https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs
 > https://news.ycombinator.com/item?id=45012414
 
 https://news.ycombinator.com/item?id=45182418
+
+# GC
+https://news.ycombinator.com/item?id=45744395

@@ -384,6 +384,8 @@ https://news.ycombinator.com/item?id=42990036
 
 https://www.dbreunig.com/2025/05/29/a-small-model-just-for-structured-output.html
 
+https://news.ycombinator.com/item?id=45734696
+
 # sec
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
 
@@ -397,6 +399,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=45774571
+
 https://news.ycombinator.com/item?id=45685793
 
 https://news.ycombinator.com/item?id=45696838

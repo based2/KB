@@ -226,6 +226,9 @@ https://s2.dev/blog/dst Deterministic simulation testing for async Rust
 
 https://fly.io/blog/parking-lot-ffffffffffffffff/
 
+https://rfd.shared.oxide.computer/rfd/0609
+> https://news.ycombinator.com/item?id=45774086
+
 ## Actor
 https://news.ycombinator.com/item?id=42030625
 
@@ -570,6 +573,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://github.com/bnjbvr/rouille
+> https://news.ycombinator.com/item?id=45680023
+
 https://www.ncameron.org/blog/recent-rust-changes/
 
 https://github.com/rustfs/rustfs

@@ -1,5 +1,13 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=45757953
+
+https://news.ycombinator.com/item?id=45750425
+
+https://news.ycombinator.com/item?id=45775066
+
+https://news.ycombinator.com/item?id=45771538
+
 https://news.ycombinator.com/item?id=45692241
 
 https://news.ycombinator.com/item?id=45684236

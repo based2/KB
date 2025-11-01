@@ -1,3 +1,6 @@
+https://dramforever.github.io/easyriscv/
+> https://news.ycombinator.com/item?id=45726192
+
 https://github.com/LekKit/RVVM
 > https://news.ycombinator.com/item?id=35009545
 
@@ -15,6 +18,8 @@ https://github.com/chipsalliance/riscv-dv
 https://github.com/libriscv/libriscv
 
 # News
+https://news.ycombinator.com/item?id=45745995
+
 https://news.ycombinator.com/item?id=45726192
 
 https://book.rvemu.app/

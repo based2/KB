@@ -79,6 +79,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://unvanquished.net/living-in-the-future/
+
 https://news.ycombinator.com/item?id=44973227
 
 https://news.ycombinator.com/item?id=44633758

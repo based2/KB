@@ -18,6 +18,8 @@ https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-rive
 > https://news.ycombinator.com/item?id=36744135
 
 # Drone
+https://www.tomshardware.com/tech-industry/koreas-cardboard-drones-address-uav-shortages-and-climate-crisis-inspired-by-the-ukraine-war-drone-inventor-looked-for-the-most-easily-sourced-and-repairable-materials
+
 https://news.ycombinator.com/item?id=45162368
 
 https://techxplore.com/news/2025-07-approach-drone-swarms-autonomously-complex.html

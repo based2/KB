@@ -79,6 +79,8 @@ https://news.ycombinator.com/item?id=39568728
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://news.ycombinator.com/item?id=45731366
+
 https://news.ycombinator.com/item?id=44669998
 
 https://news.ycombinator.com/item?id=44096395  timeout

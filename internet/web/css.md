@@ -156,6 +156,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://www.joshwcomeau.com/animation/linear-timing-function/
+
 https://news.ycombinator.com/item?id=45350207
 
 https://news.ycombinator.com/item?id=45219406

@@ -2,3 +2,7 @@ https://www.iso.org/standard/83757.html  ISO/IEC TS 10866:2024 Information techn
 
 https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html
 > https://news.ycombinator.com/item?id=45538137
+
+https://news.ycombinator.com/item?id=45773974
+
+https://news.ycombinator.com/item?id=45732485

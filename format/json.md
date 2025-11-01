@@ -280,3 +280,5 @@ https://news.ycombinator.com/item?id=44842442
 https://news.ycombinator.com/item?id=45182770
 
 https://news.ycombinator.com/item?id=45324349
+
+https://news.ycombinator.com/item?id=45732552
