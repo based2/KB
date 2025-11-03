@@ -123,6 +123,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=45772558
+
 https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html
 > https://news.ycombinator.com/item?id=45723686
 

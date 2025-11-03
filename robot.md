@@ -137,6 +137,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://www.livescience.com/technology/robotics/humanoid-robots-could-lift-4-000-times-their-own-weight-thanks-to-breakthrough-artificial-muscle
+
 https://news.ycombinator.com/item?id=44926990
 
 https://news.ycombinator.com/item?id=44666353

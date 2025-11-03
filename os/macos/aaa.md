@@ -335,6 +335,8 @@ Then (so menus aren't transparent and unreadable): System Settings > Accessibili
 https://news.ycombinator.com/item?id=45427197
 
 # M4
+https://news.ycombinator.com/item?id=45770304
+
 https://asahilinux.org/docs/platform/feature-support/m4/
 > https://news.ycombinator.com/item?id=45609251
 
@@ -537,6 +539,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://news.ycombinator.com/item?id=45706901
+
 https://news.ycombinator.com/item?id=45556536
 
 https://news.ycombinator.com/item?id=45583787

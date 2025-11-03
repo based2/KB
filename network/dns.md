@@ -191,6 +191,9 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://sdomi.pl/weblog/24-arpa-hacks/
+> https://news.ycombinator.com/item?id=45780490
+
 https://news.ycombinator.com/item?id=45734320
 
 https://torrentfreak.com/isp-blocking-of-no-ips-dynamic-dns-enters-week-2-251019/

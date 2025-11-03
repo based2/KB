@@ -179,6 +179,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://togetherlondon.com/insights/active-listening-swiss-army-knife
+> https://news.ycombinator.com/item?id=45719829
+
 https://news.ycombinator.com/item?id=45658019
 
 https://news.ycombinator.com/item?id=45222695

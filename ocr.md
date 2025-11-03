@@ -121,6 +121,9 @@ https://news.ycombinator.com/item?id=45640594
 https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped
 > https://news.ycombinator.com/item?id=45646559
 
+https://github.com/deepseek-ai/DeepSeek-OCR
+> https://news.ycombinator.com/item?id=45640594
+
 # News
 https://news.ycombinator.com/item?id=45489881
 

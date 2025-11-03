@@ -1,3 +1,8 @@
+https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2
+
+https://assets.ctfassets.net/2h488pz7kgfv/1kg7sgoDPcUOpZKNxVQ4XL/61433a72bf8ed26ea00bb56d3c814ca5/2025_Annual_Report__1_-compressed.pdf
+> https://it.slashdot.org/story/25/11/01/2047217/employees-are-the-new-hackers-1password-warns-ai-use-is-breaking-corporate-security
+
 https://news.ycombinator.com/item?id=45768378
 
 https://news.ycombinator.com/item?id=45760328

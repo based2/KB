@@ -285,6 +285,14 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+> https://news.ycombinator.com/item?id=45789602
+
+https://technicalwriting.dev/embeddings/arithmetic/index.html
+
+https://manifestai.com/articles/release-brumby-14b/
+> https://news.ycombinator.com/item?id=45774523
+
 https://eurollm.io/
 > https://news.ycombinator.com/item?id=45733707
 

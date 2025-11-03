@@ -118,6 +118,8 @@ https://theori.io/blog/exploring-traces-63950
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://news.ycombinator.com/item?id=45781298 SQLite concurrency and why you should care about it
+
 https://news.ycombinator.com/item?id=45132498
 
 https://news.ycombinator.com/item?id=44835308

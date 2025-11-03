@@ -14,3 +14,5 @@ https://github.com/batfish/batfish
 > https://news.ycombinator.com/item?id=40612934
 
 https://socket.dev/blog/knip-hits-500-releases
+
+https://www.theregister.com/2025/10/31/openai_aardvark_agentic_security/

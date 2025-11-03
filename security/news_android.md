@@ -23,6 +23,12 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://enaix.github.io/2025/10/30/developer-verification.html
+> https://news.ycombinator.com/item?id=45776269
+
+https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/
+> https://news.ycombinator.com/item?id=45766501
+
 https://www.synacktiv.com/publications/exploring-grapheneos-secure-allocator-hardened-malloc
 
 https://www.pixnapping.com/

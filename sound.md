@@ -41,6 +41,8 @@ https://mofi.loud.red/
 https://news.ycombinator.com/item?id=44476115
 
 # News
+https://news.ycombinator.com/item?id=45762259
+
 https://news.ycombinator.com/item?id=45674470
 
 https://merlin.allaboutbirds.org/

@@ -1,3 +1,14 @@
+https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/
+
+https://arxiv.org/abs/2510.18234
+
+https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf
+
+https://github.com/deepseek-ai/DeepSeek-OCR
+> https://news.ycombinator.com/item?id=45640594
+
+https://news.ycombinator.com/item?id=45751115
+
 https://news.ycombinator.com/item?id=45412098
 
 https://www.theregister.com/2025/09/19/deepseek_cost_train/

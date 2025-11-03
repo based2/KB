@@ -116,6 +116,12 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://www.wiz.io/blog/supply-chain-risk-in-vscode-extension-marketplaces
+
+https://www.aikido.dev/blog/the-return-of-the-invisible-threat-hidden-pua-unicode-hits-github-repositorties
+
+https://garnix.io/blog/fix-your-fods
+
 https://news.ycombinator.com/item?id=45753144
 
 https://news.ycombinator.com/item?id=45755027

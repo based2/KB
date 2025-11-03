@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://old.reddit.com/r/programming/comments/1oie1nq/introducing_arkregex_a_drop_in_replacement_for/
+
 https://news.ycombinator.com/item?id=44633024
 
 https://news.ycombinator.com/item?id=44572273

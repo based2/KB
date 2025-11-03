@@ -58,6 +58,9 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 > https://news.ycombinator.com/item?id=33107108
 
 #
+https://retrocmp.de/fdd/diskette/diskette.htm
+> https://news.ycombinator.com/item?id=45732160
+
 https://www.masswerk.at/keypunch/
 > https://news.ycombinator.com/item?id=43294751
 

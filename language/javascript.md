@@ -714,6 +714,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://www.crockford.com/pronto.html Functional Library for Eventuality and Concurrency
+
 https://news.ycombinator.com/item?id=45693651
 
 https://news.ycombinator.com/item?id=45224542

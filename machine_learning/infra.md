@@ -108,6 +108,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://it.slashdot.org/story/25/11/01/054213/security-holes-found-in-openais-chatgpt-atlas-browser-and-perplexitys-comet
+
 https://brave.com/blog/unseeable-prompt-injections/
 
 https://news.ycombinator.com/item?id=45113418
@@ -117,6 +119,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/Pipelex/pipelex Declarative language for repeatable AI workflows
+> https://news.ycombinator.com/item?id=45734865
+
 https://www.lotas.ai/erdos AI data science IDE
 > https://news.ycombinator.com/item?id=45722635
 

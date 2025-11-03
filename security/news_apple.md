@@ -24,6 +24,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://news.ycombinator.com/item?id=45755821
+
 https://objective-see.org/blog/blog_0x81.html
 
 https://news.ycombinator.com/item?id=45700946

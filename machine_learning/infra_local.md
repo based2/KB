@@ -1,3 +1,6 @@
+https://blog.mozilla.ai/llamafile-returns/
+> https://news.ycombinator.com/item?id=45753850
+
 https://news.ycombinator.com/item?id=45771870
 
 https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4

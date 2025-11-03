@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://news.ycombinator.com/item?id=45724043
+
 https://news.ycombinator.com/item?id=44978140
 
 http://a64.in/posts/learning-basic-electronics-by-building-fireflies/

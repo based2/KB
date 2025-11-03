@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/10/29/major_telco_networking_provider_compromised/
+
 https://www.theregister.com/2025/09/26/brits_warned_as_illegal_robocallers/?td=rt-3a
 
 https://www.theregister.com/2025/09/21/optus_emergency_call_incident/
@@ -358,6 +360,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://github.com/alexadam/fuse-box-labels
+> https://news.ycombinator.com/item?id=45771871
+
 https://news.ycombinator.com/item?id=45734486
 
 https://news.ycombinator.com/item?id=45680547

@@ -237,10 +237,15 @@ https://0github.com/ heatmap diff viewer for code reviews
 > https://news.ycombinator.com/item?id=45760321
 > https://github.com/manaflow-ai/cmux
 
+https://opencode.ai/docs/
+> https://github.com/sst/opencode
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 
 https://news.ycombinator.com/item?id=45496533
+
+https://ai.meta.com/blog/practical-ai-agent-security/
 
 # I
 https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/

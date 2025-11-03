@@ -21,6 +21,11 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://www.theguardian.com/business/2025/oct/29/europe-carmakers-china-computer-chip
+
+https://eaton-works.com/2025/10/28/tata-motors-hack/
+> https://news.ycombinator.com/item?id=45741569
+
 https://news.ycombinator.com/item?id=45776317
 
 https://old.reddit.com/r/netsec/comments/1o5na8l/def_con_33_how_i_hacked_over_1000_car_dealerships/

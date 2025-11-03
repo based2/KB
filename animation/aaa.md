@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://blog.shashanktomar.com/posts/strange-attractors
+> https://news.ycombinator.com/item?id=45777810
+
 https://chiuhans111.github.io/fluidglass/
 > https://news.ycombinator.com/item?id=45422147
 

@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.msn.com/en-us/news/politics/u-s-agencies-back-banning-top-selling-home-routers-on-security-grounds/ar-AA1Pubbt
+
 https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/
 
 https://www.usenabla.com/blog/emergency-scanning-cisa-endpoint

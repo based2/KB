@@ -1,5 +1,7 @@
 Generative Pre-trained Transformer
 
+https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code
+
 https://news.ycombinator.com/item?id=45757953
 
 https://news.ycombinator.com/item?id=45750425

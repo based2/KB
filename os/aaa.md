@@ -34,6 +34,9 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://github.com/charlotte-os/Catten
+> https://news.ycombinator.com/item?id=45781397
+
 https://news.ycombinator.com/item?id=45236479
 
 https://news.ycombinator.com/item?id=45240682

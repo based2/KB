@@ -13,6 +13,8 @@ https://f-droid.org/
 https://guardianproject.info/
 
 #
+https://www.pcmag.com/news/keep-android-open-campaign-pushes-back-on-googles-sideloading-restrictions
+
 https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/
 > https://news.ycombinator.com/item?id=45585869
 

@@ -419,6 +419,8 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://news.ycombinator.com/item?id=45784596
+
 https://news.ycombinator.com/item?id=45626910
 
 https://rushter.com/blog/helix-editor/

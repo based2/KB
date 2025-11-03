@@ -5,3 +5,6 @@ http://mybatis.org/redis-cache/
 
 http://mybatis.org/memcached-cache/
 
+https://github.com/malandrakisgeo/mnemosyne Value-pool based caching for Java applications
+> https://news.ycombinator.com/item?id=45675323
+

@@ -51,6 +51,8 @@ https://bugs.chromium.org/p/project-zero/issues/detail?id=2254
 https://blog.hartwork.org/posts/expat-2-4-4-released/ sec
 
 #
+https://news.ycombinator.com/item?id=45779261
+
 https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/
 > https://news.ycombinator.com/item?id=45026013
 

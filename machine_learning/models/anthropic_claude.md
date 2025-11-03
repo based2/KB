@@ -1,3 +1,8 @@
+https://blog.sshh.io/p/how-i-use-every-claude-code-feature
+> https://news.ycombinator.com/item?id=45786738
+
+https://words.filippo.io/claude-debugging/
+
 https://karashiiro.leaflet.pub/3m4gf7geefs2l ANTML: Anthropic’s Markup Language
 > https://news.ycombinator.com/item?id=45768482
 

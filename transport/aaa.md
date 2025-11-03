@@ -4,6 +4,8 @@ https://www.simutrans.com/en/
 https://news.ycombinator.com/item?id=39323601
 
 #
+https://news.ycombinator.com/item?id=45719662
+
 https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images
 > https://news.ycombinator.com/item?id=45706765
 

@@ -30,3 +30,5 @@ https://asimovaddendum.substack.com/p/the-memory-walled-garden
 
 https://mbleigh.dev/posts/context-engineering-with-links/
 > https://news.ycombinator.com/item?id=45682164
+
+https://news.ycombinator.com/item?id=45788842

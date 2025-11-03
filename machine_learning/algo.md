@@ -6,3 +6,6 @@ https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html
 
 https://www.artfintel.com/p/efficient-llm-inference
 > https://news.ycombinator.com/item?id=38866484
+
+https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
+> https://news.ycombinator.com/item?id=45787993

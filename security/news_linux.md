@@ -60,6 +60,9 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://lists.x.org/archives/xorg-announce/2025-October/003635.html
+> https://news.ycombinator.com/item?id=45790015
+
 https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/
 
 https://dfir.ch/posts/linux_capabilities/

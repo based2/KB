@@ -390,6 +390,8 @@ https://arxiv.org/abs/2412.15042 Compiling C to Safe Rust, Formalized
 
 https://news.ycombinator.com/item?id=43991221
 
+https://news.ycombinator.com/item?id=45695483
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799
