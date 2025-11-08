@@ -1,3 +1,12 @@
+https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/
+
+https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/
+
+https://simonwillison.net/2025/Oct/10/superpowers/
+
+https://transformer-circuits.pub/2025/october-update/index.html#svg-cross-modal
+> https://news.ycombinator.com/item?id=45702993
+
 https://blog.sshh.io/p/how-i-use-every-claude-code-feature
 > https://news.ycombinator.com/item?id=45786738
 
@@ -134,6 +143,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://news.ycombinator.com/item?id=45846769
+
 https://news.ycombinator.com/item?id=45770317
 
 https://news.ycombinator.com/item?id=45668118

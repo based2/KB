@@ -104,6 +104,9 @@ https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templa
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/
+> https://news.ycombinator.com/item?id=45836466
+
 https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html
 
 https://sensepost.com/blog/2025/depscanner-find-orphaned-packages-before-the-bad-guys-do/

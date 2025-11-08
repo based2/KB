@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45848504
+
 https://proton.me/blog/lumo-ai
 > https://news.ycombinator.com/item?id=44657556
 

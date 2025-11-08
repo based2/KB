@@ -129,6 +129,9 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/?td=keepreading
+> https://www.surveillancewatch.io/
+
 https://news.ycombinator.com/item?id=45725072
 
 https://news.ycombinator.com/item?id=45667866

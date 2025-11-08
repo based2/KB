@@ -59,6 +59,8 @@ https://news.ycombinator.com/item?id=45501326
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://news.ycombinator.com/item?id=45781965
+
 https://news.ycombinator.com/item?id=44796526
 
 https://www.hathitrust.org/

@@ -75,6 +75,8 @@ https://github.com/DebarghaG/proofofthought LLM-based reasoning using Z3 theorem
 > https://news.ycombinator.com/item?id=45475529
 
 #
+https://news.ycombinator.com/item?id=45818414
+
 https://jerome-guyot.github.io/blog/2025-18-10-%20From%20Assumptions%20to%20Isolation%20The%20BGKW%20Shift/ From Assumptions to Isolation : The BGKW Shift
 
 https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1

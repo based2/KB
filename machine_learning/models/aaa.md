@@ -272,6 +272,12 @@ https://news.ycombinator.com/item?id=45683897
 https://arxiv.org/abs/2510.02361 Lightweight Pluggable Framework for Accelerating LLMs Inference
 > https://news.ycombinator.com/item?id=45693591
 
+https://arxiv.org/abs/2510.24256 From Memorization to Reasoning in the Spectrum of Loss Curvature
+> https://news.ycombinator.com/item?id=45845800
+
+https://arxiv.org/abs/2510.18147
+> https://news.ycombinator.com/item?id=45838564
+
 # I
 https://www.synacktiv.com/publications/llm-poisoning-13-lire-les-pensees-dun-transformer
 
@@ -285,6 +291,21 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://openreview.net/pdf?id=mdA5lVvNcU https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
+> https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/
+> > https://news.ycombinator.com/item?id=45856804
+> > https://arcprize.org/blog/arc-prize-verified-program
+
+https://marin.community/blog/2025/05/19/announcement/
+
+https://github.com/eamag/MMU-RAG-competition
+
+https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+> https://news.ycombinator.com/item?id=45789602
+
+https://jessylin.com/2025/10/20/continual-learning/
+> https://news.ycombinator.com/item?id=45701810
+
 https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
 > https://news.ycombinator.com/item?id=45789602
 

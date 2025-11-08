@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+> https://news.ycombinator.com/item?id=45827190
+
 https://news.ycombinator.com/item?id=45790867
 
 https://hardware.slashdot.org/story/25/10/31/2340238/falling-panel-prices-lead-to-global-solar-boom-except-for-the-us

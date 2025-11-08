@@ -47,6 +47,8 @@ https://cyber.dabamos.de/88x31/
 https://news.ycombinator.com/item?id=34639924
 
 # News
+https://github.com/umami-software/umami/releases/tag/v3.0.0
+
 https://dub.sh/
 > https://news.ycombinator.com/item?id=32939407
 

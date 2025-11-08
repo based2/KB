@@ -343,6 +343,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://martinfowler.com/articles/llm-learning-loop.html
+> https://news.ycombinator.com/item?id=45841056
+
 https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html
 > https://news.ycombinator.com/item?id=45701901
 

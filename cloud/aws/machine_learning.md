@@ -1,3 +1,5 @@
+https://www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/
+
 https://bigscience.huggingface.co/blog/bloom
 > https://medium.com/mlearning-ai/bloom-176b-how-to-run-a-real-large-language-model-in-your-own-cloud-e5f6bdfb3bb1
 

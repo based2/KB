@@ -188,6 +188,10 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://fsfe.org/news/2025/news-20251105-01.en.html
+> https://news.ycombinator.com/item?id=45854441
+> > https://donatstudios.com/mac-terminal-run-unsigned-binaries
+
 https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
 > https://news.ycombinator.com/item?id=45294440
 

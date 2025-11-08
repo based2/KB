@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45842683
+
 https://www.hp.com/us-en/printers/site-print/layout-robot.html
 > https://news.ycombinator.com/item?id=45672235
 

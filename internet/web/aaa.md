@@ -216,6 +216,10 @@ https://github.com/Demindiro/agreper
 https://news.ycombinator.com/item?id=43852096
 
 # News
+https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/
+
+https://addyosmani.com/blog/core-web-vitals/
+
 https://news.ycombinator.com/item?id=44124360
 
 https://gregtwemlow.medium.com/google-has-declared-the-internet-is-dead-long-live-llms-742473b383a4

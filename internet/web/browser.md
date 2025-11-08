@@ -66,6 +66,9 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://dillo-browser.org/
+> https://news.ycombinator.com/item?id=45826266
+
 https://news.ycombinator.com/item?id=45696752
 
 https://news.ycombinator.com/item?id=45666497

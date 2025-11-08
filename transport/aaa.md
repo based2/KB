@@ -3,7 +3,15 @@ https://www.simutrans.com/en/
 
 https://news.ycombinator.com/item?id=39323601
 
+# I
+https://news.ycombinator.com/item?id=45824658
+
 #
+https://news.ycombinator.com/item?id=45797242
+
+https://www.caricecars.com/
+> https://news.ycombinator.com/item?id=45823186
+
 https://news.ycombinator.com/item?id=45719662
 
 https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images

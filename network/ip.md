@@ -141,6 +141,10 @@ https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://sunshowers.io/posts/socketaddrv6-not-roundtrip/
+> https://news.ycombinator.com/item?id=45813719
+> > https://idea.popcount.org/2019-12-06-addressing/
+
 https://news.ycombinator.com/item?id=45156826
 
 https://github.com/christophetd/CloudFlair

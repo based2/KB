@@ -257,6 +257,9 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # News
+https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/
+> https://news.ycombinator.com/item?id=45680602
+
 https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/
 > https://news.ycombinator.com/item?id=45690679
 

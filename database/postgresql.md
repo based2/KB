@@ -245,6 +245,9 @@ https://news.ycombinator.com/item?id=43989497
 
 https://news.ycombinator.com/item?id=45224028
 
+https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html
+> https://news.ycombinator.com/item?id=45788086
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 

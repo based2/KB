@@ -89,10 +89,16 @@ https://news.ycombinator.com/item?id=39163181
 
 https://news.ycombinator.com/item?id=43330782
 
+https://inventingthefuture.ghost.io/mr-tiff/
+> https://news.ycombinator.com/item?id=45816853
+
 # ML
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://landaire.net/a-file-format-uncracked-for-20-years/
+> https://news.ycombinator.com/item?id=45842851
+
 https://news.ycombinator.com/item?id=45610497
 
 https://news.ycombinator.com/item?id=44976957

@@ -35,6 +35,8 @@ https://github.com/flipt-io/reverst go
 https://openreplay.com/
 
 # News
+https://news.ycombinator.com/item?id=45795511
+
 https://news.ycombinator.com/item?id=44809166
 
 https://news.ycombinator.com/item?id=44526015

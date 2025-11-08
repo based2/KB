@@ -123,6 +123,16 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.cerebras.ai/code
+> https://news.ycombinator.com/item?id=45852751
+
+https://thenewstack.io/why-ai-is-generating-lowest-common-denominator-react-code/
+
+https://www.cladlabs.ai/blog/introducing-clad-labs
+> https://news.ycombinator.com/item?id=45848390
+
+https://news.ycombinator.com/item?id=45749833
+
 https://news.ycombinator.com/item?id=45772558
 
 https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html

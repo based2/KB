@@ -119,6 +119,23 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://thinkingmachines.ai/blog/announcing-tinker/
+
+https://github.com/matisojka/qqqa
+> https://news.ycombinator.com/item?id=45833811
+
+https://pytorch.org/blog/helion/
+> https://news.ycombinator.com/item?id=45788194
+
+https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html
+> https://news.ycombinator.com/item?id=45843948
+
+https://github.com/ServiceStack/llms
+> https://news.ycombinator.com/item?id=45798193
+
+https://radiant.computer/
+> https://news.ycombinator.com/item?id=45822559
+
 https://github.com/Pipelex/pipelex Declarative language for repeatable AI workflows
 > https://news.ycombinator.com/item?id=45734865
 

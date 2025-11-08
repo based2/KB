@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/
+
 https://www.theregister.com/2025/10/29/major_telco_networking_provider_compromised/
 
 https://www.theregister.com/2025/09/26/brits_warned_as_illegal_robocallers/?td=rt-3a
@@ -360,6 +362,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/
+> https://news.ycombinator.com/item?id=45848484
+
 https://github.com/alexadam/fuse-box-labels
 > https://news.ycombinator.com/item?id=45771871
 

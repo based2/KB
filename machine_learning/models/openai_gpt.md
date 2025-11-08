@@ -1,5 +1,11 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=45856883
+
+https://openai.com/index/gdpval/
+
+https://news.ycombinator.com/item?id=45799211
+
 https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code
 
 https://news.ycombinator.com/item?id=45757953
@@ -135,6 +141,9 @@ https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models
 > https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
 
 # I
+https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/
+> https://news.ycombinator.com/item?id=45853995
+
 https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-with-something-went-wrong-error/
 
 https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-API-Prompt-Injection-Vulnerability.md

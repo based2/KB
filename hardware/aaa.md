@@ -128,6 +128,13 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/
+> https://news.ycombinator.com/item?id=45855933
+
+https://news.ycombinator.com/item?id=45789431
+
+https://news.ycombinator.com/item?id=45812403
+
 https://news.ycombinator.com/item?id=45767916
 
 https://news.ycombinator.com/item?id=45654512

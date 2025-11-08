@@ -262,6 +262,8 @@ https://news.ycombinator.com/item?id=44825146
 # concurrencyngs
 
 # News
+https://news.ycombinator.com/item?id=45854862
+
 https://news.ycombinator.com/item?id=45752897
 
 http://erlang.org/download/armstrong_thesis_2003.pdf Making reliable distributed systems in the presence of software errors (2003)

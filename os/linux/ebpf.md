@@ -53,6 +53,9 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://loopholelabs.io/blog/xdp-for-egress-traffic
+> https://news.ycombinator.com/item?id=45812756
+
 https://news.ycombinator.com/item?id=44922859
 
 https://news.ycombinator.com/item?id=44722518

@@ -222,6 +222,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://jfrog.com/blog/CVE-2025-11953-critical-react-native-community-cli-vulnerability/
+
 https://news.ycombinator.com/item?id=45702558
 
 https://reshaped.so/blog/reshaped-oss

@@ -27,6 +27,9 @@ https://input.djr.com/preview/?size=14&language=python&theme=solarized-dark&fami
 https://simonhearne.com/2021/layout-shifts-webfonts/
 > https://news.ycombinator.com/item?id=30129571
 
+# ML
+https://www.lukew.com/ff/entry.asp?2132
+
 #
 https://news.ycombinator.com/item?id=44103131
 

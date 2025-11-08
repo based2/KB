@@ -643,6 +643,13 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45818483
+
+https://stackoverflow.blog/2025/11/05/the-ai-ick/
+> https://news.ycombinator.com/item?id=45823530
+
+https://news.ycombinator.com/item?id=45823290
+
 https://news.ycombinator.com/item?id=45605223
 
 https://pytorch.org/blog/helion/ High-Level DSL for Performant and Portable ML Kernels
@@ -1906,6 +1913,7 @@ https://semiengineering.com/will-floating-point-8-solve-ai-ml-overhead/
 
 https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
 > https://news.ycombinator.com/item?id=34399142
+> https://news.ycombinator.com/item?id=45808288
 
 https://www.bnl.gov/newsroom/news.php?a=120993
 

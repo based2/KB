@@ -25,6 +25,9 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://stategraph.dev/blog/why-we-chose-ocaml
+> https://news.ycombinator.com/item?id=45845958
+
 https://ryan.freumh.org/eon.html Effects-Based OCaml Nameserver
 > https://news.ycombinator.com/item?id=45547891
 

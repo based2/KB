@@ -240,6 +240,14 @@ https://0github.com/ heatmap diff viewer for code reviews
 https://opencode.ai/docs/
 > https://github.com/sst/opencode
 
+https://news.ycombinator.com/item?id=45795186
+
+https://news.ycombinator.com/item?id=45840088
+
+https://news.ycombinator.com/item?id=45837067
+
+https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 
@@ -248,6 +256,9 @@ https://news.ycombinator.com/item?id=45496533
 https://ai.meta.com/blog/practical-ai-agent-security/
 
 # I
+https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
+> https://news.ycombinator.com/item?id=45794245
+
 https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/
 
 https://www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/

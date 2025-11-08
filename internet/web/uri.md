@@ -10,6 +10,9 @@ https://social.lol/@robb/111704215593992932
 > https://news.ycombinator.com/item?id=38880713
 
 #
+https://alfy.blog/2025/10/31/your-url-is-your-state.html
+> https://news.ycombinator.com/item?id=45789474
+
 https://xania.org/202505/compiler-explorer-urls-forever
 > https://news.ycombinator.com/item?id=44117722
 

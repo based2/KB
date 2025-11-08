@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://terra.layoutit.com/#eJxVUkmO3DAM!JACUNYuXzLpxiAPyCE5WvIy506ALOjHR0XbavpiWzJZrCoW6U!udk8xqpUy6awHY51XNPQvc3wFRfb8jIpcPj6TIt-!J0VBHuLrUBQledIkCrV-HValh8vJXE72chI0tM94j-7d3-2berCeAHYFRCrmV0wqGFCAWwBX0Dn1Np2b-K0fB6AwiQXFC4rX!reZQ3ndxmDc-y2oD565wD6unkFwRkvtJRolESUJ5k4LfC2gWUFzBs1l3cCxonPunY2KQ1HYcV-QBpAJkBMgS-tumBWYMzAXmD1DeoWQGdQYuyxjGmyyRv0kyI5oT2iesOGCWbWXaIitGF363YA23hhzeuGxMwtmzuMXCv7tpn4T7grqpn6HyKHONVfPuxa-5mI!GswIoBZBLYEaB62Md0q3aNWK8CZQMLk-aZCZ5nCesTwT2bPYY9gjeKZvO4O3HZk7wibzFbIHUgBKAEJAk0elg79OxEgPe4w4tBv-biJGTZLmGbpdi50AqEnwIB7kJuBI4-XlJnRmrqtcgha-Eto8Spz037aRwmuf2SYvzW364pOM9BWGHnYebp5eHlYeRu427h7uFkoHI4yizK47FLHNFvZYaY-HPdKY9h9L5U16aYwGmBEKCXcOd1bKDJl5uydZKSu2QbjXYEv7S-8v7BAweFp-On6Cm9SUMlvBy2T5rJ7FG1QbKSygWegKmV21113b6w6NFBLb8boq9!mP9n-1!0fp8d3T44d1v76Wb!8BHBZX3A
+> https://news.ycombinator.com/item?id=45811093
+
 https://blog.shashanktomar.com/posts/strange-attractors
 > https://news.ycombinator.com/item?id=45777810
 

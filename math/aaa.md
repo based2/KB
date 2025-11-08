@@ -222,10 +222,27 @@ https://news.ycombinator.com/item?id=43985489
 
 https://news.ycombinator.com/item?id=45075751
 
+https://transformer-circuits.pub/2025/linebreaks/index.html
+> https://news.ycombinator.com/item?id=45743105
+
 # I
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=45833162
+
+https://news.ycombinator.com/item?id=45798741
+
+https://news.ycombinator.com/item?id=45798746
+
+https://news.ycombinator.com/item?id=45746063
+
+https://www.quantamagazine.org/what-is-a-manifold-20251103/
+> https://news.ycombinator.com/item?id=45809193
+
+https://gods.art/articles/equation_shadows.html
+> https://news.ycombinator.com/item?id=45823141
+
 https://news.ycombinator.com/item?id=45766156
 
 https://news.ycombinator.com/item?id=45702281

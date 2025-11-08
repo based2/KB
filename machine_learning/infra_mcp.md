@@ -3,6 +3,8 @@ https://modelcontextprotocol.io/introduction
 https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
 
 #
+https://github.com/jasonjmcghee/WebMCP
+
 https://news.ycombinator.com/item?id=44747229
 
 https://news.ycombinator.com/item?id=44671601
@@ -109,6 +111,8 @@ It supports both local and remote deployment, with customizable parameters for m
 Output is structured in JSON for in-depth analysis, making it useful for performance tuning and integration testing.
 --
 
+https://news.ycombinator.com/item?id=45818300
+
 # Tests
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 
@@ -140,6 +144,8 @@ https://verialabs.com/blog/from-mcp-to-shell/
 https://www.koi.security/blog/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape
 
 https://blog.gitguardian.com/a-look-into-the-secrets-of-mcp/
+
+https://jfrog.com/blog/2025-6514-critical-mcp-remote-rce-vulnerability/
 
 https://news.ycombinator.com/item?id=44846871
 

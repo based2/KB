@@ -126,6 +126,10 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://github.com/jagenjo/litegraph.js
+
+https://news.ycombinator.com/item?id=45798838
+
 https://news.ycombinator.com/item?id=44975313
 
 https://arxiv.org/abs/2504.17033 Breaking the Sorting Barrier for Directed Single-Source Shortest Paths

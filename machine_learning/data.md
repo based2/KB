@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=41403768
 
 https://arxiv.org/abs/2506.08300
 
+https://www.robots.ox.ac.uk/~vgg/data/flowers/
+
 # Watermark
 https://deepmind.google/science/synthid/
 > https://news.ycombinator.com/item?id=45071677

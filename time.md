@@ -295,6 +295,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://www.ctnicholas.dev/articles/dark-mode-by-sunlight
+
 https://news.ycombinator.com/item?id=45552358
 
 https://timesketch.org/ Using sketches you and your collaborators can easily organize your timelines and analyze them all at the same time. Add meaning to your raw data with rich annotations, comments, tags and stars.

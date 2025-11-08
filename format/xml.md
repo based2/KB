@@ -83,3 +83,5 @@ https://borretti.me/article/brief-defense-of-xml
 
 https://invisiblexml.org/ language for describing the implicit structure of data
 > https://news.ycombinator.com/item?id=32120230
+
+https://news.ycombinator.com/item?id=45823059

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=45845586
+
 https://best.openssf.org/developers.html
 
 https://third-bit.com/2025/09/18/time-spent-on-hardening/

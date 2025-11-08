@@ -387,6 +387,15 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf
+
+https://github.com/nynrathod/doolang
+> https://news.ycombinator.com/item?id=45797044
+
+https://news.ycombinator.com/item?id=45761594
+
+https://news.ycombinator.com/item?id=45807993
+
 https://news.ycombinator.com/item?id=45728170
 
 https://news.ycombinator.com/item?id=45703063

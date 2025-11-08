@@ -1,5 +1,8 @@
 Moonshot; Chinese: 月之暗面; pinyin: Yuè Zhī Ànmiàn) is an artificial intelligence (AI) company based in Beijing, China
 
+https://moonshotai.github.io/Kimi-K2/thinking.html
+> https://news.ycombinator.com/item?id=45836070
+
 https://github.com/MoonshotAI/Kimi-Linear Expressive, Efficient Attention Architecture
 > https://news.ycombinator.com/item?id=45766937
 

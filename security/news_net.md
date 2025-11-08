@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/
+
 https://www.msn.com/en-us/news/politics/u-s-agencies-back-banning-top-selling-home-routers-on-security-grounds/ar-AA1Pubbt
 
 https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/
@@ -201,9 +203,7 @@ https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-four-c
 https://sec.okta.com/blockanonymizers
 
 https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices
->
 > https://news.ycombinator.com/item?id=40185986
-
 
 https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/
 

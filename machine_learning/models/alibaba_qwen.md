@@ -1,3 +1,5 @@
+https://huggingface.co/inclusionAI/Ling-1T
+
 https://github.com/Alibaba-NLP/DeepResearch
 
 https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list

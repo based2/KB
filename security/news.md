@@ -1,3 +1,14 @@
+https://owasp.org/Top10/2025/0x00_2025-Introduction/
+
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-routing-gpt-4o-to-safety-models-when-it-detects-harmful-activities/
+
+https://news.ycombinator.com/item?id=45839901
+
+https://news.ycombinator.com/item?id=45845772
+
+https://cr.yp.to/2025/fil-c.html
+> https://news.ycombinator.com/item?id=45788040
+
 https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2
 
 https://assets.ctfassets.net/2h488pz7kgfv/1kg7sgoDPcUOpZKNxVQ4XL/61433a72bf8ed26ea00bb56d3c814ca5/2025_Annual_Report__1_-compressed.pdf

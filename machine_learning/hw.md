@@ -6,6 +6,12 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/
+
+https://www.theregister.com/2025/11/06/googles_ironwood_tpus_ai/
+
+https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/
+
 https://www.theregister.com/2025/10/29/aws_rainier_ai_megacluster/
 
 https://news.ycombinator.com/item?id=45750995

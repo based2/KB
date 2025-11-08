@@ -1,3 +1,6 @@
+https://api-docs.deepseek.com/news/news250929
+> https://arstechnica.com/ai/2025/09/deepseek-tests-sparse-attention-to-slash-ai-processing-costs/
+
 https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/
 
 https://arxiv.org/abs/2510.18234

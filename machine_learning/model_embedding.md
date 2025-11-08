@@ -16,5 +16,7 @@ https://arxiv.org/abs/2508.21038 The Theoretical Limitations of Embedding-Based 
 
 https://arxiv.org/abs/2508.10003
 
+https://news.ycombinator.com/item?id=45775988
+
 # I
 https://news.ycombinator.com/item?id=44185158

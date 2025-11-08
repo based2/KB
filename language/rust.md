@@ -575,6 +575,15 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality
+> https://news.ycombinator.com/item?id=45789143
+
+https://github.com/Athe-kunal/intervaltree_rs
+> https://news.ycombinator.com/item?id=45788385
+
+https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d
+> https://news.ycombinator.com/item?id=45826348
+
 https://github.com/bnjbvr/rouille
 > https://news.ycombinator.com/item?id=45680023
 

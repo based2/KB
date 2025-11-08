@@ -30,3 +30,5 @@ ttps://cursor.com/cli
 
 https://instavm.io/blog/building-my-offline-ai-workspace
 > https://news.ycombinator.com/item?id=44840013
+
+https://petewarden.com/2025/10/16/why-does-a-local-ai-voice-agent-running-on-a-super-cheap-soc-matter/

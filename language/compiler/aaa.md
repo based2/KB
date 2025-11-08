@@ -104,6 +104,8 @@ https://www.phoronix.com/news/LLVM-PGO-Windows-Build ~22% Faster Builds
 
 https://news.ycombinator.com/item?id=45084111
 
+https://myhsu.xyz/llvm-machine-scheduler-2/
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -162,6 +164,9 @@ https://news.ycombinator.com/item?id=45560863
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs
+> https://news.ycombinator.com/item?id=45718002
+
 https://news.ycombinator.com/item?id=45740688
 
 https://news.ycombinator.com/item?id=45589786

@@ -116,6 +116,12 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://socket.dev/blog/9-malicious-nuget-packages-deliver-time-delayed-destructive-payloads
+
+https://jfrog.com/blog/CVE-2025-11953-critical-react-native-community-cli-vulnerability/
+
+https://news.ycombinator.com/item?id=45813148
+
 https://www.wiz.io/blog/supply-chain-risk-in-vscode-extension-marketplaces
 
 https://www.aikido.dev/blog/the-return-of-the-invisible-threat-hidden-pua-unicode-hits-github-repositorties
@@ -225,6 +231,12 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://sensepost.com/blog/2025/depscanner-find-orphaned-packages-before-the-bad-guys-do/
+
+https://github.com/mbrock/filnix
+
+https://news.ycombinator.com/item?id=45695712
+
 https://news.ycombinator.com/item?id=45606070
 
 https://news.ycombinator.com/item?id=45409526

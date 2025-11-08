@@ -188,6 +188,9 @@ https://news.ycombinator.com/item?id=44978286
 https://news.ycombinator.com/item?id=45051188
 
 # News
+https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/
+> https://news.ycombinator.com/item?id=45841262
+
 https://news.ycombinator.com/item?id=45617948
 
 https://taintedcoders.com/bevy/tldr

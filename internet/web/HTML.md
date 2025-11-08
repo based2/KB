@@ -163,6 +163,12 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://elijahm.com/posts/local_first_htmx/
+> https://news.ycombinator.com/item?id=45853536
+
+https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides
+> https://news.ycombinator.com/item?id=45842777
+
 https://news.ycombinator.com/item?id=45781293 table
 
 https://gomakethings.com/just-use-a-button/

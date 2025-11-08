@@ -422,6 +422,14 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://github.com/openpcc/openpcc Apple's Private Compute Cloud
+> https://news.ycombinator.com/item?id=45824243
+
+https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/
+> https://news.ycombinator.com/item?id=45798681
+
+https://news.ycombinator.com/item?id=45816041
+
 https://news.ycombinator.com/item?id=45731848
 
 https://news.ycombinator.com/item?id=45745281

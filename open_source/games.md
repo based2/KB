@@ -79,6 +79,10 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://spongepowered.org/
+
+https://news.ycombinator.com/item?id=45846090
+
 https://unvanquished.net/living-in-the-future/
 
 https://news.ycombinator.com/item?id=44973227

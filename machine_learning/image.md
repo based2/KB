@@ -412,6 +412,8 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://gally.net/temp/20251107pelican-alternatives/index.html
+
 https://news.ycombinator.com/item?id=45739080
 
 https://news.ycombinator.com/item?id=45708795

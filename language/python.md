@@ -74,6 +74,9 @@ https://docs.locust.io/en/stable/what-is-locust.html Load
 
 https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/
 
+https://hypothesis.readthedocs.io/en/latest/
+> https://news.ycombinator.com/item?id=45818562
+
 # Packaging
 https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
 
@@ -387,6 +390,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=45786041
+
+https://news.ycombinator.com/item?id=45800967
+
 https://news.ycombinator.com/item?id=45751400
 
 https://news.ycombinator.com/item?id=45703860

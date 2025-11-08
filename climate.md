@@ -71,7 +71,7 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
-https://carbonbomb.org
+https://carbonbombs.org/
 
 https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/
 > https://news.ycombinator.com/item?id=45634026

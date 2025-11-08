@@ -1,3 +1,6 @@
+https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/
+> https://news.ycombinator.com/item?id=45761433
+
 https://9to5google.com/2025/10/30/google-android-xr-glasses-extended-magic-leap-deal/
 
 https://interconnected.org/home/2025/10/13/dichotomy

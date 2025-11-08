@@ -231,6 +231,8 @@ https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyt
 
 https://news.ycombinator.com/item?id=44634598
 
+https://news.ycombinator.com/item?id=45794824
+
 # Database
 
 https://trino.io/
@@ -385,6 +387,8 @@ https://news.ycombinator.com/item?id=42990036
 https://www.dbreunig.com/2025/05/29/a-small-model-just-for-structured-output.html
 
 https://news.ycombinator.com/item?id=45734696
+
+https://news.ycombinator.com/item?id=45838540
 
 # sec
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake

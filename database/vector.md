@@ -148,3 +148,6 @@ https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-the
 https://news.ycombinator.com/item?id=45224141
 
 https://news.ycombinator.com/item?id=45361578
+
+https://alex-jacobs.com/posts/the-case-against-pgvector/
+> https://news.ycombinator.com/item?id=45798479
