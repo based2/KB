@@ -234,6 +234,8 @@ https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
 # News
+https://huggingface.co/papers/2510.04162
+
 https://kyutai.org/next/codec-explainer
 > https://news.ycombinator.com/item?id=45655161
 

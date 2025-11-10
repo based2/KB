@@ -1,3 +1,5 @@
+https://huggingface.co/blog/openenv
+
 https://github.com/crewAIInc/crewAI
 
 https://webarena.dev/

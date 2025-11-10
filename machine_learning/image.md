@@ -1,3 +1,5 @@
+https://github.com/openai/CLIP
+
 https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
 
 https://blackforestlabs.ai/

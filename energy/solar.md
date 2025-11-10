@@ -18,6 +18,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://solarquarter.com/2025/11/08/enel-north-america-completes-911-mw-gulfstar-solar-and-storage-project-its-largest-u-s-power-plant/
+
 https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
 > https://news.ycombinator.com/item?id=45827190
 

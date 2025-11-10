@@ -88,6 +88,8 @@ https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 https://news.ycombinator.com/item?id=45640222
 
 # I
+https://www.theregister.com/2025/11/05/attackers_experiment_with_gemini_ai/
+
 https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/
 
 https://www.theregister.com/2025/08/08/infosec_hounds_spot_prompt_injection/

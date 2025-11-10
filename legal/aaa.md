@@ -79,7 +79,11 @@ https://www.columntax.com/posts/introducing-iris-our-ai-tax-development-agent
 
 https://www.damiencharlotin.com/hallucinations/
 
+https://www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/
+
 # News
+https://news.ycombinator.com/item?id=45865289
+
 https://news.ycombinator.com/item?id=45637744
 
 https://github.com/IRS-Public/fact-graph

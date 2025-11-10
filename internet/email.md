@@ -311,6 +311,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=45782192
+
 https://news.ycombinator.com/item?id=45564619
 
 https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/

@@ -1,5 +1,9 @@
 Generative Pre-trained Transformer
 
+https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/
+
+https://news.ycombinator.com/item?id=45862802
+
 https://news.ycombinator.com/item?id=45856883
 
 https://openai.com/index/gdpval/

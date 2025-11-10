@@ -1,3 +1,6 @@
+https://openbao.org/
+> https://github.com/openbao/openbao
+
 https://www.vaultproject.io/
 > https://blog.wescale.fr/2019/09/11/vault-cookbook/
 
@@ -166,6 +169,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://news.ycombinator.com/item?id=45865921
+
 https://github.com/jdx/mise/discussions/6779
 > https://news.ycombinator.com/item?id=45722931
 

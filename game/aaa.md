@@ -63,6 +63,9 @@ https://www.theinterface.com/
 https://news.ycombinator.com/item?id=45730094
 
 # News
+https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/
+> https://news.ycombinator.com/item?id=45865159
+
 https://board.fun/
 > https://news.ycombinator.com/item?id=45742456
 

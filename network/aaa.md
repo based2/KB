@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.pingstalker.com/
+> https://news.ycombinator.com/item?id=45810842
+
 https://news.ycombinator.com/item?id=45803306
 
 https://news.ycombinator.com/item?id=45700165

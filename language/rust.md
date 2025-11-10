@@ -549,6 +549,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incidents
+https://old.reddit.com/r/rust/comments/1oshqt7/official_rust_youtube_channel_seems_to_be_hacked/
+
 https://news.ycombinator.com/item?id=45686919
 
 https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/
@@ -575,6 +577,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://ratatui.rs/
+
+https://www.theregister.com/2025/11/05/rust_foundation_announces_maintainers_fund/
+
 https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality
 > https://news.ycombinator.com/item?id=45789143
 

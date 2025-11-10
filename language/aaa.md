@@ -387,7 +387,16 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
-https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf
+https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/ Syntax and Semantics of Programming Languages - 1995
+> https://news.ycombinator.com/item?id=45862591
+
+https://news.ycombinator.com/item?id=45866224
+
+https://news.ycombinator.com/item?id=45782713
+
+https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf Algebraic Language for the Manipulation of Symbolic Expressions - 1958
+> https://news.ycombinator.com/item?id=45857045
+
 
 https://github.com/nynrathod/doolang
 > https://news.ycombinator.com/item?id=45797044

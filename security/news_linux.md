@@ -60,6 +60,10 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html
+> https://news.ycombinator.com/item?id=45809552
+> > https://lwn.net/Articles/1044867/
+
 https://lists.x.org/archives/xorg-announce/2025-October/003635.html
 > https://news.ycombinator.com/item?id=45790015
 

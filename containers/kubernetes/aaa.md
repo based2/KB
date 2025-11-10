@@ -75,6 +75,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incidents
+https://seclists.org/oss-sec/2025/q4/138 runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881
+> http://www.sysdig.com/blog/runc-container-escape-vulnerabilities
+> https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/
+
 https://github.com/external-secrets/external-secrets/issues/5084 Health of External Secrets project
 
 https://www.bleepingcomputer.com/news/security/max-severity-argo-cd-api-flaw-leaks-repository-credentials/

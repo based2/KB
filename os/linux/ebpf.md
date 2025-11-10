@@ -156,3 +156,5 @@ https://news.ycombinator.com/item?id=43214576
 https://news.ycombinator.com/item?id=43551007
 
 https://news.ycombinator.com/item?id=45084328
+
+https://eunomia.dev/blog/2025/10/14/the-gpu-observability-gap-why-we-need-ebpf-on-gpu-devices/

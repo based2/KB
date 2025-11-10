@@ -10,3 +10,6 @@ https://news.ycombinator.com/item?id=41476675
 
 https://github.com/directus/directus real-time REST and GraphQL API of any SQL database
 > https://news.ycombinator.com/item?id=43150116
+
+https://www.newsyeah.fun/voyager/
+> https://news.ycombinator.com/item?id=45865049

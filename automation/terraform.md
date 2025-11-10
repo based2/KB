@@ -320,6 +320,8 @@ https://github.com/Jstrategia-dev/terraform-provider-kustomize
 
 https://github.com/jrhouston/tfk8s
 
+https://www.reddit.com/r/Terraform/comments/1op8lhg/finally_create_kubernetes_clusters_and_deploy/
+
 # Org
 
 https://github.com/Madh93/tpm package manager for Terraform providers

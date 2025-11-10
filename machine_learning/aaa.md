@@ -643,6 +643,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://willmorrison.net/posts/marble-fountain/
+>
+
+https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon
+> https://news.ycombinator.com/item?id=45866243
+
 https://news.ycombinator.com/item?id=45818483
 
 https://stackoverflow.blog/2025/11/05/the-ai-ick/

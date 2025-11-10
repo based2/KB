@@ -303,6 +303,8 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://eunomia.dev/blog/2025/10/14/the-gpu-observability-gap-why-we-need-ebpf-on-gpu-devices/
+
 https://news.ycombinator.com/item?id=45791882
 
 https://news.ycombinator.com/item?id=45771843

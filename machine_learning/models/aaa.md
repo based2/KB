@@ -291,6 +291,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45856804
+
 https://openreview.net/pdf?id=mdA5lVvNcU https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
 > https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/
 > > https://news.ycombinator.com/item?id=45856804

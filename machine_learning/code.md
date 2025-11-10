@@ -123,6 +123,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=45798473
+
+https://arxiv.org/html/2508.14511v2#S3
+
 https://www.cerebras.ai/code
 > https://news.ycombinator.com/item?id=45852751
 
