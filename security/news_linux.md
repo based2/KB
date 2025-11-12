@@ -60,6 +60,10 @@ https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
 # News
+https://news.ycombinator.com/item?id=45898377
+
+https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10
+
 https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html
 > https://news.ycombinator.com/item?id=45809552
 > > https://lwn.net/Articles/1044867/

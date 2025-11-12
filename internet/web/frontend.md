@@ -83,3 +83,5 @@ https://news.ycombinator.com/item?id=45420722
 https://news.ycombinator.com/item?id=45526582
 
 https://news.ycombinator.com/item?id=45545220
+
+https://news.ycombinator.com/item?id=45887957 date pickers

@@ -1,3 +1,5 @@
+https://blog.flutter.dev/whats-new-in-flutter-3-38-3f7b258f7228
+
 https://github.com/fzyzcjy/dart_interactive REPL
 > https://news.ycombinator.com/item?id=41681284
 

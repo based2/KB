@@ -643,8 +643,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45880939
+
+https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models
+> https://news.ycombinator.com/item?id=45897271
+
 https://willmorrison.net/posts/marble-fountain/
->
 
 https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon
 > https://news.ycombinator.com/item?id=45866243

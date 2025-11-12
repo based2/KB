@@ -1,5 +1,11 @@
 Generative Pre-trained Transformer
 
+https://cdn.openai.com/pdf/4173ec8d-1229-47db-96de-06d87147e07e/5_1_system_card.pdf
+
+https://news.ycombinator.com/item?id=45886131
+
+https://news.ycombinator.com/item?id=45904551
+
 https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/
 
 https://news.ycombinator.com/item?id=45862802

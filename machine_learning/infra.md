@@ -119,6 +119,8 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=45906914
+
 https://thinkingmachines.ai/blog/announcing-tinker/
 
 https://github.com/matisojka/qqqa

@@ -113,6 +113,10 @@ https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-a
 https://www.formance.com/blog/engineering/color-of-money
 > https://news.ycombinator.com/item?id=42280641
 
+### LM
+https://arxiv.org/abs/2511.07585 LM Output Drift in Financial Workflows: Validation and Mitigation
+> https://news.ycombinator.com/item?id=45905451
+
 ## Trading
 https://news.ycombinator.com/item?id=44971396
 

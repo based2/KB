@@ -12,6 +12,9 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025
+> https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025
+
 https://lore.kernel.org/lkml/176165291198.2601451.3074910014537130674.tip-bot2@tip-bot2/
 > https://www.theregister.com/2025/11/05/amd_promises_to_fix_chips/
 

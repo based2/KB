@@ -81,3 +81,6 @@ https://github.com/lab-v2/pyreason
 https://news.ycombinator.com/item?id=43757916
 
 https://news.ycombinator.com/item?id=43925132
+
+https://lpn.swi-prolog.org/lpnpage.php?pageid=top
+> https://news.ycombinator.com/item?id=45900978

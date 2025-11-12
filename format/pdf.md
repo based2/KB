@@ -26,6 +26,8 @@ https://news.ycombinator.com/item?id=42401904
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
 
 # News
+https://news.ycombinator.com/item?id=45781725
+
 https://news.ycombinator.com/item?id=44966170
 
 https://news.ycombinator.com/item?id=43973721 to text

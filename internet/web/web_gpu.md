@@ -74,3 +74,5 @@ https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefo
 https://news.ycombinator.com/item?id=45536816
 
 https://news.ycombinator.com/item?id=45496406
+
+https://news.ycombinator.com/item?id=45881087

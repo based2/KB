@@ -191,6 +191,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=45874850
+
 https://blog.cloudflare.com/introducing-tld-insights-on-cloudflare-radar/
 > https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/
 

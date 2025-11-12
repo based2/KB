@@ -126,3 +126,5 @@ https://news.ycombinator.com/item?id=38503439
 
 https://www.infoq.com/articles/java-virtual-threads-a-case-study/
 > https://news.ycombinator.com/item?id=40959140
+
+https://news.ycombinator.com/item?id=45903586

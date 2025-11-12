@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/
+> https://news.ycombinator.com/item?id=45829790
+
 https://www.pingstalker.com/
 > https://news.ycombinator.com/item?id=45810842
 
