@@ -474,3 +474,6 @@ https://julialang.org/blog/2021/12/dtable-performance-assessment/
 > https://news.ycombinator.com/item?id=29487655
 
 https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html
+
+https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/
+> https://news.ycombinator.com/item?id=45914815

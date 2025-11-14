@@ -643,6 +643,18 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://blog.kagi.com/slopstop
+> https://news.ycombinator.com/item?id=45919067
+
+https://manualdousuario.net/en/mozilla-firefox-window-ai/
+> https://news.ycombinator.com/item?id=45926779
+
+https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/
+> https://news.ycombinator.com/item?id=45926469
+
+https://clocks.brianmoore.com/
+> https://news.ycombinator.com/item?id=45930151
+
 https://news.ycombinator.com/item?id=45880939
 
 https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models

@@ -577,6 +577,12 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html
+> https://news.ycombinator.com/item?id=45918616
+
+https://contextgeneric.dev/blog/cgp-serde-release/
+> https://news.ycombinator.com/item?id=45798586
+
 https://ratatui.rs/
 
 https://www.theregister.com/2025/11/05/rust_foundation_announces_maintainers_fund/

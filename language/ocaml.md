@@ -25,6 +25,9 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/
+> https://news.ycombinator.com/item?id=45927647
+
 https://stategraph.dev/blog/why-we-chose-ocaml
 > https://news.ycombinator.com/item?id=45845958
 

@@ -291,6 +291,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://github.com/WeiboAI/VibeThinker
+> https://news.ycombinator.com/item?id=45910410
+
 https://news.ycombinator.com/item?id=45907616
 
 https://news.ycombinator.com/item?id=45902732

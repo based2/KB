@@ -124,6 +124,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://github.com/helm/helm/releases/tag/v4.0.0
+> https://news.ycombinator.com/item?id=45902604
+
 https://news.ycombinator.com/item?id=45818499
 
 https://github.com/hagay3/skuber Scala Kubernetes client library

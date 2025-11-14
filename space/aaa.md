@@ -35,6 +35,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=45931224
+
 https://news.ycombinator.com/item?id=45387494
 
 https://www.nytimes.com/interactive/2025/upshot/zodiac-signs.html

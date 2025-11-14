@@ -403,6 +403,9 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars
+> https://news.ycombinator.com/item?id=45920881
+
 https://news.ycombinator.com/item?id=45774571
 
 https://news.ycombinator.com/item?id=45685793

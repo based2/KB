@@ -97,6 +97,11 @@ https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other
 > https://news.ycombinator.com/item?id=45069247
 
 # News
+https://news.ycombinator.com/item?id=45876742
+
+https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/
+> https://news.ycombinator.com/item?id=45875618
+
 https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1
 
 https://news.ycombinator.com/item?id=45671160

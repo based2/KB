@@ -1,6 +1,8 @@
 https://datatracker.ietf.org/doc/html/rfc791
 > https://news.ycombinator.com/item?id=28389173
 
+https://bgp.tools/prefix/
+
 https://github.com/hexydec/ip-ranges
 
 https://datatracker.ietf.org/doc/html/rfc5211 2008 An Internet Transition Plan from IPv4 to IPv6
@@ -141,6 +143,9 @@ https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/
+> https://news.ycombinator.com/item?id=45922850
+
 https://sunshowers.io/posts/socketaddrv6-not-roundtrip/
 > https://news.ycombinator.com/item?id=45813719
 > > https://idea.popcount.org/2019-12-06-addressing/

@@ -12,4 +12,9 @@ https://news.ycombinator.com/item?id=45773974
 
 https://news.ycombinator.com/item?id=45732485
 
-https://news.ycombinator.com/item?id=45822902`
+https://news.ycombinator.com/item?id=45822902
+
+https://codeberg.org/forgejo/sustainability/pulls/137/files Meeting notes between Forgejo and the Dutch government via Git commits
+> https://news.ycombinator.com/item?id=45929247
+
+https://news.ycombinator.com/item?id=45929052

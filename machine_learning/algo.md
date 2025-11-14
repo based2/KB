@@ -1,3 +1,6 @@
+https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable
+> https://news.ycombinator.com/item?id=45927210
+
 https://www.cs.toronto.edu/~sengels/tutorials/viterbi.html
 > https://news.ycombinator.com/item?id=37886314
 

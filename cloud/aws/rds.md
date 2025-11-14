@@ -23,6 +23,9 @@ https://jayendrapatil.com/rds-read-replicas/
 https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-MySQL-Second-Tier-Read-Replica.pdf
 
 # I
+https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds
+> https://news.ycombinator.com/item?id=45929921
+
 https://news.ycombinator.com/item?id=43833195
 
 # News

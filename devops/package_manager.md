@@ -116,6 +116,14 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://www.endorlabs.com/learn/the-great-indonesian-tea-theft-analyzing-a-npm-spam-campaign
+
+https://aws.amazon.com/en/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/
+
+https://www.sonatype.com/blog/unprecedented-automation-indonesianfoods-pits-open-source-against-itself
+
+https://github.com/6mile/Indonesian-Foods-Worm
+
 https://socket.dev/blog/9-malicious-nuget-packages-deliver-time-delayed-destructive-payloads
 
 https://jfrog.com/blog/CVE-2025-11953-critical-react-native-community-cli-vulnerability/
