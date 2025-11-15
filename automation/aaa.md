@@ -31,7 +31,13 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
-https://news.ycombinator.com/item?id=45925890
+https://www.tweeks.io/onboarding
+> https://news.ycombinator.com/item?id=45916525
+> https://violentmonkey.github.io/
+> https://www.tampermonkey.net/
+
+https://github.com/encoredev/encore
+> https://news.ycombinator.com/item?id=45925890
 
 https://github.com/canonical/starlark
 

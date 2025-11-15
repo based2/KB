@@ -212,6 +212,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://ssl-config.mozilla.org
+> https://news.ycombinator.com/item?id=45932798
+
 https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/
 > https://news.ycombinator.com/item?id=45025835
 

@@ -125,6 +125,8 @@ https://github.com/deepseek-ai/DeepSeek-OCR
 > https://news.ycombinator.com/item?id=45640594
 
 # News
+https://news.ycombinator.com/item?id=45887262
+
 https://news.ycombinator.com/item?id=45489881
 
 https://szeliski.org/Book/ Computer Vision: Algorithms and Applications, 2nd ed

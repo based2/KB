@@ -89,6 +89,8 @@ https://news.ycombinator.com/item?id=45390866
 https://distributionalgraphormer.github.io/
 
 # News
+https://news.ycombinator.com/item?id=45918331
+
 https://news.ycombinator.com/item?id=45872066
 
 https://news.ycombinator.com/item?id=45629970

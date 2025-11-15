@@ -278,7 +278,11 @@ https://arxiv.org/abs/2510.24256 From Memorization to Reasoning in the Spectrum 
 https://arxiv.org/abs/2510.18147
 > https://news.ycombinator.com/item?id=45838564
 
+https://arxiv.org/abs/2511.08923 TiDAR: Think in Diffusion, Talk in Autoregression
+
 # I
+https://www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/
+
 https://www.synacktiv.com/publications/llm-poisoning-13-lire-les-pensees-dun-transformer
 
 https://www.anthropic.com/research/small-samples-poison

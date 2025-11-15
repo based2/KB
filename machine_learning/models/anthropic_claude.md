@@ -1,3 +1,6 @@
+https://github.com/AnandChowdhary/continuous-claude
+> https://news.ycombinator.com/item?id=45938517
+
 https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform
 > https://news.ycombinator.com/item?id=45930598
 

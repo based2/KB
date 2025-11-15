@@ -391,6 +391,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=45935342
+
 https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/ Syntax and Semantics of Programming Languages - 1995
 > https://news.ycombinator.com/item?id=45862591
 

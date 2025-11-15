@@ -643,6 +643,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://beabytes.com/iso42001-certified-ai-governance/
+
 https://blog.kagi.com/slopstop
 > https://news.ycombinator.com/item?id=45919067
 

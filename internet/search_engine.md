@@ -111,6 +111,9 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://help.kagi.com/kagi/bloopers/
+> https://news.ycombinator.com/item?id=45936964
+
 https://news.ycombinator.com/item?id=45852974
 
 https://news.ycombinator.com/item?id=45743232

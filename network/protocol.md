@@ -12,6 +12,9 @@ https://twobithistory.org/2021/03/08/arpanet-protocols.html
 > https://news.ycombinator.com/item?id=34637863
 
 # News
+https://cefboud.com/posts/tcp-deep-dive-internals/
+> https://news.ycombinator.com/item?id=45935503
+
 https://asimovaddendum.substack.com/p/protocols-and-power
 
 https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html

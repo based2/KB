@@ -114,6 +114,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729
+> https://news.ycombinator.com/item?id=45937989
+
 https://sigma-star.at/blog/2022/02/linux-proc-prios/
 
 https://dfir.ch/posts/today_i_learned_binfmt_misc/

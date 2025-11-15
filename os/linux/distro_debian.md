@@ -1,3 +1,5 @@
+https://www.debian.org/News/2025/20251115
+
 https://news.ycombinator.com/item?id=45779860
 
 https://news.ycombinator.com/item?id=45226657

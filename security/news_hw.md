@@ -12,6 +12,9 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://modzero.com/en/blog/no-leak-no-problem/
+> https://news.ycombinator.com/item?id=45933497
+
 https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025
 > https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025
 

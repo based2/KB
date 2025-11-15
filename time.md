@@ -295,6 +295,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://news.ycombinator.com/item?id=45842419
+
 https://news.ycombinator.com/item?id=45930151
 
 https://www.ctnicholas.dev/articles/dark-mode-by-sunlight

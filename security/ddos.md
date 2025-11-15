@@ -12,6 +12,9 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://herman.bearblog.dev/messing-with-bots/
+> https://news.ycombinator.com/item?id=45935729
+
 https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/
 
 https://news.ycombinator.com/item?id=45773347

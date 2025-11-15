@@ -250,6 +250,9 @@ https://news.ycombinator.com/item?id=45837067
 
 https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a
 
+https://blog.helix.ml/p/technical-deep-dive-on-streaming
+> https://news.ycombinator.com/item?id=45825121
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

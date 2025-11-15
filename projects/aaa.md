@@ -179,6 +179,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html
+> https://news.ycombinator.com/item?id=45935763
+
 https://davegriffith.substack.com/p/software-development-in-the-time
 > https://news.ycombinator.com/item?id=45803071
 

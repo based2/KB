@@ -158,3 +158,5 @@ https://news.ycombinator.com/item?id=43750314
 https://news.ycombinator.com/item?id=43714579
 
 https://news.ycombinator.com/item?id=44767959
+
+https://news.ycombinator.com/item?id=45934481
