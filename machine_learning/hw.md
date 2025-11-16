@@ -6,6 +6,10 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.metax-tech.com/en/index/search.html .cn
+
+https://www.tomshardware.com/tech-industry/cryptomining/major-bitcoin-mining-firm-pivoting-to-ai-plans-to-fully-abandon-crypto-mining-by-2027-bitfarm-to-leverage-341-megawatt-capacity-for-ai-following-usd46-million-q3-loss
+
 https://www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/
 
 https://www.theregister.com/2025/11/06/googles_ironwood_tpus_ai/

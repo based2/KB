@@ -30,3 +30,5 @@ https://news.ycombinator.com/item?id=44137439
 https://news.ycombinator.com/item?id=45253926
 
 https://news.ycombinator.com/item?id=45765957
+
+https://text.marvinborner.de/2023-08-22-22.html de Bruijn Numerals

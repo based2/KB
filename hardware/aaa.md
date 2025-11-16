@@ -128,6 +128,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.servethehome.com/intel-cancels-its-mainstream-next-gen-xeon-server-processors/
+
 https://extropic.ai/writing/thermodynamic-computing-from-zero-to-one
 
 https://news.ycombinator.com/item?id=45931998

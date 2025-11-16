@@ -357,6 +357,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://github.com/randoneering/pgFirstAid
+
 https://boringsql.com/posts/regresql-testing-queries/
 > https://news.ycombinator.com/item?id=45924619
 

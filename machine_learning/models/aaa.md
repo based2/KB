@@ -279,6 +279,7 @@ https://arxiv.org/abs/2510.18147
 > https://news.ycombinator.com/item?id=45838564
 
 https://arxiv.org/abs/2511.08923 TiDAR: Think in Diffusion, Talk in Autoregression
+> https://news.ycombinator.com/item?id=45939036
 
 # I
 https://www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/
@@ -295,6 +296,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://owainevans.github.io/talk-transcript.html Vintage Large Language Models
+> https://news.ycombinator.com/item?id=45944906
+
+https://github.com/p-e-w/heretic Automatic censorship removal for language models
+> https://news.ycombinator.com/item?id=45945587
+
 https://github.com/WeiboAI/VibeThinker
 > https://news.ycombinator.com/item?id=45910410
 

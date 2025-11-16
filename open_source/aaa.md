@@ -261,6 +261,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=45947639
+
 https://www.fsf.org/events/fsf40-hackathon
 
 https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md

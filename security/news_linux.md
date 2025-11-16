@@ -59,6 +59,8 @@ https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor
 https://github.com/pipelight/boulette
 > https://news.ycombinator.com/item?id=42655708
 
+https://landlock.io/ Unprivileged Sandboxing
+
 # News
 https://news.ycombinator.com/item?id=45898377
 

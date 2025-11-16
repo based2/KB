@@ -187,7 +187,11 @@ https://news.ycombinator.com/item?id=44978286
 
 https://news.ycombinator.com/item?id=45051188
 
+https://blog.ptidej.net/cg-wfc-a-hybrid-method-for-designer-guided-replayable-game-worlds/
+
 # News
+https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190
+
 https://news.ycombinator.com/item?id=45887709
 
 https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/

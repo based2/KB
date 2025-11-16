@@ -16,6 +16,9 @@ https://news.ycombinator.com/item?id=40798837
 https://github.com/jackjackbits/bitchat decentralized messaging app that works over Bluetooth mesh networks
 > https://news.ycombinator.com/item?id=44485342
 
+https://github.com/kavishdevar/librepods AirPods liberated from Apple's ecosystem
+> https://news.ycombinator.com/item?id=45941596
+
 # Sec
 https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/
 

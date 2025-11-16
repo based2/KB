@@ -68,3 +68,5 @@ https://github.com/Orange-Cyberdefense/GOAD
 https://old.reddit.com/r/netsec/comments/1djdwxi/active_directory_methodology_in_pentesting_a/
 
 https://cravaterouge.com/articles/ldapad-logging/
+
+https://github.com/Saeros-Security/Saeros

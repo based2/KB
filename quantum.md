@@ -117,6 +117,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.nature.com/articles/s41567-025-02939-0 Floquet States
+
 https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
 > https://news.ycombinator.com/item?id=45670443
 

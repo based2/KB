@@ -253,6 +253,12 @@ https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-63
 https://blog.helix.ml/p/technical-deep-dive-on-streaming
 > https://news.ycombinator.com/item?id=45825121
 
+https://strangestloop.io/essays/things-that-arent-doing-the-thing
+> https://news.ycombinator.com/item?id=45939431
+> > https://en.wikipedia.org/wiki/Viable_system_model
+
+https://www.gumloop.com/
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

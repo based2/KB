@@ -6,8 +6,6 @@ https://doc.rust-lang.org/rust-by-example/index.html
 
 https://blog.mgattozzi.dev/rusts-runtime/
 
-https://blog.logrocket.com/introducing-the-rust-borrow-checker/
-
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 > https://news.ycombinator.com/item?id=26101066
 
@@ -118,6 +116,32 @@ https://github.com/evmar/n2
 > https://news.ycombinator.com/item?id=30806875
 
 https://news.ycombinator.com/item?id=31132659
+
+# Borrow checker
+https://blog.logrocket.com/introducing-the-rust-borrow-checker/
+
+https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html
+> https://news.ycombinator.com/item?id=45941443
+
+https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html
+
+https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html
+> https://news.ycombinator.com/item?id=42485536
+
+https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/
+
+https://perso.crans.org/vanille/treebor/
+> https://www.youtube.com/watch?v=zQ76zLXesxA
+> https://www.ralfj.de/blog/2023/06/02/tree-borrows.html
+> > https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for
+
+https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
+> https://news.ycombinator.com/item?id=34196294
+
+https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
+> https://news.ycombinator.com/item?id=30031323
+
+
 
 # Macro
 https://www.getsynth.com/docs/blog/2021/08/09/macro
@@ -651,9 +675,8 @@ https://news.ycombinator.com/item?id=44690914 sql
 
 https://news.ycombinator.com/item?id=44519034
 
-https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html
-
-https://news.ycombinator.com/item?id=44484363
+https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html
+> https://news.ycombinator.com/item?id=44484363
 
 https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html
 
@@ -745,9 +768,6 @@ https://github.com/dtolnay/semver-trick
 
 https://diziet.dreamwidth.org/10559.html Debian's approach to Rust – Dependency handling (2022)
 > https://news.ycombinator.com/item?id=42503163
-
-https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html
-> https://news.ycombinator.com/item?id=42485536
 
 https://news.ycombinator.com/item?id=42388665
 
@@ -842,8 +862,6 @@ https://ntex.rs/
 > https://news.ycombinator.com/item?id=39801435
 
 https://news.ycombinator.com/item?id=39771053
-
-https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/
 
 https://news.ycombinator.com/item?id=39398251
 
@@ -968,11 +986,6 @@ https://epage.github.io/blog/2023/06/iterating-on-test/
 
 https://github.com/hydro-project/hydroflow
 > https://news.ycombinator.com/item?id=36227416
-
-https://perso.crans.org/vanille/treebor/
-> https://www.youtube.com/watch?v=zQ76zLXesxA
-> https://www.ralfj.de/blog/2023/06/02/tree-borrows.html
-> > https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for
 
 https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html
 
@@ -1144,9 +1157,6 @@ https://marabos.nl/atomics/
 
 https://serokell.io/blog/rust-generics
 > https://news.ycombinator.com/item?id=34243644
-
-https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
-> https://news.ycombinator.com/item?id=34196294
 
 https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/
 > https://news.ycombinator.com/item?id=34195291
@@ -1554,9 +1564,6 @@ https://github.com/thalo-rs/thalo Event sourcing framework for building microser
 
 https://www.thecodedmessage.com/posts/unsafe/
 > https://news.ycombinator.com/item?id=30021031
-
-https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
-> https://news.ycombinator.com/item?id=30031323
 
 https://blog.dend.ro/mapping-my-walks-osrm-rust/
 > https://news.ycombinator.com/item?id=30034951

@@ -391,6 +391,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html
+
+https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+> https://news.ycombinator.com/item?id=45841095
+
 https://news.ycombinator.com/item?id=45935342
 
 https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/ Syntax and Semantics of Programming Languages - 1995

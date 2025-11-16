@@ -124,6 +124,10 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://flox.dev/kubernetes/
+> https://news.ycombinator.com/item?id=45876884
+> > https://github.com/pdtpartners/nix-snapshotter
+
 https://kccncna2024.sched.com/event/1hoxW/securing-the-future-of-ingress-nginx-james-strong-isovalent-marco-ebert-giant-swarm
 > https://www.theregister.com/2025/11/14/nginx_retirement/
 

@@ -1,3 +1,6 @@
+https://github.com/apple/ml-fastvlm
+> https://news.ycombinator.com/item?id=43968897
+
 https://eu.36kr.com/en/p/3550226276268161
 
 https://news.ycombinator.com/item?id=45607758

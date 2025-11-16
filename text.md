@@ -85,6 +85,8 @@ https://mcilloni.ovh/2023/07/23/unicode-is-hard/
 https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839
 > https://news.ycombinator.com/item?id=44995640
 
+https://news.ycombinator.com/item?id=45813186
+
 # ASCII
 https://bestasciitable.com/
 > https://news.ycombinator.com/item?id=34399598

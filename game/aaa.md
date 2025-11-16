@@ -63,6 +63,8 @@ https://www.theinterface.com/
 https://news.ycombinator.com/item?id=45730094
 
 # News
+https://news.ycombinator.com/item?id=45891066
+
 https://news.ycombinator.com/item?id=45893007
 
 https://news.ycombinator.com/item?id=45811026

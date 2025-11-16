@@ -7,6 +7,11 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/
+> https://news.ycombinator.com/item?id=45900947
+
+https://the.agilesql.club/2025/11/github-copilot-in-ssms-can-include-data-in-its-memory-simple-prompt-injections-ahead/
+
 https://www.theregister.com/2025/10/31/rhysida_abuses_fake_teams_ads/
 
 https://news.ycombinator.com/item?id=45771983

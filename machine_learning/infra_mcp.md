@@ -3,6 +3,8 @@ https://modelcontextprotocol.io/introduction
 https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
 
 #
+https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/
+
 https://github.com/jasonjmcghee/WebMCP
 
 https://news.ycombinator.com/item?id=44747229

@@ -21,6 +21,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login
+> https://news.ycombinator.com/item?id=45942518
+
 https://www.theguardian.com/business/2025/oct/29/europe-carmakers-china-computer-chip
 
 https://eaton-works.com/2025/10/28/tata-motors-hack/

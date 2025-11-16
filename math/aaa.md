@@ -137,6 +137,8 @@ https://news.ycombinator.com/item?id=43375676
 
 https://news.ycombinator.com/item?id=44574318
 
+https://banditcat.github.io/Atlas/Atlas.html
+
 # Calculators
 https://news.ycombinator.com/item?id=43066953
 
@@ -229,6 +231,9 @@ https://transformer-circuits.pub/2025/linebreaks/index.html
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+asciimath.org
+> https://news.ycombinator.com/item?id=45940706
+
 https://news.ycombinator.com/item?id=45833162
 
 https://news.ycombinator.com/item?id=45798741

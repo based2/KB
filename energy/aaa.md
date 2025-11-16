@@ -34,6 +34,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=45944056
+
 https://www.theguardian.com/environment/2025/oct/31/scientists-invent-roof-coating-reduce-indoor-temperatures-hot-days
 
 https://www.bloomberg.com/news/newsletters/2025-10-31/the-world-s-secret-electricity-superusers-revealed

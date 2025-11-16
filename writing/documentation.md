@@ -46,10 +46,14 @@ https://latex-cookbook.net/
 
 https://vlmantova.github.io/bookml/
 
-# ml
+# ML
 https://news.ycombinator.com/item?id=38201995
 
-#
+https://passo.uno/from-tech-writers-to-ai-context-curators/
+
+https://passo.uno/ai-wikis-docs-teather-as-a-service/
+
+# News
 https://news.ycombinator.com/item?id=44521871
 
 https://news.ycombinator.com/item?id=43251722

@@ -643,7 +643,17 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://github.com/BICLab/SpikingBrain-7B
+> https://news.ycombinator.com/item?id=45237754
+
+https://mateolafalce.github.io/2025/From%20WhatsApp%20to%20Kitchen/FromWhatsApptoKitchenAnAIPoweredOrderAutomati.html
+
+https://news.ycombinator.com/item?id=45944428
+
+https://www.theregister.com/2025/11/14/execs_ai_rules_shadow_it/?td=rt-3a
+
 https://beabytes.com/iso42001-certified-ai-governance/
+> https://news.ycombinator.com/item?id=45938815
 
 https://blog.kagi.com/slopstop
 > https://news.ycombinator.com/item?id=45919067

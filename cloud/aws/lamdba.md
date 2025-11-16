@@ -75,6 +75,10 @@ https://github.com/aws-samples/aws-lambda-unit-test-example
 https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
 
 # News
+https://aws.amazon.com/en/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/
+
+https://aws.amazon.com/en/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/
+
 https://www.reddit.com/r/aws/comments/1os2l1c/should_i_just_use_websocket_connections_for_all/
 
 https://goose.icu/lambda/

@@ -1,3 +1,5 @@
+https://github.com/ojayballer/ECHOLOCK?tab=readme-ov-file#model-selection
+
 https://github.com/trailofbits/buttercup
 > https://www.helpnetsecurity.com/2025/08/18/buttercup-ai-vulnerability-scanner-open-source/
 

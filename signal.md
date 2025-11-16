@@ -34,6 +34,8 @@ https://news.ycombinator.com/item?id=44081617
 
 https://news.ycombinator.com/item?id=45132810
 
+https://news.ycombinator.com/item?id=45825413
+
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
@@ -42,6 +44,11 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.potatofi.com/posts/spectrum-viewer/
+> https://news.ycombinator.com/item?id=45815874
+
+https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/
+
 https://momentsingraphics.de/SpectralRendering1Spectra.html
 
 https://news.ycombinator.com/item?id=45615481

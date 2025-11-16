@@ -12,6 +12,11 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=45944870
+
+https://www.owl.is/blogg/blocking-crawlers-without-javascript/
+> https://news.ycombinator.com/item?id=45941441
+
 https://herman.bearblog.dev/messing-with-bots/
 > https://news.ycombinator.com/item?id=45935729
 
