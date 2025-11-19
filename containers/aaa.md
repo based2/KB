@@ -87,7 +87,7 @@ https://linuxcontainers.org/incus-os/
 https://sandbox.cloudflare.com/ Containers
 > https://news.ycombinator.com/item?id=45610523
 
-https://www.synacktiv.com/publications/2025-summer-challenge-writeup`
+https://www.synacktiv.com/publications/2025-summer-challenge-writeup
 
 https://news.ycombinator.com/item?id=45567241
 

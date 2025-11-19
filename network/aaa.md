@@ -151,6 +151,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/
+> https://news.ycombinator.com/item?id=45954638
+
+https://news.ycombinator.com/item?id=45962654
+
 https://connorbey13.org/writings/gnu-guix-ipv6-v4-router.html
 
 https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/

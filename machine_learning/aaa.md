@@ -643,6 +643,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=45961886
+
 https://github.com/BICLab/SpikingBrain-7B
 > https://news.ycombinator.com/item?id=45237754
 

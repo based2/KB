@@ -178,6 +178,10 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=45971726
+
+https://news.ycombinator.com/item?id=45964987
+
 https://news.ycombinator.com/item?id=45746482
 
 https://news.ycombinator.com/item?id=45646649

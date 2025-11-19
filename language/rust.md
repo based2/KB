@@ -601,6 +601,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=45960852
+
 https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html
 > https://news.ycombinator.com/item?id=45918616
 

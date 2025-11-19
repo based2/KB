@@ -259,6 +259,8 @@ https://strangestloop.io/essays/things-that-arent-doing-the-thing
 
 https://www.gumloop.com/
 
+https://news.ycombinator.com/item?id=45970338
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

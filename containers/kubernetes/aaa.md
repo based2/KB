@@ -124,6 +124,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://news.ycombinator.com/item?id=45963592
+
 https://flox.dev/kubernetes/
 > https://news.ycombinator.com/item?id=45876884
 > > https://github.com/pdtpartners/nix-snapshotter

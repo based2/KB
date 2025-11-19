@@ -34,6 +34,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://news.ycombinator.com/item?id=45953977
+
 https://libwifi.so/
 
 https://news.ycombinator.com/item?id=45920677

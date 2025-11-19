@@ -74,6 +74,10 @@ https://news.ycombinator.com/item?id=43474490
 https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
 
 # News
+https://news.ycombinator.com/item?id=45953452
+
+https://news.ycombinator.com/item?id=45888805
+
 https://news.ycombinator.com/item?id=45911704
 
 https://github.com/Gillou68310/DukeNukemZeroHour

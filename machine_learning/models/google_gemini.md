@@ -1,3 +1,11 @@
+https://antigravity.google/
+> https://news.ycombinator.com/item?id=45967814
+
+https://news.ycombinator.com/item?id=45968104
+
+https://blog.google/products/gemini/gemini-3/
+> https://news.ycombinator.com/item?id=45967211
+
 https://github.com/apple/ml-fastvlm
 > https://news.ycombinator.com/item?id=43968897
 

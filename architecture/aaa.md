@@ -343,6 +343,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.infoq.com/articles/scaling-reverse-proxies/
+> https://news.ycombinator.com/item?id=45914929
+
 https://news.ycombinator.com/item?id=45809722
 
 https://martinfowler.com/articles/llm-learning-loop.html

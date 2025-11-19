@@ -281,6 +281,12 @@ https://arxiv.org/abs/2510.18147
 https://arxiv.org/abs/2511.08923 TiDAR: Think in Diffusion, Talk in Autoregression
 > https://news.ycombinator.com/item?id=45939036
 
+https://arxiv.org/abs/2511.08544 LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics
+> https://news.ycombinator.com/item?id=45960922
+
+https://arxiv.org/abs/2511.09030 olving a million-step LLM task with zero errors
+> https://news.ycombinator.com/item?id=45968362
+
 # I
 https://www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/
 

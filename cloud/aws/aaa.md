@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://www.theregister.com/2025/11/17/who_me/
+
 https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
 
 https://news.ycombinator.com/item?id=45722471
@@ -204,6 +206,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://news.ycombinator.com/item?id=45955565
+
 https://news.ycombinator.com/item?id=45939678
 
 https://www.flightcontrol.dev/

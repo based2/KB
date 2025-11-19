@@ -13,6 +13,8 @@ https://oauth.net/2/pkce/
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 # Incidents
+https://news.ycombinator.com/item?id=45963350
+
 https://salt.security/blog/api-supply-chain-attacks---the-skys-the-limit
 > https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html
 

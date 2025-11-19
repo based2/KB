@@ -52,6 +52,8 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 https://news.ycombinator.com/item?id=39706004
 
 # Incidents
+https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/
+
 https://news.ycombinator.com/item?id=45201692
 
 https://issues.chromium.org/issues/412578726
@@ -66,6 +68,8 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://www.theregister.com/2025/11/18/servo_002_arrives/
+
 https://www.theregister.com/2025/11/12/firefox_145_arrives/
 
 https://dillo-browser.org/

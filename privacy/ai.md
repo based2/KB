@@ -1,3 +1,9 @@
+https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
+> https://news.ycombinator.com/item?id=45959795
+
+https://unbuffered.stream/gemini-personal-context/
+> https://news.ycombinator.com/item?id=45960293
+
 https://news.ycombinator.com/item?id=45848504
 
 https://proton.me/blog/lumo-ai

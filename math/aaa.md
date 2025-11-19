@@ -231,7 +231,11 @@ https://transformer-circuits.pub/2025/linebreaks/index.html
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
-asciimath.org
+https://news.ycombinator.com/item?id=45964816
+
+https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472
+
+ahttps://asciimath.org
 > https://news.ycombinator.com/item?id=45940706
 
 https://news.ycombinator.com/item?id=45833162

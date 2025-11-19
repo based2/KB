@@ -7,6 +7,9 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
+> https://news.ycombinator.com/item?id=45959795
+
 https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/
 > https://news.ycombinator.com/item?id=45900947
 

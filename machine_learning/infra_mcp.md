@@ -133,6 +133,8 @@ https://github.com/cisco-ai-defense/mcp-scanner
 > https://news.ycombinator.com/item?id=45723699
 
 # Incidents
+https://www.oligo.security/blog/critical-rce-vulnerability-in-anthropic-mcp-inspector-cve-2025-49596
+
 https://www.koi.ai/blog/command-injection-flaw-in-framelink-figma-mcp-server-puts-nearly-1-million-downloads-at-risk
 
 https://www.koi.ai/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor

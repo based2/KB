@@ -5,6 +5,9 @@ https://www.bortzmeyer.org/9132.html
 https://github.com/nttdots/go-dots
 
 # i
+https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/
+> https://news.ycombinator.com/item?id=45955900
+
 https://www.marginalia.nu/log/a_115_rude_crawler/
 > https://news.ycombinator.com/item?id=43445682
 > > https://www.geeksforgeeks.org/selective-acknowledgments-sack-in-tcp/
