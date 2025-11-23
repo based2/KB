@@ -7,6 +7,11 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://research.eye.security/rce-windows-update-health-tools/
+> https://old.reddit.com/r/netsec/comments/1p1wuc7/when_updates_backfire_rce_in_windows_update/
+
+https://www.zscaler.com/blogs/security-research/cve-2025-50165-critical-flaw-windows-graphics-component
+
 https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
 > https://news.ycombinator.com/item?id=45959795
 

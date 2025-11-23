@@ -31,3 +31,6 @@ https://github.com/Permify/permify go ASLv2
 > https://news.ycombinator.com/item?id=41311489
 
 https://news.ycombinator.com/item?id=45445114
+
+# I
+https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/

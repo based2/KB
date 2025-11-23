@@ -30,6 +30,8 @@ https://www.chatpdf.com/
 https://news.ycombinator.com/item?id=41810507
 
 # Chatbot
+https://news.ycombinator.com/item?id=46013984
+
 https://news.ycombinator.com/item?id=45575051
 
 https://github.com/karpathy/nanochat

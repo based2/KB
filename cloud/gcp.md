@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incidents
+https://github.com/cert-orangecyberdefense/cti/blob/main/Metappenzeller/20250922-InitialReport.md
+
 https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce
 
 https://news.ycombinator.com/item?id=44812198

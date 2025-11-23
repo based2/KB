@@ -279,7 +279,7 @@ https://arxiv.org/abs/2510.18147
 > https://news.ycombinator.com/item?id=45838564
 
 https://arxiv.org/abs/2511.08923 TiDAR: Think in Diffusion, Talk in Autoregression
-> https://news.ycombinator.com/item?id=45939036
+> https://news.ycombinator.comdm/item?id=45939036
 
 https://arxiv.org/abs/2511.08544 LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics
 > https://news.ycombinator.com/item?id=45960922
@@ -288,6 +288,8 @@ https://arxiv.org/abs/2511.09030 olving a million-step LLM task with zero errors
 > https://news.ycombinator.com/item?id=45968362
 
 # I
+https://news.ycombinator.com/item?id=45991738
+
 https://www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/
 
 https://www.synacktiv.com/publications/llm-poisoning-13-lire-les-pensees-dun-transformer
@@ -302,6 +304,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=45958004
+
 https://owainevans.github.io/talk-transcript.html Vintage Large Language Models
 > https://news.ycombinator.com/item?id=45944906
 

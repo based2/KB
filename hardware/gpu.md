@@ -18,6 +18,8 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=46006616
+
 https://news.ycombinator.com/item?id=45968611
 
 https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr

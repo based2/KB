@@ -84,3 +84,5 @@ https://news.ycombinator.com/item?id=43925132
 
 https://lpn.swi-prolog.org/lpnpage.php?pageid=top
 > https://news.ycombinator.com/item?id=45900978
+
+https://news.ycombinator.com/item?id=45980714

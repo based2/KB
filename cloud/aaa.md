@@ -426,6 +426,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://github.com/dboxed/dboxed/
+
 https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view
 > https://news.ycombinator.com/item?id=45901869
 

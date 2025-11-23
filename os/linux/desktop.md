@@ -121,6 +121,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/ python
+> https://news.ycombinator.com/item?id=46002138
+
+https://news.ycombinator.com/item?id=45942109
+
 https://news.ycombinator.com/item?id=45925950
 
 https://news.ycombinator.com/item?id=45935396

@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 https://news.ycombinator.com/item?id=43257323
 
 # I
+https://news.ycombinator.com/item?id=45995834
+
 https://news.ycombinator.com/item?id=45691127
 
 https://news.ycombinator.com/item?id=45668805
@@ -129,6 +131,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://news.ycombinator.com/item?id=46009591
+
 https://entropicthoughts.com/arrival-radar
 > https://news.ycombinator.com/item?id=45926105
 

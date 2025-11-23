@@ -132,6 +132,8 @@ https://www.adversis.io/blogs/the-mcp-security-tool-you-probably-need---mcp-snit
 https://github.com/cisco-ai-defense/mcp-scanner
 > https://news.ycombinator.com/item?id=45723699
 
+https://news.ycombinator.com/item?id=45917182
+
 # Incidents
 https://www.oligo.security/blog/critical-rce-vulnerability-in-anthropic-mcp-inspector-cve-2025-49596
 

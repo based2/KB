@@ -71,6 +71,9 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics
+> https://news.ycombinator.com/item?id=46005130
+
 https://news.ycombinator.com/item?id=45383381
 
 https://news.ycombinator.com/item?id=45197896

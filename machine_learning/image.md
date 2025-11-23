@@ -414,6 +414,9 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://blog.google/technology/ai/nano-banana-pro/
+> https://news.ycombinator.com/item?id=45993296
+
 https://minimaxir.com/2025/11/nano-banana-prompts/
 > https://news.ycombinator.com/item?id=45917875
 

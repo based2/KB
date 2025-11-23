@@ -80,6 +80,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=45980117
+
 https://news.ycombinator.com/item?id=45878311
 
 https://technical.ly/civics/maryland-data-privacy-act/

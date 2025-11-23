@@ -23,6 +23,8 @@ https://tabula.technology/
 https://news.ycombinator.com/item?id=42401904
 
 # Incidents
+https://medium.com/@brun0ne/rce-via-a-malicious-svg-in-mpdf-216e613b250b
+
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
 
 # News

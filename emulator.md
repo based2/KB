@@ -10,6 +10,9 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 https://news.ycombinator.com/item?id=39593647
 
 #
+https://fex-emu.com/ Run x86 applications on ARM64 Linux devices
+> https://news.ycombinator.com/item?id=45905850
+
 https://news.ycombinator.com/item?id=45958717
 
 https://rmazur.io/blog/fahivets.html

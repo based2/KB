@@ -3,6 +3,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 #
+https://blog.cloudflare.com/18-november-2025-outage/
+> https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/
+
 https://www.theregister.com/2025/11/18/cloudflare_outage/?td=rt-3a
 
 https://protonvpn.com/blog/spain-cloudflare-block

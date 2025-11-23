@@ -62,6 +62,9 @@ https://github.com/pipelight/boulette
 https://landlock.io/ Unprivileged Sandboxing
 
 # News
+https://www.openwall.com/lists/oss-security/2025/11/22/1 Libpng 1.6.51: Four buffer overflow vulnerabilities fixed
+> https://news.ycombinator.com/item?id=46013579
+
 https://news.ycombinator.com/item?id=45898377
 
 https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10

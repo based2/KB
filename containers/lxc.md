@@ -1,5 +1,7 @@
 https://linuxcontainers.org/lxd/try-it/
 
+https://news.ycombinator.com/item?id=46011351
+
 https://github.com/puniverse/capsule-shield
 
 http://blog.paralleluniverse.co/2015/10/08/container-capsules/

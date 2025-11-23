@@ -190,6 +190,14 @@ https://news.ycombinator.com/item?id=45051188
 https://blog.ptidej.net/cg-wfc-a-hybrid-method-for-designer-guided-replayable-game-worlds/
 
 # News
+https://news.ycombinator.com/item?id=46011961
+
+https://news.ycombinator.com/item?id=46010329
+
+https://news.ycombinator.com/item?id=46004293
+
+https://news.ycombinator.com/item?id=46006082
+
 https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190
 
 https://news.ycombinator.com/item?id=45887709

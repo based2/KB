@@ -261,6 +261,9 @@ https://www.gumloop.com/
 
 https://news.ycombinator.com/item?id=45970338
 
+https://lucumr.pocoo.org/2025/11/21/agents-are-hard/
+> https://news.ycombinator.com/item?id=46013935
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

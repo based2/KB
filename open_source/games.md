@@ -79,6 +79,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=45995740
+
 https://news.ycombinator.com/item?id=45899077
 
 https://spongepowered.org/

@@ -303,6 +303,11 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://github.com/unhappychoice/gitlogue
+> https://news.ycombinator.com/item?id=46009162
+
+https://news.ycombinator.com/item?id=46005402
+
 https://github.com/runxiyu/furgit
 
 https://lwn.net/SubscriberLink/1042355/434ad706cc594276/

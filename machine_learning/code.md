@@ -123,6 +123,11 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.wreflection.com/p/command-lines-ai-coding
+> https://news.ycombinator.com/item?id=46006004
+
+https://news.ycombinator.com/item?id=46003144
+
 https://codewiki.google/
 > https://news.ycombinator.com/item?id=45926350
 

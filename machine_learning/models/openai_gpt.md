@@ -154,6 +154,8 @@ https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models
 > https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
 
 # I
+https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/
+
 https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/
 > https://news.ycombinator.com/item?id=45853995
 

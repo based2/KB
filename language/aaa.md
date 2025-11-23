@@ -391,6 +391,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://susam.net/fizz-buzz-with-cosines.html
+> https://news.ycombinator.com/item?id=46006598
+
 https://github.com/coder/guts convert Golang types to TypeScript
 > https://news.ycombinator.com/item?id=45969708
 

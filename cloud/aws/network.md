@@ -25,6 +25,13 @@ https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
 # NAT
 https://www.reddit.com/r/aws/comments/yqkzax/just_released_alternat_a_high_availability_aws/
 
+https://www.awsistoohard.com/blog/self-hosting-nat-gateway
+> https://news.ycombinator.com/item?id=45955824
+
+# I
+https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/
+> https://news.ycombinator.com/item?id=45977744
+
 # News
 https://www.ducktyped.org/p/why-is-it-called-a-cloud-if-its-not
 > https://news.ycombinator.com/item?id=44143615

@@ -137,6 +137,8 @@ https://news.ycombinator.com/item?id=45537291
 
 https://news.ycombinator.com/item?id=45810430
 
+https://news.ycombinator.com/item?id=45980760
+
 # Incidents
 https://news.ycombinator.com/item?id=43914832
 

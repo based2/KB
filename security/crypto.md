@@ -245,6 +245,9 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # News
+https://words.filippo.io/2025-state/
+> https://news.ycombinator.com/item?id=45994895
+
 https://news.ycombinator.com/item?id=45799109
 
 https://news.ycombinator.com/item?id=45770875

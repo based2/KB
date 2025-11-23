@@ -52,6 +52,8 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 https://news.ycombinator.com/item?id=39706004
 
 # Incidents
+https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/
+
 https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/
 
 https://news.ycombinator.com/item?id=45201692

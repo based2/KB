@@ -231,6 +231,13 @@ https://transformer-circuits.pub/2025/linebreaks/index.html
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=46009660
+
+https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/
+> https://news.ycombinator.com/item?id=45913281
+
+https://news.ycombinator.com/item?id=45952654
+
 https://news.ycombinator.com/item?id=45964816
 
 https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472
