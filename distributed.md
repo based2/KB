@@ -262,6 +262,8 @@ https://news.ycombinator.com/item?id=44825146
 # concurrencyngs
 
 # News
+https://news.ycombinator.com/item?id=46036614
+
 https://news.ycombinator.com/item?id=45854862
 
 https://news.ycombinator.com/item?id=45752897

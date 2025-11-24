@@ -643,6 +643,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern
+> https://news.ycombinator.com/item?id=46032513
+
 https://news.ycombinator.com/item?id=45961886
 
 https://github.com/BICLab/SpikingBrain-7B

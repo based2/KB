@@ -304,6 +304,10 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46029889
+
+https://news.ycombinator.com/item?id=46037343
+
 https://news.ycombinator.com/item?id=45958004
 
 https://owainevans.github.io/talk-transcript.html Vintage Large Language Models

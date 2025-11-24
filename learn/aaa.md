@@ -166,6 +166,8 @@ https://news.ycombinator.com/item?id=45395428
 https://github.com/raine/anki-llm
 > https://news.ycombinator.com/item?id=45790443
 
+https://news.ycombinator.com/item?id=46036878
+
 # I
 https://news.ycombinator.com/item?id=44100035
 

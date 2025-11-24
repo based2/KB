@@ -68,6 +68,8 @@ https://news.ycombinator.com/item?id=44018886
 https://news.ycombinator.com/item?id=45064210
 > https://news.ycombinator.com/pool
 
+https://news.ycombinator.com/item?id=46036908
+
 # Slashdot
 # Reddit
 
@@ -91,6 +93,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=46024184
+
 https://www.netskope.com/blog/redtiger-new-red-teaming-tool-in-the-wild-targeting-gamers-and-discord-accounts
 > https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/
 

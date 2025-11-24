@@ -5,3 +5,5 @@ https://github.com/smallstep/certificates
 https://www.openca.org/
 
 https://github.com/OpenVPN/easy-rsa
+
+https://news.ycombinator.com/item?id=46029649

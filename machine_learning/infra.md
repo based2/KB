@@ -119,6 +119,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://www.npmjs.com/package/tosijs-schema
+> https://news.ycombinator.com/item?id=46023531
+
 https://news.ycombinator.com/item?id=45906914
 
 https://thinkingmachines.ai/blog/announcing-tinker/

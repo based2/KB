@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=46038047
+
+https://news.ycombinator.com/item?id=46037637
+
 https://github.com/AnandChowdhary/continuous-claude
 > https://news.ycombinator.com/item?id=45938517
 

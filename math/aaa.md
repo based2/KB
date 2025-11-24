@@ -227,10 +227,15 @@ https://news.ycombinator.com/item?id=45075751
 https://transformer-circuits.pub/2025/linebreaks/index.html
 > https://news.ycombinator.com/item?id=45743105
 
+https://news.ycombinator.com/item?id=45976999
+
 # I
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/
+> https://news.ycombinator.com/item?id=46031068
+
 https://news.ycombinator.com/item?id=46009660
 
 https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/

@@ -264,6 +264,8 @@ https://news.ycombinator.com/item?id=45970338
 https://lucumr.pocoo.org/2025/11/21/agents-are-hard/
 > https://news.ycombinator.com/item?id=46013935
 
+https://news.ycombinator.com/item?id=46020096
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=39323601
 https://news.ycombinator.com/item?id=45824658
 
 #
+https://news.ycombinator.com/item?id=46027833
+
 https://news.ycombinator.com/item?id=45797242
 
 https://www.caricecars.com/

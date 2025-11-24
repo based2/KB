@@ -141,8 +141,6 @@ https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy
 https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
 > https://news.ycombinator.com/item?id=30031323
 
-
-
 # Macro
 https://www.getsynth.com/docs/blog/2021/08/09/macro
 
@@ -252,6 +250,8 @@ https://fly.io/blog/parking-lot-ffffffffffffffff/
 
 https://rfd.shared.oxide.computer/rfd/0609
 > https://news.ycombinator.com/item?id=45774086
+
+https://news.ycombinator.com/item?id=45989284
 
 ## Actor
 https://news.ycombinator.com/item?id=42030625
@@ -601,6 +601,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://blog.rust-lang.org/inside-rust/2025/11/24/this-development-cycle-in-cargo-1.92/
+
+https://news.ycombinator.com/item?id=45977386
+
 https://news.ycombinator.com/item?id=45960852
 
 https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html

@@ -135,6 +135,9 @@ https://news.ycombinator.com/item?id=45565977
 https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html
 > https://news.ycombinator.com/item?id=45810116
 
+https://svgjs.dev/docs/3.2/
+> https://news.ycombinator.com/item?id=46025477
+
 # I
 https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/
 

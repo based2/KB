@@ -42,3 +42,10 @@ https://arcprize.org/blog/r1-zero-r1-results-analysis
 https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and
 
 https://www.numerama.com/tech/1872954-deepseek-la-chine-aurait-detrone-chatgpt-avec-10-fois-moins-dargent.html
+
+# I
+https://venturebeat.com/security/deepseek-injects-50-more-security-bugs-when-prompted-with-chinese-political
+
+https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html
+
+https://www.theregister.com/2025/03/13/deepseek_malware_code/
