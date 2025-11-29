@@ -643,8 +643,18 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
-https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern
-> https://news.ycombinator.com/item?id=46032513
+https://news.ycombinator.com/item?id=46077555
+
+https://jamestown.org/prc-elites-voice-ai-skepticism/
+> https://news.ycombinator.com/item?id=46038417
+
+https://news.ycombinator.com/item?id=46072002
+
+https://news.ycombinator.com/item?id=46069048
+
+https://news.ycombinator.com/item?id=46079987
+
+https://news.ycombinator.com/item?id=46077038
 
 https://news.ycombinator.com/item?id=45961886
 

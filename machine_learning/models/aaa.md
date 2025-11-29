@@ -304,6 +304,10 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46070676
+
+https://news.ycombinator.com/item?id=46061208
+
 https://news.ycombinator.com/item?id=46029889
 
 https://news.ycombinator.com/item?id=46037343

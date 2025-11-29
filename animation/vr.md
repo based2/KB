@@ -1,3 +1,6 @@
+https://github.com/NullPxl/banrays Glasses to detect smart-glasses that have cameras
+> https://news.ycombinator.com/item?id=46075882
+
 https://store.steampowered.com/sale/steamframe
 
 https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/

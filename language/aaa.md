@@ -391,6 +391,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://lesleylai.info/en/fifty_shades_of_oop/
+> https://news.ycombinator.com/item?id=46032148
+
+https://susam.net/my-lobsters-interview.html
+> https://news.ycombinator.com/item?id=46080218
+
 https://susam.net/fizz-buzz-with-cosines.html
 > https://news.ycombinator.com/item?id=46006598
 
@@ -413,7 +419,6 @@ https://news.ycombinator.com/item?id=45782713
 
 https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf Algebraic Language for the Manipulation of Symbolic Expressions - 1958
 > https://news.ycombinator.com/item?id=45857045
-
 
 https://github.com/nynrathod/doolang
 > https://news.ycombinator.com/item?id=45797044

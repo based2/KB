@@ -256,6 +256,9 @@ https://godview.ai/
 https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
+# I
+https://old.reddit.com/r/netsec/comments/1p8wnps/cve202558360_geoserver_xxe_vulnerability_analysis/
+
 # News
 https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/
 > https://news.ycombinator.com/item?id=45680602

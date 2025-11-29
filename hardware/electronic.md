@@ -43,7 +43,11 @@ https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044
 
 # VHDL
-https://verik.io/docs/overview/ 
+https://verik.io/docs/overview/
+
+# ML
+https://netlist.io/ LLM-Powered Tool to Catch PCB Schematic Mistakes
+> https://news.ycombinator.com/item?id=46080737
 
 #
 https://news.ycombinator.com/item?id=45903995

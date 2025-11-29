@@ -56,6 +56,12 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://venam.net/blog/unix/2025/11/27/input_devices_linux.html
+> https://news.ycombinator.com/item?id=46071030
+
+https://github.com/hexagonal-sun/moss rust MIT
+> https://news.ycombinator.com/item?id=46012803
+
 https://news.ycombinator.com/item?id=45379196
 
 https://news.ycombinator.com/item?id=45327919

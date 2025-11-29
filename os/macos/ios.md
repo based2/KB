@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46063272
+
 https://news.ycombinator.com/item?id=45822302
 
 https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/

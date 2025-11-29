@@ -118,6 +118,10 @@ https://theori.io/blog/exploring-traces-63950
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://news.ycombinator.com/item?id=46076642
+
+https://news.ycombinator.com/item?id=46075320
+
 https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/
 > https://news.ycombinator.com/item?id=45992316
 

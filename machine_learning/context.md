@@ -32,3 +32,9 @@ https://mbleigh.dev/posts/context-engineering-with-links/
 > https://news.ycombinator.com/item?id=45682164
 
 https://news.ycombinator.com/item?id=45788842
+
+https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern
+> https://news.ycombinator.com/item?id=46032513
+
+https://instavm.io/blog/llm-anti-patterns
+> https://news.ycombinator.com/item?id=46080597

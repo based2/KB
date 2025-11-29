@@ -189,7 +189,14 @@ https://news.ycombinator.com/item?id=45051188
 
 https://blog.ptidej.net/cg-wfc-a-hybrid-method-for-designer-guided-replayable-game-worlds/
 
+https://news.ycombinator.com/item?id=46080835
+
 # News
+https://sbox.game/news/update-25-11-26
+> https://news.ycombinator.com/item?id=46061682
+
+https://news.ycombinator.com/item?id=46051449
+
 https://news.ycombinator.com/item?id=46011961
 
 https://news.ycombinator.com/item?id=46010329

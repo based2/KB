@@ -129,6 +129,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://github.com/asim/mu Micro Network
+> https://news.ycombinator.com/item?id=46034255
+> https://github.com/micro/go-micro
+
 https://www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/?td=keepreading
 > https://www.surveillancewatch.io/
 

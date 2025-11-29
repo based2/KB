@@ -262,6 +262,9 @@ https://news.ycombinator.com/item?id=44825146
 # concurrencyngs
 
 # News
+https://github.com/Dancode-188/synckit
+> https://news.ycombinator.com/item?id=46069598
+
 https://news.ycombinator.com/item?id=46036614
 
 https://news.ycombinator.com/item?id=45854862

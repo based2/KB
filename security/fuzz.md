@@ -16,6 +16,8 @@ https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-hand
 https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
 
 #
+https://news.ycombinator.com/item?id=46077964
+
 https://www.synacktiv.com/publications/fuzzing-confused-dependencies-with-depfuzzer
 
 https://appsec.guide/docs/fuzzing/c-cpp/libafl/

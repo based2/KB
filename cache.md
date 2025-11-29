@@ -40,6 +40,10 @@ https://github.com/s2-streamstore/cachey Read-Through Cache for S3
 
 # cache invalidation
 
+# I
+https://herish.me/blog/cache-poisoning-case-studies-part-1-foundational-attacks/
+> https://old.reddit.com/r/netsec/comments/1p9oick/analysis_of_8_foundational_cache_poisoning/
+
 # News
 https://github.com/blackbird-io/blackbird Ultra-low latency via UCX (RDMA), intelligent tiering across GPU/CPU/NVMe, and automatic failover with etcd
 

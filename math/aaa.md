@@ -233,6 +233,18 @@ https://news.ycombinator.com/item?id=45976999
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=46084122
+
+https://news.ycombinator.com/item?id=46084535
+
+https://news.ycombinator.com/item?id=46085585
+
+https://news.ycombinator.com/item?id=46049932
+
+https://news.ycombinator.com/item?id=45998044
+
+http://xahlee.info/math_software/mathPrograms.html
+
 https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/
 > https://news.ycombinator.com/item?id=46031068
 

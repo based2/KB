@@ -123,6 +123,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/
+
+https://news.ycombinator.com/item?id=46039274
+
 https://www.wreflection.com/p/command-lines-ai-coding
 > https://news.ycombinator.com/item?id=46006004
 

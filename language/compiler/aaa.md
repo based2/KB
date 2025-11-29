@@ -164,6 +164,8 @@ https://news.ycombinator.com/item?id=45560863
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://news.ycombinator.com/item?id=46065698
+
 https://news.ycombinator.com/item?id=46020151
 
 https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html

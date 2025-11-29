@@ -358,6 +358,8 @@ https://simonwillison.net/2024/Sep/24/nanodjango/
 
 https://news.ycombinator.com/item?id=43814716
 
+https://news.ycombinator.com/item?id=46083051
+
 # Interop
 https://news.ycombinator.com/item?id=35651791 go
 

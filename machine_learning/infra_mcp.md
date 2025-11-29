@@ -134,6 +134,8 @@ https://github.com/cisco-ai-defense/mcp-scanner
 
 https://news.ycombinator.com/item?id=45917182
 
+https://github.com/ssakone/pb_mcp_server
+
 # Incidents
 https://www.oligo.security/blog/critical-rce-vulnerability-in-anthropic-mcp-inspector-cve-2025-49596
 

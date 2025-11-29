@@ -34,6 +34,9 @@ https://www.praetorian.com/blog/ghost-calls-abusing-web-conferencing-for-covert-
 https://www.praetorian.com/blog/ghost-calls-abusing-web-conferencing-for-covert-command-control-part-1-of-2/
 
 # News
+https://molly.im/
+> https://news.ycombinator.com/item?id=46080916
+
 https://github.com/IsmaelMartinez/teams-for-linux
 > https://news.ycombinator.com/item?id=45808407
 

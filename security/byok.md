@@ -76,3 +76,6 @@ https://lwn.net/Articles/877607/ FIPS-compliant random numbers for the kernel
 https://www.theregister.com/2023/06/30/confidential_computing_standards/
 
 https://www.smartcard-hsm.com/2024/02/24/Key_Attestation_explained.html
+
+https://keymaterial.net/2025/11/27/ml-kem-mythbusting/
+> https://news.ycombinator.com/item?id=46074183

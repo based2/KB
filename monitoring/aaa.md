@@ -81,6 +81,8 @@ https://news.ycombinator.com/item?id=38659073
 
 https://news.ycombinator.com/item?id=39217000
 
+https://news.ycombinator.com/item?id=46068138
+
 #
 https://eng.lyft.com/building-a-large-scale-unsupervised-model-anomaly-detection-system-part-1-aca4766a823c
 > https://news.ycombinator.com/item?id=35658173

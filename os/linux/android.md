@@ -2,6 +2,8 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://news.ycombinator.com/item?id=46037591
+
 https://news.ycombinator.com/item?id=45963001
 
 http://android-developers.googleblog.com/2025/11/raising-bar-on-battery-performance.html

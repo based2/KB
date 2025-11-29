@@ -1,3 +1,6 @@
+https://blog.yakkomajuri.com/blog/local-rag
+> https://news.ycombinator.com/item?id=46080364
+
 https://blog.mozilla.ai/llamafile-returns/
 > https://news.ycombinator.com/item?id=45753850
 

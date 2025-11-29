@@ -18,5 +18,8 @@ https://arxiv.org/abs/2508.10003
 
 https://news.ycombinator.com/item?id=45775988
 
+https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset
+> https://news.ycombinator.com/item?id=46081053
+
 # I
 https://news.ycombinator.com/item?id=44185158

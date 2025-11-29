@@ -63,6 +63,8 @@ https://www.theinterface.com/
 https://news.ycombinator.com/item?id=45730094
 
 # News
+https://news.ycombinator.com/item?id=46080972
+
 https://www.simpleguide.net/serflings.xhtml
 > https://news.ycombinator.com/item?id=46013132
 

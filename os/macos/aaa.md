@@ -543,6 +543,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://news.ycombinator.com/item?id=46061239
+
 https://news.ycombinator.com/item?id=45706901
 
 https://news.ycombinator.com/item?id=45556536

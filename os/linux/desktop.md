@@ -99,6 +99,8 @@ https://labwc.github.io/ Wlroots-based window-stacking compositor for Wayland, i
 
 https://news.ycombinator.com/item?id=45736925
 
+https://news.ycombinator.com/item?id=46045207
+
 # Mac
 https://www.gitclear.com/blog/linux_touchpad_update_january_2023
 > https://news.ycombinator.com/item?id=34300973

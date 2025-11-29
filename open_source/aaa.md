@@ -261,6 +261,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=46064210
+
+https://news.ycombinator.com/item?id=46078770
+
 https://news.ycombinator.com/item?id=45947639
 
 https://www.fsf.org/events/fsf40-hackathon

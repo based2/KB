@@ -79,6 +79,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://keeperfx.net/news/21/2025-11-28/keeperfx-130-released
+
 https://news.ycombinator.com/item?id=45995740
 
 https://news.ycombinator.com/item?id=45899077

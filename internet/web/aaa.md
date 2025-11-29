@@ -98,6 +98,12 @@ https://houdini.how/about/
 
 https://github.com/codrops/SlideshowAnimations/
 
+https://github.com/MartenBE/mkslides
+> https://news.ycombinator.com/item?id=46068847
+
+https://github.com/Skarlso/adventure-voter
+> https://news.ycombinator.com/item?id=46004895
+
 # Scraper
 https://github.com/speakol-ads/scrapy-x
 

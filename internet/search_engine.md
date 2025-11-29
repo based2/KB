@@ -57,6 +57,8 @@ https://www.pinecone.io/learn/clip-image-search/
 
 https://ddmm.ai/
 
+https://news.ycombinator.com/item?id=46087549
+
 # Audio
 https://github.com/jina-ai/examples/tree/master/audio-ews
 

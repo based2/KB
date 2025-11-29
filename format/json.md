@@ -282,3 +282,6 @@ https://news.ycombinator.com/item?id=45182770
 https://news.ycombinator.com/item?id=45324349
 
 https://news.ycombinator.com/item?id=45732552
+
+https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/
+> https://news.ycombinator.com/item?id=46080769

@@ -116,6 +116,10 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://socket.dev/blog/north-korea-contagious-interview-npm-attacks
+
+https://news.ycombinator.com/item?id=46070203
+
 https://www.endorlabs.com/learn/the-great-indonesian-tea-theft-analyzing-a-npm-spam-campaign
 
 https://aws.amazon.com/en/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/

@@ -203,6 +203,8 @@ https://trevorklee.com/how-to-spot-a-good-fake-id/
 https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/
 > https://news.ycombinator.com/item?id=33277371
 
+https://news.ycombinator.com/item?id=46069053
+
 # Book
 https://people.scs.carleton.ca/~paulv/toolsjewels.html
 

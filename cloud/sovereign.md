@@ -1,5 +1,11 @@
 https://www.iso.org/standard/83757.html  ISO/IEC TS 10866:2024 Information technology — Cloud computing and distributed platforms — Framework and concepts for organizational autonomy and digital sovereignty
 
+https://gaia-x.eu/
+
+https://news.ycombinator.com/item?id=46077885
+
+https://news.ycombinator.com/item?id=46079721
+
 https://www.theregister.com/2025/11/07/microsoft_announces_strengthening_of_sovereignty/?td=rt-3a
 
 https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf

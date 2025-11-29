@@ -157,3 +157,6 @@ https://github.com/freenet/locutus
 > https://news.ycombinator.com/item?id=36007984
 
 https://news.ycombinator.com/item?id=38794733
+
+https://github.com/JB-SelfCompany/Tyr
+> https://news.ycombinator.com/item?id=46080143

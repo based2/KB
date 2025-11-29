@@ -7,5 +7,7 @@ https://docs.r-wasm.org/webr/latest/
 
 https://news.ycombinator.com/item?id=44006735
 
+https://news.ycombinator.com/item?id=46035126
+
 # ML
 https://news.ycombinator.com/item?id=44638510

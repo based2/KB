@@ -579,4 +579,6 @@ https://techcrunch.com/2021/08/11/facebook-engineers-develop-new-open-source-tim
 https://gitlab.com/gpsd/gpsd/-/issues/144 GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)
 > https://news.ycombinator.com/item?id=28041062
 
+https://www.benjoffe.com/fast-date-64
+> https://news.ycombinator.com/item?id=46020193
 

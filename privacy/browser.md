@@ -49,6 +49,8 @@ https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://news.ycombinator.com/item?id=46037031
+
 https://news.ycombinator.com/item?id=46016249
 
 https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/
