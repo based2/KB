@@ -21,6 +21,8 @@ https://outage.sr.ht/
 > > https://news.ycombinator.com/item?id=38939532
 
 # News
+https://news.ycombinator.com/item?id=46096800
+
 https://news.ycombinator.com/item?id=45620333
 
 https://forgefed.org/ federation protocol for software forges

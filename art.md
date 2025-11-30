@@ -52,6 +52,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://news.ycombinator.com/item?id=46092478
+
 https://news.ycombinator.com/item?id=45728975
 
 https://www.si.edu/openaccess

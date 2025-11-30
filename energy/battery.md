@@ -10,6 +10,14 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/
+> https://news.ycombinator.com/item?id=46073855
+
+https://www.lumafield.com/first-article/posts/behind-the-battery-report
+
+https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones
+> https://news.ycombinator.com/item?id=46071317
+
 https://news.ycombinator.com/item?id=46079152
 
 https://news.ycombinator.com/item?id=45475556

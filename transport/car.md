@@ -21,6 +21,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7
+
 https://news.ycombinator.com/item?id=46080161
 
 https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login
@@ -63,6 +65,10 @@ https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
 # News
+https://news.ycombinator.com/item?id=46100214
+
+https://news.ycombinator.com/item?id=46089971
+
 https://www.youtube.com/watch?v=ntLTbt8CnEA Carlos Ghosn
 
 https://news.ycombinator.com/item?id=45615237

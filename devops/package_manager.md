@@ -116,6 +116,9 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem
+> https://news.ycombinator.com/item?id=46057141
+
 https://socket.dev/blog/north-korea-contagious-interview-npm-attacks
 
 https://news.ycombinator.com/item?id=46070203

@@ -276,6 +276,8 @@ https://news.ycombinator.com/item?id=45496533
 
 https://ai.meta.com/blog/practical-ai-agent-security/
 
+https://news.ycombinator.com/item?id=46055942
+
 # I
 https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
 > https://news.ycombinator.com/item?id=45794245

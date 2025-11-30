@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.forbes.com/sites/zakdoffman/2025/11/30/israels-idf-bans-android-to-stop-hackers-iphones-mandatory/
+
 https://www.theregister.com/2025/11/05/tanzania_internet_outage/
 
 https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/

@@ -22,6 +22,9 @@ https://tabula.technology/
 # Sec
 https://news.ycombinator.com/item?id=42401904
 
+# ML
+https://news.ycombinator.com/item?id=46090619
+
 # Incidents
 https://medium.com/@brun0ne/rce-via-a-malicious-svg-in-mpdf-216e613b250b
 

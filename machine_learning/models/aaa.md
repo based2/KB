@@ -304,6 +304,10 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://zenodo.org/records/17764289
+> https://news.ycombinator.com/item?id=46089764
+> https://github.com/dwallener/EntropicaPublic/tree/main
+
 https://news.ycombinator.com/item?id=46070676
 
 https://news.ycombinator.com/item?id=46061208

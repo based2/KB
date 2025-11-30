@@ -132,7 +132,9 @@ https://depth-first.com/articles/2021/09/07/a-rust-postgresql-extension-for-cas-
 
 https://postgrest.org/en/v9.0/releases/v9.0.0.html
 > https://news.ycombinator.com/item?id=29389576
-> https://github.com/PostgREST/postgrest 
+> https://github.com/PostgREST/postgrest
+
+https://www.pgelephant.com/blog/pg-stat-insights
 
 # Security
 https://goteleport.com/blog/securing-postgres-postgresql/

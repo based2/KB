@@ -2,6 +2,9 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://github.com/nfcgate/nfcgate/issues/164
+> https://news.ycombinator.com/item?id=46093766
+
 https://news.ycombinator.com/item?id=46037591
 
 https://news.ycombinator.com/item?id=45963001

@@ -343,6 +343,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://safari.ethz.ch/ddca/spring2025/doku.php?id=start
+> https://news.ycombinator.com/item?id=46098747
+
 https://news.ycombinator.com/item?id=46082223
 
 https://www.infoq.com/articles/scaling-reverse-proxies/

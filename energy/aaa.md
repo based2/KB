@@ -34,6 +34,10 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=46099592
+
+https://news.ycombinator.com/item?id=46096921
+
 https://news.ycombinator.com/item?id=45944056
 
 https://www.theguardian.com/environment/2025/oct/31/scientists-invent-roof-coating-reduce-indoor-temperatures-hot-days

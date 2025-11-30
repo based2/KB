@@ -1,5 +1,7 @@
 # llama Facebook - Forbids commercial use, weights required
 
+https://flipper.prose.sh/ollama
+
 https://news.ycombinator.com/item?id=45788042
 
 https://docs.ollama.com/web-search

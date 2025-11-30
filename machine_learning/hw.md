@@ -6,6 +6,8 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://news.ycombinator.com/item?id=46047052
+
 https://news.ycombinator.com/item?id=46074111
 
 https://jamesakl.com/posts/cuda-ontology/

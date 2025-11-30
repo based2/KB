@@ -13,6 +13,8 @@ https://openssf.org/press-release/2022/10/25/sigstore-announces-general-availabi
 https://news.ycombinator.com/item?id=45964835
 
 #
+https://linuxfr.org/news/ackify-ce-preuve-de-lecture-cryptographique-en-go-vue3
+
 https://www.synacktiv.com/publications/transition-post-quantique-lhybridation-des-signatures
 
 https://news.ycombinator.com/item?id=42990948

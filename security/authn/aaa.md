@@ -77,6 +77,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # Incidents
+https://unit42.paloaltonetworks.com/authentication-coercion/
+
 https://www.bleepingcomputer.com/news/security/phishers-abuse-google-oauth-to-spoof-google-in-dkim-replay-attack/
 
 https://news.ycombinator.com/item?id=42992368

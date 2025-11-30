@@ -1,3 +1,6 @@
+https://nvd.nist.gov/vuln/detail/CVE-2025-12816 node-forge
+> https://github.com/digitalbazaar/forge JS TLS
+
 https://old.reddit.com/r/crypto/comments/1nwm4y0/wiretap_breaking_server_sgx_via_dram_bus/
 
 https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation

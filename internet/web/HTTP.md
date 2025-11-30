@@ -225,6 +225,9 @@ https://http1mustdie.com/
 https://news.ycombinator.com/item?id=44666896
 
 # News
+https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html
+> https://news.ycombinator.com/item?id=46056954 query
+
 https://news.ycombinator.com/item?id=45857312
 
 https://news.ycombinator.com/item?id=45085446

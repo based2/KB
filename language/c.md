@@ -81,6 +81,8 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=46090009
+
 https://news.ycombinator.com/item?id=46028649
 
 https://news.ycombinator.com/item?id=45937518

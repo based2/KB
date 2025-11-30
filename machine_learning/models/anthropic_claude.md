@@ -1,3 +1,6 @@
+https://www.humanlayer.dev/blog/writing-a-good-claude-md
+> https://news.ycombinator.com/item?id=46098838
+
 https://news.ycombinator.com/item?id=46038047
 
 https://news.ycombinator.com/item?id=46037637

@@ -151,6 +151,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/grigio/network-monitor
+> https://news.ycombinator.com/item?id=46032074
+> https://nmap.org/book/zenmap-topology.html
+> https://github.com/pythops/oryx
+
 https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/
 > https://news.ycombinator.com/item?id=45954638
 

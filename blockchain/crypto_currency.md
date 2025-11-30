@@ -78,6 +78,8 @@ https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-eth
 https://www.bleepingcomputer.com/news/security/fbi-links-north-korean-hackers-to-308-million-crypto-heist/
 
 # News
+https://news.ycombinator.com/item?id=46095363
+
 https://news.ycombinator.com/item?id=46038868
 
 https://news.ycombinator.com/item?id=46087029

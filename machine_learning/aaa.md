@@ -643,6 +643,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=46098992
+
+https://thinkinggamefilm.com/
+> https://news.ycombinator.com/item?id=46097773
+
 https://news.ycombinator.com/item?id=46077555
 
 https://jamestown.org/prc-elites-voice-ai-skepticism/

@@ -38,3 +38,6 @@ https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles
 
 https://instavm.io/blog/llm-anti-patterns
 > https://news.ycombinator.com/item?id=46080597
+
+https://arxiv.org/abs/2211.12588
+> https://news.ycombinator.com/item?id=46099108

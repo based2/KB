@@ -391,6 +391,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=46070537
+
 https://lesleylai.info/en/fifty_shades_of_oop/
 > https://news.ycombinator.com/item?id=46032148
 

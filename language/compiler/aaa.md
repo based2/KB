@@ -106,6 +106,8 @@ https://news.ycombinator.com/item?id=45084111
 
 https://myhsu.xyz/llvm-machine-scheduler-2/
 
+https://news.ycombinator.com/item?id=46098359
+
 ## Clang
 https://reviews.llvm.org/D108643
 

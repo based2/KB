@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://boing.greg.technology/
+> https://news.ycombinator.com/item?id=46093473
+
 https://news.ycombinator.com/item?id=45909059
 
 https://news.ycombinator.com/item?id=45881568
