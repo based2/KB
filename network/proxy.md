@@ -34,6 +34,9 @@ https://github.com/flipt-io/reverst go
 # App
 https://openreplay.com/
 
+# Incidents
+https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/
+
 # News
 https://news.ycombinator.com/item?id=45795511
 

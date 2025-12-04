@@ -198,5 +198,8 @@ https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs
 
 https://news.ycombinator.com/item?id=45182418
 
+https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00
+> https://news.ycombinator.com/item?id=46123238
+
 # GC
 https://news.ycombinator.com/item?id=45744395

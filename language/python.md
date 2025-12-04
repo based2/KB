@@ -373,6 +373,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # Incidents
+https://news.ycombinator.com/item?id=46137746 Poetry
+
 https://www.upwind.io/feed/cve-2024-12718-path-escape-via-pythons-tarfile-extraction-filters
 
 https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329

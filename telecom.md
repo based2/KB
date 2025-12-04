@@ -155,6 +155,13 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/
+
+https://www.nbcnews.com/tech/security/text-scam-phone-sms-hack-message-fake-transaction-call-new-york-rcna243349
+
+https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/
+> https://news.ycombinator.com/item?id=46104193
+
 https://www.forbes.com/sites/zakdoffman/2025/11/30/israels-idf-bans-android-to-stop-hackers-iphones-mandatory/
 
 https://www.theregister.com/2025/11/05/tanzania_internet_outage/

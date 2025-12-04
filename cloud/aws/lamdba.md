@@ -75,6 +75,10 @@ https://github.com/aws-samples/aws-lambda-unit-test-example
 https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
 
 # News
+https://news.ycombinator.com/item?id=46119214
+
+https://aws.amazon.com/en/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/
+
 https://aws.amazon.com/en/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/
 
 https://aws.amazon.com/en/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/

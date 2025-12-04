@@ -30,6 +30,9 @@ https://ducklake.select/
 
 https://lakefs.io/blog/how-we-built-lakefs-iceberg-catalog/
 
+https://github.com/marmotdata/marmot
+> https://news.ycombinator.com/item?id=46121860
+
 # Data Lake Ligthhouse
 https://amoro.apache.org/
 

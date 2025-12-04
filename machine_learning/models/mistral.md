@@ -1,3 +1,6 @@
+https://mistral.ai/news/mistral-3
+> https://news.ycombinator.com/item?id=46121889
+
 https://news.ycombinator.com/item?id=45178041
 
 https://news.ycombinator.com/item?id=45125859

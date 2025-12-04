@@ -141,6 +141,8 @@ https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificat
 
 https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/
 
+https://news.ycombinator.com/item?id=46117126
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 

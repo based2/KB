@@ -15,6 +15,8 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://blog.cloudflare.com/ddos-threat-report-2025-q3/
+
 https://news.ycombinator.com/item?id=45944870
 
 https://www.owl.is/blogg/blocking-crawlers-without-javascript/

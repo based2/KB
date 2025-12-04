@@ -221,7 +221,13 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 https://github.com/brimdata/react-arborist
 
+### Incidents
+https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp RCE Vulnerability in React and Next.js
+> https://news.ycombinator.com/item?id=46136026
+
 ### News
+https://news.ycombinator.com/item?id=46111449
+
 https://jfrog.com/blog/CVE-2025-11953-critical-react-native-community-cli-vulnerability/
 
 https://news.ycombinator.com/item?id=45702558

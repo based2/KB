@@ -3,6 +3,8 @@ https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 https://news.ycombinator.com/item?id=42088996
 
 #
+https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/
+
 https://www.welivesecurity.com/en/kids-online/minecraft-mods-minefield-risks/
 
 https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/

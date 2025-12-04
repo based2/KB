@@ -601,6 +601,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://purplesyringa.moe/blog/a-look-at-rust-from-2012/
+> https://news.ycombinator.com/item?id=46050855
+
 https://news.ycombinator.com/item?id=46082291
 
 https://blog.rust-lang.org/inside-rust/2025/11/24/this-development-cycle-in-cargo-1.92/

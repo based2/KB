@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://bou.ke/blog/rust-ping/
+> https://news.ycombinator.com/item?id=46118432
+
 https://github.com/grigio/network-monitor
 > https://news.ycombinator.com/item?id=46032074
 > https://nmap.org/book/zenmap-topology.html

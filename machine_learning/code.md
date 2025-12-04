@@ -123,6 +123,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro
+
 https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/
 
 https://news.ycombinator.com/item?id=46039274

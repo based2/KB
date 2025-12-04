@@ -60,6 +60,8 @@ https://workflows.diagrid.io/ Turn any workflow diagram into compilable, running
 
 https://news.ycombinator.com/item?id=45813767
 
+https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language
+
 #
 https://conceptviz.app/
 

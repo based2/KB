@@ -233,6 +233,15 @@ https://news.ycombinator.com/item?id=45976999
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://www.quantamagazine.org/what-are-lie-groups-20251203/
+> https://news.ycombinator.com/item?id=46138632
+
+https://news.ycombinator.com/item?id=46137253
+
+https://news.ycombinator.com/item?id=46121951
+
+https://news.ycombinator.com/item?id=46116724
+
 https://news.ycombinator.com/item?id=46098979
 
 https://news.ycombinator.com/item?id=46090269

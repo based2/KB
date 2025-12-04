@@ -147,6 +147,15 @@ https://news.ycombinator.com/item?id=43793288
 
 https://news.ycombinator.com/item?id=43893601
 
+https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92
+> https://news.ycombinator.com/item?id=46052478
+> > http://glicol.org/
+
+https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/
+> https://news.ycombinator.com/item?id=46118722
+
+https://news.ycombinator.com/item?id=46072280
+
 ## MIDI
 https://news.ycombinator.com/item?id=43180977
 

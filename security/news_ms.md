@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/
+
 https://research.eye.security/rce-windows-update-health-tools/
 > https://old.reddit.com/r/netsec/comments/1p1wuc7/when_updates_backfire_rce_in_windows_update/
 

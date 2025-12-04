@@ -3,6 +3,10 @@ https://www.simutrans.com/en/
 
 https://news.ycombinator.com/item?id=39323601
 
+# ML
+https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/
+> https://news.ycombinator.com/item?id=46110395
+
 # I
 https://news.ycombinator.com/item?id=45824658
 

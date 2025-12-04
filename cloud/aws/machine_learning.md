@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46125155
+
 https://www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/
 
 https://bigscience.huggingface.co/blog/bloom

@@ -1,3 +1,9 @@
+https://simonwillison.net/2025/Dec/2/claude-soul-document/
+> https://news.ycombinator.com/item?id=46125184
+
+https://bun.com/blog/bun-joins-anthropic
+> https://news.ycombinator.com/item?id=46124267
+
 https://www.humanlayer.dev/blog/writing-a-good-claude-md
 > https://news.ycombinator.com/item?id=46098838
 

@@ -116,6 +116,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://pulse.latio.tech/p/shai-hulud-20-analysis-and-community
+
 https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem
 > https://news.ycombinator.com/item?id=46057141
 

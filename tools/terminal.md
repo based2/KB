@@ -52,6 +52,10 @@ https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Re
 > https://news.ycombinator.com/item?id=42579472
 
 # News
+https://news.ycombinator.com/item?id=46135067
+
+https://news.ycombinator.com/item?id=46110842
+
 https://github.com/NSPC911/rovr
 
 https://www.jeffquast.com/post/state-of-terminal-emulation-2025/

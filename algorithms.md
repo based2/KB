@@ -135,6 +135,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://zayenz.se/blog/post/partridge-packing/
+
 https://news.ycombinator.com/item?id=45686919
 
 https://news.ycombinator.com/item?id=44817979

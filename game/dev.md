@@ -192,6 +192,11 @@ https://blog.ptidej.net/cg-wfc-a-hybrid-method-for-designer-guided-replayable-ga
 https://news.ycombinator.com/item?id=46080835
 
 # News
+https://news.ycombinator.com/item?id=46135627
+
+https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/
+> https://news.ycombinator.com/item?id=46122518
+
 https://sbox.game/news/update-25-11-26
 > https://news.ycombinator.com/item?id=46061682
 

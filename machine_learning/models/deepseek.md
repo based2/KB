@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=46108780
+
+https://news.ycombinator.com/item?id=46105079
+
 https://api-docs.deepseek.com/news/news250929
 > https://arstechnica.com/ai/2025/09/deepseek-tests-sparse-attention-to-slash-ai-processing-costs/
 

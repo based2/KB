@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46094606
+
 https://huggingface.co/inclusionAI/Ling-1T
 
 https://github.com/Alibaba-NLP/DeepResearch

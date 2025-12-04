@@ -131,6 +131,9 @@ https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://www.businessinsider.com/14-year-old-origami-first-place-25000-award-science-project-2025-11
+> https://news.ycombinator.com/item?id=46106871
+
 https://news.ycombinator.com/item?id=45934619
 
 https://news.ycombinator.com/item?id=46002989
