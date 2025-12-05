@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://blog.byteray.co.uk/critical-vulnerabilities-in-rut22gw-industrial-lte-cellular-routers-f4eb8768feb7
+
 https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/
 
 https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/

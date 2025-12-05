@@ -359,6 +359,9 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://pglite.dev/
+> https://news.ycombinator.com/item?id=46146133
+
 https://github.com/sirrodgepodge/rrule_plpgsql rscale
 > https://news.ycombinator.com/item?id=45915339
 

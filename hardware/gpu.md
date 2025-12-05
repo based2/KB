@@ -18,6 +18,9 @@ https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendo
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://github.com/deepreinforce-ai/CUDA-L2
+> https://news.ycombinator.com/item?id=46153058
+
 https://news.ycombinator.com/item?id=46006616
 
 https://news.ycombinator.com/item?id=45968611

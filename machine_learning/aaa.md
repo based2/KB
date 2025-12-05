@@ -444,6 +444,10 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://jfrog.com/blog/unveiling-3-zero-day-vulnerabilities-in-picklescan/ PyTorch Users at Risk: Unveiling 3 Zero-Day PickleScan Vulnerabilities
+
+https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+
 https://embracethered.com/blog/posts/2025/wrapping-up-month-of-ai-bugs/
 
 https://horizon3.ai/attack-research/disclosures/unsafe-at-any-speed-abusing-python-exec-for-unauth-rce-in-langflow-ai/
@@ -643,6 +647,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.brendangregg.com/blog/2024-10-29/ai-flame-graphs.html
+
 https://news.ycombinator.com/item?id=46098992
 
 https://thinkinggamefilm.com/

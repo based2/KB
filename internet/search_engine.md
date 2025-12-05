@@ -49,6 +49,9 @@ https://news.ycombinator.com/item?id=39993976
 
 https://news.ycombinator.com/item?id=39996743
 
+https://github.com/sourcegraph/zoekt
+> https://news.ycombinator.com/item?id=46156718
+
 # Images
 https://github.com/emnh/PixelArtSearch/blob/master/README.md
 > https://news.ycombinator.com/item?id=26738006

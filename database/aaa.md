@@ -80,6 +80,9 @@ https://news.ycombinator.com/item?id=44070532
 https://research.google/blog/graph-foundation-models-for-relational-data/
 
 # News
+https://www.morling.dev/blog/on-idempotency-keys/
+> https://news.ycombinator.com/item?id=46106411
+
 https://news.ycombinator.com/item?id=45811447
 
 https://github.com/DavidLiedle/DriftDB Experimental append-only database with time-travel queries

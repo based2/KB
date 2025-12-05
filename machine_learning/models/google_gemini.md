@@ -1,3 +1,6 @@
+https://blog.google/technology/developers/gemini-3-pro-vision/
+> https://news.ycombinator.com/item?id=46163308
+
 https://antigravity.google/
 > https://news.ycombinator.com/item?id=45967814
 

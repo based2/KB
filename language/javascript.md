@@ -722,6 +722,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/W4G1/multithreading
+
 https://joel.drapper.me/p/morphlex/ better DOM morphing algorithm
 > https://news.ycombinator.com/item?id=45845582
 

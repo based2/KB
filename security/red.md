@@ -9,3 +9,5 @@ https://github.com/Drew-Alleman/DataSurgeon
 https://www.trustedsec.com/blog/walking-the-tightrope-maximizing-information-gathering-while-avoiding-detection-for-red-teams/
 
 https://github.com/sKillseries/kali-automation-install
+
+https://github.com/projectdiscovery

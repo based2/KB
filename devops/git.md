@@ -303,6 +303,9 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/
+> https://news.ycombinator.com/item?id=46103571
+
 https://github.com/unhappychoice/gitlogue
 > https://news.ycombinator.com/item?id=46009162
 

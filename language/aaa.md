@@ -391,6 +391,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
+> https://news.ycombinator.com/item?id=46153466
+
 https://news.ycombinator.com/item?id=46070537
 
 https://lesleylai.info/en/fifty_shades_of_oop/

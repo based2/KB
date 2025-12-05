@@ -524,6 +524,9 @@ https://news.ycombinator.com/item?id=42962020
 
 https://github.com/Speykious/cve-rs
 
+https://corrode.dev/blog/defensive-programming/
+> https://news.ycombinator.com/item?id=46163609
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

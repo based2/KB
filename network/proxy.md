@@ -38,6 +38,8 @@ https://openreplay.com/
 https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/
 
 # News
+https://news.ycombinator.com/item?id=46145902
+
 https://news.ycombinator.com/item?id=45795511
 
 https://news.ycombinator.com/item?id=44809166

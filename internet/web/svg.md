@@ -139,6 +139,9 @@ https://svgjs.dev/docs/3.2/
 > https://news.ycombinator.com/item?id=46025477
 
 # I
+https://lyra.horse/blog/2025/12/svg-clickjacking/
+> https://news.ycombinator.com/item?id=46155085
+
 https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/
 
 https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/

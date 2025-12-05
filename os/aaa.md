@@ -34,6 +34,9 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://github.com/StardustOS
+> https://news.ycombinator.com/item?id=46154344
+
 https://news.ycombinator.com/item?id=45995816
 
 https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/ Multics and AS400：DPS8M on IBM PASE for I (OS/400) (2024)

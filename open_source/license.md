@@ -94,6 +94,9 @@ https://news.ycombinator.com/item?id=43041929
 
 https://news.ycombinator.com/item?id=43781888
 
+https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/
+> https://news.ycombinator.com/item?id=46166994
+
 # Incidents
 https://github.com/liquibase/liquibase/issues/7374
 > https://news.ycombinator.com/item?id=45602676

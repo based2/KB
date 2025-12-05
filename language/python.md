@@ -360,6 +360,8 @@ https://news.ycombinator.com/item?id=43814716
 
 https://news.ycombinator.com/item?id=46083051
 
+https://news.ycombinator.com/item?id=46153116
+
 # Interop
 https://news.ycombinator.com/item?id=35651791 go
 
@@ -394,6 +396,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=46150447
+
 https://news.ycombinator.com/item?id=45895100
 
 https://news.ycombinator.com/item?id=45939938

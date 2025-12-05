@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
+
 https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/
 
 https://owasp.org/Top10/2025/0x00_2025-Introduction/

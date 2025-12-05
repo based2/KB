@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/
+
 https://news.ycombinator.com/item?id=45273897
 
 https://news.ycombinator.com/item?id=43975420

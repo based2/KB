@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://www.plerion.com/blog/privilege-escalation-with-sagemaker-and-execution-roles
+
 https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/
 > https://news.ycombinator.com/item?id=45977744
 

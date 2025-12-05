@@ -151,6 +151,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://arxiv.org/abs/2008.07699 Evaluating BBRv2 on the Dropbox Edge Network
+
 https://bou.ke/blog/rust-ping/
 > https://news.ycombinator.com/item?id=46118432
 
