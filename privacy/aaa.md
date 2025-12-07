@@ -129,6 +129,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=46172380
+
 https://github.com/asim/mu Micro Network
 > https://news.ycombinator.com/item?id=46034255
 > https://github.com/micro/go-micro

@@ -13,6 +13,9 @@ https://f-droid.org/
 https://guardianproject.info/
 
 #
+https://docs.dawndrums.tn/blog/dd-rev1.1-arch/
+> https://news.ycombinator.com/item?id=46114064
+
 https://www.pcmag.com/news/keep-android-open-campaign-pushes-back-on-googles-sideloading-restrictions
 
 https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/

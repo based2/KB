@@ -103,6 +103,8 @@ https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-dow
 > https://news.ycombinator.com/item?id=43261933
 
 # News
+https://www.popsci.com/environment/fish-washing-machine-microplastic-filter/
+
 https://foxchapelresearch.substack.com/p/draft-no-green-llama-did-not-just
 > https://news.ycombinator.com/item?id=45846489
 

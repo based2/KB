@@ -2,6 +2,9 @@ https://www.iso.org/standard/83757.html  ISO/IEC TS 10866:2024 Information techn
 
 https://gaia-x.eu/
 
+# News
+https://www.itforbusiness.fr/doctrine-une-solution-dite-souveraine-hebergee-chez-aws-97825
+
 https://news.ycombinator.com/item?id=46077885
 
 https://news.ycombinator.com/item?id=46079721

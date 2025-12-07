@@ -235,6 +235,8 @@ https://arxiv.org/abs/2508.15884 Jet-Nemotron: Efficient Language Model with Pos
 
 https://news.ycombinator.com/item?id=45536694 Discrete Distribution Networks
 
+https://news.ycombinator.com/item?id=46176289
+
 # Sec
 https://news.ycombinator.com/item?id=45224219
 > https://www.sri.inf.ethz.ch/blog/k2think

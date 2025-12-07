@@ -1,3 +1,6 @@
+https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/
+> https://news.ycombinator.com/item?id=46080498
+
 https://simonwillison.net/2025/Dec/2/claude-soul-document/
 > https://news.ycombinator.com/item?id=46125184
 

@@ -6,6 +6,9 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://considerthebulldog.com/tte-tpu/
+> https://news.ycombinator.com/item?id=46172797 tpu
+
 https://news.ycombinator.com/item?id=46047052
 
 https://news.ycombinator.com/item?id=46074111

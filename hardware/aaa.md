@@ -128,6 +128,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # I
+https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
+> https://news.ycombinator.com/item?id=46173383
+
 https://news.ycombinator.com/item?id=46037324
 
 # News
