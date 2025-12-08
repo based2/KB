@@ -395,6 +395,9 @@ https://devblogs.microsoft.com/visualstudio/all-in-one-search-available-in-17-6/
 https://codelite.org/
 > https://news.ycombinator.com/item?id=37106296
 
+### VS incidents
+https://www.nextron-systems.com/2025/11/28/malicious-vs-code-extension-impersonating-material-icon-theme-found-in-marketplace/
+
 ##
 https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and
 

@@ -135,6 +135,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://lbjgruppen.com/en/posts/functional-quadtree-clojure
+> https://news.ycombinator.com/item?id=46147341
+
 https://zayenz.se/blog/post/partridge-packing/
 
 https://news.ycombinator.com/item?id=45686919

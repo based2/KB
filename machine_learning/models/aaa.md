@@ -306,6 +306,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://rfd.shared.oxide.computer/rfd/0576 Using LLMs at Oxide
+> https://news.ycombinator.com/item?id=46178347
+
 https://www.arcee.ai/blog/the-trinity-manifesto
 > https://news.ycombinator.com/item?id=46115682
 

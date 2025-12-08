@@ -233,6 +233,9 @@ https://news.ycombinator.com/item?id=45976999
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://www.jstor.org/stable/20026529?seq=1 Mathematics Without Numbers - 1959
+> https://news.ycombinator.com/item?id=46116007
+
 https://www.quantamagazine.org/what-are-lie-groups-20251203/
 > https://news.ycombinator.com/item?id=46138632
 

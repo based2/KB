@@ -1,3 +1,5 @@
+https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-australia-and-partners-author-joint-guidance-securely-integrating-artificial-intelligence
+
 https://github.com/ojayballer/ECHOLOCK?tab=readme-ov-file#model-selection
 
 https://github.com/trailofbits/buttercup

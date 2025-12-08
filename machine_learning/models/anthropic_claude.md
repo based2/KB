@@ -165,6 +165,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://www.catonetworks.com/blog/cato-ctrl-weaponizing-claude-skills-with-medusalocker/
+
 https://www.anthropic.com/news/disrupting-AI-espionage
 > https://news.ycombinator.com/item?id=45918638
 

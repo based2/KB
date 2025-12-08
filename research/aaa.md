@@ -55,6 +55,8 @@ https://agents4science.stanford.edu/
 
 https://news.ycombinator.com/item?id=45501326
 
+https://news.ycombinator.com/item?id=46181466 At least 50 hallucinated citations found in ICLR 2026 submissions
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

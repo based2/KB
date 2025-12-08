@@ -72,7 +72,10 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
-https://news.ycombinator.com/item?id=46113682
+https://news.ycombinator.com/item?id=46085753
+
+https://browsewithnook.com/
+> https://news.ycombinator.com/item?id=46170402
 
 https://www.theregister.com/2025/11/18/servo_002_arrives/
 

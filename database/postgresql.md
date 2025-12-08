@@ -359,6 +359,9 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://habr.com/en/companies/postgrespro/articles/504498/ Locks
+> https://news.ycombinator.com/item?id=46182496
+
 https://pglite.dev/
 > https://news.ycombinator.com/item?id=46146133
 

@@ -50,6 +50,8 @@ https://github.com/cbh34680/WinCse Integrating AWS S3 with Windows Explorer
 
 https://news.ycombinator.com/item?id=43735443
 
+https://news.ycombinator.com/item?id=46179928
+
 # Block Storage
 onTAP
 # SMB Microsoft

@@ -139,6 +139,8 @@ https://svgjs.dev/docs/3.2/
 > https://news.ycombinator.com/item?id=46025477
 
 # I
+https://www.theregister.com/2025/12/05/css_svg_clickjacking/
+
 https://lyra.horse/blog/2025/12/svg-clickjacking/
 > https://news.ycombinator.com/item?id=46155085
 

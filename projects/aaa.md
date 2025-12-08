@@ -143,6 +143,8 @@ https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior
 
 https://news.ycombinator.com/item?id=43873604
 
+https://news.ycombinator.com/item?id=46184229
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -179,6 +181,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://caseymuratori.com/blog_0015
+> https://news.ycombinator.com/item?id=46183091
+
 https://news.ycombinator.com/item?id=46083303
 
 https://news.ycombinator.com/item?id=46077136

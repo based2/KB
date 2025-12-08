@@ -28,7 +28,10 @@ https://www.reddit.com/r/aws/comments/yqkzax/just_released_alternat_a_high_avail
 https://www.awsistoohard.com/blog/self-hosting-nat-gateway
 > https://news.ycombinator.com/item?id=45955824
 
-# I
+https://www.a6n.co.uk/2025/06/cgnat-hidden-killer-of-home-web-server.html
+> chttps://news.ycombinator.com/item?id=46174222
+
+# Incidents
 https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/
 > https://news.ycombinator.com/item?id=45977744
 

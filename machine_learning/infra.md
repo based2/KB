@@ -119,6 +119,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/Kapodeistria/ai-output-format-catalog
+> https://news.ycombinator.com/item?id=46185733
+
 https://www.npmjs.com/package/tosijs-schema
 > https://news.ycombinator.com/item?id=46023531
 

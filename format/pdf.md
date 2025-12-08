@@ -26,6 +26,8 @@ https://news.ycombinator.com/item?id=42401904
 https://news.ycombinator.com/item?id=46090619
 
 # Incidents
+https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html Apache Tika
+
 https://medium.com/@brun0ne/rce-via-a-malicious-svg-in-mpdf-216e613b250b
 
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367

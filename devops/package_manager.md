@@ -116,6 +116,10 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://socket.dev/blog/malicious-crate-mimicking-finch-exfiltrates-credentials
+
+https://socket.dev/blog/malicious-go-packages-impersonate-googles-uuid-library-and-exfiltrate-data
+
 https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/
 
 https://slcyber.io/research-center/high-fidelity-detection-mechanism-for-rsc-next-js-rce-cve-2025-55182-cve-2025-66478/

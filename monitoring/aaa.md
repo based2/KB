@@ -129,6 +129,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/observIQ/otel-distro-builder
+> https://news.ycombinator.com/item?id=46177664
+
 https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view
 > https://news.ycombinator.com/item?id=45809835
 

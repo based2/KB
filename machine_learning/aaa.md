@@ -289,52 +289,6 @@ https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.
 https://github.com/mlc-ai/web-llm
 > https://news.ycombinator.com/item?id=35583349
 
-# Legal
-https://news.ycombinator.com/item?id=43018251
-
-https://news.ycombinator.com/item?id=42916849
-
-https://news.ycombinator.com/item?id=38373191
-
-https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination
-> https://news.ycombinator.com/item?id=31365053
-
-https://news.ycombinator.com/item?id=38472367
-
-https://news.ycombinator.com/item?id=38460325
-
-https://news.ycombinator.com/item?id=38579170
-
-https://news.ycombinator.com/item?id=38615280
-
-https://news.ycombinator.com/item?id=38744785
-
-https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation
-> https://news.ycombinator.com/item?id=38795009
-
-https://news.ycombinator.com/item?id=38896259
-
-https://www.bleepingcomputer.com/news/technology/investment-advisers-pay-400k-to-settle-ai-washing-charges/
-
-https://www.theregister.com/2024/05/03/uk_lords_llm_copyright/?td=rt-3a
-
-https://news.ycombinator.com/item?id=40515620
-
-https://news.ycombinator.com/item?id=40708720
-
-https://news.ycombinator.com/item?id=40919253
-
-https://news.ycombinator.com/item?id=42971446
-
-https://news.ycombinator.com/item?id=43517585
-
-https://news.ycombinator.com/item?id=44185913
-
-https://tech.slashdot.org/story/25/07/25/0133216/american-airlines-chief-blasts-deltas-ai-pricing-plans-as-inappropriate
-
-https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/
-> https://news.ycombinator.com/item?id=45418428
-
 # History
 https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/
 > https://news.ycombinator.com/item?id=44146339
@@ -444,6 +398,8 @@ https://news.ycombinator.com/item?id=41519502
 https://news.ycombinator.com/item?id=42404447
 
 # Incidents
+https://news.ycombinator.com/item?id=46178108
+
 https://jfrog.com/blog/unveiling-3-zero-day-vulnerabilities-in-picklescan/ PyTorch Users at Risk: Unveiling 3 Zero-Day PickleScan Vulnerabilities
 
 https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
@@ -647,6 +603,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going
+> https://news.ycombinator.com/item?id=46183011
+
 https://www.brendangregg.com/blog/2024-10-29/ai-flame-graphs.html
 
 https://news.ycombinator.com/item?id=46098992

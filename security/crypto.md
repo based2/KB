@@ -245,6 +245,9 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # News
+https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781
+> https://old.reddit.com/r/crypto/comments/1pca3r8/introducing_constanttime_support_for_llvm_to/
+
 https://blog.cr.yp.to/20251123-dodging.html
 > https://news.ycombinator.com/item?id=46033151
 

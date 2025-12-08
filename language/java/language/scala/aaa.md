@@ -109,6 +109,8 @@ https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://scala-lang.org/blog/2025/11/26/scaladays-2025-review-video-announcement.html
+
 https://news.ycombinator.com/item?id=46090294
 
 https://github.com/mattlianje/etl4s

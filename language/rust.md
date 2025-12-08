@@ -416,6 +416,8 @@ https://news.ycombinator.com/item?id=43991221
 
 https://news.ycombinator.com/item?id=45695483
 
+https://news.ycombinator.com/item?id=46178442 to C
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799
@@ -568,7 +570,7 @@ https://dtolnay.github.io/rust-quiz/33
 # Profiling
 https://news.ycombinator.com/item?id=41828611
 
-# ml
+# ML
 https://github.com/huggingface/candle
 
 # History

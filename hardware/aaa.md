@@ -134,6 +134,12 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://sam.zeloof.xyz/second-ic/ Lithographically fabricated IC in a garage fab
+> https://news.ycombinator.com/item?id=46178789
+
+https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal
+> https://news.ycombinator.com/item?id=46169224
+
 https://www.businessinsider.com/14-year-old-origami-first-place-25000-award-science-project-2025-11
 > https://news.ycombinator.com/item?id=46106871
 

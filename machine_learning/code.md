@@ -92,7 +92,15 @@ https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 
 https://news.ycombinator.com/item?id=44985207
 
-# I
+# Incidents
+https://maccarita.com/posts/idesaster/
+> https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html
+> > https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents
+
+https://research.checkpoint.com/2025/openai-codex-cli-command-injection-vulnerability/
+
+https://www.straiker.ai/blog/from-inbox-to-wipeout-perplexity-comets-ai-browser-quietly-erasing-google-drive
+
 https://baldur.dk/blog/vibecoding-and-the-illusion-of-security.html
 > https://old.reddit.com/r/netsec/comments/1oh9mr4/vibecoding_and_the_illusion_of_security/
 
@@ -123,6 +131,12 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude
+>
+
+https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop
+> https://news.ycombinator.com/item?id=46175662
+
 https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro
 
 https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/

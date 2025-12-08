@@ -225,6 +225,10 @@ https://github.com/brimdata/react-arborist
 https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp RCE Vulnerability in React and Next.js
 > https://news.ycombinator.com/item?id=46136026
 
+https://www.bitdefender.com/en-us/blog/businessinsights/advisory-react2shell-critical-unauthenticated-rce-in-react-cve-2025-55182
+
+https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html
+
 ### News
 https://news.ycombinator.com/item?id=46111449
 
@@ -722,6 +726,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=46180273
+
 https://github.com/W4G1/multithreading
 
 https://joel.drapper.me/p/morphlex/ better DOM morphing algorithm

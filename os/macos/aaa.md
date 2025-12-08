@@ -188,6 +188,9 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/
+> https://news.ycombinator.com/item?id=46181268
+
 https://fsfe.org/news/2025/news-20251105-01.en.html
 > https://news.ycombinator.com/item?id=45854441
 > > https://donatstudios.com/mac-terminal-run-unsigned-binaries

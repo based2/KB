@@ -84,6 +84,9 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://www.linkedin.com/posts/jgamblin_42697-cves-and-counting-data-through-activity-7401277503987838977-45WV
+> https://socket.dev/blog/november-cves-fell-25-yoy-driven-by-slowdowns-at-major-cnas
+
 https://cacm.acm.org/opinion/stop-using-vulnerability-counts-to-measure-software-security/
 > https://news.ycombinator.com/item?id=45057260
 
@@ -181,7 +184,18 @@ https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si
 https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/
 
 # Events
+## 2025
+https://maccarita.com/posts/idesaster/
+
+React2Shell
+
+Shai-Hulud Worm
+
+HashJack
+
 ## 2024
+
+Polyfill.io compromise
 
 https://www.bleepingcomputer.com/news/security/18-year-old-security-flaw-in-firefox-and-chrome-exploited-in-attacks/
 > https://wicg.github.io/private-network-access/ PNA

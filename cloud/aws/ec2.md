@@ -104,6 +104,11 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://www.nextplatform.com/2025/12/04/aws-graviton5-strikes-a-different-balance-for-server-cpus/
+
+https://aws.amazon.com/ec2/instance-types/m9g/
+> https://news.ycombinator.com/item?id=46171008
+
 https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/
 > https://news.ycombinator.com/item?id=45237454
 
