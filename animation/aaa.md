@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://turtletoy.net/
+> https://news.ycombinator.com/item?id=46138459
+
 https://boing.greg.technology/
 > https://news.ycombinator.com/item?id=46093473
 

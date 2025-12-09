@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46126066
+
 https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/
 > https://news.ycombinator.com/item?id=46080498
 

@@ -23,6 +23,9 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/
+> https://news.ycombinator.com/item?id=46194315
+
 https://www.threatfabric.com/blogs/sturnus-banking-trojan-bypassing-whatsapp-telegram-and-signal
 
 https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/

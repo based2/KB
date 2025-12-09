@@ -63,6 +63,8 @@ https://news.ycombinator.com/item?id=45813767
 https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language
 
 #
+https://news.ycombinator.com/item?id=46147329
+
 https://conceptviz.app/
 
 https://news.ycombinator.com/item?id=45809007

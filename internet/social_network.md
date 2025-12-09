@@ -93,6 +93,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://old.reddit.com/r/netsec/comments/1pgmnnn/how_almost_any_phone_number_can_be_tracked_via/
+
 https://news.ycombinator.com/item?id=46024184
 
 https://www.netskope.com/blog/redtiger-new-red-teaming-tool-in-the-wild-targeting-gamers-and-discord-accounts

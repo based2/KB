@@ -603,6 +603,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=46194615
+
+https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle
+> https://news.ycombinator.com/item?id=46196076
+
 https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going
 > https://news.ycombinator.com/item?id=46183011
 

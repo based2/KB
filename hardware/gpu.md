@@ -14,13 +14,35 @@ https://tellusim.com/compute-raster/
 
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
+https://thegeeko.me/blog/amd-gpu-debugging/
+> https://news.ycombinator.com/item?id=46193931
+
+# CUDA
+https://github.com/deepreinforce-ai/CUDA-L2
+> https://news.ycombinator.com/item?id=46153058
+
+https://github.com/Rust-GPU/Rust-CUDA
+> https://news.ycombinator.com/item?id=43654881
+
+https://www.pyspur.dev/blog/introduction_cuda_programming
+> https://news.ycombinator.com/item?id=43121059
+
+https://github.com/mikex86/LibreCuda
+> https://news.ycombinator.com/item?id=41194024
+
+https://matt-rickard.com/nvidias-cuda-monopoly
+> https://news.ycombinator.com/item?id=37031451
+
+https://fabiensanglard.net/cuda/index.html
+> https://news.ycombinator.com/item?id=36376872
+
+https://github.com/vosen/ZLUDA cuda to intel
+> https://news.ycombinator.com/item?id=36341211
+
 # I
 https://news.ycombinator.com/item?id=42030463
 
 # News
-https://github.com/deepreinforce-ai/CUDA-L2
-> https://news.ycombinator.com/item?id=46153058
-
 https://news.ycombinator.com/item?id=46006616
 
 https://news.ycombinator.com/item?id=45968611
@@ -89,9 +111,6 @@ https://demoriarty.github.io/BMM-1/ Batch Matrix Multiplication (BMM)
 
 https://news.ycombinator.com/item?id=43667693
 
-https://github.com/Rust-GPU/Rust-CUDA
-> https://news.ycombinator.com/item?id=43654881
-
 https://news.ycombinator.com/item?id=43595223
 
 https://news.ycombinator.com/item?id=43338405
@@ -101,9 +120,6 @@ https://news.ycombinator.com/item?id=43360894
 https://news.ycombinator.com/item?id=43071983
 
 https://news.ycombinator.com/item?id=43134907
-
-https://www.pyspur.dev/blog/introduction_cuda_programming
-> https://news.ycombinator.com/item?id=43121059
 
 https://news.ycombinator.com/item?id=43043326
 
@@ -122,9 +138,6 @@ https://news.ycombinator.com/item?id=41565056 debug
 https://news.ycombinator.com/item?id=41413662
 
 https://news.ycombinator.com/item?id=41304335
-
-https://github.com/mikex86/LibreCuda
-> https://news.ycombinator.com/item?id=41194024
 
 https://news.ycombinator.com/item?id=41203475
 
@@ -186,9 +199,6 @@ https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_
 
 https://news.ycombinator.com/item?id=37067894
 
-https://matt-rickard.com/nvidias-cuda-monopoly
-> https://news.ycombinator.com/item?id=37031451
-
 https://www.phoronix.com/news/MSM-Adreno-700-Series
 
 https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/
@@ -196,12 +206,6 @@ https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solv
 
 https://wccftech.com/amd-ceo-teases-rocm-support-coming-to-radeon-consumer-gpus-soon/
 > https://news.ycombinator.com/item?id=36411951
-
-https://fabiensanglard.net/cuda/index.html
-> https://news.ycombinator.com/item?id=36376872
-
-https://github.com/vosen/ZLUDA cuda to intel
-> https://news.ycombinator.com/item?id=36341211
 
 https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/
 > https://news.ycombinator.com/item?id=36133226

@@ -264,6 +264,11 @@ https://news.ycombinator.com/item?id=44825146
 # concurrencyngs
 
 # News
+https://news.ycombinator.com/item?id=46196301
+
+https://jepsen.io/analyses/nats-2.12.1
+> https://news.ycombinator.com/item?id=46196105
+
 https://github.com/Dancode-188/synckit
 > https://news.ycombinator.com/item?id=46069598
 

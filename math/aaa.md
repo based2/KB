@@ -233,6 +233,8 @@ https://news.ycombinator.com/item?id=45976999
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=46195225
+
 https://www.jstor.org/stable/20026529?seq=1 Mathematics Without Numbers - 1959
 > https://news.ycombinator.com/item?id=46116007
 

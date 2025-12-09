@@ -373,6 +373,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=46194384
+
 https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/
 > https://news.ycombinator.com/item?id=45848484
 

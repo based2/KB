@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/
+
 https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
 
 https://blog.google/technology/developers/gemini-3-pro-vision/

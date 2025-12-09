@@ -289,6 +289,9 @@ https://arxiv.org/abs/2511.08544 LeJEPA: Provable and Scalable Self-Supervised L
 https://arxiv.org/abs/2511.09030 olving a million-step LLM task with zero errors
 > https://news.ycombinator.com/item?id=45968362
 
+https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
+> https://news.ycombinator.com/item?id=46182031
+
 # I
 https://news.ycombinator.com/item?id=45991738
 
