@@ -92,6 +92,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 https://news.ycombinator.com/item?id=44127653
 
 # News
+https://news.ycombinator.com/item?id=46131837
+
 https://primer.style/accessibility/toasts/
 
 https://news.ycombinator.com/item?id=46064757

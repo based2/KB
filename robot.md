@@ -137,6 +137,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://news.ycombinator.com/item?id=46199411
+
 https://www.terranova.inc/
 > https://news.ycombinator.com/item?id=45941693
 

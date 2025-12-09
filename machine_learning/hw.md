@@ -6,6 +6,10 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand
+
+https://news.ycombinator.com/item?id=46151600
+
 https://considerthebulldog.com/tte-tpu/
 > https://news.ycombinator.com/item?id=46172797 tpu
 

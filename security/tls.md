@@ -143,6 +143,8 @@ https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/
 
 https://news.ycombinator.com/item?id=46117126
 
+https://news.ycombinator.com/item?id=46208962
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 
@@ -168,6 +170,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # Incidents
+https://news.ycombinator.com/item?id=46200552
+
 https://nvd.nist.gov/vuln/detail/CVE-2025-12816 node-forge
 > https://github.com/digitalbazaar/forge JS TLS
 
@@ -217,6 +221,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://old.reddit.com/r/java/comments/1pge9ez/certificate_ripper_v260_released_tool_to_extract/
+
 https://ssl-config.mozilla.org
 > https://news.ycombinator.com/item?id=45932798
 

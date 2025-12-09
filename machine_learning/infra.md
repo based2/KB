@@ -119,6 +119,10 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=46210986
+
+https://news.ycombinator.com/item?id=46205493
+
 https://github.com/Kapodeistria/ai-output-format-catalog
 > https://news.ycombinator.com/item?id=46185733
 

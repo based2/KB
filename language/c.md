@@ -81,6 +81,9 @@ https://github.com/yugr/sortcheck
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://lair.masot.net/gamma/
+> https://news.ycombinator.com/item?id=46171703
+
 https://news.ycombinator.com/item?id=46186917
 
 https://news.ycombinator.com/item?id=46090009

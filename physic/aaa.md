@@ -1,5 +1,7 @@
 https://ophysics.com/index.html
 
+https://phys.org/news/2025-12-nuclear-island-magic.html
+
 https://www.science.org/doi/10.1126/science.adm7717
 
 https://www.tuwien.at/en/tu-wien/news/news-articles/news/physik-fuer-die-schatzsuche-die-fingerabdruck-matrix

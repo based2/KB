@@ -1,3 +1,5 @@
+https://fahrplan.events.ccc.de/congress/2025/fahrplan/
+
 https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
 
 https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/

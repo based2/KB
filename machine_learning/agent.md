@@ -269,6 +269,8 @@ https://news.ycombinator.com/item?id=46020096
 https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
 > https://news.ycombinator.com/item?id=46081704
 
+https://news.ycombinator.com/item?id=46134969
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

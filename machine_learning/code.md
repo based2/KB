@@ -131,8 +131,12 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://mistral.ai/news/devstral-2-vibe-cli
+> https://news.ycombinator.com/item?id=46205437
+
+https://news.ycombinator.com/item?id=46207505
+
 https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude
->
 
 https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop
 > https://news.ycombinator.com/item?id=46175662

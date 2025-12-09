@@ -40,6 +40,8 @@ https://bada55.cr.yp.to/
 https://news.ycombinator.com/item?id=45669593
 
 # News
+https://old.reddit.com/r/crypto/comments/1p9s8br/is_it_possible_to_lift_elliptic_curves_over/
+
 https://arxiv.org/abs/2504.09584 Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve
 > https://news.ycombinator.com/item?id=43708789
 

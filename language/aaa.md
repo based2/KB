@@ -84,6 +84,8 @@ https://100r.co/site/orca.html music lang
 
 https://news.ycombinator.com/item?id=39798542
 
+https://news.ycombinator.com/item?id=46123307
+
 ## APL
 https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf
 > https://news.ycombinator.com/item?id=30453919

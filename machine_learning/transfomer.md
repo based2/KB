@@ -26,6 +26,9 @@ https://xenova.github.io/transformers.js/
 https://news.ycombinator.com/item?id=45660753
 
 #
+https://www.arxiv.org/pdf/2511.10811 Transformers know more than they can tell: Learning the Collatz sequence
+> https://news.ycombinator.com/item?id=46137596
+
 https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf
 > https://news.ycombinator.com/item?id=45926371
 

@@ -62,7 +62,14 @@ https://www.theinterface.com/
 
 https://news.ycombinator.com/item?id=45730094
 
+https://andyljones.com/boardlaw/
+
 # News
+https://www.graphhopper.com/blog/2025/12/08/a-tsp-game-10-years-in-the-making-built-in-4-hours/
+
+https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z
+> https://news.ycombinator.com/item?id=46202921
+
 https://news.ycombinator.com/item?id=46080972
 
 https://www.simpleguide.net/serflings.xhtml

@@ -25,6 +25,8 @@ https://blog.hartwork.org/posts/expat-2-4-5-released/ security fixes
 https://blog.hartwork.org/posts/expat-2-4-3-released/ security fixes
 
 # Editor
+https://basex.org/
+
 https://www.eclipse.org/vex/
 > https://news.ycombinator.com/item?id=28533379
 

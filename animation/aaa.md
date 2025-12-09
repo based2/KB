@@ -67,6 +67,10 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://bruno-simon.com/
+> https://news.ycombinator.com/item?id=46206531
+> https://github.com/brunosimon/folio-2025
+
 https://turtletoy.net/
 > https://news.ycombinator.com/item?id=46138459
 

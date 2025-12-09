@@ -73,6 +73,12 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
 
 # News
+https://llm4s.org/
+
+https://old.reddit.com/r/java/comments/1pe6m56/jdk_26_rampdown_phase_one_feature_complete/
+
+https://softwaremill.com/introduction-to-jvm-method-profiling/
+
 https://netflixtechblog.com/java-in-flames-e763b3d32166
 
 https://news.ycombinator.com/item?id=42251508 arm

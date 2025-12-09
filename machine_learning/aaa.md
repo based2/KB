@@ -603,6 +603,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://andyljones.com/posts/horses.html
+> https://news.ycombinator.com/item?id=46199723
+
+https://news.ycombinator.com/item?id=46205632
+
 https://news.ycombinator.com/item?id=46194615
 
 https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle

@@ -3,6 +3,9 @@ https://artificialintelligenceact.eu/
 # I
 
 # News
+https://medium.com/@lea.leumassart/is-your-ai-system-illegal-in-the-eu-heres-how-to-check-b92e2a5fb739
+> https://news.ycombinator.com/item?id=46205672
+
 https://news.ycombinator.com/item?id=43018251
 
 https://news.ycombinator.com/item?id=42916849
