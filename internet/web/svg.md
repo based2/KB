@@ -138,6 +138,8 @@ https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-
 https://svgjs.dev/docs/3.2/
 > https://news.ycombinator.com/item?id=46025477
 
+https://news.ycombinator.com/item?id=46235959
+
 # I
 https://www.theregister.com/2025/12/05/css_svg_clickjacking/
 

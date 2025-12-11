@@ -426,6 +426,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.theregister.com/2025/12/11/vmware_kills_vsphere_foundation_parts_emea/
+
 https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/
 
 https://github.com/dboxed/dboxed/

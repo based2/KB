@@ -1,3 +1,6 @@
+https://community.notepad-plus-plus.org/topic/27298/notepad-v8-8-9-vulnerability-fix
+> https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/
+
 https://fahrplan.events.ccc.de/congress/2025/fahrplan/
 
 https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/

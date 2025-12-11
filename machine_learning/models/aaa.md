@@ -309,6 +309,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46170784
+
 https://news.ycombinator.com/item?id=46207017 Mentat
 
 https://rfd.shared.oxide.computer/rfd/0576 Using LLMs at Oxide

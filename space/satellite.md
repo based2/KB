@@ -79,6 +79,8 @@ https://www.theregister.com/2023/08/05/iss_boiling_experiment/
 
 https://www.theregister.com/2023/10/26/spacewalking_cosmonauts_find_iss_leak/
 
+https://news.ycombinator.com/item?id=46232220
+
 ## Tianhe
 https://www.globaltimes.cn/page/202107/1227953.shtml
 

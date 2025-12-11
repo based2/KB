@@ -222,6 +222,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### Incidents
+https://news.ycombinator.com/item?id=46236924
+
 https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp RCE Vulnerability in React and Next.js
 > https://news.ycombinator.com/item?id=46136026
 
@@ -616,6 +618,8 @@ https://www.mockoon.com
 ## Debug
 https://markodenic.com/use-console-log-like-a-pro/
 > https://news.ycombinator.com/item?id=26779800
+
+https://news.ycombinator.com/item?id=46218101
 
 ## Build
 https://volta.sh/

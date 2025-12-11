@@ -6,6 +6,10 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.theregister.com/2025/12/11/hygon_sugon_merger_cancelled/
+
+https://www.theregister.com/2025/12/10/nvidia_chip_tracking/
+
 https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand
 
 https://news.ycombinator.com/item?id=46151600

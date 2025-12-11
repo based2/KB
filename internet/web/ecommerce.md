@@ -17,6 +17,8 @@ https://www.europol.europa.eu/media-press/newsroom/news/action-against-digital-s
 > https://www.bleepingcomputer.com/news/security/europol-warns-443-online-shops-infected-with-credit-card-stealers/
 
 #
+https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
+
 https://news.ycombinator.com/item?id=46048252
 
 https://news.ycombinator.com/item?id=45518136

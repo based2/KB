@@ -99,6 +99,8 @@ https://news.ycombinator.com/item?id=45165751
 
 https://news.ycombinator.com/item?id=45634310
 
+https://www.pgedge.com/blog/building-a-rag-server-with-postgresql-part-3-deploying-your-rag-api
+
 ## Tests
 https://news.ycombinator.com/item?id=43736950
 

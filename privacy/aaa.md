@@ -129,6 +129,9 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://libroot.org/posts/going-through-snowden-documents-part-1/
+> https://news.ycombinator.com/item?id=46235412
+
 https://news.ycombinator.com/item?id=46172380
 
 https://github.com/asim/mu Micro Network

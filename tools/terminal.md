@@ -311,3 +311,5 @@ https://utkarshkanwat.com/writing/betting-against-agents/
 > https://news.ycombinator.com/item?id=44627590
 
 https://news.ycombinator.com/item?id=45167295
+
+https://news.ycombinator.com/item?id=46237146

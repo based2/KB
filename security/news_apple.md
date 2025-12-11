@@ -24,6 +24,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/
+
 https://objective-see.org/blog/blog_0x82.html
 
 https://pberba.github.io/security/2025/11/11/macos-infection-vector-applescript-bypass-gatekeeper/

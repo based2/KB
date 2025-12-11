@@ -134,6 +134,9 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html
+> https://news.ycombinator.com/item?id=46220488
+
 https://sam.zeloof.xyz/second-ic/ Lithographically fabricated IC in a garage fab
 > https://news.ycombinator.com/item?id=46178789
 

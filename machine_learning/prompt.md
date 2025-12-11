@@ -132,6 +132,8 @@ https://microsoft.github.io/poml/latest/
 
 https://news.ycombinator.com/item?id=45275354
 
+https://news.ycombinator.com/item?id=46190760
+
 # I
 https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/
 

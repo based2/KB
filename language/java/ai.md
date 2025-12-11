@@ -10,3 +10,5 @@ https://old.reddit.com/r/java/comments/1og55hi/jblis_access_the_blis_linear_alge
 https://news.ycombinator.com/item?id=45802290
 
 https://blog.mozilla.ai/polyglot-ai-agents-webassembly-meets-the-java-virtual-machine-jvm/
+
+https://news.ycombinator.com/item?id=46233009

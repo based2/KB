@@ -67,6 +67,12 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://cloth.mikail-khan.com/
+> https://news.ycombinator.com/item?id=46127981
+
+https://neal.fun/size-of-life/
+> https://news.ycombinator.com/item?id=46219346
+
 https://bruno-simon.com/
 > https://news.ycombinator.com/item?id=46206531
 > https://github.com/brunosimon/folio-2025

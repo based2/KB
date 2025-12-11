@@ -131,6 +131,10 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=46234186
+
+https://news.ycombinator.com/item?id=46197930
+
 https://mistral.ai/news/devstral-2-vibe-cli
 > https://news.ycombinator.com/item?id=46205437
 

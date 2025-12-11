@@ -48,6 +48,8 @@ https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and
 https://www.numerama.com/tech/1872954-deepseek-la-chine-aurait-detrone-chatgpt-avec-10-fois-moins-dargent.html
 
 # I
+https://news.ycombinator.com/item?id=46219853
+
 https://venturebeat.com/security/deepseek-injects-50-more-security-bugs-when-prompted-with-chinese-political
 
 https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html

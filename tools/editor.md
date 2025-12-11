@@ -396,6 +396,8 @@ https://codelite.org/
 > https://news.ycombinator.com/item?id=37106296
 
 ### VS incidents
+https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/
+
 https://www.nextron-systems.com/2025/11/28/malicious-vs-code-extension-impersonating-material-icon-theme-found-in-marketplace/
 
 ##

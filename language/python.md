@@ -398,6 +398,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://news.ycombinator.com/item?id=46229467
+
 https://github.com/rsionnach/sloppylint
 > https://news.ycombinator.com/item?id=46167703
 

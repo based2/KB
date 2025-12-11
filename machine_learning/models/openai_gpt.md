@@ -1,5 +1,10 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=46231585
+
+https://openai.com/index/introducing-gpt-5-2/
+> https://news.ycombinator.com/item?id=46234788
+
 https://news.ycombinator.com/item?id=46121870
 
 https://openai.com/index/gpt-5-1-for-developers/

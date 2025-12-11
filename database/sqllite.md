@@ -118,6 +118,9 @@ https://theori.io/blog/exploring-traces-63950
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://fly.io/blog/litestream-vfs/
+> https://news.ycombinator.com/item?id=46234710
+
 https://news.ycombinator.com/item?id=46124205
 
 https://news.ycombinator.com/item?id=46076642

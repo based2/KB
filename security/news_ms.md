@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.theregister.com/2025/12/10/microsoft_wont_fix_net_rce/?td=rt-3a
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/
 
 https://research.eye.security/rce-windows-update-health-tools/

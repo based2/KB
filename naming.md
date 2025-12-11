@@ -43,4 +43,6 @@ https://news.ycombinator.com/item?id=42338134
 
 https://news.ycombinator.com/item?id=44996940
 
+https://news.ycombinator.com/item?id=46234806
+
 # naming thi
