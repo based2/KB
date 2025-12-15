@@ -1,3 +1,6 @@
+https://github.com/Necior/awesome-jj
+> https://news.ycombinator.com/item?id=46259914
+
 https://news.ycombinator.com/item?id=45759572
 
 https://news.ycombinator.com/item?id=45672280

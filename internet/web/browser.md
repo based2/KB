@@ -52,6 +52,8 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 https://news.ycombinator.com/item?id=39706004
 
 # Incidents
+https://www.theregister.com/2025/12/11/google_fixes_supersecret_8th_chrome/
+
 https://news.ycombinator.com/item?id=46122957
 
 https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/
@@ -72,6 +74,8 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://webkit.org/blog/17640/webkit-features-for-safari-26-2/
+
 https://news.ycombinator.com/item?id=46085753
 
 https://browsewithnook.com/

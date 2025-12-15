@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/
+
 https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/
 
 https://blog.byteray.co.uk/critical-vulnerabilities-in-rut22gw-industrial-lte-cellular-routers-f4eb8768feb7

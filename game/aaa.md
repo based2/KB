@@ -65,6 +65,9 @@ https://news.ycombinator.com/item?id=45730094
 https://andyljones.com/boardlaw/
 
 # News
+https://www.elizium.nu/scripts/lemmings/index.php
+> https://news.ycombinator.com/item?id=46192845
+
 https://news.ycombinator.com/item?id=46231460
 
 https://www.graphhopper.com/blog/2025/12/08/a-tsp-game-10-years-in-the-making-built-in-4-hours/

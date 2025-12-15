@@ -233,6 +233,13 @@ https://news.ycombinator.com/item?id=45976999
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://wiki.bbchallenge.org/wiki/Cryptids
+>
+
+https://news.ycombinator.com/item?id=46210044
+
+https://news.ycombinator.com/item?id=46245622
+
 https://news.ycombinator.com/item?id=46195225
 
 https://www.jstor.org/stable/20026529?seq=1 Mathematics Without Numbers - 1959

@@ -134,6 +134,8 @@ https://news.ycombinator.com/item?id=45275354
 
 https://news.ycombinator.com/item?id=46190760
 
+https://news.ycombinator.com/item?id=46232003
+
 # I
 https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/
 

@@ -233,6 +233,9 @@ https://news.ycombinator.com/item?id=39998149
 https://github.com/KittenML/KittenTTS
 > https://news.ycombinator.com/item?id=44807868
 
+https://github.com/danielclough/vibevoice-rs
+> https://news.ycombinator.com/item?id=46262392
+
 # News
 https://huggingface.co/papers/2510.04162
 

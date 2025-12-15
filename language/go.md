@@ -139,6 +139,7 @@ https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-u
 https://news.ycombinator.com/item?id=46191207
 
 https://antonz.org/accepted/runtime-secret/
+> https://news.ycombinator.com/item?id=46210705
 
 https://news.ycombinator.com/item?id=45932962
 

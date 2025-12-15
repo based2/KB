@@ -7,6 +7,9 @@ https://www.medusa-commerce.com/
 https://www.coupang.com/ kr
 
 # I
+https://invoice.secvuln.info/
+> https://news.ycombinator.com/item?id=46248470
+
 https://news.ycombinator.com/item?id=45374064
 
 https://www.bleepingcomputer.com/news/security/paypal-to-pay-2-million-settlement-over-2022-data-breach/

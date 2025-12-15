@@ -64,6 +64,12 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://sandyuraz.com/blogs/bourdain/
+> https://news.ycombinator.com/item?id=46258163
+
+https://fedorarepository.org/
+> https://news.ycombinator.com/item?id=46243883
+
 https://news.ycombinator.com/item?id=45936460
 
 https://news.ycombinator.com/item?id=45255785

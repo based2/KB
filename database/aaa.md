@@ -72,7 +72,7 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 # History
 https://queue.acm.org/detail.cfm?id=3501713
 
-# ml
+# ML
 https://news.ycombinator.com/item?id=38496827
 
 https://news.ycombinator.com/item?id=44070532
@@ -80,6 +80,9 @@ https://news.ycombinator.com/item?id=44070532
 https://research.google/blog/graph-foundation-models-for-relational-data/
 
 # News
+https://github.com/linked-db/linked-ql Live Queries over Postgres, MySQL, MariaDB
+> https://news.ycombinator.com/item?id=46192545
+
 https://www.morling.dev/blog/on-idempotency-keys/
 > https://news.ycombinator.com/item?id=46106411
 

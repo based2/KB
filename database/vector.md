@@ -153,3 +153,5 @@ https://alex-jacobs.com/posts/the-case-against-pgvector/
 > https://news.ycombinator.com/item?id=45798479
 
 https://news.ycombinator.com/item?id=46080812
+
+https://news.ycombinator.com/item?id=46195068

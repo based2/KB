@@ -277,6 +277,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://www.mvp.express/ Java FFM zero-copy transport using io_uring
+> https://news.ycombinator.com/item?id=46182307
+
 https://news.ycombinator.com/item?id=46181076
 
 https://news.ycombinator.com/item?id=46016579

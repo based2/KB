@@ -31,6 +31,8 @@ https://simonhearne.com/2021/layout-shifts-webfonts/
 https://www.lukew.com/ff/entry.asp?2132
 
 #
+https://www.cpard.xyz/posts/dxvsux/
+
 https://dl.acm.org/doi/10.1145/3746059.3747654 Meridian: A Design Framework for Malleable Overview-Detail Interfaces
 
 https://news.ycombinator.com/item?id=44103131

@@ -116,6 +116,9 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo
+> https://news.ycombinator.com/item?id=46258529
+
 https://news.ycombinator.com/item?id=46103376
 
 https://help.kagi.com/kagi/bloopers/

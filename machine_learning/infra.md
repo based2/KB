@@ -121,6 +121,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://www.ufried.com/blog/ironies_of_ai_2/
+> https://news.ycombinator.com/item?id=46262816
+
 https://news.ycombinator.com/item?id=46210986
 
 https://news.ycombinator.com/item?id=46205493

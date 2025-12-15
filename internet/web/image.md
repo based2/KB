@@ -113,6 +113,9 @@ https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.htm
 > https://news.ycombinator.com/item?id=45698323
 
 # Photography
+https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/
+> https://news.ycombinator.com/item?id=46177160
+
 https://avidandrew.com/telephoto.html
 > https://news.ycombinator.com/item?id=45184052
 

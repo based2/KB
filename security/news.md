@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46252171
+
 https://community.notepad-plus-plus.org/topic/27298/notepad-v8-8-9-vulnerability-fix
 > https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/
 

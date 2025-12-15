@@ -3,6 +3,8 @@ https://www.iso.org/standard/83757.html  ISO/IEC TS 10866:2024 Information techn
 https://gaia-x.eu/
 
 # News
+https://www.thestar.com.my/tech/tech-news/2025/12/12/taiwan-opens-new-cloud-centre-to-bolster-039sovereign-ai039-effort
+
 https://www.itforbusiness.fr/doctrine-une-solution-dite-souveraine-hebergee-chez-aws-97825
 
 https://news.ycombinator.com/item?id=46077885

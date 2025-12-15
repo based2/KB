@@ -204,6 +204,8 @@ https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=
 https://vincentmeertens.com/project/timemaps/
 > https://news.ycombinator.com/item?id=36692450
 
+https://tubvsig-so2sat-vm1.srv.mwn.de/
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 

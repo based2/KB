@@ -86,6 +86,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=46191449
+
 https://news.ycombinator.com/item?id=46235618
 
 https://www.damnsmalllinux.org/

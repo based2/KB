@@ -75,6 +75,10 @@ https://github.com/DebarghaG/proofofthought LLM-based reasoning using Z3 theorem
 > https://news.ycombinator.com/item?id=45475529
 
 #
+https://github.com/leanprover-community/mathlib4 math library of Lean 4
+
+https://news.ycombinator.com/item?id=46250309
+
 https://news.ycombinator.com/item?id=45818414
 
 https://jerome-guyot.github.io/blog/2025-18-10-%20From%20Assumptions%20to%20Isolation%20The%20BGKW%20Shift/ From Assumptions to Isolation : The BGKW Shift

@@ -24,6 +24,11 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 #
+https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/
+
+https://hey.paris/posts/appleid/
+> https://news.ycombinator.com/item?id=46252114
+
 https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/
 
 https://objective-see.org/blog/blog_0x82.html

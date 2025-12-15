@@ -162,6 +162,8 @@ https://news.ycombinator.com/item?id=44632783
 
 https://news.ycombinator.com/item?id=45121915
 
+https://github.com/alexpasmantier/krust.nvim
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341

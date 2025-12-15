@@ -344,6 +344,9 @@ https://fettblog.eu/rust-enums-wrapping-errors/
 > https://news.ycombinator.com/item?id=28799931
 
 # Book
+https://github.com/loadingalias/cargo-rail
+> https://github.com/loadingalias/cargo-rail
+
 https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way
 
 https://news.ycombinator.com/item?id=34360179

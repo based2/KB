@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46262734
+
 https://blog.yakkomajuri.com/blog/local-rag
 > https://news.ycombinator.com/item?id=46080364
 

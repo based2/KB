@@ -1,3 +1,6 @@
+https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
+> https://news.ycombinator.com/item?id=46248644
+
 https://news.ycombinator.com/item?id=46205724
 
 https://starflow-v.github.io/

@@ -61,7 +61,13 @@ https://github.com/pipelight/boulette
 
 https://landlock.io/ Unprivileged Sandboxing
 
+https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf
+> https://news.ycombinator.com/item?id=46244378
+
 # News
+https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html capsudo
+> https://news.ycombinator.com/item?id=46249337
+
 https://news.ycombinator.com/item?id=46211802
 
 https://www.openwall.com/lists/oss-security/2025/11/22/1 Libpng 1.6.51: Four buffer overflow vulnerabilities fixed
