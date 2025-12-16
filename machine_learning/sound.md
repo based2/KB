@@ -237,6 +237,8 @@ https://github.com/danielclough/vibevoice-rs
 > https://news.ycombinator.com/item?id=46262392
 
 # News
+https://news.ycombinator.com/item?id=46284313
+
 https://huggingface.co/papers/2510.04162
 
 https://kyutai.org/next/codec-explainer

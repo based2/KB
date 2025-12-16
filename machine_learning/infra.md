@@ -121,6 +121,11 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=46242838
+
+https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html
+> https://news.ycombinator.com/item?id=46271405
+
 https://www.ufried.com/blog/ironies_of_ai_2/
 > https://news.ycombinator.com/item?id=46262816
 

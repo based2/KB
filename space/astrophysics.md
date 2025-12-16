@@ -77,6 +77,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=46277090
+
 https://www.sciencedaily.com/releases/2025/12/251206030750.htm SPHERE’s stunning space images reveal where new planets are forming
 
 https://news.ycombinator.com/item?id=44837434

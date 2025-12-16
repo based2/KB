@@ -730,6 +730,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://jgthms.com/picknplace.js/ an Alternative to Drag and Drop
+> https://news.ycombinator.com/item?id=46290349
+
 https://news.ycombinator.com/item?id=46180273
 
 https://github.com/W4G1/multithreading

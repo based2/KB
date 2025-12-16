@@ -45,6 +45,9 @@ https://herish.me/blog/cache-poisoning-case-studies-part-1-foundational-attacks/
 > https://old.reddit.com/r/netsec/comments/1p9oick/analysis_of_8_foundational_cache_poisoning/
 
 # News
+https://www.mintlify.com/blog/page-speed-improvements
+> https://news.ycombinator.com/item?id=46276313
+
 https://github.com/blackbird-io/blackbird Ultra-low latency via UCX (RDMA), intelligent tiering across GPU/CPU/NVMe, and automatic failover with etcd
 
 https://news.ycombinator.com/item?id=45204003

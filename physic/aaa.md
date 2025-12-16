@@ -1,5 +1,8 @@
 https://ophysics.com/index.html
 
+https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
+> https://news.ycombinator.com/item?id=46256643
+
 https://phys.org/news/2025-12-nuclear-island-magic.html
 
 https://www.science.org/doi/10.1126/science.adm7717

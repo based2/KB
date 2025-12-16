@@ -620,6 +620,13 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=46291500
+
+https://news.ycombinator.com/item?id=46291156
+
+https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/
+> https://news.ycombinator.com/item?id=46291414
+
 https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/
 > https://news.ycombinator.com/item?id=45796476
 

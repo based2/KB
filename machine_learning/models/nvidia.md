@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46275111
+
 https://news.ycombinator.com/item?id=45029191
 
 https://research.nvidia.com/publication/2025-07_helix-parallelism-rethinking-sharding-strategies-interactive-multi-million

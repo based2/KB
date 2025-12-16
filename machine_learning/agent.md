@@ -271,6 +271,11 @@ https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agent
 
 https://news.ycombinator.com/item?id=46134969
 
+https://a2ui.org/
+> https://news.ycombinator.com/item?id=46286407
+
+https://news.ycombinator.com/item?id=46290617
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

@@ -129,6 +129,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=46294456
+
+https://news.ycombinator.com/item?id=46290916
+
 https://libroot.org/posts/going-through-snowden-documents-part-1/
 > https://news.ycombinator.com/item?id=46235412
 

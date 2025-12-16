@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/new-chatgpt-images-is-here/
+> https://news.ycombinator.com/item?id=46291941
+
 https://news.ycombinator.com/item?id=46250332
 
 https://news.ycombinator.com/item?id=46246809

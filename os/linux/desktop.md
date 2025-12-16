@@ -123,6 +123,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=46291172
+
 https://news.ycombinator.com/item?id=46173547
 
 https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/ python

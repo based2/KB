@@ -23,3 +23,5 @@ https://thehackernews.com/2025/01/italy-bans-chinese-deepseek-ai-over.html
 
 https://www.bleepingcomputer.com/news/security/x-begins-training-grok-ai-with-your-posts-heres-how-to-disable/
 
+https://news.ycombinator.com/item?id=46284266
+

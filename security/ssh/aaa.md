@@ -190,6 +190,11 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://www.psc.edu/hpn-ssh-home/
+> https://news.ycombinator.com/item?id=46227641
+
+https://news.ycombinator.com/item?id=46235750
+
 https://news.ycombinator.com/item?id=45395991
 
 https://undeadly.org/cgi?action=article;sid=20250818113047

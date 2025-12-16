@@ -414,6 +414,9 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://openai.com/index/new-chatgpt-images-is-here/
+> https://news.ycombinator.com/item?id=46291941
+
 https://news.ycombinator.com/item?id=46095817
 
 https://blog.google/technology/ai/nano-banana-pro/

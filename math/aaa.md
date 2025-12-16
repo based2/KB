@@ -233,6 +233,10 @@ https://news.ycombinator.com/item?id=45976999
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=46212450
+
+https://news.ycombinator.com/item?id=46288351
+
 https://wiki.bbchallenge.org/wiki/Cryptids
 >
 

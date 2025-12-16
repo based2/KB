@@ -131,6 +131,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=46292365
+
 https://news.ycombinator.com/item?id=46255285
 
 https://news.ycombinator.com/item?id=46234186

@@ -39,3 +39,5 @@ https://spiffy.tech/is-this-an-emoji
 > https://news.ycombinator.com/item?id=36923235
 
 https://news.ycombinator.com/item?id=41379902
+
+https://news.ycombinator.com/item?id=46283052

@@ -19,6 +19,8 @@ https://victorwynne.com/processor-trace-instrument/
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://news.ycombinator.com/item?id=46280465
+
 https://news.ycombinator.com/item?id=46207852
 
 https://news.ycombinator.com/item?id=46111120

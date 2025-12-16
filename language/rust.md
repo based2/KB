@@ -609,6 +609,15 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://arborium.bearcove.eu/
+> https://news.ycombinator.com/item?id=46270298
+
+https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+> https://news.ycombinator.com/item?id=46270882
+
+https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how
+> https://news.ycombinator.com/item?id=46288291
+
 https://purplesyringa.moe/blog/a-look-at-rust-from-2012/
 > https://news.ycombinator.com/item?id=46050855
 

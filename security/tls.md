@@ -145,6 +145,8 @@ https://news.ycombinator.com/item?id=46117126
 
 https://news.ycombinator.com/item?id=46208962
 
+https://news.ycombinator.com/item?id=46279241
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 

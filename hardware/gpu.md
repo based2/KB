@@ -43,6 +43,8 @@ https://github.com/vosen/ZLUDA cuda to intel
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://github.com/parallelArchitect/gpu-pcie-diagnostic
+
 https://news.ycombinator.com/item?id=46006616
 
 https://news.ycombinator.com/item?id=45968611

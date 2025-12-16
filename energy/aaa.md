@@ -34,6 +34,8 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://news.ycombinator.com/item?id=46286030
+
 https://news.ycombinator.com/item?id=46256249
 
 https://boomsupersonic.com/superpower

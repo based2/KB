@@ -118,6 +118,8 @@ https://arxiv.org/abs/2511.07585 LM Output Drift in Financial Workflows: Validat
 > https://news.ycombinator.com/item?id=45905451
 
 ## Trading
+https://www.reuters.com/business/finance/wall-street-banks-prepare-round-the-clock-stock-trading-reluctantly-2025-12-16/
+
 https://news.ycombinator.com/item?id=46192181
 
 https://www.reuters.com/business/cme-trading-halted-due-cooling-issue-data-centers-2025-11-28/
