@@ -99,3 +99,6 @@ https://www.phoronix.com/news/systemd-258-rc1
 
 https://roguesecurity.dev/blog/systemd-hardening
 > https://news.ycombinator.com/item?id=44937550
+
+https://github.com/systemd/systemd/releases/tag/v259
+> https://news.ycombinator.com/item?id=46313033

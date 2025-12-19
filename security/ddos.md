@@ -15,6 +15,8 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=46294144
+
 https://news.ycombinator.com/item?id=46241849
 
 https://tempesta-tech.com/blog/defending-against-l7-ddos-and-web-bots-with-tempesta-fw/

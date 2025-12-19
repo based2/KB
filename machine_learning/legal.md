@@ -3,6 +3,9 @@ https://artificialintelligenceact.eu/
 # I
 
 # News
+https://theredline.versionstory.com/p/on-the-immortality-of-microsoft-word
+> https://news.ycombinator.com/item?id=46313518
+
 https://medium.com/@lea.leumassart/is-your-ai-system-illegal-in-the-eu-heres-how-to-check-b92e2a5fb739
 > https://news.ycombinator.com/item?id=46205672
 

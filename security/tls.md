@@ -223,6 +223,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=46249834
+
 https://news.ycombinator.com/item?id=46214950
 
 https://old.reddit.com/r/java/comments/1pge9ez/certificate_ripper_v260_released_tool_to_extract/

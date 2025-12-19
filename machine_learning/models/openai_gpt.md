@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/introducing-gpt-5-2-codex/
+> https://news.ycombinator.com/item?id=46316367
+
 https://openai.com/index/new-chatgpt-images-is-here/
 > https://news.ycombinator.com/item?id=46291941
 

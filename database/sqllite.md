@@ -118,6 +118,8 @@ https://theori.io/blog/exploring-traces-63950
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/
+
 https://news.ycombinator.com/item?id=46243904
 
 https://fly.io/blog/litestream-vfs/

@@ -154,6 +154,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/
+> https://news.ycombinator.com/item?id=46309407
+
 https://susam.net/fed-24-years-of-posts-to-markov-model.html
 > https://news.ycombinator.com/item?id=46257607
 

@@ -13,6 +13,8 @@ https://github.com/antirez/botlib telegram
 > https://news.ycombinator.com/item?id=38408873
 
 # Incident
+https://news.ycombinator.com/item?id=46311355
+
 https://news.ycombinator.com/item?id=32853107
 
 ## interop

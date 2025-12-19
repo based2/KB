@@ -1,3 +1,11 @@
+https://blog.google/technology/developers/functiongemma/
+> https://news.ycombinator.com/item?id=46316533
+
+https://blog.google/technology/developers/t5gemma-2/
+> https://news.ycombinator.com/item?id=46317657
+
+https://news.ycombinator.com/item?id=46301851
+
 https://news.ycombinator.com/item?id=46223311
 
 https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/

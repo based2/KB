@@ -99,6 +99,8 @@ https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other
 > https://news.ycombinator.com/item?id=45069247
 
 # News
+https://news.ycombinator.com/item?id=46313930
+
 https://news.ycombinator.com/item?id=46122071
 
 https://news.ycombinator.com/item?id=45876742

@@ -61,6 +61,10 @@ https://danp.net/posts/synctest-experiment/
 https://news.ycombinator.com/item?id=43045151
 
 #
+https://news.ycombinator.com/item?id=46280465
+
+https://news.ycombinator.com/item?id=46292937
+
 https://news.ycombinator.com/item?id=46007267
 
 https://news.ycombinator.com/item?id=45809972

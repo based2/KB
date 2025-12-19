@@ -153,6 +153,14 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://wikiflix.toolforge.org/
+> https://news.ycombinator.com/item?id=46296627
+
+https://github.com/Michael-A-Kuykendall/muxide
+> https://news.ycombinator.com/item?id=46307253
+
+https://news.ycombinator.com/item?id=46305428
+
 https://news.ycombinator.com/item?id=46207464
 
 https://news.ycombinator.com/item?id=46155135

@@ -6,6 +6,9 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
+> https://news.ycombinator.com/item?id=46316907
+
 https://www.theregister.com/2025/12/11/hygon_sugon_merger_cancelled/
 
 https://www.theregister.com/2025/12/10/nvidia_chip_tracking/

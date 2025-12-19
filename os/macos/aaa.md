@@ -332,6 +332,8 @@ https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodat
 > https://news.ycombinator.com/item?id=33635720
 
 # M5
+https://substack.com/inbox/post/182021177
+
 https://news.ycombinator.com/item?id=45591799
 > disable Glass. In a terminal: defaults write -g com.apple.SwiftUI.DisableSolarium -bool YES
 

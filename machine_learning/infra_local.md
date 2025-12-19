@@ -1,3 +1,6 @@
+https://github.com/CaviraOSS/OpenMemory memory store for LLM agents - SQLite
+> https://news.ycombinator.com/item?id=46262294
+
 https://news.ycombinator.com/item?id=46262734
 
 https://blog.yakkomajuri.com/blog/local-rag

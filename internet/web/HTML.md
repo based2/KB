@@ -163,6 +163,10 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=46264195
+
+https://news.ycombinator.com/item?id=46312973
+
 https://news.ycombinator.com/item?id=46282902
 
 https://elijahm.com/posts/local_first_htmx/

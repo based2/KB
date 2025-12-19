@@ -72,6 +72,8 @@ https://news.ycombinator.com/item?id=46036908
 
 https://news.ycombinator.com/item?id=46220540
 
+https://news.ycombinator.com/item?id=46307306
+
 # Slashdot
 # Reddit
 
@@ -95,6 +97,15 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=46279123
+
+https://news.ycombinator.com/item?id=46304955
+
+https://news.ycombinator.com/item?id=46303291
+
+https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+> https://news.ycombinator.com/item?id=46317098
+
 https://old.reddit.com/r/netsec/comments/1pgmnnn/how_almost_any_phone_number_can_be_tracked_via/
 
 https://news.ycombinator.com/item?id=46024184

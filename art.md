@@ -52,6 +52,11 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://ravaan.art/
+> https://news.ycombinator.com/item?id=46268746
+
+https://news.ycombinator.com/item?id=46311856
+
 https://news.ycombinator.com/item?id=46092478
 
 https://news.ycombinator.com/item?id=45728975

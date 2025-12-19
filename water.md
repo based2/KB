@@ -219,6 +219,8 @@ https://apnews.com/article/chile-google-data-center-water-drought-environment-d1
 
 https://news.ycombinator.com/item?id=45929187
 
+https://news.ycombinator.com/item?id=46310976
+
 # Ocean
 https://news.ycombinator.com/item?id=44461222
 

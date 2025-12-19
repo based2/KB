@@ -1,3 +1,9 @@
+https://radar.cloudflare.com/year-in-review/2025
+> https://news.ycombinator.com/item?id=46305945
+
+https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+> https://news.ycombinator.com/item?id=46317098
+
 https://news.ycombinator.com/item?id=46252171
 
 https://community.notepad-plus-plus.org/topic/27298/notepad-v8-8-9-vulnerability-fix

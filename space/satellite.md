@@ -52,6 +52,13 @@ https://news.ycombinator.com/item?id=44753298
 
 https://arstechnica.com/space/2025/08/the-militarys-squad-of-satellite-trackers-is-now-routinely-going-on-alert/
 
+https://phys.org/news/2025-12-days-disaster-earth-orbit.html
+
+# Incident
+https://x.com/Starlink/status/2001691802911289712
+
+https://bsky.app/profile/planet4589.bsky.social/post/3mac4a3owxs2c
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

@@ -359,6 +359,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=46272487
+
 https://github.com/ayarotsky/diesel-guard
 
 https://habr.com/en/companies/postgrespro/articles/504498/ Locks

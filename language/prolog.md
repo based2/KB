@@ -86,3 +86,6 @@ https://lpn.swi-prolog.org/lpnpage.php?pageid=top
 > https://news.ycombinator.com/item?id=45900978
 
 https://news.ycombinator.com/item?id=45980714
+
+https://github.com/danja/dogalog Realtime Prolog-based livecoding music environment
+> https://news.ycombinator.com/item?id=46312973

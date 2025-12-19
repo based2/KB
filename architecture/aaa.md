@@ -343,6 +343,10 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=46299257
+
+https://news.ycombinator.com/item?id=46315547
+
 https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices
 > https://news.ycombinator.com/item?id=46257714
 

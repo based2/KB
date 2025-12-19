@@ -1,3 +1,6 @@
+https://apple.github.io/ml-sharp/
+> https://news.ycombinator.com/item?id=46284658
+
 https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
 > https://news.ycombinator.com/item?id=46248644
 

@@ -231,6 +231,8 @@ https://news.ycombinator.com/item?id=45838540
 https://permiso.io/blog/introducing-yetihunter-an-open-source-tool-to-detect-and-hunt-for-suspicious-activity-in-snowflake
 
 # Incidents
+https://news.ycombinator.com/item?id=46305321
+
 https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/
 > https://news.ycombinator.com/item?id=43603091
 
@@ -240,6 +242,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=46316991
+
 https://victorpoughon.github.io/bidicalc/ bidirectional calculator
 > https://news.ycombinator.com/item?id=46234734
 

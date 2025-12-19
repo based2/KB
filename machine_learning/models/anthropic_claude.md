@@ -1,3 +1,6 @@
+https://claude.com/blog/organization-skills-and-directory
+> https://news.ycombinator.com/item?id=46315414
+
 https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 > https://news.ycombinator.com/item?id=46207425
 > https://aaif.io/

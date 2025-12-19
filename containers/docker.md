@@ -59,6 +59,9 @@ https://github.com/duaraghav8/dockershrink
 https://github.com/iximiuz/docker-to-linux
 
 # Incidents
+https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
+> https://news.ycombinator.com/item?id=46305585
+
 https://www.theregister.com/2025/10/30/docker_compose_desktop_flaws/
 
 https://news.ycombinator.com/item?id=45640877
@@ -91,6 +94,9 @@ https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://www.docker.com/blog/docker-hardened-images-for-every-developer/
+> https://news.ycombinator.com/item?id=46302337
+
 https://news.ycombinator.com/item?id=45982280
 
 https://news.ycombinator.com/item?id=45935482

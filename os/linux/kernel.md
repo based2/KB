@@ -56,6 +56,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://fil-c.org/pizlix
+> https://news.ycombinator.com/item?id=46260852
+
 https://lwn.net/Articles/1045453/ struct sockaddr sequel - https://kspp.github.io/
 
 https://news.ycombinator.com/item?id=46090969

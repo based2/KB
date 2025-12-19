@@ -1,7 +1,10 @@
 # llama Facebook - Forbids commercial use, weights required
 
+https://ai.meta.com/samaudio/
+> https://news.ycombinator.com/item?id=46292266
+
 https://news.ycombinator.com/item?id=46233009
-``
+
 https://flipper.prose.sh/ollama
 
 https://news.ycombinator.com/item?id=45788042

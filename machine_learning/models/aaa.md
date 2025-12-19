@@ -237,6 +237,9 @@ https://news.ycombinator.com/item?id=45536694 Discrete Distribution Networks
 
 https://news.ycombinator.com/item?id=46176289
 
+https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f
+> https://news.ycombinator.com/item?id=46285535
+
 # Sec
 https://news.ycombinator.com/item?id=45224219
 > https://www.sri.inf.ethz.ch/blog/k2think

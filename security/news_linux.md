@@ -65,6 +65,8 @@ https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%2
 > https://news.ycombinator.com/item?id=46244378
 
 # News
+https://news.ycombinator.com/item?id=46278857
+
 https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html capsudo
 > https://news.ycombinator.com/item?id=46249337
 

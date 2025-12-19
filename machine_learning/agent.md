@@ -276,6 +276,12 @@ https://a2ui.org/
 
 https://news.ycombinator.com/item?id=46290617
 
+https://www.letta.com/blog/letta-code
+> https://news.ycombinator.com/item?id=46294274
+
+https://github.com/TheAuditorTool/Auditor
+> https://news.ycombinator.com/item?id=46288453
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 
