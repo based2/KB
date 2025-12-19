@@ -96,6 +96,9 @@ https://inventingthefuture.ghost.io/mr-tiff/
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://github.com/fastserial/lite3
+> https://news.ycombinator.com/item?id=46251460
+
 https://landaire.net/a-file-format-uncracked-for-20-years/
 > https://news.ycombinator.com/item?id=45842851
 

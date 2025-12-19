@@ -1,3 +1,6 @@
+https://mistral.ai/news/mistral-ocr-3
+> https://news.ycombinator.com/item?id=46313390
+
 https://mistral.ai/news/devstral-2-vibe-cli
 > https://news.ycombinator.com/item?id=46205437
 

@@ -121,6 +121,8 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=46290620
+
 https://news.ycombinator.com/item?id=46242838
 
 https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html

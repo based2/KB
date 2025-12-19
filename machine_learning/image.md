@@ -414,6 +414,8 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://news.ycombinator.com/item?id=46321972
+
 https://apple.github.io/ml-sharp/
 > https://news.ycombinator.com/item?id=46284658
 

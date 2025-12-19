@@ -282,6 +282,8 @@ https://www.letta.com/blog/letta-code
 https://github.com/TheAuditorTool/Auditor
 > https://news.ycombinator.com/item?id=46288453
 
+https://arxiv.org/abs/2512.10047
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

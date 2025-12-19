@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46322540
+
 https://news.ycombinator.com/item?id=45001778
 
 https://news.ycombinator.com/item?id=44696167 amd

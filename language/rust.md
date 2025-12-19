@@ -611,6 +611,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=46322391
+
 https://arborium.bearcove.eu/
 > https://news.ycombinator.com/item?id=46270298
 

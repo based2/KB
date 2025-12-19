@@ -65,6 +65,10 @@ https://news.ycombinator.com/item?id=45730094
 https://andyljones.com/boardlaw/
 
 # News
+https://news.ycombinator.com/item?id=46321619
+
+https://news.ycombinator.com/item?id=46329696
+
 https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/
 > https://news.ycombinator.com/item?id=46240855
 

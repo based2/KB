@@ -89,6 +89,9 @@ https://github.com/jasonjmcghee/WebMCP
 
 https://news.ycombinator.com/item?id=45618536
 
+https://github.com/mcp-shark/mcp-shark
+> https://news.ycombinator.com/item?id=46303323
+
 https://github.com/upstash/context7 Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 
 pr: give me benchmarks of different llm integration of mcp servers - to lechat

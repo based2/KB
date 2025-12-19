@@ -606,6 +606,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=46328109
+
 https://news.ycombinator.com/item?id=46220640
 
 https://andyljones.com/posts/horses.html

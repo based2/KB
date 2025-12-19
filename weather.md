@@ -30,6 +30,9 @@ https://dynomight.net/ikea-purifier/
 # Temperature
 https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c
 
+# ML
+https://news.ycombinator.com/item?id=46306497
+
 # history
 weatherspark .no
 https://www.weatherspark.com

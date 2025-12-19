@@ -169,6 +169,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://words.filippo.io/keyserver-tlog/
+> https://news.ycombinator.com/item?id=46326506
+
 https://news.ycombinator.com/item?id=45928184
 
 https://news.ycombinator.com/item?id=45865921

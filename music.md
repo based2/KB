@@ -156,6 +156,8 @@ https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/
 
 https://news.ycombinator.com/item?id=46072280
 
+https://news.ycombinator.com/item?id=46324702
+
 ## MIDI
 https://news.ycombinator.com/item?id=43180977
 

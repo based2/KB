@@ -80,6 +80,9 @@ https://ants.gouv.fr/nos-missions/les-solutions-numeriques/2d-doc
 https://github.com/kochrt/qr-designer
 > https://news.ycombinator.com/item?id=36128082
 
+https://mistral.ai/news/mistral-ocr-3
+> https://news.ycombinator.com/item?id=46313390
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 
