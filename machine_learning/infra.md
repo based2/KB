@@ -121,6 +121,11 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=46288966
+
+https://github.com/taylorsatula/mira-OSS persistent AI entity with memory
+> https://news.ycombinator.com/item?id=46339537
+
 https://news.ycombinator.com/item?id=46290620
 
 https://news.ycombinator.com/item?id=46242838

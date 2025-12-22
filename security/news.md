@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46338339
+
 https://radar.cloudflare.com/year-in-review/2025
 > https://news.ycombinator.com/item?id=46305945
 

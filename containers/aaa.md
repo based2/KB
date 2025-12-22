@@ -81,6 +81,8 @@ https://news.ycombinator.com/item?id=45008740
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://news.ycombinator.com/item?id=46300411
+
 https://news.ycombinator.com/item?id=45997722
 
 https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html

@@ -2,7 +2,16 @@ https://www.iso.org/standard/83757.html  ISO/IEC TS 10866:2024 Information techn
 
 https://gaia-x.eu/
 
+https://eur-lex.europa.eu/EN/legal-content/glossary/european-company.html
+
+https://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa
+
+# Incidents
+https://youtu.be/2wMxldl3Alk?si=xfUaVRCP4hjGDtUv
+
 # News
+https://news.ycombinator.com/item?id=46334533
+
 https://www.thestar.com.my/tech/tech-news/2025/12/12/taiwan-opens-new-cloud-centre-to-bolster-039sovereign-ai039-effort
 
 https://www.itforbusiness.fr/doctrine-une-solution-dite-souveraine-hebergee-chez-aws-97825

@@ -21,6 +21,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://news.ycombinator.com/item?id=46342412
+
 https://www.theregister.com/2025/12/09/porsche_bricked_russia/
 
 https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7

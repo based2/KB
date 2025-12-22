@@ -155,6 +155,12 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+> https://news.ycombinator.com/item?id=46316050
+
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3186671&searchOpt=ALL&searchTxt=
+> https://www.theregister.com/2025/12/22/south_korea_facial_verification/
+
 https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/
 
 https://www.nbcnews.com/tech/security/text-scam-phone-sms-hack-message-fake-transaction-call-new-york-rcna243349

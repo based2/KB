@@ -281,6 +281,9 @@ https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc RCE via 
 > https://news.ycombinator.com/item?id=46310104
 
 # News
+https://github.com/FreeBSDFoundation/proj-laptop
+> https://news.ycombinator.com/item?id=46326519
+
 https://news.ycombinator.com/item?id=45711279
 
 https://news.ycombinator.com/item?id=45582758

@@ -1,3 +1,6 @@
+https://diziet.dreamwidth.org/20436.html
+> https://news.ycombinator.com/item?id=46352231
+
 https://www.debian.org/News/2025/20251115
 
 https://news.ycombinator.com/item?id=45779860

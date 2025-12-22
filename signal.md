@@ -44,6 +44,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=46298055
+
 https://news.ycombinator.com/item?id=46064065
 
 https://www.potatofi.com/posts/spectrum-viewer/

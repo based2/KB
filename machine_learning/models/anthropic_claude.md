@@ -1,3 +1,6 @@
+https://claude.com/chrome
+> https://news.ycombinator.com/item?id=46339777
+
 https://claude.com/blog/organization-skills-and-directory
 > https://news.ycombinator.com/item?id=46315414
 

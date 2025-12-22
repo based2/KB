@@ -11,7 +11,10 @@ https://terinstock.com/post/2021/12/Systemds-clock-epoch-for-RTC-less-systems/
 https://sookocheff.com/post/time/how-does-ntp-work/
 > https://news.ycombinator.com/item?id=30404415
 
-#
+# Incidents
+https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/
+> https://news.ycombinator.com/item?id=46334299
+
 https://vigilance.fr/vulnerabilite/ntpsec-deni-de-service-via-NTS-Client-Request-Mode-3-41933
 
 # News

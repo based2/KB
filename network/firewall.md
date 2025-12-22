@@ -47,6 +47,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/
+
+https://www.theregister.com/2025/12/19/watchguard_firebox/
+
 https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/
 
 https://gfw.report/blog/gfw_unconditional_rst_20250820/en/

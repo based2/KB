@@ -39,6 +39,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incidents
+https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/
+
 https://expel.com/blog/the-history-of-appsuite-the-certs-of-the-baoloader-developer/
 
 https://news.ycombinator.com/item?id=45082595

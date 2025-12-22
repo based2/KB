@@ -71,6 +71,9 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://xania.org/202512/15-aliasing-in-general assembly
+> https://news.ycombinator.com/item?id=46286813
+
 https://github.com/apple/foundationdb/tree/main/flow Actor-based language for C++, used by FoundationDB
 > https://news.ycombinator.com/item?id=46191763
 

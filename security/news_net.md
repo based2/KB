@@ -41,6 +41,8 @@ https://www.daemonology.net/blog/chunking-attacks.pdf
 > https://news.ycombinator.com/item?id=43438601
 
 # News
+https://www.theregister.com/2025/12/19/hpe_oneview_rce_bug/
+
 https://news.ycombinator.com/item?id=46329038
 
 https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/

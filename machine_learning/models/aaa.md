@@ -295,6 +295,9 @@ https://arxiv.org/abs/2511.09030 olving a million-step LLM task with zero errors
 https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
 > https://news.ycombinator.com/item?id=46182031
 
+https://ym2132.github.io/ONNX_MLProgram_NN_exploration ONNX Runtime and CoreML May Silently Convert Your Model to FP16
+> https://news.ycombinator.com/item?id=46350075
+
 # I
 https://news.ycombinator.com/item?id=45991738
 
@@ -312,6 +315,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://openai.com/index/evaluating-chain-of-thought-monitorability/
+> https://news.ycombinator.com/item?id=46322631
+
+https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+> https://news.ycombinator.com/item?id=46342166
+
 https://news.ycombinator.com/item?id=46330726
 
 https://news.ycombinator.com/item?id=46170784

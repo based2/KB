@@ -1,3 +1,6 @@
+https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+> https://news.ycombinator.com/item?id=46348329
+
 https://github.com/CaviraOSS/OpenMemory memory store for LLM agents - SQLite
 > https://news.ycombinator.com/item?id=46262294
 

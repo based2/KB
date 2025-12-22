@@ -1,3 +1,5 @@
+https://www.akamai.com/blog/cloud/ai-actor-tilly-norwood-impact-cloud-infrastructure
+
 https://news.ycombinator.com/item?id=46086771
 
 https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/

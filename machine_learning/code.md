@@ -131,6 +131,12 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://boundaryml.com/blog/structured-outputs-create-false-confidence
+> https://news.ycombinator.com/item?id=46345333
+
+https://davidbau.com/archives/2025/12/16/vibe_coding.html
+> https://news.ycombinator.com/item?id=46318852
+
 https://news.ycombinator.com/item?id=46314684
 
 https://news.ycombinator.com/item?id=46310738

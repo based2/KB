@@ -151,3 +151,5 @@ https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displayin
 https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/
 
 https://www.seqrite.com/blog/unmasking-the-svg-threat-how-hackers-use-vector-graphics-for-phishing-attacks/
+
+https://eulumdat.icu/

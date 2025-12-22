@@ -112,6 +112,9 @@ https://news.ycombinator.com/item?id=45693904 converter
 https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html
 > https://news.ycombinator.com/item?id=45698323
 
+https://github.com/lovell/sharp
+> https://news.ycombinator.com/item?id=46291477
+
 # Photography
 https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/
 > https://news.ycombinator.com/item?id=46177160

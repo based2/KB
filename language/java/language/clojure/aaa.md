@@ -99,6 +99,8 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://news.ycombinator.com/item?id=46286906
+
 https://news.ycombinator.com/item?id=45709988
 
 https://news.ycombinator.com/item?id=45678001

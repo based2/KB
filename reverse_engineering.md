@@ -73,6 +73,8 @@ https://news.ycombinator.com/item?id=43474490
 
 https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghidramcp-via-ollama-and-openweb-ui-794cef02ecf7
 
+https://www.zionbasque.com/files/papers/dec-synergy-study.pdf
+
 # News
 https://news.ycombinator.com/item?id=46328992
 

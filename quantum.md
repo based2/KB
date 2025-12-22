@@ -117,6 +117,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://scottaaronson.blog/?p=9425
+> https://news.ycombinator.com/item?id=46348318
+
 https://news.ycombinator.com/item?id=46056757
 
 https://www.nature.com/articles/s41567-025-02939-0 Floquet States

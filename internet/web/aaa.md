@@ -104,6 +104,9 @@ https://github.com/MartenBE/mkslides
 https://github.com/Skarlso/adventure-voter
 > https://news.ycombinator.com/item?id=46004895
 
+https://github.com/ertugrulcetin/immersa
+> https://news.ycombinator.com/item?id=46336097
+
 # Scraper
 https://github.com/speakol-ads/scrapy-x
 

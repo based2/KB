@@ -11,3 +11,5 @@ https://exact.realty/blog/posts/2022/12/29/csrf-prevention/
 https://news.ycombinator.com/item?id=44891302
 
 https://news.ycombinator.com/item?id=45581288 go
+
+https://news.ycombinator.com/item?id=46347280

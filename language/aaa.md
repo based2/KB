@@ -393,6 +393,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://kellett.im/a/inverse-parentheses
+> https://news.ycombinator.com/item?id=46352248
+
+https://news.ycombinator.com/item?id=46348262
+
 https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
 > https://news.ycombinator.com/item?id=46153466
 

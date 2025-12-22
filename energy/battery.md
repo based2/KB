@@ -10,6 +10,8 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://news.ycombinator.com/item?id=46345506
+
 https://news.ycombinator.com/item?id=46205661
 
 https://news.ycombinator.com/item?id=46176169
