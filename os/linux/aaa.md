@@ -98,6 +98,9 @@ https://mjg59.dreamwidth.org/69070.html
 
 https://news.ycombinator.com/item?id=39367243
 
+https://nytpu.com/gemlog/2025-12-21 ELF Crimes: Program Interpreter Fun
+> https://news.ycombinator.com/item?id=46345975
+
 # Window manager
 https://www.freedesktop.org/wiki/
 
@@ -114,6 +117,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://news.ycombinator.com/item?id=46366998
+
 https://news.ycombinator.com/item?id=46205089
 
 https://news.ycombinator.com/item?id=46172167

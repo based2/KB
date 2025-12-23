@@ -1,3 +1,6 @@
+https://jalammar.github.io/illustrated-transformer/
+> https://news.ycombinator.com/item?id=46357675
+
 https://www.youtube.com/watch?v=bCz4OMemCcA&t=4s
 
 https://www.youtube.com/watch?v=wjZofJX0v4M
@@ -26,6 +29,7 @@ https://xenova.github.io/transformers.js/
 https://news.ycombinator.com/item?id=45660753
 
 #
+
 https://www.arxiv.org/pdf/2511.10811 Transformers know more than they can tell: Learning the Collatz sequence
 > https://news.ycombinator.com/item?id=46137596
 

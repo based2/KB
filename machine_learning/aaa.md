@@ -606,6 +606,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://stopslopware.net/
+> https://news.ycombinator.com/item?id=46366285
+
 https://news.ycombinator.com/item?id=46328109
 
 https://news.ycombinator.com/item?id=46220640

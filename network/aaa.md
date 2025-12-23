@@ -151,6 +151,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://brooker.co.za/blog/2024/05/09/nagle.html
+> https://news.ycombinator.com/item?id=46359120
+
+https://github.com/karol-broda/snitch friendlier ss/netstat
+> https://news.ycombinator.com/item?id=46361229
+
 https://www.isc.org/kea/ DHCP
 > https://news.ycombinator.com/item?id=46142000
 

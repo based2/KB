@@ -131,6 +131,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://blog.kierangill.xyz/oversight-and-guidance
+> https://news.ycombinator.com/item?id=46354970
+
 https://boundaryml.com/blog/structured-outputs-create-false-confidence
 > https://news.ycombinator.com/item?id=46345333
 

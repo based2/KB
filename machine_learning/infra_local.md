@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46360856
+
 https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
 > https://news.ycombinator.com/item?id=46348329
 

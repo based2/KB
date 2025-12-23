@@ -359,6 +359,9 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://boringsql.com/posts/instant-database-clones/
+> https://news.ycombinator.com/item?id=46363360
+
 https://github.com/CrystallineCore/Biscuit index for fast pattern matching LIKE queries
 > https://news.ycombinator.com/item?id=46289884
 

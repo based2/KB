@@ -74,6 +74,8 @@ https://news.ycombinator.com/item?id=46220540
 
 https://news.ycombinator.com/item?id=46307306
 
+https://news.ycombinator.com/item?id=46345897
+
 # Slashdot
 # Reddit
 

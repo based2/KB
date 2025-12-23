@@ -153,6 +153,11 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://news.ycombinator.com/item?id=46367475
+
+https://github.com/eyeblech/cinecli
+> https://news.ycombinator.com/item?id=46362655
+
 https://wikiflix.toolforge.org/
 > https://news.ycombinator.com/item?id=46296627
 
