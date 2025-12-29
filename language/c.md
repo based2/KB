@@ -77,10 +77,14 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://github.com/yugr/sortcheck
 > https://lobste.rs/s/h6fmdw/sortcheck_tool_for_detecting_violations
 
+https://news.ycombinator.com/item?id=46376608
+
 # c object
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=46392736
+
 https://news.ycombinator.com/item?id=46228597
 
 https://lair.masot.net/gamma/

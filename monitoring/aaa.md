@@ -129,6 +129,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/pranshuparmar/witr Explain why a process is running on your Linux system
+> https://news.ycombinator.com/item?id=46392910
+
 https://github.com/observIQ/otel-distro-builder
 > https://news.ycombinator.com/item?id=46177664
 

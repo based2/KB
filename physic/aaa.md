@@ -1,5 +1,8 @@
 https://ophysics.com/index.html
 
+https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
+> https://news.ycombinator.com/item?id=46398666
+
 https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
 > https://news.ycombinator.com/item?id=46256643
 
@@ -127,6 +130,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://thehugheslectures.info/the-lectures/
+
 https://news.ycombinator.com/item?id=43937214
 
 https://news.ycombinator.com/item?id=42964124

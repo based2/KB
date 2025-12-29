@@ -303,6 +303,12 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/
+> https://news.ycombinator.com/item?id=46398906
+
+https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
+> https://news.ycombinator.com/item?id=46391514
+
 https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/
 > https://news.ycombinator.com/item?id=46103571
 

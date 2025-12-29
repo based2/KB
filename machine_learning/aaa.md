@@ -606,6 +606,9 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://ossa-ma.github.io/blog/groq
+> https://news.ycombinator.com/item?id=46403559
+
 https://stopslopware.net/
 > https://news.ycombinator.com/item?id=46366285
 

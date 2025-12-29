@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/
+
 https://news.ycombinator.com/item?id=45948058
 
 https://www.wiz.io/blog/north-korean-tradertraitor-crypto-heist

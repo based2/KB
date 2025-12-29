@@ -1,7 +1,8 @@
 https://news.ycombinator.com/item?id=46319657
 
-https://apple.github.io/ml-sharp/
+https://apple.github.io/ml-sharp/ 2d to 3d
 > https://news.ycombinator.com/item?id=46284658
+> https://news.ycombinator.com/item?id=46401539
 
 https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
 > https://news.ycombinator.com/item?id=46248644

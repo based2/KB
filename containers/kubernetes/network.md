@@ -36,3 +36,6 @@ https://github.com/Veinar/dracan enhance filtering and validation capabilities w
 > https://news.ycombinator.com/item?id=42097735
 
 https://ngrok.com/blog-post/ngrok-kubernetes-ingress
+
+https://interlaye.red/kubernetes_002degress_002dsquid.html
+> https://news.ycombinator.com/item?id=46419659

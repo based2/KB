@@ -284,6 +284,9 @@ https://github.com/TheAuditorTool/Auditor
 
 https://arxiv.org/abs/2512.10047
 
+https://github.com/DeepMyst/Mysti
+> https://news.ycombinator.com/item?id=46365105
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 
@@ -294,6 +297,8 @@ https://ai.meta.com/blog/practical-ai-agent-security/
 https://news.ycombinator.com/item?id=46055942
 
 # I
+https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/
+
 https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
 > https://news.ycombinator.com/item?id=45794245
 

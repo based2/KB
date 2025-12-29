@@ -10,6 +10,8 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 https://news.ycombinator.com/item?id=39593647
 
 #
+https://news.ycombinator.com/item?id=46414916
+
 https://news.ycombinator.com/item?id=46350477
 
 https://news.ycombinator.com/item?id=46172439

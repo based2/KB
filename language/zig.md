@@ -1,3 +1,6 @@
+https://nickmonad.blog/2025/static-allocation-with-zig-kv/
+> https://news.ycombinator.com/item?id=46422009
+
 https://github.com/chase-lambert/vigil
 
 https://news.ycombinator.com/item?id=46165249

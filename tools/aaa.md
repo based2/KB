@@ -11,6 +11,9 @@ http://karolis.koncevicius.lt/002.html
 https://blog.sanctum.geek.nz/cron-best-practices/
 > https://news.ycombinator.com/item?id=30636872
 
+https://george.mand.is/2025/09/more-dynamic-cronjobs/
+> https://news.ycombinator.com/item?id=46399576
+
 https://relational-pipes.globalcode.info/v_0/index.xhtml
 
 https://monkey.org/~marius/unix-tools-hints.html

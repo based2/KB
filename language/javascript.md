@@ -732,6 +732,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/pdubroy/til/blob/main/js/2025-12-23-V8-Natives-syntax.md
+
 https://github.com/bellard/mquickjs/blob/main/README.md
 > https://news.ycombinator.com/item?id=46367224
 

@@ -94,6 +94,9 @@ https://basicbitch.software/posts/2025-07-12-NixOS-My-Savior.html
 https://news.ycombinator.com/item?id=45772347
 
 #
+https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+> https://news.ycombinator.com/item?id=46393992
+
 https://news.ycombinator.com/item?id=45260741
 
 https://medium.com/data-science-collective/pipask-know-what-youre-installing-before-it-s-too-late-2a6afce80987
@@ -117,6 +120,9 @@ rpm -qpR
 
 # Incidents
 https://socket.dev/blog/malicious-crate-mimicking-finch-exfiltrates-credentials
+
+https://socket.dev/blog/2025-report-destructive-malware-in-open-source-packages
+> https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html
 
 https://socket.dev/blog/malicious-go-packages-impersonate-googles-uuid-library-and-exfiltrate-data
 

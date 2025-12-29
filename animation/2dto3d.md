@@ -10,6 +10,8 @@ https://arxiv.org/abs/2110.06635 ADOP: Approximate Differentiable One-Pixel Poin
 https://news.ycombinator.com/item?id=39453524
 
 # Photo23D
+https://github.com/apple/ml-sharp
+> https://news.ycombinator.com/item?id=46401539
 
 https://news.ycombinator.com/item?id=42297644
 

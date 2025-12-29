@@ -30,6 +30,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # Incidents
+https://news.ycombinator.com/item?id=46419970
+
 https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/
 
 https://news.ycombinator.com/item?id=43937242
@@ -52,6 +54,8 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://media.ccc.de/v/denog17-78243-you-can-t-just-model-a-train-in-netbox-about-architecting-and-running-modern-it-infrastructure-in-trains
+
 https://news.ycombinator.com/item?id=46242871
 
 https://news.ycombinator.com/item?id=45530744

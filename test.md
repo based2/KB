@@ -36,6 +36,9 @@ https://news.ycombinator.com/item?id=41936855
 https://news.ycombinator.com/item?id=43796003
 
 #
+https://github.com/mockito/mockito/issues/3777
+> https://news.ycombinator.com/item?id=46414078
+
 https://news.ycombinator.com/item?id=45789556
 
 https://news.ycombinator.com/item?id=45038074

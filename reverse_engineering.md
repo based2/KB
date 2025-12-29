@@ -76,6 +76,9 @@ https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghid
 https://www.zionbasque.com/files/papers/dec-synergy-study.pdf
 
 # News
+https://fzakaria.com/2025/12/28/huge-binaries
+> https://news.ycombinator.com/item?id=46417791
+
 https://news.ycombinator.com/item?id=46328992
 
 https://news.ycombinator.com/item?id=46208409

@@ -611,6 +611,11 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://vincents.dev/blog/rust-errors-without-dependencies/
+> https://news.ycombinator.com/item?id=46408365
+
+https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/
+
 https://news.ycombinator.com/item?id=46322391
 
 https://arborium.bearcove.eu/

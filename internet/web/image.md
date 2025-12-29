@@ -116,6 +116,9 @@ https://github.com/lovell/sharp
 > https://news.ycombinator.com/item?id=46291477
 
 # Photography
+https://maurycyz.com/misc/raw_photo/
+> https://news.ycombinator.com/item?id=46415225
+
 https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/
 > https://news.ycombinator.com/item?id=46177160
 

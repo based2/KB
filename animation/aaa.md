@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://floor796.com/
+> https://news.ycombinator.com/item?id=46401612
+
 https://cloth.mikail-khan.com/
 > https://news.ycombinator.com/item?id=46127981
 

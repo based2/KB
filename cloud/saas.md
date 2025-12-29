@@ -57,4 +57,6 @@ https://once.com
 
 https://news.ycombinator.com/item?id=46352310
 
+https://varietyiq.com/blog/misallocation
+
 

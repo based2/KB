@@ -34,6 +34,9 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://www.learnix-os.com/
+> https://news.ycombinator.com/item?id=46391599
+
 https://www.capros.org/
 > https://news.ycombinator.com/item?id=46268869
 > > https://github.com/vsrinivas/coyotos/blob/c68719b851e253aa11321ce2cca1d0ddbdeeeaf6/src/sys/arch/i386/kernel/boot.S

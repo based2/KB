@@ -88,9 +88,12 @@ https://news.ycombinator.com/item?id=45390866
 
 https://distributionalgraphormer.github.io/
 
-# News
-https://news.ycombinator.com/item?id=46239629
+https://news.ycombinator.com/item?id=46422812
 
+https://www.getevidex.com/
+> https://news.ycombinator.com/item?id=46239629
+
+# News
 https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full
 
 https://news.ycombinator.com/item?id=46063145

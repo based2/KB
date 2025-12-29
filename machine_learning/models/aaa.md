@@ -298,7 +298,12 @@ https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-c
 https://ym2132.github.io/ONNX_MLProgram_NN_exploration ONNX Runtime and CoreML May Silently Convert Your Model to FP16
 > https://news.ycombinator.com/item?id=46350075
 
+https://arxiv.org/abs/2512.14693 Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)
+> https://news.ycombinator.com/item?id=46357458
+
 # I
+https://news.ycombinator.com/item?id=46357686
+
 https://news.ycombinator.com/item?id=45991738
 
 https://www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/
@@ -315,6 +320,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://github.com/HarryR/z80ai Z80-μLM, a 'Conversational AI' That Fits in 40KB
+> https://news.ycombinator.com/item?id=46417815
+
 https://openai.com/index/evaluating-chain-of-thought-monitorability/
 > https://news.ycombinator.com/item?id=46322631
 

@@ -41,6 +41,8 @@ https://mofi.loud.red/
 https://news.ycombinator.com/item?id=44476115
 
 # News
+https://news.ycombinator.com/item?id=46403291
+
 https://news.ycombinator.com/item?id=46038684
 
 https://news.ycombinator.com/item?id=46081443

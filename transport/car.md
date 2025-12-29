@@ -21,6 +21,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+http://www3.nissan.co.jp/siteinfo/information_251205.html
+> https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/
+
 https://news.ycombinator.com/item?id=46342412
 
 https://www.theregister.com/2025/12/09/porsche_bricked_russia/

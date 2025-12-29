@@ -23,7 +23,15 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 
 Report Apple Intelligence enabled by default
 
-#
+# News
+http://www.jamf.com/blog/macsync-stealer-evolution-code-signed-swift-malware-analysis/
+> https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/
+
+https://www.jamf.com/blog/macpaw-macos-malware-evolution-amos-stealer-cybercrime-ecosystem/
+
+https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html
+> https://news.ycombinator.com/item?id=46413256
+
 https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/
 
 https://hey.paris/posts/appleid/

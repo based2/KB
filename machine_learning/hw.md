@@ -6,6 +6,11 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
+> https://news.ycombinator.com/item?id=46379183
+
+https://news.ycombinator.com/item?id=46417227
+
 https://asia.nikkei.com/business/tech/semiconductors/china-s-moore-threads-unveils-new-chip-in-homegrown-ai-race
 
 https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/

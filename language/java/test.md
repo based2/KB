@@ -46,6 +46,9 @@ https://vmlens.com/articles/ct/new_way_to_test/
 
 https://citrusframework.org/projects/
 
+https://github.com/mockito/mockito/issues/3777
+> https://news.ycombinator.com/item?id=46414078
+
 ## Async
 https://github.com/awaitility/awaitility
 

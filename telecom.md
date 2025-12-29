@@ -379,6 +379,11 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=46417676
+
+https://react-networks-lib.rackout.net/fibre
+> https://news.ycombinator.com/item?id=46401190
+
 https://news.ycombinator.com/item?id=46194384
 
 https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/

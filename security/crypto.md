@@ -244,7 +244,14 @@ https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk
 https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms
 > https://news.ycombinator.com/item?id=31990696
 
+# Incidents
+https://gpg.fail/
+> https://news.ycombinator.com/item?id=46403200
+
 # News
+https://soatok.blog/2020/07/08/gnu-a-heuristic-for-bad-cryptography/
+> https://news.ycombinator.com/item?id=46405002
+
 https://antonz.org/accepted/runtime-secret/
 > https://news.ycombinator.com/item?id=46210705
 
