@@ -76,6 +76,10 @@ https://news.ycombinator.com/item?id=46307306
 
 https://news.ycombinator.com/item?id=46345897
 
+https://news.ycombinator.com/item?id=46442245
+
+https://news.ycombinator.com/item?id=46435308
+
 # Slashdot
 # Reddit
 
@@ -99,6 +103,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://petapixel.com/2025/12/29/x-users-have-the-power-to-edit-any-image-without-permission/
+
 https://news.ycombinator.com/item?id=46279123
 
 https://news.ycombinator.com/item?id=46304955

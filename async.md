@@ -60,7 +60,10 @@ https://danp.net/posts/synctest-experiment/
 
 https://news.ycombinator.com/item?id=43045151
 
-#
+# News
+https://fuckingapproachableswiftconcurrency.com/en/
+> https://news.ycombinator.com/item?id=46432916
+
 https://news.ycombinator.com/item?id=46280465
 
 https://news.ycombinator.com/item?id=46292937

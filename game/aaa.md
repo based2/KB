@@ -65,6 +65,15 @@ https://news.ycombinator.com/item?id=45730094
 https://andyljones.com/boardlaw/
 
 # News
+https://intelligencegame.tech/
+> https://news.ycombinator.com/item?id=46387028
+
+https://nonzerosum.games/
+> https://news.ycombinator.com/item?id=46432311
+
+https://euclidle.com/ Guess the Coordinates in N‑Dimensional Space
+> https://news.ycombinator.com/item?id=46390218
+
 https://news.ycombinator.com/item?id=46321619
 
 https://news.ycombinator.com/item?id=46329696

@@ -5,6 +5,8 @@ https://www.bortzmeyer.org/9132.html
 https://github.com/nttdots/go-dots
 
 # i
+https://www.safebreach.com/blog/win-dos-epidemic-abusing-rpc-for-dos-and-ddos/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/
 > https://news.ycombinator.com/item?id=45955900
 

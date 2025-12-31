@@ -86,6 +86,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://loss32.org/ Win32 is the stable Linux ABI
+> https://news.ycombinator.com/item?id=46433035
+
 https://news.ycombinator.com/item?id=46191449
 
 https://news.ycombinator.com/item?id=46235618

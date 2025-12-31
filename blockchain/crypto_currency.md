@@ -32,6 +32,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # Incidents
+https://www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/
+
 https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/
 
 https://news.ycombinator.com/item?id=45948058

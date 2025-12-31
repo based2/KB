@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://github.com/tixl3d/tixl
+> https://news.ycombinator.com/item?id=46394651
+
 https://floor796.com/
 > https://news.ycombinator.com/item?id=46401612
 

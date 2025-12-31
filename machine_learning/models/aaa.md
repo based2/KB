@@ -35,6 +35,8 @@ https://news.ycombinator.com/item?id=43080531
 
 https://news.ycombinator.com/item?id=43080531
 
+https://news.ycombinator.com/item?id=46390621
+
 # History
 https://gregorygundersen.com/blog/2025/10/01/large-language-models/
 > https://news.ycombinator.com/item?id=45488892
@@ -320,6 +322,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46444020
+
 https://github.com/HarryR/z80ai Z80-μLM, a 'Conversational AI' That Fits in 40KB
 > https://news.ycombinator.com/item?id=46417815
 

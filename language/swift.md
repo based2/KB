@@ -1,3 +1,6 @@
+https://fuckingapproachableswiftconcurrency.com/en/
+> https://news.ycombinator.com/item?id=46432916
+
 https://news.ycombinator.com/item?id=45926224
 
 https://news.ycombinator.com/item?id=45767257

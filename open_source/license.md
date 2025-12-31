@@ -99,6 +99,8 @@ https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy
 
 https://news.ycombinator.com/item?id=46308893
 
+https://news.ycombinator.com/item?id=46395184
+
 # Incidents
 https://github.com/liquibase/liquibase/issues/7374
 > https://news.ycombinator.com/item?id=45602676

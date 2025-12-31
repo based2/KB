@@ -71,6 +71,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki
+> https://news.ycombinator.com/item?id=46444076
+
 https://news.ycombinator.com/item?id=46405183
 
 https://news.ycombinator.com/item?id=46077445

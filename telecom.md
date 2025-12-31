@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/
+
 https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
 > https://news.ycombinator.com/item?id=46316050
 

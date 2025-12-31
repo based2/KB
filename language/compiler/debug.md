@@ -15,10 +15,16 @@ https://news.ycombinator.com/item?id=32709045
 https://victorwynne.com/processor-trace-instrument/
 > https://news.ycombinator.com/item?id=44926758
 
+# I
+https://vptdigital.com/blog/honey-detecting-testers/
+> https://news.ycombinator.com/item?id=46438522
+
 # ML
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://news.ycombinator.com/item?id=46423521
+
 https://news.ycombinator.com/item?id=46280465
 
 https://news.ycombinator.com/item?id=46207852

@@ -1,3 +1,8 @@
+https://00f.net/2025/12/30/libsodium-vulnerability/
+> https://news.ycombinator.com/item?id=46435614
+
+https://www.heise.de/en/news/39C3-Multiple-vulnerabilities-in-GnuPG-and-other-cryptographic-tools-11125362.html
+
 https://nvd.nist.gov/vuln/detail/CVE-2025-12816 node-forge
 > https://github.com/digitalbazaar/forge JS TLS
 

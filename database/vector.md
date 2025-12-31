@@ -155,3 +155,6 @@ https://alex-jacobs.com/posts/the-case-against-pgvector/
 https://news.ycombinator.com/item?id=46080812
 
 https://news.ycombinator.com/item?id=46195068
+
+https://github.com/timescale/pgvectorscale
+> https://news.ycombinator.com/item?id=46379765

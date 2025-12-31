@@ -131,6 +131,12 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=46437391
+
+https://news.ycombinator.com/item?id=46395714
+
+https://news.ycombinator.com/item?id=46424200 tests
+
 https://blog.kierangill.xyz/oversight-and-guidance
 > https://news.ycombinator.com/item?id=46354970
 

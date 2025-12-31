@@ -24,6 +24,10 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://www.koi.ai/blog/glassworm-goes-mac-fresh-infrastructure-new-tricks
+
+https://blog.threatuniverse.co.uk/posts/usersyncworker-macos-infostealer/
+
 http://www.jamf.com/blog/macsync-stealer-evolution-code-signed-swift-malware-analysis/
 > https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/
 

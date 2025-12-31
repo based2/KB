@@ -80,6 +80,10 @@ https://news.ycombinator.com/item?id=44070532
 https://research.google/blog/graph-foundation-models-for-relational-data/
 
 # Incidents
+https://www.theregister.com/2025/12/23/oracles_new_aienhanced_support_portal/
+
+https://news.ycombinator.com/item?id=46427920
+
 https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/#technical_analysis
 > https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html
 
@@ -90,6 +94,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2025-14847
 > https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/
 
 # News
+https://news.ycombinator.com/item?id=46440510
+
 https://github.com/linked-db/linked-ql Live Queries over Postgres, MySQL, MariaDB
 > https://news.ycombinator.com/item?id=46192545
 

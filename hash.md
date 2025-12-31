@@ -138,6 +138,9 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://bluuewhale.github.io/posts/concurrent-hashmap-designs/
+> https://github.com/bluuewhale/hash-smith
+
 https://news.ycombinator.com/item?id=46205461
 
 https://news.ycombinator.com/item?id=46105079

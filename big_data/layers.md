@@ -95,6 +95,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://codecut.ai/unified-dataframe-functions-pandas-polars-pyspark/
+
 https://news.ycombinator.com/item?id=45959780
 
 https://news.ycombinator.com/item?id=45823290

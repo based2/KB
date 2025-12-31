@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=46388882
+
+https://news.ycombinator.com/item?id=46426624
+
 https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/
 > https://news.ycombinator.com/item?id=46420453
 

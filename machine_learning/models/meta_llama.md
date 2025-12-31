@@ -1,5 +1,8 @@
 # llama Facebook - Forbids commercial use, weights required
 
+https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation
+> https://news.ycombinator.com/item?id=46426534
+
 https://ai.meta.com/samaudio/
 > https://news.ycombinator.com/item?id=46292266
 

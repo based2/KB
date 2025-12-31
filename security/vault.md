@@ -57,6 +57,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incidents
+https://news.ycombinator.com/item?id=46433269
+
 https://codeberg.org/manchicken/1password-cli-vuln-disclosure
 > https://news.ycombinator.com/item?id=45478553
 

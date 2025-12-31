@@ -18,6 +18,9 @@ https://github.com/chipsalliance/riscv-dv
 https://github.com/libriscv/libriscv
 
 # News
+https://mwilczynski.dev/posts/riscv-gpu-zink/
+> https://news.ycombinator.com/item?id=46433352
+
 https://news.ycombinator.com/item?id=46218800
 
 https://news.ycombinator.com/item?id=45881404

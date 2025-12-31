@@ -118,6 +118,10 @@ https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 https://news.ycombinator.com/item?id=45640222
 
 # I
+https://news.ycombinator.com/item?id=46440008
+
+https://www.safebreach.com/blog/invitation-is-all-you-need-hacking-gemini/
+
 https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data
 > https://news.ycombinator.com/item?id=46048996
 

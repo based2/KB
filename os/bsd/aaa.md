@@ -277,6 +277,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # Incidents
+https://news.ycombinator.com/item?id=46436828
+
 https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc RCE via ND6 Router Advertisements in FreeBSD
 > https://news.ycombinator.com/item?id=46310104
 

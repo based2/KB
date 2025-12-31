@@ -359,6 +359,9 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://github.com/timescale/pgvectorscale
+> https://news.ycombinator.com/item?id=46379765
+
 https://boringsql.com/posts/instant-database-clones/
 > https://news.ycombinator.com/item?id=46363360
 

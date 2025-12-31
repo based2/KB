@@ -39,3 +39,6 @@ https://ngrok.com/blog-post/ngrok-kubernetes-ingress
 
 https://interlaye.red/kubernetes_002degress_002dsquid.html
 > https://news.ycombinator.com/item?id=46419659
+
+https://sergiocipriano.com/beyla-envoy.html
+> https://news.ycombinator.com/item?id=46444481

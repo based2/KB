@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/
+
 https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/
 
 https://news.ycombinator.com/item?id=45174221

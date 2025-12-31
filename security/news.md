@@ -1,3 +1,12 @@
+https://news.ycombinator.com/item?id=46438828
+
+https://cacm.acm.org/blogcacm/five-types-of-social-engineering-attacks-on-enterprises-and-how-to-prevent-them/
+
+https://www.theregister.com/2025/12/30/update_apache_http_server/?td=keepreading
+
+https://media.ccc.de/v/39c3-hacking-washing-machines
+> https://news.ycombinator.com/item?id=46428496
+
 https://skilldeliver.com/your-supabase-is-public
 > https://news.ycombinator.com/item?id=46355345
 

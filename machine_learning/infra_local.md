@@ -1,3 +1,5 @@
+https://www.theregister.com/2025/12/25/amd_strix_halo_nvidia_spark/
+
 https://news.ycombinator.com/item?id=46360856
 
 https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude

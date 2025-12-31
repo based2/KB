@@ -88,6 +88,10 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=46398666
+
+https://llmnativeos.github.io/specfs/#/statistics
+
 https://news.ycombinator.com/item?id=45668160
 
 https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped

@@ -46,6 +46,8 @@ https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://www.thomasantony.com/posts/202512281621-gpu-agnostic-programming-using-cubecl/
+
 https://github.com/parallelArchitect/gpu-pcie-diagnostic
 
 https://news.ycombinator.com/item?id=46006616

@@ -129,6 +129,8 @@ https://github.com/deepseek-ai/DeepSeek-OCR
 
 https://news.ycombinator.com/item?id=46006104
 
+https://news.ycombinator.com/item?id=46383593
+
 # News
 https://news.ycombinator.com/item?id=45887262
 

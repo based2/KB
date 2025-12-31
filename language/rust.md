@@ -581,6 +581,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incidents
+https://conduit.rs/changelog/#v0-10-11-2025-12-30
+
 https://news.ycombinator.com/item?id=46309536
 
 https://old.reddit.com/r/rust/comments/1oshqt7/official_rust_youtube_channel_seems_to_be_hacked/

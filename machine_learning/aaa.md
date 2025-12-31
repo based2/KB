@@ -400,6 +400,8 @@ https://news.ycombinator.com/item?id=42404447
 https://github.com/Lab700xOrg/aisbom open-source CLI to detect "Pickle Bombs" in PyTorch models
 > https://news.ycombinator.com/item?id=46290113
 
+https://guardianhealth.dev/blog/hipaa-ai-red-flags/
+
 # Incidents
 https://news.ycombinator.com/item?id=46178108
 

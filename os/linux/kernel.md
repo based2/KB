@@ -56,6 +56,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/Linux-7.0-IO-uring-Polling
+
 https://fil-c.org/pizlix
 > https://news.ycombinator.com/item?id=46260852
 

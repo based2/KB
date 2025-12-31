@@ -236,6 +236,9 @@ https://www.cvxpy.org/tutorial/intro/index.html
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://sprott.physics.wisc.edu/pickover/trans.html
+> https://news.ycombinator.com/item?id=46443579
+
 https://pypi.org/project/wavelet-matrix/
 > https://news.ycombinator.com/item?id=46304413
 

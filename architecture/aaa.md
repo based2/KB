@@ -343,6 +343,20 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure
+> https://news.ycombinator.com/item?id=46406901
+
+https://en.wikipedia.org/wiki/TRIZ
+> https://news.ycombinator.com/item?id=46436557
+
+https://news.ycombinator.com/item?id=46440846
+
+https://news.ycombinator.com/item?id=46418415
+
+https://loup-vaillant.fr/articles/solid-bull
+
+https://news.ycombinator.com/item?id=46442597
+
 https://news.ycombinator.com/item?id=46299257
 
 https://news.ycombinator.com/item?id=46315547

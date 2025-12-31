@@ -6,6 +6,8 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://chipsandcheese.com/p/inside-nvidia-gb10s-memory-subsystem
+
 https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
 > https://news.ycombinator.com/item?id=46379183
 

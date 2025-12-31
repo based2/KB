@@ -126,6 +126,8 @@ https://en.wikipedia.org/wiki/Cayley_graph
 https://blog.securelayer7.net/remote-code-execution-in-apache-hugegraph/
 
 # News
+https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html
+
 https://github.com/jagenjo/litegraph.js
 
 https://news.ycombinator.com/item?id=45798838

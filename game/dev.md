@@ -192,6 +192,8 @@ https://blog.ptidej.net/cg-wfc-a-hybrid-method-for-designer-guided-replayable-ga
 https://news.ycombinator.com/item?id=46080835
 
 # News
+https://news.ycombinator.com/item?id=46428154
+
 https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/
 > https://news.ycombinator.com/item?id=46422412
 

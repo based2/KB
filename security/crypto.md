@@ -245,10 +245,15 @@ https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-
 > https://news.ycombinator.com/item?id=31990696
 
 # Incidents
+https://www.heise.de/en/news/39C3-Multiple-vulnerabilities-in-GnuPG-and-other-cryptographic-tools-11125362.html
+
 https://gpg.fail/
 > https://news.ycombinator.com/item?id=46403200
 
 # News
+https://flak.tedunangst.com/post/using-lava-lamps-to-break-RSA
+> https://news.ycombinator.com/item?id=46437783
+
 https://soatok.blog/2020/07/08/gnu-a-heuristic-for-bad-cryptography/
 > https://news.ycombinator.com/item?id=46405002
 
