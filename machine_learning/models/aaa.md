@@ -322,6 +322,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+> https://news.ycombinator.com/item?id=46449643
+
 https://news.ycombinator.com/item?id=46444020
 
 https://github.com/HarryR/z80ai Z80-μLM, a 'Conversational AI' That Fits in 40KB

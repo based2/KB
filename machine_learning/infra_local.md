@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46457027
+
 https://www.theregister.com/2025/12/25/amd_strix_halo_nvidia_spark/
 
 https://news.ycombinator.com/item?id=46360856
@@ -49,3 +51,5 @@ https://instavm.io/blog/building-my-offline-ai-workspace
 https://petewarden.com/2025/10/16/why-does-a-local-ai-voice-agent-running-on-a-super-cheap-soc-matter/
 
 https://github.com/lone-cloud/gerbil
+
+https://news.ycombinator.com/item?id=46456215

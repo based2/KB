@@ -1,7 +1,8 @@
+https://news.ycombinator.com/item?id=46455053
+
 https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf
 
 https://news.ycombinator.com/item?id=42088996
-
 
 https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/
 

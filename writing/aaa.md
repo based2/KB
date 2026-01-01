@@ -154,6 +154,8 @@ https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
 
 https://news.ycombinator.com/item?id=44105089
 
+https://news.ycombinator.com/item?id=46446815
+
 # Notes
 https://github.com/flxzt/rnote
 > https://news.ycombinator.com/item?id=41348204

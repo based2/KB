@@ -142,6 +142,9 @@ https://news.ycombinator.com/item?id=45980760
 https://news.ycombinator.com/item?id=46255697
 
 # Incidents
+https://bugs.pwno.io/0014 Heap Overflow in FFmpeg EXIF
+> https://news.ycombinator.com/item?id=46454854
+
 https://news.ycombinator.com/item?id=43914832
 
 https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app

@@ -1,3 +1,6 @@
+https://bustermq.sh/ BusterMQ, Thread-per-core NATS server in Zig with io_uring
+> https://news.ycombinator.com/item?id=46449812
+
 https://nickmonad.blog/2025/static-allocation-with-zig-kv/
 > https://news.ycombinator.com/item?id=46422009
 
