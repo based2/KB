@@ -3,6 +3,8 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 #
+https://news.ycombinator.com/item?id=46454693
+
 https://haveibeenflocked.com/news/cyble-downtime
 > https://news.ycombinator.com/item?id=46341305
 > https://haveibeenflocked.com/news/cyble-part2

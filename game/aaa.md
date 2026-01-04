@@ -64,6 +64,8 @@ https://news.ycombinator.com/item?id=45730094
 
 https://andyljones.com/boardlaw/
 
+https://www.doc.ic.ac.uk/~ajd/Cycling/
+
 # News
 https://intelligencegame.tech/
 > https://news.ycombinator.com/item?id=46387028

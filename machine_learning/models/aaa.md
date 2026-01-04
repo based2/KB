@@ -322,6 +322,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
+
+https://harborframework.com/ benchmark
+
+https://allenai.org/blog/olmo3
+
 https://simonwillison.net/2025/Dec/31/the-year-in-llms/
 > https://news.ycombinator.com/item?id=46449643
 

@@ -414,6 +414,8 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://simonwillison.net/2025/Nov/20/nano-banana-pro/
+
 https://news.ycombinator.com/item?id=46321972
 
 https://apple.github.io/ml-sharp/

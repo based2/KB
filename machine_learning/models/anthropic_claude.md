@@ -1,3 +1,5 @@
+https://www.anthropic.com/news/claude-opus-4-5
+
 https://news.ycombinator.com/item?id=46388882
 
 https://news.ycombinator.com/item?id=46426624

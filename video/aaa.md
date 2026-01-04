@@ -47,6 +47,9 @@ https://github.com/savonet/liquidsoap OCaml
 
 DaVinci resolve - https://www.blackmagicdesign.com/fr/products/davinciresolve/
 
+https://ciechanow.ski/cameras-and-lenses/
+> https://news.ycombinator.com/item?id=46455872
+
 https://handbrake.fr/
 
 https://obsproject.com
@@ -156,6 +159,9 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://www.starwars.com/news/mythic-discovery-within-the-inner-reaches-of-outer-space-joseph-campbell-meets-george-lucas-part-i
+> https://news.ycombinator.com/item?id=46454274
+
 https://news.ycombinator.com/item?id=46392382
 
 https://alexwlchan.net/2025/square-pixels/

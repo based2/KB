@@ -188,6 +188,9 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://carette.xyz/posts/going_immutable_macos/
+> https://news.ycombinator.com/item?id=46462719
+
 https://news.ycombinator.com/item?id=46410402
 
 https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/

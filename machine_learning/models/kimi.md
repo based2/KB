@@ -1,0 +1,1 @@
+https://moonshotai.github.io/Kimi-K2/thinking.html

@@ -532,6 +532,8 @@ https://github.com/Speykious/cve-rs
 https://corrode.dev/blog/defensive-programming/
 > https://news.ycombinator.com/item?id=46163609
 
+https://research.ralfj.de/papers/2026-popl-miri.pdf
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

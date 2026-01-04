@@ -99,6 +99,8 @@ https://news.ycombinator.com/item?id=39507267
 
 https://news.ycombinator.com/item?id=40690070
 
+https://www.twz.com/sea/chinese-cargo-ship-with-electromagnetic-catapult-to-launch-advanced-combat-drones-emerges
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 
@@ -137,6 +139,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/
+
 https://www.science.org/doi/10.1126/scirobotics.adu8009
 
 https://news.ycombinator.com/item?id=46199411

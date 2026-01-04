@@ -41,3 +41,5 @@ https://github.com/ernestofgonzalez/epub-utils
 
 https://github.com/superstarryeyes/lue Terminal eBook Reader with Text-to-Speech
 > https://news.ycombinator.com/item?id=44925597
+
+https://standardebooks.org/blog/public-domain-day-2026

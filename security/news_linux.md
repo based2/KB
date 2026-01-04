@@ -64,6 +64,8 @@ https://landlock.io/ Unprivileged Sandboxing
 https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf
 > https://news.ycombinator.com/item?id=46244378
 
+https://hydrapwk.github.io/get/
+
 # News
 https://news.ycombinator.com/item?id=46278857
 

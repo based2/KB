@@ -381,6 +381,12 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.punkt.ch/blogs/news/punkt-unveils-mc03
+> https://news.ycombinator.com/item?id=46466364
+
+https://www.clicksphone.com/en/communicator
+> https://news.ycombinator.com/item?id=46467057
+
 https://news.ycombinator.com/item?id=46417676
 
 https://react-networks-lib.rackout.net/fibre

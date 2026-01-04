@@ -261,6 +261,13 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://asimovaddendum.substack.com/p/how-to-prevent-open-standards-from
+
+https://thenewstack.io/the-reality-of-open-source-more-puppies-less-beer/
+
+https://github.com/ghostty-org/ghostty/issues/3558
+> https://news.ycombinator.com/item?id=46460319
+
 https://news.ycombinator.com/item?id=46138238
 
 https://news.ycombinator.com/item?id=46064210

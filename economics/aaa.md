@@ -271,6 +271,8 @@ https://www.bloomberg.com/opinion/articles/2022-09-28/the-deli-was-allegedly-a-f
 https://news.ycombinator.com/item?id=39643833
 
 ## Personal finance
+https://news.ycombinator.com/item?id=46463644
+
 https://monetal.app/index_en.php
 > https://news.ycombinator.com/item?id=36906623
 

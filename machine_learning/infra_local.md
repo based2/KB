@@ -1,3 +1,5 @@
+https://thenewstack.io/how-to-deploy-an-open-source-version-of-notebooklm/
+
 https://news.ycombinator.com/item?id=46457027
 
 https://www.theregister.com/2025/12/25/amd_strix_halo_nvidia_spark/

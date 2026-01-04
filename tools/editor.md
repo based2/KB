@@ -426,6 +426,9 @@ https://news.ycombinator.com/item?id=41353835
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://blog.phronemophobic.com/easel-one-year.html
+> https://news.ycombinator.com/item?id=46402202
+
 https://news.ycombinator.com/item?id=45784596
 
 https://news.ycombinator.com/item?id=45626910

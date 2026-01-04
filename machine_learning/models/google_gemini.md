@@ -1,3 +1,9 @@
+https://ai.google.dev/edge/litert browser
+
+https://blog.google/technology/developers/gemini-3-developers/
+
+https://simonwillison.net/2025/Nov/20/nano-banana-pro/
+
 https://blog.google/technology/developers/functiongemma/
 > https://news.ycombinator.com/item?id=46316533
 

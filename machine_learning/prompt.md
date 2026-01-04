@@ -136,6 +136,8 @@ https://news.ycombinator.com/item?id=46190760
 
 https://news.ycombinator.com/item?id=46232003
 
+https://timkellogg.me/blog/2025/11/03/colors
+
 # I
 https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/
 

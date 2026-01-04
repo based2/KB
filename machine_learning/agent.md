@@ -287,6 +287,17 @@ https://arxiv.org/abs/2512.10047
 https://github.com/DeepMyst/Mysti
 > https://news.ycombinator.com/item?id=46365105
 
+https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
+> https://github.com/steveyegge/gastown
+> https://github.com/steveyegge/beads
+
+https://aedm.net/blog/square-minus-square-2025-12-22/
+> https://news.ycombinator.com/item?id=46397454
+
+https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+
+https://nanda.media.mit.edu/
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 
@@ -295,6 +306,8 @@ https://news.ycombinator.com/item?id=45496533
 https://ai.meta.com/blog/practical-ai-agent-security/
 
 https://news.ycombinator.com/item?id=46055942
+
+https://news.ycombinator.com/item?id=46456682
 
 # I
 https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/

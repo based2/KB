@@ -236,6 +236,9 @@ https://www.cvxpy.org/tutorial/intro/index.html
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/
+> https://news.ycombinator.com/item?id=46456543
+
 https://sprott.physics.wisc.edu/pickover/trans.html
 > https://news.ycombinator.com/item?id=46443579
 

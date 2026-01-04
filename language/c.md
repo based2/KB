@@ -83,6 +83,9 @@ https://news.ycombinator.com/item?id=46376608
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://zelang-dev.github.io/c-events/
+> https://news.ycombinator.com/item?id=46392095
+
 https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/
 > https://news.ycombinator.com/item?id=46433029
 

@@ -8,7 +8,11 @@ https://www.scmagazine.com/news/mozi-botnet-goes-dark-in-mysterious-circumstance
 # I
 https://security.humanativaspa.it/multiple-vulnerabilities-in-eclipse-threadx/
 
-#
+# News
+https://flowingdata.com/2025/11/19/scientists-can-track-individual-butterflies-with-tiny-sensors/
+
+https://news.ycombinator.com/item?id=46410258
+
 https://news.ycombinator.com/item?id=45969398
 
 https://news.ycombinator.com/item?id=45627048

@@ -608,6 +608,18 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production
+
+https://viterbischool.usc.edu/news/2025/10/artificial-neurons-developed-by-usc-team-replicate-biological-function-for-improved-computer-chips/
+
+https://medium.com/@aedelon/usc-neuromorphic-computing-breakthrough-2025-fde1a420a118?sk=149dc016b18f6b0b4b2aab1b24366d31
+
+https://danwang.co/2025-letter/
+> https://news.ycombinator.com/item?id=46454413
+
+https://zekcrates.quarto.pub/deep-learning-library/
+> https://news.ycombinator.com/item?id=46454587
+
 https://ossa-ma.github.io/blog/groq
 > https://news.ycombinator.com/item?id=46403559
 

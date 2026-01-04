@@ -1,3 +1,6 @@
+https://www.zigbook.net/
+
+#
 https://bustermq.sh/ BusterMQ, Thread-per-core NATS server in Zig with io_uring
 > https://news.ycombinator.com/item?id=46449812
 

@@ -3,6 +3,8 @@ https://news.ycombinator.com/item?id=38681115
 https://news.ycombinator.com/item?id=45517532
 > data:text/html, <html contenteditable>
 
+https://github.com/deepnote/deepnote
+
 ## Jupyter - Python
 https://jupyter.org/
 https://github.com/jupyter/notebook

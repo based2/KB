@@ -400,6 +400,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/
+> https://news.ycombinator.com/item?id=46454470
+
 https://news.ycombinator.com/item?id=46229467
 
 https://github.com/rsionnach/sloppylint

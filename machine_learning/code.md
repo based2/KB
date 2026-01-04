@@ -131,6 +131,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://rocketedge.com/2025/12/29/vibe-coding-for-ctos-the-real-cost-of-100-lines-of-code-ai-agents-vs-human-developers-without-losing-control/
+>
+
 https://news.ycombinator.com/item?id=46437391
 
 https://news.ycombinator.com/item?id=46395714

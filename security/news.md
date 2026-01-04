@@ -1,3 +1,10 @@
+https://thenewstack.io/were-repeating-cybersecuritys-big-mistake-this-time-with-ai/
+
+https://techxplore.com/news/2025-11-online-age-treasure-trove-hackers.html
+
+https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/
+> https://news.ycombinator.com/item?id=46453582
+
 https://news.ycombinator.com/item?id=46438828
 
 https://cacm.acm.org/blogcacm/five-types-of-social-engineering-attacks-on-enterprises-and-how-to-prevent-them/

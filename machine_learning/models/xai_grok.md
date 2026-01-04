@@ -19,4 +19,6 @@ https://news.ycombinator.com/item?id=43085957
 https://github.com/xai-org/grok-1
 
 # I
+https://techxplore.com/news/2025-11-musk-grokipedia-sources.html
+
 https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/

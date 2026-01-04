@@ -225,6 +225,9 @@ https://github.com/Demindiro/agreper
 https://news.ycombinator.com/item?id=43852096
 
 # News
+https://henry.codes/writing/a-website-to-destroy-all-websites/
+> https://news.ycombinator.com/item?id=46457784
+
 https://app.sparktype.org/
 > https://news.ycombinator.com/item?id=45810099
 > https://github.com/sparktype-project/sparktype/tree/main/st-cli

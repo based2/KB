@@ -114,6 +114,9 @@ https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9
 
 https://news.ycombinator.com/item?id=45727097
 
+https://github.com/quickemu-project/quickemu
+> https://news.ycombinator.com/item?id=46430815
+
 # I
 https://github.com/ThijsRay/l1tf_reloaded
 > https://news.ycombinator.com/item?id=46440695

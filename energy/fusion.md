@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.science.org/doi/10.1126/sciadv.adz3040
+> https://phys.org/news/2025-12-tokamak-exceed-plasma-density-limit.html
+> > https://news.ycombinator.com/item?id=46466076
+
 https://news.ycombinator.com/item?id=44745067
 
 https://news.ycombinator.com/item?id=44636204

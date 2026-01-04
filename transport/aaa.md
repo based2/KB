@@ -11,6 +11,8 @@ https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/
 https://news.ycombinator.com/item?id=45824658
 
 #
+https://news.ycombinator.com/item?id=46452937
+
 https://news.ycombinator.com/item?id=46027833
 
 https://news.ycombinator.com/item?id=45797242

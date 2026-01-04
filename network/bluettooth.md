@@ -29,3 +29,7 @@ https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices
 # Alt
 https://en.wikipedia.org/wiki/Wireless_USB
 > https://news.ycombinator.com/item?id=26852858
+
+# I
+https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone
+> https://news.ycombinator.com/item?id=46453204

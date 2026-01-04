@@ -41,6 +41,8 @@ https://www.weatherspark.com
 https://news.ycombinator.com/item?id=44409175
 
 # News
+https://deepmind.google/science/weathernext/
+
 https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/
 > https://news.ycombinator.com/item?id=46436889
 

@@ -259,6 +259,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://techxplore.com/news/2025-11-small-digital-frictions-misinformation.html
+
 https://news.ycombinator.com/item?id=46289918
 
 https://news.ycombinator.com/item?id=46219987

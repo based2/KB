@@ -10,4 +10,6 @@ https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca582
 > https://news.ycombinator.com/item?id=38889539
 
 # I
+https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/
+
 https://news.ycombinator.com/item?id=45721682
