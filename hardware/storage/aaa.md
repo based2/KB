@@ -82,6 +82,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=46487120
+
 https://blocksandfiles.com/2025/12/23/project-silicas-glass-storage-archive-tech-progress/
 
 https://fractalbits.com/blog/why-we-built-another-object-storage/

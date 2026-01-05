@@ -188,6 +188,8 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://news.ycombinator.com/item?id=46484662
+
 https://carette.xyz/posts/going_immutable_macos/
 > https://news.ycombinator.com/item?id=46462719
 
@@ -526,6 +528,8 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://news.ycombinator.com/item?id=46503362
+
 https://news.ycombinator.com/item?id=42156933
 
 https://www.macworld.com/article/2285650/macos-sonoma-14-5-features-security-fixes-install.html

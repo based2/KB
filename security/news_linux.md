@@ -67,6 +67,9 @@ https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%2
 https://hydrapwk.github.io/get/
 
 # News
+https://github.com/MatheuZSecurity/Singularity
+> https://news.ycombinator.com/item?id=46498658
+
 https://news.ycombinator.com/item?id=46278857
 
 https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html capsudo

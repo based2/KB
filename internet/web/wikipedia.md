@@ -52,6 +52,8 @@ https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
 > https://news.ycombinator.com/item?id=36462354
 
 #
+https://dailycal-projects.netlify.app/2025-12-24-wikiedits
+
 https://news.ycombinator.com/item?id=43868876
 
 https://news.ycombinator.com/item?id=43799302

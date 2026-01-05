@@ -51,6 +51,8 @@ https://netlist.io/ LLM-Powered Tool to Catch PCB Schematic Mistakes
 
 https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt-project-speedrun-was-made-in-just-one-week-and-required-less-than-40-hours-of-human-work
 
+https://news.ycombinator.com/item?id=46492601
+
 #
 https://news.ycombinator.com/item?id=45903995
 

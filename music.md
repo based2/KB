@@ -158,6 +158,8 @@ https://news.ycombinator.com/item?id=46072280
 
 https://news.ycombinator.com/item?id=46324702
 
+https://news.ycombinator.com/item?id=46438258
+
 ## MIDI
 https://news.ycombinator.com/item?id=43180977
 
@@ -321,6 +323,8 @@ https://magenta.withgoogle.com/magenta-realtime
 > https://huggingface.co/google/magenta-realtime
 
 https://news.ycombinator.com/item?id=44784090
+
+https://news.ycombinator.com/item?id=46428922
 
 # Incidents
 https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages

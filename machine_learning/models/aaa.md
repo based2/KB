@@ -303,6 +303,9 @@ https://ym2132.github.io/ONNX_MLProgram_NN_exploration ONNX Runtime and CoreML M
 https://arxiv.org/abs/2512.14693 Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)
 > https://news.ycombinator.com/item?id=46357458
 
+https://arxiv.org/abs/2502.09956 Extracting Knowledge Graphs from Plain Text with Language Models
+> https://news.ycombinator.com/item?id=46494285
+
 # I
 https://news.ycombinator.com/item?id=46357686
 
@@ -322,6 +325,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://github.com/obround/mytorch
+> https://news.ycombinator.com/item?id=46483776
+
 https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
 
 https://harborframework.com/ benchmark

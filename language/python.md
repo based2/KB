@@ -400,6 +400,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c Sandboxing Untrusted Python
+https://news.ycombinator.com/item?id=46500510
+
 https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/
 > https://news.ycombinator.com/item?id=46454470
 

@@ -211,6 +211,9 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://github.com/huseyinbabal/taws?tab=readme-ov-file
+> https://news.ycombinator.com/item?id=46491749
+
 https://news.ycombinator.com/item?id=45955565
 
 https://news.ycombinator.com/item?id=45939678

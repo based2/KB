@@ -103,6 +103,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=46499976 RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids
+
 https://petapixel.com/2025/12/29/x-users-have-the-power-to-edit-any-image-without-permission/
 
 https://news.ycombinator.com/item?id=46279123

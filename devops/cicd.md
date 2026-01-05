@@ -37,4 +37,7 @@ https://hamon.in/blog/exploring-triggers-web-triggers-and-scheduled-triggers-in-
 
 # Gitops
 
+https://opengitops.dev/
+> https://news.ycombinator.com/item?id=46491765
+
 #

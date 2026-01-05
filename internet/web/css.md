@@ -156,6 +156,9 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://idiallo.com/blog/learn-css
+> https://news.ycombinator.com/item?id=46500022
+
 https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/
 
 https://news.ycombinator.com/item?id=46331586

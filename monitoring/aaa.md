@@ -129,6 +129,12 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/williamofai/c-sentinel
+> https://news.ycombinator.com/item?id=46492617
+
+https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/
+> https://news.ycombinator.com/item?id=46500900
+
 https://github.com/pranshuparmar/witr Explain why a process is running on your Linux system
 > https://news.ycombinator.com/item?id=46392910
 

@@ -1,3 +1,6 @@
+https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
+> https://news.ycombinator.com/item?id=46457488
+
 https://thenewstack.io/were-repeating-cybersecuritys-big-mistake-this-time-with-ai/
 
 https://techxplore.com/news/2025-11-online-age-treasure-trove-hackers.html

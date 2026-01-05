@@ -69,6 +69,9 @@ https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-
 https://feast.dev/
 
 # Neural network
+https://karpathy.ai/zero-to-hero.html
+> https://news.ycombinator.com/item?id=46485090
+
 https://github.com/elixir-nx/axon Elixir
 https://sidsite.com/posts/fourier-nets/
 > https://news.ycombinator.com/item?id=26980169
@@ -403,6 +406,8 @@ https://github.com/Lab700xOrg/aisbom open-source CLI to detect "Pickle Bombs" in
 https://guardianhealth.dev/blog/hipaa-ai-red-flags/
 
 # Incidents
+https://news.ycombinator.com/item?id=46492063
+
 https://news.ycombinator.com/item?id=46178108
 
 https://jfrog.com/blog/unveiling-3-zero-day-vulnerabilities-in-picklescan/ PyTorch Users at Risk: Unveiling 3 Zero-Day PickleScan Vulnerabilities

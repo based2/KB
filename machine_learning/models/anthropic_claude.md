@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=46484933
+
+https://granda.org/en/2026/01/02/claude-code-on-the-go/
+> https://news.ycombinator.com/item?id=46491486
+
 https://www.anthropic.com/news/claude-opus-4-5
 
 https://news.ycombinator.com/item?id=46388882

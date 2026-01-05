@@ -298,6 +298,9 @@ https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
 
 https://nanda.media.mit.edu/
 
+https://github.com/nibzard/awesome-agentic-patterns
+> https://news.ycombinator.com/item?id=46491244
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

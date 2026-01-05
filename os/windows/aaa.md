@@ -151,6 +151,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://news.ycombinator.com/item?id=46496465
+
 https://news.ycombinator.com/item?id=46259334
 
 https://news.ycombinator.com/item?id=46176904

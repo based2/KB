@@ -261,6 +261,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/odoo/odoo ERP
+> https://news.ycombinator.com/item?id=46439993
+
 https://asimovaddendum.substack.com/p/how-to-prevent-open-standards-from
 
 https://thenewstack.io/the-reality-of-open-source-more-puppies-less-beer/

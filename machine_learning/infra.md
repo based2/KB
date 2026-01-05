@@ -121,6 +121,9 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/ulab-uiuc/LLMRouter
+> https://news.ycombinator.com/item?id=46443861
+
 https://news.ycombinator.com/item?id=46288966
 
 https://github.com/taylorsatula/mira-OSS persistent AI entity with memory

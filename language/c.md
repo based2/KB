@@ -83,6 +83,8 @@ https://news.ycombinator.com/item?id=46376608
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=46479673
+
 https://zelang-dev.github.io/c-events/
 > https://news.ycombinator.com/item?id=46392095
 

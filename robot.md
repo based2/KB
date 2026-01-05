@@ -139,6 +139,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://news.ycombinator.com/item?id=46472930
+
 https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/
 
 https://www.science.org/doi/10.1126/scirobotics.adu8009

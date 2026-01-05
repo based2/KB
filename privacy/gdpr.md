@@ -80,6 +80,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://consumer.drop.privacy.ca.gov/
+> https://news.ycombinator.com/item?id=46495220
+
 https://en.agcm.it/dotcmsdoc/pressrelease/A561_SUMMARY.pdf
 > https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/
 

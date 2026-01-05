@@ -251,6 +251,9 @@ https://gpg.fail/
 > https://news.ycombinator.com/item?id=46403200
 
 # News
+https://www.dlp.rip/decorative-cryptography
+> https://news.ycombinator.com/item?id=46496494
+
 https://flak.tedunangst.com/post/using-lava-lamps-to-break-RSA
 > https://news.ycombinator.com/item?id=46437783
 

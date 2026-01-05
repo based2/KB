@@ -67,6 +67,11 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://news.ycombinator.com/item?id=46493533
+
+https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer
+> https://news.ycombinator.com/item?id=46487472
+
 https://github.com/tixl3d/tixl
 > https://news.ycombinator.com/item?id=46394651
 

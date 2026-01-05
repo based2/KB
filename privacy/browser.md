@@ -49,6 +49,9 @@ https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://brave.com/privacy-updates/36-adblock-memory-reduction/
+> https://crates.io/crates/flatbuffers
+
 https://news.ycombinator.com/item?id=46208283
 
 https://news.ycombinator.com/item?id=46037031
