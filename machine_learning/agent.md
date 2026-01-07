@@ -313,6 +313,8 @@ https://news.ycombinator.com/item?id=46055942
 https://news.ycombinator.com/item?id=46456682
 
 # I
+https://www.theregister.com/2026/01/07/ibm_bob_vulnerability/
+
 https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/
 
 https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/

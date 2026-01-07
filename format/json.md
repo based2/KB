@@ -78,6 +78,9 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://coderaviverma.github.io/yaml-to-json-guide/ yaml2json
+> https://news.ycombinator.com/item?id=46531150
+
 https://github.com/j-brooke/FracturedJson/wiki
 > https://news.ycombinator.com/item?id=46464235
 

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46528353
+
 https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
 > https://news.ycombinator.com/item?id=46457488
 

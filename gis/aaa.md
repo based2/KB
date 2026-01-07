@@ -262,6 +262,9 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 https://old.reddit.com/r/netsec/comments/1p8wnps/cve202558360_geoserver_xxe_vulnerability_analysis/
 
 # News
+https://www.shipmap.org/
+> https://news.ycombinator.com/item?id=46527161
+
 https://news.ycombinator.com/item?id=46107282
 
 https://news.ycombinator.com/item?id=46098673

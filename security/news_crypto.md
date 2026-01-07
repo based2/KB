@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46454577
+
 https://00f.net/2025/12/30/libsodium-vulnerability/
 > https://news.ycombinator.com/item?id=46435614
 

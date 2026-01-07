@@ -60,3 +60,5 @@ https://news.ycombinator.com/item?id=40199972
 https://news.ycombinator.com/item?id=43794120
 
 https://news.ycombinator.com/item?id=44462016
+
+https://www.theregister.com/2026/01/05/aws_price_increase/?td=rt-4a

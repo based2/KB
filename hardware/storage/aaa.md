@@ -72,6 +72,9 @@ https://github.com/9001/copyparty
 
 https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html
 
+https://candid.dev/blog/many-hells-of-webdav
+> https://news.ycombinator.com/item?id=46527775
+
 ## Java JCR
 https://jackrabbit.apache.org/jcr/jackrabbit-architecture.html
 

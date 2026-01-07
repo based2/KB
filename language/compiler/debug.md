@@ -23,6 +23,8 @@ https://vptdigital.com/blog/honey-detecting-testers/
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html
+
 https://news.ycombinator.com/item?id=46423521
 
 https://news.ycombinator.com/item?id=46280465

@@ -178,6 +178,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/
+
 https://news.ycombinator.com/item?id=45971726
 
 https://news.ycombinator.com/item?id=45964987
