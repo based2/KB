@@ -29,6 +29,8 @@ https://xenova.github.io/transformers.js/
 https://news.ycombinator.com/item?id=45660753
 
 #
+https://arpitbhayani.me/blogs/qkv-matrices/ attention
+> https://news.ycombinator.com/item?id=46523887
 
 https://www.arxiv.org/pdf/2511.10811 Transformers know more than they can tell: Learning the Collatz sequence
 > https://news.ycombinator.com/item?id=46137596

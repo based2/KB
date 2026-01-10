@@ -253,6 +253,9 @@ https://rfd.shared.oxide.computer/rfd/0609
 
 https://news.ycombinator.com/item?id=45989284
 
+https://github.com/embassy-rs/embassy
+> https://news.ycombinator.com/item?id=46547740
+
 ## Actor
 https://news.ycombinator.com/item?id=42030625
 

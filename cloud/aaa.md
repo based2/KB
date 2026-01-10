@@ -178,6 +178,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.theregister.com/2026/01/09/bank_of_england_oracle/?td=rt-3a
+
 https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/
 
 https://news.ycombinator.com/item?id=45971726
@@ -428,6 +430,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=45136558
+
+https://www.bloomberg.com/news/articles/2025-09-08/microsoft-signs-nebius-cloud-deal-for-as-much-as-19-4-billion
+
 https://umbrel.com/ Personal Cloud
 > https://news.ycombinator.com/item?id=46279187
 

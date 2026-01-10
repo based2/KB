@@ -94,3 +94,6 @@ https://news.ycombinator.com/item?id=44011139
 https://news.ycombinator.com/item?id=44029619
 
 https://github.com/chiuhans111/fluidglass
+
+https://blog.gingerbeardman.com/2026/01/04/webgl-crt-shader/
+> https://news.ycombinator.com/item?id=46491219

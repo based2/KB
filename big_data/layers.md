@@ -95,6 +95,10 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/
+
+https://milescole.dev/data-engineering/2025/06/30/Spark-v-DuckDb-v-Polars-v-Daft-Revisited.html
+
 https://codecut.ai/unified-dataframe-functions-pandas-polars-pyspark/
 
 https://news.ycombinator.com/item?id=45959780

@@ -67,6 +67,18 @@ https://andyljones.com/boardlaw/
 https://www.doc.ic.ac.uk/~ajd/Cycling/
 
 # News
+https://jeevan.life/theapplefalls/
+> https://news.ycombinator.com/item?id=46477842
+
+https://lend-me-your-ears.specr.net/
+> https://news.ycombinator.com/item?id=46556210
+
+https://enclose.horse/
+> https://news.ycombinator.com/item?id=46509211
+
+https://www.aardwolf.com/
+> https://news.ycombinator.com/item?id=46534777
+
 https://news.ycombinator.com/item?id=46490323
 
 https://intelligencegame.tech/

@@ -613,6 +613,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/ai-infrastructure-compute-strategy.html
+
 https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production
 
 https://viterbischool.usc.edu/news/2025/10/artificial-neurons-developed-by-usc-team-replicate-biological-function-for-improved-computer-chips/

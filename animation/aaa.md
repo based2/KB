@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://ciechanow.ski/lights-and-shadows/
+> https://news.ycombinator.com/item?id=46468338
+
 https://news.ycombinator.com/item?id=46493533
 
 https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer

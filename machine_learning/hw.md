@@ -6,6 +6,11 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://www.ft.com/content/98e78f6b-0ebf-4546-b25f-bf7621e26c8b
+
+https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer
+> https://news.ycombinator.com/item?id=46544016
+
 https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599
 
 https://chipsandcheese.com/p/inside-nvidia-gb10s-memory-subsystem

@@ -118,6 +118,8 @@ Output is structured in JSON for in-depth analysis, making it useful for perform
 
 https://news.ycombinator.com/item?id=45818300
 
+https://news.ycombinator.com/item?id=46552254
+
 # Tests
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 

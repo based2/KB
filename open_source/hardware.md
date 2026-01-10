@@ -146,6 +146,12 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source
+> https://news.ycombinator.com/item?id=46541892
+
+https://patchouli.readthedocs.io/en/latest/ electromagnetic drawing tablet hardware
+> https://news.ycombinator.com/item?id=46537489
+
 https://news.ycombinator.com/item?id=44613438
 
 https://news.ycombinator.com/item?id=44610130

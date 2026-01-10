@@ -1,3 +1,18 @@
+https://news.ycombinator.com/item?id=46549823
+
+https://news.ycombinator.com/item?id=46545056
+
+https://github.com/rberg27/doom-coding
+> https://news.ycombinator.com/item?id=46517458
+
+https://x.com/bcherny/status/2007179832300581177
+> https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
+
+https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
+> https://news.ycombinator.com/item?id=46545620
+
+https://news.ycombinator.com/item?id=46544524 macos
+
 https://news.ycombinator.com/item?id=46483550
 
 https://news.ycombinator.com/item?id=46515696

@@ -62,6 +62,8 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/
+
 https://news.ycombinator.com/item?id=46415129
 
 https://news.ycombinator.com/item?id=46288415

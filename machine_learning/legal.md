@@ -1,5 +1,7 @@
 https://artificialintelligenceact.eu/
 
+https://github.com/Hiepler/EuConform
+
 # I
 
 # News

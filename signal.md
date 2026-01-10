@@ -36,6 +36,8 @@ https://news.ycombinator.com/item?id=45132810
 
 https://news.ycombinator.com/item?id=45825413
 
+https://news.ycombinator.com/item?id=46544981
+
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280

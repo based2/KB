@@ -237,6 +237,9 @@ https://github.com/danielclough/vibevoice-rs
 > https://news.ycombinator.com/item?id=46262392
 
 # News
+https://github.com/samuel-vitorino/sopro
+> https://news.ycombinator.com/item?id=46546113
+
 https://news.ycombinator.com/item?id=46528045
 
 https://ai.meta.com/samaudio/

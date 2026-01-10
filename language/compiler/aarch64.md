@@ -79,6 +79,8 @@ https://fuse.wikichip.org/news/6853/arm-introduces-the-cortex-a715/
 
 https://news.ycombinator.com/item?id=45516000
 
+https://developer.arm.com/servers-and-cloud-computing/arm-mcp-server
+
 # I
 https://modzero.com/en/blog/no-leak-no-problem/
 > https://news.ycombinator.com/item?id=45933497

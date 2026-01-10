@@ -89,6 +89,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://emnudge.dev/blog/what-happened-to-webassembly/
+> https://news.ycombinator.com/item?id=46551044
+
 https://github.com/ziggy42/epsilon go
 > https://news.ycombinator.com/item?id=46102311
 

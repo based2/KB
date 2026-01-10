@@ -94,6 +94,8 @@ https://www.getevidex.com/
 > https://news.ycombinator.com/item?id=46239629
 
 # News
+https://news.ycombinator.com/item?id=46537253
+
 https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full
 
 https://news.ycombinator.com/item?id=46063145

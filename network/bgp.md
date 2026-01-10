@@ -44,6 +44,9 @@ https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/
 > https://www.theregister.com/2025/08/27/systems_approach_securing_internet_infrastructure/
 
 # Incidents
+https://blog.cloudflare.com/bgp-route-leak-venezuela/
+> https://news.ycombinator.com/item?id=46538001
+
 https://www.arin.net/announcements/20251212/
 > https://news.ycombinator.com/item?id=46345444
 

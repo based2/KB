@@ -56,6 +56,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://pebblebed.com/blog/kernel-bugs
+> https://news.ycombinator.com/item?id=46536340
+
 http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/
 > https://news.ycombinator.com/item?id=46469623
 

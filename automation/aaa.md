@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://spawn-queue.acm.org/doi/pdf/10.1145/3762989 Unsolved Problems in MLOps
+> https://news.ycombinator.com/item?id=45352636
+
 https://news.ycombinator.com/item?id=46039317
 
 https://news.ycombinator.com/item?id=45985306

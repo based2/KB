@@ -155,6 +155,13 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.forbes.com/sites/zakdoffman/2026/01/09/blackout-putins-12-billion-internet-shutdown-strikes-russia/
+
+https://news.ycombinator.com/item?id=46558794
+
+https://radar.cloudflare.com/routing/ir
+> https://news.ycombinator.com/item?id=46542683
+
 https://www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/
 
 https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
