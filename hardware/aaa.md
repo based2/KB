@@ -134,6 +134,8 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://www.notebookcheck.net/After-RAM-and-SSDs-PSUs-and-CPU-coolers-are-next-in-line-for-price-hikes.1201672.0.html
+
 https://news.stanford.edu/stories/2025/12/monolithic-3d-chip-foundry-breakthrough-ai
 
 https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html

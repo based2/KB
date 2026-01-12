@@ -1,3 +1,13 @@
+https://news.ycombinator.com/item?id=46579397
+
+https://github.com/itsbariscan/claude-code-marketing
+
+https://github.com/Yeachan-Heo/oh-my-claude-sisyphus
+> https://news.ycombinator.com/item?id=46572032
+
+https://rastrigin.systems/blog/claude-code-part-1-requests/
+> https://news.ycombinator.com/item?id=46566292
+
 https://news.ycombinator.com/item?id=46549823
 
 https://news.ycombinator.com/item?id=46545056
@@ -210,6 +220,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/
+
 https://www.catonetworks.com/blog/cato-ctrl-weaponizing-claude-skills-with-medusalocker/
 
 https://www.anthropic.com/news/disrupting-AI-espionage

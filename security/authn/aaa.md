@@ -64,6 +64,8 @@ https://authzed.com/blog/annotated-zanzibar-launch/
 
 https://github.com/authzed/spicedb/releases/tag/v1.0.0
 
+https://github.com/mohiva/play-silhouette
+
 # eID
 https://news.ycombinator.com/item?id=27351769
 
@@ -97,6 +99,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://www.theregister.com/2026/01/08/crowdstrikes_740m_sgnl_deal_proves/
+
 https://news.ycombinator.com/item?id=45786962
 
 https://news.ycombinator.com/item?id=45736872 passkey

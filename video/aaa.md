@@ -159,6 +159,11 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://github.com/unhaya/vam-seek 2D video navigation grid, 15KB, zero server load
+> https://news.ycombinator.com/item?id=46572304
+
+https://news.ycombinator.com/item?id=46573688
+
 https://www.starwars.com/news/mythic-discovery-within-the-inner-reaches-of-outer-space-joseph-campbell-meets-george-lucas-part-i
 > https://news.ycombinator.com/item?id=46454274
 

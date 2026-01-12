@@ -58,6 +58,9 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 > https://news.ycombinator.com/item?id=33107108
 
 #
+https://github.com/netzherpes/KIM1-Demo
+> https://news.ycombinator.com/item?id=46575804
+
 https://retrocmp.de/fdd/diskette/diskette.htm
 > https://news.ycombinator.com/item?id=45732160
 

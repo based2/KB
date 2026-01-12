@@ -94,6 +94,8 @@ https://www.getevidex.com/
 > https://news.ycombinator.com/item?id=46239629
 
 # News
+https://news.northwestern.edu/stories/2025/12/scientists-map-the-human-genome-in-4d
+
 https://news.ycombinator.com/item?id=46537253
 
 https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full

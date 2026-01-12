@@ -113,6 +113,13 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://jsdev.space/meet-ripple/
+> https://news.ycombinator.com/item?id=46572723
+
+https://github.com/gibbok/typescript-book
+> https://news.ycombinator.com/item?id=46573001
+> > https://gibbok.github.io/typescript-book/book/differences-between-type-and-interface/
+
 https://news.ycombinator.com/item?id=46123921
 
 https://github.com/mutativejs/travels

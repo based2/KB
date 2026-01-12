@@ -37,6 +37,9 @@ https://news.ycombinator.com/item?id=43080531
 
 https://news.ycombinator.com/item?id=46390621
 
+https://github.com/CyberMagician/Project_Golem
+> https://old.reddit.com/r/LocalLLaMA/comments/1q998is/visualizing_rag_part_2_visualizing_retrieval/
+
 # History
 https://gregorygundersen.com/blog/2025/10/01/large-language-models/
 > https://news.ycombinator.com/item?id=45488892
@@ -306,6 +309,8 @@ https://arxiv.org/abs/2512.14693 Universal Reasoning Model (53.8% pass 1 ARC1 an
 https://arxiv.org/abs/2502.09956 Extracting Knowledge Graphs from Plain Text with Language Models
 > https://news.ycombinator.com/item?id=46494285
 
+https://arxiv.org/abs/2601.02671 Extracting books from production language models - 2026
+
 # I
 https://news.ycombinator.com/item?id=46357686
 
@@ -325,6 +330,12 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://cavendishlabs.org/blog/negative-temperature/
+> https://news.ycombinator.com/item?id=46579374
+
+https://civai.org/p/ai-values
+> https://news.ycombinator.com/item?id=46547024
+
 https://github.com/obround/mytorch
 > https://news.ycombinator.com/item?id=46483776
 

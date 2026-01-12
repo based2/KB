@@ -110,6 +110,9 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://www.greynoise.io/blog/threat-actors-actively-targeting-llms
+> https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/
+
 https://news.ycombinator.com/item?id=46531565
 
 https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/
@@ -125,6 +128,13 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://glyphlang.dev/docs
+> https://news.ycombinator.com/item?id=46571166
+> > https://github.com/GlyphLang/GlyphLang
+
+https://modal.com/blog/gpu-mem-snapshots
+> https://news.ycombinator.com/item?id=46543518
+
 https://github.com/ulab-uiuc/LLMRouter
 > https://news.ycombinator.com/item?id=46443861
 

@@ -163,6 +163,11 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://orga.cat/blog/html-conditional-lazy-loading/
+> https://news.ycombinator.com/item?id=46574640
+
+https://news.ycombinator.com/item?id=46559065
+
 https://news.ycombinator.com/item?id=46416945
 
 https://news.ycombinator.com/item?id=46264195

@@ -171,6 +171,10 @@ https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models
 > https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
 
 # I
+https://www.catonetworks.com/blog/cato-ctrl-vulnerability-discovered-open-webui-cve-2025-64496/
+
+https://news.bloomberglaw.com/ip-law/openai-must-turn-over-20-million-chatgpt-logs-judge-affirms
+
 https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/
 
 https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/

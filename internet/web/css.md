@@ -102,6 +102,9 @@ https://daisyui.com/
 
 https://news.ycombinator.com/item?id=44686317
 
+https://dri.es/ai-is-a-business-model-stress-test
+> https://news.ycombinator.com/item?id=46567392
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

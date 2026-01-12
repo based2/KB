@@ -613,6 +613,12 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://dri.es/ai-is-a-business-model-stress-test
+> https://news.ycombinator.com/item?id=46567392
+
+https://knowledge.dev/courses/perceptron-rust
+> https://news.ycombinator.com/item?id=46570066
+
 https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/ai-infrastructure-compute-strategy.html
 
 https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production

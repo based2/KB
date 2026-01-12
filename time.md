@@ -82,6 +82,8 @@ https://signalsandthreads.com/clock-synchronization/
 https://www.usenix.org/system/files/osdi20-li_yuliang.pdf
 
 # Calendar
+https://github.com/kd2org/karadav
+
 https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/
 
 https://news.ycombinator.com/item?id=44068204

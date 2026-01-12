@@ -12,5 +12,8 @@ https://news.ycombinator.com/item?id=44006735
 
 https://news.ycombinator.com/item?id=46035126
 
+https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick
+> https://news.ycombinator.com/item?id=46512743
+
 # ML
 https://news.ycombinator.com/item?id=44638510

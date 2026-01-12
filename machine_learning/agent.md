@@ -312,6 +312,11 @@ https://news.ycombinator.com/item?id=46055942
 
 https://news.ycombinator.com/item?id=46456682
 
+https://fly.io/blog/code-and-let-live/ https://sprites.dev/
+> https://news.ycombinator.com/item?id=46557825
+
+https://github.com/anomalyco/opencode
+
 # I
 https://www.theregister.com/2026/01/07/ibm_bob_vulnerability/
 

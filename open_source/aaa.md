@@ -261,6 +261,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/twentyhq/twenty CRM
+
 https://lwn.net/Articles/1053107/ European Commission issues call for evidence on open source
 > https://news.ycombinator.com/item?id=46550912
 

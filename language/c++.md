@@ -71,6 +71,8 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://news.ycombinator.com/item?id=46551602
+
 https://xania.org/202512/15-aliasing-in-general assembly
 > https://news.ycombinator.com/item?id=46286813
 

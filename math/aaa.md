@@ -232,6 +232,8 @@ https://news.ycombinator.com/item?id=45976999
 https://www.cvxpy.org/tutorial/intro/index.html
 > https://github.com/cvxpy/cvxpy Python-embedded modeling language for convex optimization problems
 
+https://news.ycombinator.com/item?id=46560445
+
 # I
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 

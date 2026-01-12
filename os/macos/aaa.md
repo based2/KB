@@ -528,6 +528,14 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
+> https://news.ycombinator.com/item?id=46579864
+
+https://github.com/icloud-photos-downloader/icloud_photos_downloader
+> https://news.ycombinator.com/item?id=46578921
+
+https://news.ycombinator.com/item?id=46511592
+
 https://news.ycombinator.com/item?id=46503362
 
 https://news.ycombinator.com/item?id=42156933

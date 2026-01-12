@@ -10,6 +10,9 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 https://news.ycombinator.com/item?id=39593647
 
 #
+https://github.com/amcchord/M5Tab-Macintosh asiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5
+> https://news.ycombinator.com/item?id=46574961
+
 https://github.com/kstenerud/Musashi Motorola 680x0 emulator written in C
 > https://news.ycombinator.com/item?id=46535540
 

@@ -103,6 +103,9 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html
+> https://news.ycombinator.com/item?id=46576337
+
 https://news.ycombinator.com/item?id=46499976 RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids
 
 https://petapixel.com/2025/12/29/x-users-have-the-power-to-edit-any-image-without-permission/

@@ -135,5 +135,8 @@ https://news.ycombinator.com/item?id=46017782
 
 https://news.ycombinator.com/item?id=46176965
 
+https://github.com/OlaProeis/Ferrite Markdown editor in Rust with native Mermaid diagram rendering - 100% AI-generated code
+> https://news.ycombinator.com/item?id=46571980
+
 # ML
 https://github.com/robert-mcdermott/doc2md

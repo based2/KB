@@ -46,6 +46,11 @@ https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://alextardif.com/BindlessProgramming.html
+
+https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno
+> https://news.ycombinator.com/item?id=46497443
+
 https://www.sirius-db.com/
 > https://news.ycombinator.com/item?id=46441781
 

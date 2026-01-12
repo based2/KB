@@ -1,3 +1,12 @@
+https://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d
+
+https://medium.com/p/ea23387a0e1e practical guide to finding soundness bugs in ZK circuits
+
+https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/
+
+https://libroot.org/posts/going-through-snowden-documents-part-4/
+> https://news.ycombinator.com/item?id=46564762
+
 https://news.ycombinator.com/item?id=46555615
 
 https://news.ycombinator.com/item?id=46528353

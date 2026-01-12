@@ -129,6 +129,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://linuxfr.org/news/shm-des-metriques-d-usage-pour-applications-self-hosted-sans-espionner-les-utilisateurs
+
 https://github.com/williamofai/c-sentinel
 > https://news.ycombinator.com/item?id=46492617
 

@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://blog.talosintelligence.com/uat-7290/
+
 https://www.forbes.com/sites/zakdoffman/2026/01/09/blackout-putins-12-billion-internet-shutdown-strikes-russia/
 
 https://news.ycombinator.com/item?id=46558794
@@ -388,6 +390,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://alienchow.dev/post/fibre_disintegration/
+> https://news.ycombinator.com/item?id=46572679
+
 https://www.punkt.ch/blogs/news/punkt-unveils-mc03
 > https://news.ycombinator.com/item?id=46466364
 

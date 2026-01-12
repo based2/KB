@@ -62,6 +62,9 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://www.nature.com/articles/s42256-025-01143-2 novel algorithm for efficiently running a class of problems called partial differential equations (PDEs) on neuromorphic computers, including Intel's Loihi 2 neurochips
+> https://www.theregister.com/2026/01/09/artificial_brains_supercomputer/?td=keepreading
+
 https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/
 
 https://news.ycombinator.com/item?id=46415129

@@ -51,3 +51,5 @@ https://news.ycombinator.com/item?id=44561736
 https://news.ycombinator.com/item?id=45206567
 
 https://news.ycombinator.com/item?id=46262524
+
+https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/

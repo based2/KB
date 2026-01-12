@@ -89,6 +89,9 @@ https://github.com/benbjohnson/litestream/pull/411
 https://github.com/maxpert/marmot
 > https://news.ycombinator.com/item?id=38600743
 
+https://rqlite.io/docs/features/
+> https://news.ycombinator.com/item?id=46564350
+
 # Distributed
 https://github.com/Expensify/Bedrock
 

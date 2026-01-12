@@ -118,6 +118,8 @@ https://github.com/quickemu-project/quickemu
 > https://news.ycombinator.com/item?id=46430815
 
 # I
+https://www.theregister.com/2026/01/09/china_esxi_zerodays/
+
 https://www.huntress.com/blog/esxi-vm-escape-exploit
 
 https://github.com/ThijsRay/l1tf_reloaded

@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://www.nber.org/papers/w34639 O-Ring Automation
+> https://news.ycombinator.com/item?id=46503685
+
 https://spawn-queue.acm.org/doi/pdf/10.1145/3762989 Unsolved Problems in MLOps
 > https://news.ycombinator.com/item?id=45352636
 

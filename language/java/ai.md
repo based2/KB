@@ -12,3 +12,5 @@ https://news.ycombinator.com/item?id=45802290
 https://blog.mozilla.ai/polyglot-ai-agents-webassembly-meets-the-java-virtual-machine-jvm/
 
 https://news.ycombinator.com/item?id=46233009
+
+https://old.reddit.com/r/java/comments/1q9sqqw/announcing_kreuzberg_v4/

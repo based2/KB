@@ -150,6 +150,10 @@ https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
 
 https://news.ycombinator.com/item?id=46401052
 
+https://nightingaledvs.com/dark-sky-weather-data-viz/
+> https://news.ycombinator.com/item?id=46565132
+> > https://merrysky.net/ https://news.ycombinator.com/item?id=34155191
+
 # BI
 https://superset.apache.org/ Modern data exploration and visualization platform - Python, JS
 

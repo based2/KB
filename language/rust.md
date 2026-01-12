@@ -586,6 +586,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incidents
+https://github.com/rustfs/rustfs/security/advisories/GHSA-h956-rh7x-ppgj
+
 https://conduit.rs/changelog/#v0-10-11-2025-12-30
 
 https://news.ycombinator.com/item?id=46309536

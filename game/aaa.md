@@ -66,7 +66,15 @@ https://andyljones.com/boardlaw/
 
 https://www.doc.ic.ac.uk/~ajd/Cycling/
 
+https://www.yuanzai.world/
+> https://news.ycombinator.com/item?id=46565265
+
 # News
+https://github.com/dhewm/dhewm3?tab=readme-ov-file
+
+https://www.openchaos.dev/
+> https://news.ycombinator.com/item?id=46566812
+
 https://jeevan.life/theapplefalls/
 > https://news.ycombinator.com/item?id=46477842
 

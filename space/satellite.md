@@ -54,6 +54,8 @@ https://arstechnica.com/space/2025/08/the-militarys-squad-of-satellite-trackers-
 
 https://phys.org/news/2025-12-days-disaster-earth-orbit.html
 
+https://news.ycombinator.com/item?id=46575902
+
 # Incident
 https://x.com/Starlink/status/2001691802911289712
 

@@ -73,6 +73,8 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
 
 # News
+https://mail.openjdk.org/pipermail/amber-spec-experts/2026-January/004306.html Amber features 2026
+
 https://llm4s.org/
 
 https://old.reddit.com/r/java/comments/1pe6m56/jdk_26_rampdown_phase_one_feature_complete/

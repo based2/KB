@@ -24,6 +24,10 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://www.macrumors.com/2026/01/08/background-security-update-2-ios-26-3/
+
+https://www.forbes.com/sites/zakdoffman/2025/12/27/apples-iphone-upgrade-hundreds-of-millions-of-users-must-act-now/
+
 https://www.koi.ai/blog/glassworm-goes-mac-fresh-infrastructure-new-tricks
 
 https://blog.threatuniverse.co.uk/posts/usersyncworker-macos-infostealer/

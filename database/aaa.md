@@ -72,6 +72,10 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 # History
 https://queue.acm.org/detail.cfm?id=3501713
 
+# K8s
+https://openeverest.io/
+> https://thenewstack.io/openeverest-a-tool-to-manage-multiple-databases-on-kubernetes/
+
 # ML
 https://news.ycombinator.com/item?id=38496827
 

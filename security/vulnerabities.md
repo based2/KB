@@ -84,6 +84,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://www.theregister.com/2026/01/07/hackerone_ghosted_researcher/
+
 https://www.linkedin.com/posts/jgamblin_42697-cves-and-counting-data-through-activity-7401277503987838977-45WV
 > https://socket.dev/blog/november-cves-fell-25-yoy-driven-by-slowdowns-at-major-cnas
 
