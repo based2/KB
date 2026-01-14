@@ -141,6 +141,8 @@ https://news.ycombinator.com/item?id=45917182
 
 https://github.com/ssakone/pb_mcp_server
 
+https://news.ycombinator.com/item?id=46621786
+
 # Incidents
 https://www.oligo.security/blog/critical-rce-vulnerability-in-anthropic-mcp-inspector-cve-2025-49596
 

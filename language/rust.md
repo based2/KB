@@ -620,6 +620,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://trynova.dev/blog/garbage-collection-is-contrarian
+> https://news.ycombinator.com/item?id=46559452
+
 https://vincents.dev/blog/rust-errors-without-dependencies/
 > https://news.ycombinator.com/item?id=46408365
 

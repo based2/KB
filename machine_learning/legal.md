@@ -5,6 +5,9 @@ https://github.com/Hiepler/EuConform
 # I
 
 # News
+https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/
+> https://news.ycombinator.com/item?id=46588319
+
 https://theredline.versionstory.com/p/on-the-immortality-of-microsoft-word
 > https://news.ycombinator.com/item?id=46313518
 

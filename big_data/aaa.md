@@ -247,6 +247,9 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder
+> https://news.ycombinator.com/item?id=46606902
+
 https://www.netcomlearning.com/blog/apache-spark
 > https://old.reddit.com/r/programming/comments/1pyw5a2/apache_spark_isnt_fast_by_default_its_fast_when/
 

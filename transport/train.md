@@ -30,6 +30,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # Incidents
+https://www.eurail.com/en/ni/data-security-incident
+
 https://news.ycombinator.com/item?id=46419970
 
 https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/

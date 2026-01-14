@@ -1,3 +1,13 @@
+https://github.com/reshashi/claude-orchestrator
+> https://news.ycombinator.com/item?id=46606842
+
+https://claude.com/blog/cowork-research-preview
+> https://news.ycombinator.com/item?id=46593022
+
+https://www.anthropic.com/news/healthcare-life-sciences
+
+https://news.ycombinator.com/item?id=46586766
+
 https://news.ycombinator.com/item?id=46579397
 
 https://github.com/itsbariscan/claude-code-marketing
@@ -220,6 +230,8 @@ https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
 # I
+https://news.ycombinator.com/item?id=46622328
+
 https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/
 
 https://www.catonetworks.com/blog/cato-ctrl-weaponizing-claude-skills-with-medusalocker/

@@ -1,6 +1,11 @@
 https://www.zigbook.net/
 
 #
+https://lightpanda.io/blog/posts/migrating-our-dom-to-zig
+> https://news.ycombinator.com/item?id=46586179
+> > https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig
+> > > https://zackoverflow.dev/writing/unsafe-rust-vs-zig/
+
 https://bustermq.sh/ BusterMQ, Thread-per-core NATS server in Zig with io_uring
 > https://news.ycombinator.com/item?id=46449812
 

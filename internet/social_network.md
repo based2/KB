@@ -103,6 +103,13 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.trellix.com/en-au/blogs/research/the-unfriending-truth-how-to-spot-a-facebook-phishing-scam/
+> https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/
+
+https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/
+
+https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/
+
 https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html
 > https://news.ycombinator.com/item?id=46576337
 
@@ -264,6 +271,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://github.com/19-84/redd-archiver
+> https://news.ycombinator.com/item?id=46602324
+
+https://www.youtube.com/watch?v=5Idb_D4Tdu8
+> https://news.ycombinator.com/item?id=46589526
+
 https://techxplore.com/news/2025-11-small-digital-frictions-misinformation.html
 
 https://news.ycombinator.com/item?id=46289918

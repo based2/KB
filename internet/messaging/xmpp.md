@@ -24,3 +24,5 @@ https://github.com/dino/dino
 https://news.ycombinator.com/item?id=45490439
 
 https://gajim.org/posts/2025-12-13-gajim-2.4.1-released/
+
+https://news.ycombinator.com/item?id=46523226

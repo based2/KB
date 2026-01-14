@@ -318,6 +318,9 @@ https://fly.io/blog/code-and-let-live/ https://sprites.dev/
 https://github.com/anomalyco/opencode
 
 # I
+https://cy.md/opencode-rce/
+> https://news.ycombinator.com/item?id=46581095
+
 https://www.theregister.com/2026/01/07/ibm_bob_vulnerability/
 
 https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/

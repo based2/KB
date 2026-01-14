@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=46602737
+
+https://taylorkolasinski.com/notes/mhc-reproduction/
+> https://news.ycombinator.com/item?id=46588572
+
 https://news.ycombinator.com/item?id=46108780
 
 https://news.ycombinator.com/item?id=46105079

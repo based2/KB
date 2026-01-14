@@ -1,3 +1,6 @@
+https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html
+> https://news.ycombinator.com/item?id=46589675
+
 https://news.ycombinator.com/item?id=46319657
 
 https://apple.github.io/ml-sharp/ 2d to 3d

@@ -109,6 +109,7 @@ https://myhsu.xyz/llvm-machine-scheduler-2/
 https://news.ycombinator.com/item?id=46098359
 
 https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html
+> https://news.ycombinator.com/item?id=46588837
 
 ## Clang
 https://reviews.llvm.org/D108643

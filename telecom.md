@@ -155,11 +155,16 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7
+> https://news.ycombinator.com/item?id=46620835
+
 https://blog.talosintelligence.com/uat-7290/
 
 https://www.forbes.com/sites/zakdoffman/2026/01/09/blackout-putins-12-billion-internet-shutdown-strikes-russia/
 
 https://news.ycombinator.com/item?id=46558794
+
+https://news.ycombinator.com/item?id=46617280
 
 https://radar.cloudflare.com/routing/ir
 > https://news.ycombinator.com/item?id=46542683

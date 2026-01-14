@@ -312,6 +312,8 @@ https://arxiv.org/abs/2502.09956 Extracting Knowledge Graphs from Plain Text wit
 https://arxiv.org/abs/2601.02671 Extracting books from production language models - 2026
 
 # I
+https://news.ycombinator.com/item?id=46592424
+
 https://news.ycombinator.com/item?id=46357686
 
 https://news.ycombinator.com/item?id=45991738
@@ -330,6 +332,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46590280
+
 https://cavendishlabs.org/blog/negative-temperature/
 > https://news.ycombinator.com/item?id=46579374
 

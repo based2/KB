@@ -69,7 +69,18 @@ https://www.doc.ic.ac.uk/~ajd/Cycling/
 https://www.yuanzai.world/
 > https://news.ycombinator.com/item?id=46565265
 
+https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first
+> https://news.ycombinator.com/item?id=46545636
+
 # News
+https://news.ycombinator.com/item?id=46579612
+
+https://uncrossy.com
+> https://news.ycombinator.com/item?id=46582762
+
+https://iczelia.net/posts/snake-polyglot/
+> https://news.ycombinator.com/item?id=46580864
+
 https://github.com/dhewm/dhewm3?tab=readme-ov-file
 
 https://www.openchaos.dev/

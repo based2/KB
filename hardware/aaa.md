@@ -88,6 +88,9 @@ https://github.com/akavel/clawtype
 
 https://news.ycombinator.com/item?id=44704422
 
+https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/
+> https://news.ycombinator.com/item?id=46589279
+
 # Mouse
 https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/
 > https://news.ycombinator.com/item?id=45676376
@@ -134,6 +137,11 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/
+> https://news.ycombinator.com/item?id=46587934
+
+https://news.ycombinator.com/item?id=46553137
+
 https://www.notebookcheck.net/After-RAM-and-SSDs-PSUs-and-CPU-coolers-are-next-in-line-for-price-hikes.1201672.0.html
 
 https://news.stanford.edu/stories/2025/12/monolithic-3d-chip-foundry-breakthrough-ai

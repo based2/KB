@@ -63,6 +63,8 @@ https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypas
 
 https://labs.watchtowr.com/is-it-citrixbleed4-well-no-is-it-good-also-no-citrix-netscalers-memory-leak-rxss-cve-2025-12101/
 
+https://www.fortra.com/security/advisories/product-security/fi-2025-012
+
 https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/
 
 https://www.msn.com/en-us/news/politics/u-s-agencies-back-banning-top-selling-home-routers-on-security-grounds/ar-AA1Pubbt

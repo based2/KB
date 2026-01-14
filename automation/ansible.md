@@ -92,6 +92,8 @@ https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-informati
 https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017
 
 # News
+https://github.com/dev-sec/ansible-collection-hardening
+
 https://enroll.sh/ tool to reverse-engineer servers into Ansible config mgmt
 > https://news.ycombinator.com/item?id=46449852
 

@@ -1,4 +1,6 @@
-https://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d
+https://news.ycombinator.com/item?id=46598991
+
+ttps://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d
 
 https://medium.com/p/ea23387a0e1e practical guide to finding soundness bugs in ZK circuits
 

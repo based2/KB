@@ -33,6 +33,8 @@ https://kmandla.wordpress.com/2011/01/13/a-comparison-of-text-based-browsers/
 
 https://news.ycombinator.com/item?id=45133935
 
+https://news.ycombinator.com/item?id=46597518
+
 #
 https://en.wikipedia.org/wiki/Amazon_Silk
 

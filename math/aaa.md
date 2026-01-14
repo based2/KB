@@ -238,6 +238,8 @@ https://news.ycombinator.com/item?id=46560445
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=46585372
+
 https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/
 > https://news.ycombinator.com/item?id=46456543
 

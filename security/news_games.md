@@ -1,3 +1,6 @@
+http://www.reddit.com/r/apexlegends/comments/1q7qg6i/someone_hacked_our_match/
+> https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/
+
 https://news.ycombinator.com/item?id=46455053
 
 https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf

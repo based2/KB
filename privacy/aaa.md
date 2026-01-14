@@ -134,6 +134,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
+
 https://news.ycombinator.com/item?id=46294456
 
 https://news.ycombinator.com/item?id=46290916
