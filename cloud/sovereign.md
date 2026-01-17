@@ -10,6 +10,10 @@ https://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa
 https://youtu.be/2wMxldl3Alk?si=xfUaVRCP4hjGDtUv
 
 # News
+https://www.heise.de/en/news/Amazon-s-EU-Cloud-Disconnected-operation-not-yet-tested-by-BSI-11143322.html
+
+https://news.ycombinator.com/item?id=46637010
+
 https://news.ycombinator.com/item?id=46334533
 
 https://www.thestar.com.my/tech/tech-news/2025/12/12/taiwan-opens-new-cloud-centre-to-bolster-039sovereign-ai039-effort

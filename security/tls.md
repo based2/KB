@@ -147,6 +147,8 @@ https://news.ycombinator.com/item?id=46208962
 
 https://news.ycombinator.com/item?id=46279241
 
+https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 
@@ -223,6 +225,11 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=46624352
+
+https://cryptography.io/en/latest/statements/state-of-openssl/
+> https://news.ycombinator.com/item?id=46624352
+
 https://news.ycombinator.com/item?id=46406129
 
 https://news.ycombinator.com/item?id=46249834

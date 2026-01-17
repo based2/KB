@@ -546,6 +546,9 @@ https://www.npmjs.com/package/svelte 5
 
 https://news.ycombinator.com/item?id=43091596
 
+https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem
+> https://news.ycombinator.com/item?id=46636387
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

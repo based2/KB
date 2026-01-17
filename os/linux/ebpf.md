@@ -1,5 +1,8 @@
 https://ebpf.io
 
+https://ebpf.party/
+> https://news.ycombinator.com/item?id=46644181
+
 https://ebpf.io/what-is-ebpf/
 > https://news.ycombinator.com/item?id=33489935
 
@@ -160,3 +163,6 @@ https://news.ycombinator.com/item?id=45084328
 https://eunomia.dev/blog/2025/10/14/the-gpu-observability-gap-why-we-need-ebpf-on-gpu-devices/
 
 https://news.ycombinator.com/item?id=46258583
+
+https://github.com/loresuso/psc
+> https://news.ycombinator.com/item?id=46646091

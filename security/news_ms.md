@@ -7,6 +7,12 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/
+> https://news.ycombinator.com/item?id=46656998
+
+https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
+> https://news.ycombinator.com/item?id=46652617
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/
 
 https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/

@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=46612494
+
+https://pieterma.es/syntopic-reading-claude/
+
 https://github.com/reshashi/claude-orchestrator
 > https://news.ycombinator.com/item?id=46606842
 

@@ -23,6 +23,9 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://projectzero.google/2026/01/pixel-0-click-part-1.html
+> https://news.ycombinator.com/item?id=46636044
+
 https://zimperium.com/blog/total-takeover-droidlock-hijacks-your-device
 
 https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/

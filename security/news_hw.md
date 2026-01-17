@@ -12,6 +12,9 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://neodyme.io/en/blog/drone_hacking_part_1/
+> https://news.ycombinator.com/item?id=46654749
+
 https://news.ycombinator.com/item?id=46454160
 
 https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/

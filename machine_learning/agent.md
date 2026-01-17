@@ -301,6 +301,10 @@ https://nanda.media.mit.edu/
 https://github.com/nibzard/awesome-agentic-patterns
 > https://news.ycombinator.com/item?id=46491244
 
+https://news.ycombinator.com/item?id=46624541
+
+https://news.ycombinator.com/item?id=46616481
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

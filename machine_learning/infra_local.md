@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=46616529
+
+https://news.ycombinator.com/item?id=46620990
+
 https://thenewstack.io/how-to-deploy-an-open-source-version-of-notebooklm/
 
 https://news.ycombinator.com/item?id=46457027

@@ -1,5 +1,7 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/the-truth-elon-left-out/
+
 https://openai.com/index/introducing-gpt-5-2-codex/
 > https://news.ycombinator.com/item?id=46316367
 

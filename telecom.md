@@ -395,6 +395,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=46617668
+
 https://alienchow.dev/post/fibre_disintegration/
 > https://news.ycombinator.com/item?id=46572679
 

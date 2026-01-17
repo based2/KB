@@ -25,3 +25,5 @@ https://www.bleepingcomputer.com/news/security/x-begins-training-grok-ai-with-yo
 
 https://news.ycombinator.com/item?id=46284266
 
+https://news.ycombinator.com/item?id=46647716
+

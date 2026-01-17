@@ -343,6 +343,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+> https://news.ycombinator.com/item?id=46613324
+
+https://functional.computer/blog/the-cardinal-sin-of-software-architecture
+> https://news.ycombinator.com/item?id=46652691
+
 https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure
 > https://news.ycombinator.com/item?id=46406901
 

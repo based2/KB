@@ -116,6 +116,9 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://exa.ai/blog/exa-d
+> https://news.ycombinator.com/item?id=46611063
+
 https://news.ycombinator.com/item?id=46417748
 
 https://news.ycombinator.com/item?id=46276826

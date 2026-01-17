@@ -359,6 +359,11 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://github.com/vnvo/pgwire-replication
+> https://news.ycombinator.com/item?id=46574277
+
+https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/
+
 https://github.com/timescale/pgvectorscale
 > https://news.ycombinator.com/item?id=46379765
 

@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://news.ycombinator.com/item?id=46653313
+
 https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/
 > https://news.ycombinator.com/item?id=46546270
 

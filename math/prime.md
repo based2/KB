@@ -52,3 +52,6 @@ https://news.ycombinator.com/item?id=44888548
 https://news.ycombinator.com/item?id=45490434
 
 https://news.ycombinator.com/item?id=45534270
+
+https://www.johndcook.com/blog/2026/01/10/prime-chains/
+> https://news.ycombinator.com/item?id=46577105

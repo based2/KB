@@ -43,7 +43,13 @@ https://news.ycombinator.com/item?id=44665815
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/
 > https://www.theregister.com/2025/08/27/systems_approach_securing_internet_infrastructure/
 
+https://bgpscout.io/
+> https://news.ycombinator.com/item?id=46641663
+
 # Incidents
+https://community.cloudflare.com/t/universal-ssl-exposes-domains-to-bgp-leaks-re-venezuela-analysis/879930
+> https://news.ycombinator.com/item?id=46651510
+
 https://blog.cloudflare.com/bgp-route-leak-venezuela/
 > https://news.ycombinator.com/item?id=46538001
 

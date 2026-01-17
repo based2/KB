@@ -56,6 +56,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/ Read_once(), Write_once(), but Not for Rust
+> https://news.ycombinator.com/item?id=46647059
+
 https://pebblebed.com/blog/kernel-bugs
 > https://news.ycombinator.com/item?id=46536340
 

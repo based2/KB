@@ -332,6 +332,11 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://ikromshi.com/2025/12/30/feature-selection-primer.html
+
+https://nanonets.com/cookbooks/structured-llm-outputs
+> https://news.ycombinator.com/item?id=46635309
+
 https://news.ycombinator.com/item?id=46590280
 
 https://cavendishlabs.org/blog/negative-temperature/

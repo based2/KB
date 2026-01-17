@@ -137,6 +137,8 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://news.ycombinator.com/item?id=46633488
+
 https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/
 > https://news.ycombinator.com/item?id=46587934
 

@@ -110,6 +110,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html
+
 https://www.endorlabs.com/learn/n8mare-on-auth-street-supply-chain-attack-targets-n8n-ecosystem
 
 https://www.greynoise.io/blog/threat-actors-actively-targeting-llms
@@ -130,6 +132,13 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=46626410
+
+https://news.ycombinator.com/item?id=46620358
+
+https://www.domainlanguage.com/articles/ai-components-deterministic-system/
+> https://news.ycombinator.com/item?id=46643754
+
 https://glyphlang.dev/docs
 > https://news.ycombinator.com/item?id=46571166
 > > https://github.com/GlyphLang/GlyphLang

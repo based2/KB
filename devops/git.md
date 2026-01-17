@@ -303,6 +303,9 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://github.com/trasta298/keifu
+> https://news.ycombinator.com/item?id=46654085
+
 https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/
 > https://news.ycombinator.com/item?id=46530920
 

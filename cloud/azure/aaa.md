@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://cymulate.com/blog/cve-2026-20965-azure-windows-admin-center-tenant-wide-rce/
+
 https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/
 
 https://news.ycombinator.com/item?id=46124930

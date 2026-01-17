@@ -159,6 +159,8 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://news.ycombinator.com/item?id=46626210
+
 https://idiallo.com/blog/learn-css
 > https://news.ycombinator.com/item?id=46500022
 

@@ -1,3 +1,5 @@
+https://openai.com/index/our-approach-to-advertising-and-expanding-access/
+
 https://www.akamai.com/blog/cloud/ai-actor-tilly-norwood-impact-cloud-infrastructure
 
 https://news.ycombinator.com/item?id=46086771

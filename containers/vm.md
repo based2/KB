@@ -117,6 +117,8 @@ https://news.ycombinator.com/item?id=45727097
 https://github.com/quickemu-project/quickemu
 > https://news.ycombinator.com/item?id=46430815
 
+https://skyvm.dev/
+
 # I
 https://www.theregister.com/2026/01/09/china_esxi_zerodays/
 

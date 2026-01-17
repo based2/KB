@@ -177,6 +177,8 @@ https://bloomberg.github.io/memray/index.html
 https://madebyme.today/blog/python-dict-vs-curly-brackets/
 > https://news.ycombinator.com/item?id=39094237
 
+https://news.ycombinator.com/item?id=46629964
+
 # Package
 
 https://antonz.org/python-packaging/

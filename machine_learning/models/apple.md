@@ -1,3 +1,6 @@
+https://github.com/waybarrios/vllm-mlx
+> https://news.ycombinator.com/item?id=46642846
+
 https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html
 > https://news.ycombinator.com/item?id=46589675
 

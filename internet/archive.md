@@ -64,6 +64,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+> https://news.ycombinator.com/item?id=46613324
+
 https://sandyuraz.com/blogs/bourdain/
 > https://news.ycombinator.com/item?id=46258163
 

@@ -17,6 +17,11 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=46636861
+
+https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO
+> https://news.ycombinator.com/item?id=46651887
+
 https://news.ycombinator.com/item?id=46608840
 
 https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html
