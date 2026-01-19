@@ -10,6 +10,11 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://www.geotab.com/blog/ev-battery-health/
+
+https://du.nkel.dev/blog/2026-01-11_marstek-battery-homeassistant/
+> https://news.ycombinator.com/item?id=46643699
+
 https://www.cnet.com/home/energy-and-utilities/flint-paper-battery-ces-2026/
 
 https://news.ycombinator.com/item?id=46423290

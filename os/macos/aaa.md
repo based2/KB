@@ -292,6 +292,9 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://cua.ai/docs/lume/guide/getting-started/introduction
+> https://news.ycombinator.com/item?id=46670181
+
 https://www.undeadly.org/cgi?action=article;sid=20260115203619
 > https://news.ycombinator.com/item?id=46642560
 

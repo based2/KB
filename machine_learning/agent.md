@@ -305,6 +305,12 @@ https://news.ycombinator.com/item?id=46624541
 
 https://news.ycombinator.com/item?id=46616481
 
+https://github.com/pepicrft/schlussel Authentication runtime for agents and CLI applications
+
+https://github.com/jahanzaibahmad112-dotcom/UAIP-Protocol Universal Agent Interoperability Protocol
+
+https://news.ycombinator.com/item?id=46665169
+
 # Sec
 https://news.ycombinator.com/item?id=45415814
 

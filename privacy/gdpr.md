@@ -80,6 +80,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://github.com/cavi-au/Consent-O-Matic
+> https://news.ycombinator.com/item?id=46666283
+
 https://consumer.drop.privacy.ca.gov/
 > https://news.ycombinator.com/item?id=46495220
 

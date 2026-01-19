@@ -297,6 +297,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://socket.dev/blog/temporal-api-ships-in-chrome-144-major-shift-for-javascript-date-handling
+
 https://dl.acm.org/doi/10.1145/3718958.3750502
 
 https://news.ycombinator.com/item?id=46389336

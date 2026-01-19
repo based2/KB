@@ -85,6 +85,11 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://overreacted.io/a-social-filesystem/
+> https://news.ycombinator.com/item?id=46665839
+
+https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/
+
 https://news.ycombinator.com/item?id=46656358
 
 https://news.ycombinator.com/item?id=46487120

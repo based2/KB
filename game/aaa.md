@@ -73,6 +73,12 @@ https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first
 > https://news.ycombinator.com/item?id=46545636
 
 # News
+https://www.loper-os.org/bad-at-entropy/manmach.html
+> https://news.ycombinator.com/item?id=46588660
+
+https://speedminers.fun/
+> https://news.ycombinator.com/item?id=46662399
+
 https://news.ycombinator.com/item?id=46579612
 
 https://uncrossy.com

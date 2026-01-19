@@ -261,6 +261,12 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/
+> https://news.ycombinator.com/item?id=46608342
+
+https://icon-sets.iconify.design/
+> https://news.ycombinator.com/item?id=46665411
+
 https://github.com/twentyhq/twenty CRM
 
 https://lwn.net/Articles/1053107/ European Commission issues call for evidence on open source

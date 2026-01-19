@@ -71,6 +71,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record
+> https://news.ycombinator.com/item?id=46659913
+
 https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki
 > https://news.ycombinator.com/item?id=46444076
 

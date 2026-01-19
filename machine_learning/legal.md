@@ -5,6 +5,8 @@ https://github.com/Hiepler/EuConform
 # I
 
 # News
+https://old.reddit.com/r/france/comments/1qfkg83/les_fran%C3%A7ais_sont_dans_le_peloton_de_t%C3%AAte_mondial/
+
 https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/
 > https://news.ycombinator.com/item?id=46588319
 

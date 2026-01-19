@@ -49,6 +49,9 @@ https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-
 > https://news.ycombinator.com/item?id=42621711
   
 # News
+https://g ithub.com/wh1le/finite NixOS Flake for Pi-Hole and Unbound on Raspberry Pi
+> https://news.ycombinator.com/item?id=46666686
+
 https://brave.com/privacy-updates/36-adblock-memory-reduction/
 > https://crates.io/crates/flatbuffers
 

@@ -332,6 +332,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46648900 Claude Opus performance affected by time of day?
+
 https://ikromshi.com/2025/12/30/feature-selection-primer.html
 
 https://nanonets.com/cookbooks/structured-llm-outputs

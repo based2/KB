@@ -43,6 +43,8 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/
+
 https://news.ycombinator.com/item?id=46094606
 
 https://starflow-v.github.io/

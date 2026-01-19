@@ -247,6 +247,9 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://eugeneyan.com/writing/counterfactual-evaluation/
+> https://news.ycombinator.com/item?id=46655524
+
 https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder
 > https://news.ycombinator.com/item?id=46606902
 

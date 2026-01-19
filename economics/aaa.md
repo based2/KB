@@ -312,6 +312,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://news.ycombinator.com/item?id=46666492
+
 https://news.ycombinator.com/item?id=46437353
 
 https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart

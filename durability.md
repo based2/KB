@@ -1,3 +1,9 @@
+https://energy-efficient-products.ec.europa.eu/product-list/light-sources_en
+
+https://en.wikipedia.org/wiki/European_Union_energy_label
+
+https://commission.europa.eu/news-and-media/news/eu-common-charger-rules-power-all-your-devices-single-charger-2024-12-28_en
+
 https://www.indicereparabilite.fr/
 
 https://www.seaplastics.org
@@ -103,6 +109,8 @@ https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-dow
 > https://news.ycombinator.com/item?id=43261933
 
 # News
+https://news.ycombinator.com/item?id=46614487
+
 https://news.ycombinator.com/item?id=46609492
 
 https://news.ycombinator.com/item?id=46243655

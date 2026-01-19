@@ -203,3 +203,6 @@ https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00
 
 # GC
 https://news.ycombinator.com/item?id=45744395
+
+# I
+https://seclists.org/bugtraq/2005/Oct/118 Malloc Maleficarum

@@ -189,6 +189,8 @@ http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-
 > https://news.ycombinator.com/item?id=28104657
 
 # News
+https://news.ycombinator.com/item?id=46597469
+
 https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory
 > https://news.ycombinator.com/item?id=38419914
 

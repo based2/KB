@@ -46,6 +46,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.qsl.net/2e0waw/radio/radio-vlf.htm
+> https://news.ycombinator.com/item?id=46666538
+
 https://news.ycombinator.com/item?id=46405463
 
 https://news.ycombinator.com/item?id=46413975

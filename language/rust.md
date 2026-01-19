@@ -620,6 +620,10 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://kampffrosch94.github.io/posts/hotreloading_rust/
+
+https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/
+
 https://trynova.dev/blog/garbage-collection-is-contrarian
 > https://news.ycombinator.com/item?id=46559452
 

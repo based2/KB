@@ -15,7 +15,9 @@ https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-hand
 
 https://blog.isosceles.com/how-to-build-a-corpus-for-fuzzing/
 
-#
+# News
+https://www.cyberark.com/resources/threat-research-blog/racing-and-fuzzing-http-3-open-sourcing-quicdraw
+
 https://news.ycombinator.com/item?id=46194351
 
 https://news.ycombinator.com/item?id=46077964

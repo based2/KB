@@ -101,6 +101,12 @@ https://news.ycombinator.com/item?id=45634310
 
 https://www.pgedge.com/blog/building-a-rag-server-with-postgresql-part-3-deploying-your-rag-api
 
+https://github.com/gibram-io/gibram in-memory ephemeral GraphRAG runtime for retrieval
+> https://news.ycombinator.com/item?id=46665393
+
+https://pytorch.org/blog/pytorch-native-architecture-optimization/
+> https://news.ycombinator.com/item?id=41678188
+
 ## Tests
 https://news.ycombinator.com/item?id=43736950
 
@@ -132,6 +138,15 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=46667720
+
+https://docs.qwedai.com/ Open-source deterministic verification layer for LLMs
+> https://news.ycombinator.com/item?id=46666484
+> https://github.com/QWED-AI/qwed-verification ASLv2
+
+https://talperry.com/en/posts/genai/triton-inference-server/
+> https://news.ycombinator.com/item?id=46602218
+
 https://news.ycombinator.com/item?id=46626410
 
 https://news.ycombinator.com/item?id=46620358

@@ -558,6 +558,11 @@ https://hyperscript.org/comparison/
 > https://news.ycombinator.com/item?id=26873682
 
 ## JQuery $
+https://blog.jquery.com/2026/01/17/jquery-4-0-0/
+> https://news.ycombinator.com/item?id=46664755
+> https://developer.mozilla.org/en-US/docs/Web/API/TrustedHTML
+> https://github.com/jquery/jquery/pull/4541 ES modules
+
 https://news.ycombinator.com/item?id=42212106
 
 https://blog.jqueryui.com/2024/08/jquery-ui-1-14-0-released/

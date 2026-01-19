@@ -9,6 +9,8 @@ https://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa
 # Incidents
 https://youtu.be/2wMxldl3Alk?si=xfUaVRCP4hjGDtUv
 
+https://en.wikipedia.org/wiki/Crypto_AG
+
 # News
 https://www.heise.de/en/news/Amazon-s-EU-Cloud-Disconnected-operation-not-yet-tested-by-BSI-11143322.html
 

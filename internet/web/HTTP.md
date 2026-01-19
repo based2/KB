@@ -225,6 +225,9 @@ https://http1mustdie.com/
 https://news.ycombinator.com/item?id=44666896
 
 # News
+https://httpcolon.dev/ quick HTTP header/directive inspector and reference
+> https://news.ycombinator.com/item?id=46670290
+
 https://dotat.at/@/2026-01-13-http-ratelimit.html
 
 https://news.ycombinator.com/item?id=46524554

@@ -88,3 +88,6 @@ https://news.ycombinator.com/item?id=45887957 date pickers
 
 https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info
 > https://news.ycombinator.com/item?id=46380697
+
+https://bvisness.me/high-level/
+> https://news.ycombinator.com/item?id=46630816

@@ -1,3 +1,5 @@
+https://susam.net/inverse-laws-of-robotics.html
+
 https://news.ycombinator.com/item?id=45736457
 
 https://news.ycombinator.com/item?id=45733169

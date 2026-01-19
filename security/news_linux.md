@@ -66,7 +66,14 @@ https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%2
 
 https://hydrapwk.github.io/get/
 
+https://github.com/Ferki-git-creator/ferki-escalator
+> https://news.ycombinator.com/item?id=46666754
+
 # News
+https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/
+> https://news.ycombinator.com/item?id=46666288
+> https://github.com/MatheuZSecurity/Singularity?tab=readme-ov-file#contributing
+
 https://github.com/MatheuZSecurity/Singularity
 > https://news.ycombinator.com/item?id=46498658
 

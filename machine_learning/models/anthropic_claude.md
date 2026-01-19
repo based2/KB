@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46588972
+
 https://news.ycombinator.com/item?id=46612494
 
 https://pieterma.es/syntopic-reading-claude/

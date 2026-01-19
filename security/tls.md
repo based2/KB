@@ -225,6 +225,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://kianbradley.com/2024/01/14/tls-on-xp.html
+> https://news.ycombinator.com/item?id=46664576
+
 https://news.ycombinator.com/item?id=46624352
 
 https://cryptography.io/en/latest/statements/state-of-openssl/
