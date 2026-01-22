@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://news.ycombinator.com/item?id=46684563
+
 https://www.syfy.com/syfy-wire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun
 
 https://news.ycombinator.com/item?id=46623761

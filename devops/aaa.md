@@ -122,6 +122,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://about.gitlab.com/releases/2026/01/21/patch-release-gitlab-18-8-2-released/#cve-2026-0723---unchecked-return-value-issue-in-authentication-services-impacts-gitlab-ceee
+
 https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/
 
 https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/

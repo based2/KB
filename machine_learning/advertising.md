@@ -1,3 +1,5 @@
+https://sources.news/p/googles-ai-boss-no-plans-for-ads
+
 https://news.ycombinator.com/item?id=46668021
 
 https://openai.com/index/our-approach-to-advertising-and-expanding-access/

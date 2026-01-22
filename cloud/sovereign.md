@@ -12,6 +12,10 @@ https://youtu.be/2wMxldl3Alk?si=xfUaVRCP4hjGDtUv
 https://en.wikipedia.org/wiki/Crypto_AG
 
 # News
+https://news.ycombinator.com/item?id=46703928
+
+https://news.ycombinator.com/item?id=46704310
+
 https://www.heise.de/en/news/Amazon-s-EU-Cloud-Disconnected-operation-not-yet-tested-by-BSI-11143322.html
 
 https://news.ycombinator.com/item?id=46637010

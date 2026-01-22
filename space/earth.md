@@ -7,3 +7,5 @@ https://physicsworld.com/a/elements-may-have-been-forged-on-earth-as-well-as-in-
 https://news.ycombinator.com/item?id=41756346
 
 https://www.planetary.day/
+
+https://github.com/simondorfman/solar_system_live/

@@ -1,3 +1,6 @@
+https://developers.google.com/business-communications/rcs-business-messaging
+> https://news.ycombinator.com/item?id=46687841
+
 https://news.ycombinator.com/item?id=46063272
 
 https://news.ycombinator.com/item?id=45822302

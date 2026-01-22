@@ -311,7 +311,14 @@ https://github.com/jahanzaibahmad112-dotcom/UAIP-Protocol Universal Agent Intero
 
 https://news.ycombinator.com/item?id=46665169
 
+https://news.ycombinator.com/item?id=46697908
+
+https://news.ycombinator.com/item?id=46701969
+
 # Sec
+https://github.com/Use-Tusk/fence
+> https://news.ycombinator.com/item?id=46695467
+
 https://news.ycombinator.com/item?id=45415814
 
 https://news.ycombinator.com/item?id=45496533

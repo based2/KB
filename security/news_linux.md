@@ -70,6 +70,8 @@ https://github.com/Ferki-git-creator/ferki-escalator
 > https://news.ycombinator.com/item?id=46666754
 
 # News
+https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/
+
 https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/
 > https://news.ycombinator.com/item?id=46666288
 > https://github.com/MatheuZSecurity/Singularity?tab=readme-ov-file#contributing

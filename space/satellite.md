@@ -56,7 +56,9 @@ https://phys.org/news/2025-12-days-disaster-earth-orbit.html
 
 https://news.ycombinator.com/item?id=46575902
 
-# Incident
+https://news.ycombinator.com/item?id=46703317
+
+# Incidents
 https://x.com/Starlink/status/2001691802911289712
 
 https://bsky.app/profile/planet4589.bsky.social/post/3mac4a3owxs2c

@@ -19,6 +19,9 @@ https://github.com/jackjackbits/bitchat decentralized messaging app that works o
 https://github.com/kavishdevar/librepods AirPods liberated from Apple's ecosystem
 > https://news.ycombinator.com/item?id=45941596
 
+https://bitchat.free/ decentralized peer-to-peer messaging application that operates over Bluetooth
+> https://news.ycombinator.com/item?id=46675853
+
 # Sec
 https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/
 

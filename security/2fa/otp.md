@@ -22,7 +22,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
-news.ycombinator.com/item?id=45264726
+https://about.gitlab.com/releases/2026/01/21/patch-release-gitlab-18-8-2-released/#cve-2026-0723---unchecked-return-value-issue-in-authentication-services-impacts-gitlab-ceee
+
+https://news.ycombinator.com/item?id=45264726
 
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/pixel-perfect-trap-the-surge-of-svg-borne-phishing-attacks/
 > https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-kit-targets-microsoft-365-with-new-tricks/
@@ -76,6 +78,7 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://news.ycombinator.com/item?id=46676264
 
 > https://old.reddit.com/r/crypto/comments/1nu2114/2fa_privacy_analysis_w3c_webauthn_fido2_etc/
 

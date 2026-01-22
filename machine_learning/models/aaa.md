@@ -332,6 +332,9 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
+> https://news.ycombinator.com/item?id=46696300
+
 https://news.ycombinator.com/item?id=46648900 Claude Opus performance affected by time of day?
 
 https://ikromshi.com/2025/12/30/feature-selection-primer.html

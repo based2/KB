@@ -98,6 +98,9 @@ https://nvd.nist.gov/vuln/detail/CVE-2025-14847
 > https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/
 
 # News
+https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/
+> https://news.ycombinator.com/item?id=46667336
+
 https://news.ycombinator.com/item?id=46496103
 
 https://news.ycombinator.com/item?id=46440510

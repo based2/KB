@@ -1,3 +1,6 @@
+https://tangled.org/luthenwald.tngl.sh/splined
+> https://news.ycombinator.com/item?id=46632184
+
 https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html
 > https://news.ycombinator.com/item?id=45626037
 

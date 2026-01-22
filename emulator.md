@@ -10,6 +10,11 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 https://news.ycombinator.com/item?id=39593647
 
 #
+https://news.ycombinator.com/item?id=46689065
+
+https://afska.github.io/emudevz/
+> https://news.ycombinator.com/item?id=46662515
+
 https://polysoftit.co.uk/irisc-web/ ARMv7 assembly interpreter and computer architecture simulator
 > https://news.ycombinator.com/item?id=46663467
 

@@ -42,6 +42,9 @@ https://github.com/vosen/ZLUDA cuda to intel
 https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source
 > https://news.ycombinator.com/item?id=46312792
 
+https://elliotarledge.com/blog/batmobile
+> https://news.ycombinator.com/item?id=46663931
+
 # I
 https://news.ycombinator.com/item?id=42030463
 

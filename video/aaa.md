@@ -145,6 +145,8 @@ https://news.ycombinator.com/item?id=45980760
 https://news.ycombinator.com/item?id=46255697
 
 # Incidents
+https://news.ycombinator.com/item?id=46707699
+
 https://bugs.pwno.io/0014 Heap Overflow in FFmpeg EXIF
 > https://news.ycombinator.com/item?id=46454854
 

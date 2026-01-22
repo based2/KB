@@ -188,6 +188,8 @@ https://apple.stackexchange.com/questions/457623/transparent-network-proxy-for-a
 https://news.ycombinator.com/item?id=44606653
 
 # Dev
+https://news.ycombinator.com/item?id=46683589
+
 https://news.ycombinator.com/item?id=46484662
 
 https://carette.xyz/posts/going_immutable_macos/
@@ -571,6 +573,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/
+> https://news.ycombinator.com/item?id=46702411
+
 https://github.com/nikitabobko/AeroSpace?tab=readme-ov-file i3-like tiling window manager
 > https://news.ycombinator.com/item?id=46397537
 

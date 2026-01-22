@@ -64,6 +64,10 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=46624740 Weird archive.today behavior?
+> https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/
+> https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+
 https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
 > https://news.ycombinator.com/item?id=46613324
 

@@ -191,6 +191,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=46681611
+
 https://news.ycombinator.com/item?id=46245923
 
 https://www.ietf.org/rfc/rfc7766.txt DNS Transport over TCP - Implementation Requirements

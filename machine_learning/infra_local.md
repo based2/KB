@@ -1,3 +1,5 @@
+https://huggingface.co/blog/ggml-org/anthropic-messages-api-in-llamacpp
+
 https://news.ycombinator.com/item?id=46616529
 
 https://news.ycombinator.com/item?id=46620990

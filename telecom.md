@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/
+
 https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7
 > https://news.ycombinator.com/item?id=46620835
 
@@ -395,6 +397,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=46709548
+
 https://news.ycombinator.com/item?id=46617668
 
 https://alienchow.dev/post/fibre_disintegration/

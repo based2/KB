@@ -30,6 +30,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # Incidents
+https://news.ycombinator.com/item?id=46673453
+
 https://www.reuters.com/world/asia-pacific/power-outage-halts-tokyo-commuter-train-lines-disrupting-thousands-2026-01-16/?utm_source=reddit.com
 
 https://www.eurail.com/en/ni/data-security-incident

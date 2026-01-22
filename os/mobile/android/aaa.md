@@ -12,3 +12,5 @@ https://blog.google/products/android/introducing-privacy-sandbox-android/
 
 https://postmarketos.org/blog/2022/02/11/v21.12.2-release/
 > https://news.ycombinator.com/item?id=30305862
+
+https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/

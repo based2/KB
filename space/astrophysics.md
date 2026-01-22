@@ -39,6 +39,8 @@ https://news.ycombinator.com/item?id=40261001
 
 https://news.ycombinator.com/item?id=40257843
 
+https://news.ycombinator.com/item?id=46695628
+
 ### Black hole
 https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
 > https://news.ycombinator.com/item?id=27989875

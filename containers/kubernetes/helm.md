@@ -240,6 +240,8 @@ What to read next
 
 https://github.com/karuppiah7890/helm-schema-gen generate JSON Schema for values yaml
 
+https://news.ycombinator.com/item?id=46676708
+
 # I
 https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm Helm local code execution via a malicious chart
 > https://news.ycombinator.com/item?id=44506696
