@@ -3,6 +3,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # Incidents
+https://blog.cloudflare.com/route-leak-incident-january-22-2026/
+> https://news.ycombinator.com/item?id=46735489
+
 https://community.cloudflare.com/t/universal-ssl-exposes-domains-to-bgp-leaks-re-venezuela-analysis/879930
 > https://news.ycombinator.com/item?id=46651510
 

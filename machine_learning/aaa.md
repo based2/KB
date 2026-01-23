@@ -613,6 +613,11 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=46732555
+
+https://proofofcorn.com/
+> https://news.ycombinator.com/item?id=46735511
+
 https://news.ycombinator.com/item?id=46599897
 
 https://dri.es/ai-is-a-business-model-stress-test

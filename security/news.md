@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46733899
+
 https://news.ycombinator.com/item?id=46656045
 
 https://www.cyberark.com/resources/threat-research-blog/c4-bomb-blowing-up-chromes-appbound-cookie-encryption

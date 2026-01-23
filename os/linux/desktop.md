@@ -123,6 +123,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.theregister.com/2026/01/23/deepin_25010/
+
 https://news.ycombinator.com/item?id=46566465
 
 https://news.ycombinator.com/item?id=46485989

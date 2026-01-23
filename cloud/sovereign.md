@@ -12,6 +12,8 @@ https://youtu.be/2wMxldl3Alk?si=xfUaVRCP4hjGDtUv
 https://en.wikipedia.org/wiki/Crypto_AG
 
 # News
+https://news.ycombinator.com/item?id=46731976
+
 https://news.ycombinator.com/item?id=46703928
 
 https://news.ycombinator.com/item?id=46704310

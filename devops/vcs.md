@@ -23,3 +23,5 @@ https://news.ycombinator.com/item?id=43438659
 https://news.ycombinator.com/item?id=44093334
 
 https://news.ycombinator.com/item?id=45199378
+
+https://news.ycombinator.com/item?id=46713387

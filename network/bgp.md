@@ -46,6 +46,9 @@ https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/
 https://bgpscout.io/
 > https://news.ycombinator.com/item?id=46641663
 
+https://blog.cloudflare.com/route-leak-incident-january-22-2026/
+> https://news.ycombinator.com/item?id=46735489
+
 # Incidents
 https://community.cloudflare.com/t/universal-ssl-exposes-domains-to-bgp-leaks-re-venezuela-analysis/879930
 > https://news.ycombinator.com/item?id=46651510

@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://www.theregister.com/2026/01/23/microsoft_365_outage/?td=rt-3a
+
 https://cymulate.com/blog/cve-2026-20965-azure-windows-admin-center-tenant-wide-rce/
 
 https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/

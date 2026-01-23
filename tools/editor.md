@@ -423,6 +423,8 @@ https://github.com/Stream29/ProxyAsLocalModel Use Third Party LLM API in JetBrai
 https://news.ycombinator.com/item?id=41353835
 
 # I
+https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/
+
 https://mindgard.ai/blog/zed-ide-vulnerabilities-coordinated-disclosure
 
 https://news.ycombinator.com/item?id=43850377

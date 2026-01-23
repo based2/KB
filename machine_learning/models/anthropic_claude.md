@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46725632
+
 https://news.ycombinator.com/item?id=46690907
 
 https://www.anthropic.com/news/claude-new-constitution

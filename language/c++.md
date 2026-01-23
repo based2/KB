@@ -71,6 +71,9 @@ https://github.com/Snaipe/Criterion
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
 #
+https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md
+> https://news.ycombinator.com/item?id=46737447
+
 https://blog.aiono.dev/posts/understanding-c++-ownership-system.html
 
 https://news.ycombinator.com/item?id=46551602

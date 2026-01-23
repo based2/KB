@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/unrolling-the-codex-agent-loop/
+> https://news.ycombinator.com/item?id=46737630
+
 https://openai.com/index/the-truth-elon-left-out/
 
 https://openai.com/index/introducing-gpt-5-2-codex/

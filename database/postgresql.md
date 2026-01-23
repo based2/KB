@@ -359,6 +359,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://news.ycombinator.com/item?id=46725300
+
 https://github.com/vnvo/pgwire-replication
 > https://news.ycombinator.com/item?id=46574277
 

@@ -237,6 +237,8 @@ https://github.com/danielclough/vibevoice-rs
 > https://news.ycombinator.com/item?id=46262392
 
 # News
+https://news.ycombinator.com/item?id=46719229
+
 https://news.ycombinator.com/item?id=46619614
 
 https://news.ycombinator.com/item?id=46628329

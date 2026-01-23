@@ -7,6 +7,9 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/
+> https://news.ycombinator.com/item?id=46735545
+
 https://www.cyberark.com/resources/threat-research-blog/defeating-microsoft-epm-in-the-race-to-admin-a-tale-of-a-lpe-vulnerability
 
 https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/

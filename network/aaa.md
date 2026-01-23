@@ -151,6 +151,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=46731432
+
 https://blog.rastrian.dev/post/beyond-the-nat-cgnat-bandwidth-and-practical-tunneling
 >  https://news.ycombinator.com/item?id=46401899
 
