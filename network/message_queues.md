@@ -115,6 +115,8 @@ https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created
 
 https://news.ycombinator.com/item?id=45107353
 
+https://news.ycombinator.com/item?id=46690779
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132
@@ -130,6 +132,8 @@ https://hatchet.run/
 https://news.ycombinator.com/item?id=40077233
 
 https://news.ycombinator.com/item?id=41284703
+
+https://news.ycombinator.com/item?id=46755115
 
 # MQTT
 https://github.com/eclipse/mosquitto C Python

@@ -192,6 +192,8 @@ https://blog.ptidej.net/cg-wfc-a-hybrid-method-for-designer-guided-replayable-ga
 https://news.ycombinator.com/item?id=46080835
 
 # News
+https://news.ycombinator.com/item?id=46737202
+
 https://news.ycombinator.com/item?id=46539478
 
 https://news.ycombinator.com/item?id=46572968

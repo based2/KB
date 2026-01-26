@@ -158,3 +158,5 @@ https://news.ycombinator.com/item?id=46195068
 
 https://github.com/timescale/pgvectorscale
 > https://news.ycombinator.com/item?id=46379765
+
+https://news.ycombinator.com/item?id=46710747

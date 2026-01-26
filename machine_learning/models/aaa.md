@@ -40,6 +40,9 @@ https://news.ycombinator.com/item?id=46390621
 https://github.com/CyberMagician/Project_Golem
 > https://old.reddit.com/r/LocalLLaMA/comments/1q998is/visualizing_rag_part_2_visualizing_retrieval/
 
+https://philsci-archive.pitt.edu/27929/ Structural Representation Is Analog Representation
+> https://news.ycombinator.com/item?id=46744952
+
 # History
 https://gregorygundersen.com/blog/2025/10/01/large-language-models/
 > https://news.ycombinator.com/item?id=45488892

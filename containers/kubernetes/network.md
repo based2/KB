@@ -42,3 +42,5 @@ https://interlaye.red/kubernetes_002degress_002dsquid.html
 
 https://sergiocipriano.com/beyla-envoy.html
 > https://news.ycombinator.com/item?id=46444481
+
+https://news.ycombinator.com/item?id=46754724

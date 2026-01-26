@@ -14,3 +14,5 @@ https://blog.mozilla.ai/polyglot-ai-agents-webassembly-meets-the-java-virtual-ma
 https://news.ycombinator.com/item?id=46233009
 
 https://old.reddit.com/r/java/comments/1q9sqqw/announcing_kreuzberg_v4/
+
+https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul

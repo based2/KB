@@ -318,6 +318,8 @@ https://news.ycombinator.com/item?id=46701969
 https://maggieappleton.com/gastown
 > https://news.ycombinator.com/item?id=46734302
 
+https://substack.com/inbox/post/185649875 Agent Orchestration for the Timid
+
 # Sec
 https://github.com/Use-Tusk/fence
 > https://news.ycombinator.com/item?id=46695467

@@ -89,6 +89,8 @@ https://blog.crunchydata.com/blog/postgres-indexes-for-newbies
 https://github.com/supabase/index_advisor
 > https://news.ycombinator.com/item?id=40028111
 
+https://news.ycombinator.com/item?id=46751826
+
 ## Analysis
 https://blog.crunchydata.com/blog/get-started-with-explain-analyze
 

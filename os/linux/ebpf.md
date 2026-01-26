@@ -166,3 +166,5 @@ https://news.ycombinator.com/item?id=46258583
 
 https://github.com/loresuso/psc
 > https://news.ycombinator.com/item?id=46646091
+
+https://labs.iximiuz.com/tutorials/xdp-dsr-layer2-lb-92b02f3e

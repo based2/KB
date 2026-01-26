@@ -137,6 +137,8 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://www.scmp.com/news/china/science/article/3341025/chinese-scientists-shrink-semiconductor-chip-fibre-thin-human-hair
+
 https://thinknextdesign.com/home.html
 > https://news.ycombinator.com/item?id=46665310
 

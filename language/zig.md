@@ -1,6 +1,9 @@
 https://www.zigbook.net/
 
-#
+# News
+https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html
+> https://news.ycombinator.com/item?id=46744647
+
 https://lightpanda.io/blog/posts/migrating-our-dom-to-zig
 > https://news.ycombinator.com/item?id=46586179
 > > https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig

@@ -86,6 +86,9 @@ https://news.ycombinator.com/item?id=37240363 sql
 # Test
 https://news.ycombinator.com/item?id=42531993
 
+# UI
+https://news.ycombinator.com/item?id=46746570
+
 # Vibe
 https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 > https://news.ycombinator.com/item?id=44940089
@@ -131,6 +134,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=46752907
+
 https://medium.com/@calufa/ascii-driven-development-850f66661351
 > https://news.ycombinator.com/item?id=46538628
 

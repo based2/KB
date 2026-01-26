@@ -75,6 +75,10 @@ https://infosec.exchange/@infosecdj
 https://samcurry.net/hacking-kia
 > https://news.ycombinator.com/item?id=41658733
 
+# ML
+https://comma.ai/
+> https://news.ycombinator.com/item?id=46740029
+
 # News
 https://news.ycombinator.com/item?id=46486646
 

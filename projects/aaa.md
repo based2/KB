@@ -145,6 +145,8 @@ https://news.ycombinator.com/item?id=43873604
 
 https://news.ycombinator.com/item?id=46184229
 
+https://news.ycombinator.com/item?id=46742389
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

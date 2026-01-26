@@ -58,6 +58,8 @@ https://news.ycombinator.com/item?id=46575902
 
 https://news.ycombinator.com/item?id=46703317
 
+https://news.ycombinator.com/item?id=46747119
+
 # Incidents
 https://x.com/Starlink/status/2001691802911289712
 

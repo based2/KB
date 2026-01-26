@@ -161,6 +161,9 @@ https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets
 > https://news.ycombinator.com/item?id=42451010 29 New Vulnerabilities Found in GStreamer
 
 # News
+https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over
+>
+
 https://github.com/unhaya/vam-seek 2D video navigation grid, 15KB, zero server load
 > https://news.ycombinator.com/item?id=46572304
 

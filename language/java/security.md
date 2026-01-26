@@ -23,11 +23,14 @@ https://techblog.mediaservice.net/2020/04/java-deserialization-scanner-0-6-is-ou
 https://github.com/javapathfinder/jpf-core
 > https://www.reddit.com/r/java/comments/r64zjz/event_java_pathfinder_day_2021_model_checking/ 
 
+https://news.ycombinator.com/item?id=46747487
+
 #
 https://wiki.sei.cmu.edu/confluence/display/java
 
 #
 https://bruce.mirkocaserta.com/ Bruce
+
 https://www.bouncycastle.org/
 
 

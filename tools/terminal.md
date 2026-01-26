@@ -52,6 +52,9 @@ https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog Critical Security Re
 > https://news.ycombinator.com/item?id=42579472
 
 # News
+https://maxwell.eurofusion.eu/git/rnhmjoj/modetc
+> https://news.ycombinator.com/item?id=46741929
+
 https://how-terminals-work.vercel.app/
 > https://news.ycombinator.com/item?id=46546567
 

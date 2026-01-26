@@ -101,6 +101,8 @@ https://news.ycombinator.com/item?id=45736925
 
 https://news.ycombinator.com/item?id=46045207
 
+https://news.ycombinator.com/item?id=46754427
+
 # Mac
 https://www.gitclear.com/blog/linux_touchpad_update_january_2023
 > https://news.ycombinator.com/item?id=34300973

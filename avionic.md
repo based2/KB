@@ -139,6 +139,9 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://computer.rip/2026-01-17-air-traffic-control-9020.html
+> https://news.ycombinator.com/item?id=46674482
+
 https://news.ycombinator.com/item?id=46082296
 
 https://objectiveunclear.com/airloom.html 3D Flight Tracker

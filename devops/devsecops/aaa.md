@@ -71,6 +71,8 @@ https://github.com/Atelier-Logos/platform.atelierlogos.studio
 
 https://socket.dev/blog/cisa-2025-sbom-guidance-update
 
+https://github.com/MedUnes/dtrack-cli
+
 # ML
 https://github.com/iris-sast/iris
 

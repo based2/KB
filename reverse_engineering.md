@@ -76,6 +76,10 @@ https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghid
 https://www.zionbasque.com/files/papers/dec-synergy-study.pdf
 
 # News
+https://news.ycombinator.com/item?id=46741482
+
+https://blog.doyensec.com/2026/01/22/frida-instrumentation.html
+
 https://news.ycombinator.com/item?id=46673216
 
 https://news.ycombinator.com/item?id=46735133

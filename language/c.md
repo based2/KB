@@ -79,10 +79,16 @@ https://github.com/yugr/sortcheck
 
 https://news.ycombinator.com/item?id=46376608
 
+https://news.ycombinator.com/item?id=46749213
+
 # c object
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://lwn.net/Articles/1055757/
+
+https://news.ycombinator.com/item?id=46676125
+
 https://news.ycombinator.com/item?id=46479673
 
 https://zelang-dev.github.io/c-events/

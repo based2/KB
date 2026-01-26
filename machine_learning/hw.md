@@ -6,6 +6,8 @@ Google TPU v4
 https://news.ycombinator.com/item?id=38334663
 
 # News
+https://news.ycombinator.com/item?id=46750214
+
 https://www.ft.com/content/98e78f6b-0ebf-4546-b25f-bf7621e26c8b
 
 https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer

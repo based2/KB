@@ -11,6 +11,8 @@ https://community.cloudflare.com/t/universal-ssl-exposes-domains-to-bgp-leaks-re
 
 https://news.ycombinator.com/item?id=46454693
 
+https://fearsoff.org/research/cloudflare-acme
+
 https://haveibeenflocked.com/news/cyble-downtime
 > https://news.ycombinator.com/item?id=46341305
 > https://haveibeenflocked.com/news/cyble-part2

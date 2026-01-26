@@ -76,3 +76,5 @@ https://news.ycombinator.com/item?id=44666824
 
 https://matklad.github.io/2025/12/28/parsing-advances.html
 > https://news.ycombinator.com/item?id=46427376
+
+https://news.ycombinator.com/item?id=46693460

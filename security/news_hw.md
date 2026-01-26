@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=39165342
 https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
 
 #
+https://stackwarpattack.com/
+
 https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html
 
 https://neodyme.io/en/blog/drone_hacking_part_1/

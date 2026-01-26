@@ -89,6 +89,13 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/io-eric/coi
+> https://news.ycombinator.com/item?id=46696283
+> > https://mint-lang.com/
+> > https://leptos.dev/
+> https://github.com/io-eric/webcc
+> https://io-eric.github.io/coi
+
 https://emnudge.dev/blog/what-happened-to-webassembly/
 > https://news.ycombinator.com/item?id=46551044
 

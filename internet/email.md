@@ -213,6 +213,10 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://labs.watchtowr.com/attackers-with-decompilers-strike-again-smartertools-smartermail-wt-2026-0001-auth-bypass/
+
+https://news.ycombinator.com/item?id=46744807
+
 https://news.ycombinator.com/item?id=45615449
 
 https://strikeready.com/blog/0day-ics-attack-in-the-wild/
@@ -311,6 +315,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=46746946
+
 https://news.ycombinator.com/item?id=46569075
 
 https://news.ycombinator.com/item?id=45782192

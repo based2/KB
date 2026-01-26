@@ -70,7 +70,9 @@ https://github.com/Snaipe/Criterion
 # I
 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 
-#
+# News
+https://news.ycombinator.com/item?id=46688191
+
 https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md
 > https://news.ycombinator.com/item?id=46737447
 

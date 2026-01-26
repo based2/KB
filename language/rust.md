@@ -620,6 +620,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://antoine.vandecreme.net/blog/rust-closures/
+
 https://kampffrosch94.github.io/posts/hotreloading_rust/
 
 https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/
