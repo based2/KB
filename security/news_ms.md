@@ -7,6 +7,12 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+http://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21509
+
+https://securityaffairs.com/187349/hacking/emergency-microsoft-update-fixes-in-the-wild-office-zero-day.html
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/
+
 https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/
 > https://news.ycombinator.com/item?id=46735545
 

@@ -169,6 +169,8 @@ https://godotengine.org/article/release-candidate-godot-3-4-4-rc-1
 https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
+https://news.ycombinator.com/item?id=46769606
+
 # VR
 https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/
 > https://news.ycombinator.com/item?id=43873679

@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+> https://news.ycombinator.com/item?id=46770221
+
 https://openai.com/index/unrolling-the-codex-agent-loop/
 > https://news.ycombinator.com/item?id=46737630
 

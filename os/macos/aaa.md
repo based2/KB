@@ -373,6 +373,9 @@ https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Si
 > https://news.ycombinator.com/item?id=34128776
 
 # M3
+https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o
+> https://news.ycombinator.com/item?id=46769051
+
 https://news.ycombinator.com/item?id=45694767
 
 https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/

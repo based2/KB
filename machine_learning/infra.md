@@ -116,6 +116,10 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers
+
+https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware
+
 https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html
 
 https://www.endorlabs.com/learn/n8mare-on-auth-street-supply-chain-attack-targets-n8n-ecosystem

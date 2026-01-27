@@ -81,6 +81,8 @@ https://news.ycombinator.com/item?id=44747204
 https://www.anthropic.com/news/automate-security-reviews-with-claude-code
 
 # I
+https://www.koi.ai/blog/packagegate-6-zero-days-in-js-package-managers-but-npm-wont-act
+
 https://news.ycombinator.com/item?id=45179939
 
 https://news.ycombinator.com/item?id=45222772
