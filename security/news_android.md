@@ -23,6 +23,8 @@ https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Vo1d/README.ado
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://rsf.org/sites/default/files/medias/file/2025/12/report1.pdf
+
 https://cert.orange.pl/aktualnosci/spynote-kompleksowa-analiza-zlosliwego-oprogramowania-rat-dla-systemu-android/
 > https://medium.com/@ireneusz.tarnowski/spynote-d7d0f31ec697
 

@@ -1,5 +1,8 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/introducing-prism
+> https://news.ycombinator.com/item?id=46783752
+
 https://simonwillison.net/2026/Jan/26/chatgpt-containers/
 > https://news.ycombinator.com/item?id=46770221
 

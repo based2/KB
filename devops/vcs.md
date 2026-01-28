@@ -25,3 +25,6 @@ https://news.ycombinator.com/item?id=44093334
 https://news.ycombinator.com/item?id=45199378
 
 https://news.ycombinator.com/item?id=46713387
+
+https://tonystr.net/blog/git_immitation
+> https://news.ycombinator.com/item?id=46778341

@@ -174,6 +174,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # Incidents
+https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467 Stack buffer overflow in CMS AuthEnvelopedData parsing
+> https://news.ycombinator.com/item?id=46782662
+
 https://news.ycombinator.com/item?id=46200552
 
 https://nvd.nist.gov/vuln/detail/CVE-2025-12816 node-forge

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46687729
+
 https://skip.dev/blog/skip-is-free/
 
 https://fuckingapproachableswiftconcurrency.com/en/

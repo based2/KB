@@ -331,6 +331,8 @@ https://psi3.ru/blog/swl01u/ Remote code execution via MIDI messages
 > https://news.ycombinator.com/item?id=42600349
 
 # News
+https://news.ycombinator.com/item?id=46776564
+
 https://linuxdaw.org/ Help Linux musicians to quickly and easily find the tools they need
 > https://news.ycombinator.com/item?id=46419968
 

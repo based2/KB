@@ -134,6 +134,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=46765694
+
 https://news.ycombinator.com/item?id=46752907
 
 https://medium.com/@calufa/ascii-driven-development-850f66661351

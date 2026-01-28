@@ -119,6 +119,9 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html
+> https://news.ycombinator.com/item?id=46778123
+
 https://socket.dev/blog/malicious-crate-mimicking-finch-exfiltrates-credentials
 
 https://socket.dev/blog/2025-report-destructive-malware-in-open-source-packages
