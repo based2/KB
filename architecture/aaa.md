@@ -204,6 +204,8 @@ https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming
 
 https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack
 
+https://sebastiano.tronto.net/blog/2026-01-28-prefetch/
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

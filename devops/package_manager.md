@@ -119,6 +119,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incidents
+https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/
+
 https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html
 > https://news.ycombinator.com/item?id=46778123
 
@@ -268,6 +270,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://news.ycombinator.com/item?id=46741045
+
 https://socket.dev/blog/npm-to-implement-staged-publishing
 > https://news.ycombinator.com/item?id=46530448
 

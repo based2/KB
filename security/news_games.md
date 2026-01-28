@@ -1,3 +1,5 @@
+https://old.reddit.com/r/netsec/comments/1qpfcpd/fun_rce_in_command_conquer_generals/
+
 http://www.reddit.com/r/apexlegends/comments/1q7qg6i/someone_hacked_our_match/
 > https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/
 

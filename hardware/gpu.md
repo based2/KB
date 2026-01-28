@@ -49,6 +49,8 @@ https://elliotarledge.com/blog/batmobile
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://news.ycombinator.com/item?id=46741150 rust
+
 https://alextardif.com/BindlessProgramming.html
 
 https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno

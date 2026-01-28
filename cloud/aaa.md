@@ -430,6 +430,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.theregister.com/2026/01/26/aws_destiny_lumen_corey_quinn/
+
 https://news.ycombinator.com/item?id=45136558
 
 https://www.bloomberg.com/news/articles/2025-09-08/microsoft-signs-nebius-cloud-deal-for-as-much-as-19-4-billion

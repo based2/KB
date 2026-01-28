@@ -16,3 +16,6 @@ https://arxiv.org/abs/2112.10123 Early Detection of Security-Relevant Bug Report
 https://news.ycombinator.com/item?id=46676081
 
 https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/
+
+https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities
+> https://news.ycombinator.com/item?id=46789913

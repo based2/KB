@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://news.ycombinator.com/item?id=46779864
+
 https://www.nber.org/papers/w34639 O-Ring Automation
 > https://news.ycombinator.com/item?id=46503685
 

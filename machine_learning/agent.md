@@ -320,6 +320,8 @@ https://maggieappleton.com/gastown
 
 https://substack.com/inbox/post/185649875 Agent Orchestration for the Timid
 
+https://news.ycombinator.com/item?id=46783017
+
 # Sec
 https://github.com/Use-Tusk/fence
 > https://news.ycombinator.com/item?id=46695467

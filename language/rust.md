@@ -620,6 +620,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/
+> https://news.ycombinator.com/item?id=46791742
+
 https://antoine.vandecreme.net/blog/rust-closures/
 
 https://kampffrosch94.github.io/posts/hotreloading_rust/

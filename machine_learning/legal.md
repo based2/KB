@@ -5,6 +5,8 @@ https://github.com/Hiepler/EuConform
 # I
 
 # News
+https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations
+
 https://news.ycombinator.com/item?id=46677628
 
 https://old.reddit.com/r/france/comments/1qfkg83/les_fran%C3%A7ais_sont_dans_le_peloton_de_t%C3%AAte_mondial/

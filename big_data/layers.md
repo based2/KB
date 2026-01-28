@@ -95,6 +95,9 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://pandas.pydata.org/community/blog/pandas-3.0.html
+> https://news.ycombinator.com/item?id=46734641
+
 https://news.ycombinator.com/item?id=46747299
 
 https://www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/

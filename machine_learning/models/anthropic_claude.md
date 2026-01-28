@@ -1,3 +1,5 @@
+https://news.slashdot.org/story/26/01/27/146242/how-anthropic-built-claude-buy-books-slice-spines-scan-pages-recycle-the-remains
+
 https://news.ycombinator.com/item?id=46771564
 
 https://news.ycombinator.com/item?id=46743908

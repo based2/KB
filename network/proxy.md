@@ -40,6 +40,8 @@ https://openreplay.com/
 https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/
 
 # News
+https://news.ycombinator.com/item?id=46799898
+
 https://github.com/Sakura-sx/Aroma Every TCP Proxy Is Detectable with RTT Fingerprinting
 > https://news.ycombinator.com/item?id=46386878
 

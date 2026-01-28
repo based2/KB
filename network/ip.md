@@ -145,6 +145,8 @@ https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://news.ycombinator.com/item?id=46795582
+
 https://news.ycombinator.com/item?id=46415266
 
 https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/

@@ -81,6 +81,8 @@ https://news.ycombinator.com/item?id=44747204
 https://www.anthropic.com/news/automate-security-reviews-with-claude-code
 
 # I
+https://latedeployment.github.io/posts/sbom-as-messaging-system/
+
 https://www.koi.ai/blog/packagegate-6-zero-days-in-js-package-managers-but-npm-wont-act
 
 https://news.ycombinator.com/item?id=45179939

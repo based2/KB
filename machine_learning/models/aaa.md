@@ -335,6 +335,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://news.ycombinator.com/item?id=46789561
+
 https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying
 > https://news.ycombinator.com/item?id=46696300
 

@@ -54,6 +54,8 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linu
 https://news.ycombinator.com/item?id=46492601
 
 #
+https://news.ycombinator.com/item?id=46794281
+
 https://news.ycombinator.com/item?id=45903995
 
 https://news.ycombinator.com/item?id=45724043

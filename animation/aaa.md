@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://ciechanow.ski/airfoil/
+> https://news.ycombinator.com/item?id=46795908
+
 https://github.com/minimaxir/ballin
 
 https://news.ycombinator.com/item?id=46611507

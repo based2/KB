@@ -1,3 +1,5 @@
+https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis
+
 https://huggingface.co/blog/ggml-org/anthropic-messages-api-in-llamacpp
 
 https://news.ycombinator.com/item?id=46616529

@@ -140,6 +140,9 @@ https://svgjs.dev/docs/3.2/
 
 https://news.ycombinator.com/item?id=46235959
 
+https://yqnn.github.io/svg-path-editor/
+> https://news.ycombinator.com/item?id=46726269
+
 # I
 https://www.theregister.com/2025/12/05/css_svg_clickjacking/
 
