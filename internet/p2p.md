@@ -64,6 +64,8 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://news.ycombinator.com/item?id=46829582
+
 https://www.johndcook.com/blog/2025/12/08/dandelion/
 > https://news.ycombinator.com/item?id=46194245
 

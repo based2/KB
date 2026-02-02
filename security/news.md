@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=46814614
+
+https://warontherocks.com/2026/01/is-americas-cyber-weakness-self-inflicted/
+
 https://yro.slashdot.org/story/26/01/28/2144213/us-cyber-defense-chief-uploaded-sensitive-files-into-a-public-version-of-chatgpt
 
 https://news.ycombinator.com/item?id=46733899

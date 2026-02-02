@@ -113,6 +113,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=46782872
+
 https://jsdev.space/meet-ripple/
 > https://news.ycombinator.com/item?id=46572723
 

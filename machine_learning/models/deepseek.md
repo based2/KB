@@ -1,3 +1,5 @@
+https://huggingface.co/deepseek-ai/DeepSeek-V3.2/blob/main/assets/paper.pdf
+
 https://news.ycombinator.com/item?id=46602737
 
 https://taylorkolasinski.com/notes/mhc-reproduction/

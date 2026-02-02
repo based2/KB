@@ -68,3 +68,6 @@ https://brutalita.com/
 
 https://github.com/sayyadirfanali/Myna
 > https://news.ycombinator.com/item?id=45849342
+
+https://jamieclarketype.com/case-study/wallace-and-gromit-font/
+> https://jamieclarketype.com/case-study/wallace-and-gromit-font/

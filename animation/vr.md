@@ -1,3 +1,5 @@
+https://www.techradar.com/computing/virtual-reality-augmented-reality/i-tried-the-next-gen-android-xr-prototype-smart-glasses-and-these-frames-are-ready-for-your-close-up?mc_cid=644edc14a4&mc_eid=7da3941d81
+
 https://news.ycombinator.com/item?id=46652041
 
 https://github.com/AncientJames/multivox

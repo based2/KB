@@ -225,6 +225,9 @@ https://github.com/Demindiro/agreper
 https://news.ycombinator.com/item?id=43852096
 
 # News
+https://blog.mikeswanson.com/backseat-software/
+> https://news.ycombinator.com/item?id=46817452
+
 https://henry.codes/writing/a-website-to-destroy-all-websites/
 > https://news.ycombinator.com/item?id=46457784
 

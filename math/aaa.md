@@ -238,6 +238,9 @@ https://news.ycombinator.com/item?id=46560445
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://jvoight.github.io/quat.html Quaternion Algebras
+> https://news.ycombinator.com/item?id=46775758
+
 https://news.ycombinator.com/item?id=46770855
 
 https://news.ycombinator.com/item?id=46585372

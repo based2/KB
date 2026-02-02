@@ -103,6 +103,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=46836487
+
 https://www.trellix.com/en-au/blogs/research/the-unfriending-truth-how-to-spot-a-facebook-phishing-scam/
 > https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/
 

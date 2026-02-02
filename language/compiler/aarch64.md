@@ -81,6 +81,9 @@ https://news.ycombinator.com/item?id=45516000
 
 https://developer.arm.com/servers-and-cloud-computing/arm-mcp-server
 
+https://arxiv.org/abs/2512.21473 Demystifying ARM SME to Optimize General Matrix Multiplications
+> https://news.ycombinator.com/item?id=46840252
+
 # I
 https://modzero.com/en/blog/no-leak-no-problem/
 > https://news.ycombinator.com/item?id=45933497

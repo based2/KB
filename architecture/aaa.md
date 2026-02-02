@@ -345,6 +345,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.archyl.com/
+> https://news.ycombinator.com/item?id=46778428 C4
+
 https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/
 > https://news.ycombinator.com/item?id=46667336
 

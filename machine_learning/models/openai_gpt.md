@@ -1,5 +1,7 @@
 Generative Pre-trained Transformer
 
+https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/
+
 https://openai.com/index/introducing-prism
 > https://news.ycombinator.com/item?id=46783752
 

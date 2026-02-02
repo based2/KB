@@ -201,6 +201,8 @@ https://news.ycombinator.com/item?id=45182418
 https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00
 > https://news.ycombinator.com/item?id=46123238
 
+https://linuxfr.org/news/profileur-memoire-malt-1-6-0-et-support-de-python
+
 # GC
 https://news.ycombinator.com/item?id=45744395
 

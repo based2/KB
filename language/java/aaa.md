@@ -273,7 +273,10 @@ https://github.com/ufuu/JDK10 1.0
 https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
-#
+# I
+https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html
+> https://news.ycombinator.com/item?id=46835454
+
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News

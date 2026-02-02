@@ -314,6 +314,10 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://www.forbes.com/sites/williampesek/2026/01/22/japans-bond-meltdown-is-a-warning-to-trump-world/
+
+https://news.ycombinator.com/item?id=46822630
+
 https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization
 > https://news.ycombinator.com/item?id=46693346
 

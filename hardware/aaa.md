@@ -137,6 +137,8 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us
+
 https://news.ycombinator.com/item?id=46792370
 
 https://news.ycombinator.com/item?id=46764223

@@ -1,5 +1,6 @@
+https://news.ycombinator.com/item?id=46817813
+
 https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html
-> https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html
 
 https://news.ycombinator.com/item?id=46524036
 

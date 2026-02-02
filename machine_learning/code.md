@@ -134,6 +134,11 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=46823485
+
+https://www.anthropic.com/research/AI-assistance-coding-skills
+> https://news.ycombinator.com/item?id=46820924
+
 https://news.ycombinator.com/item?id=46765694
 
 https://news.ycombinator.com/item?id=46752907

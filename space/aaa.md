@@ -35,6 +35,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.esa.int/Science_Exploration/Space_Science/LISA/Construction_of_ESA_s_ambitious_LISA_mission_begins
+
 https://news.ycombinator.com/item?id=45931224
 
 https://news.ycombinator.com/item?id=45387494

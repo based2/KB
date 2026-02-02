@@ -8,6 +8,8 @@ https://www.threatintel.academy/diamond/
 
 https://github.com/TalEliyahu/Threat_Model_Examples
 
+https://attack.mitre.org/groups/
+
 https://www.reddit.com/r/netsec/comments/1057mto/i_made_an_open_source_browser_extension_to_aid_in/
 
 https://github.com/mozilla/seasponge archived
@@ -61,3 +63,5 @@ https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-
 https://unit42.paloaltonetworks.com/unit-42-attribution-framework/
 
 https://security.googlecloudcommunity.com/community-blog-42/actionable-threat-hunting-with-gti-ii-analyzing-a-massive-phishing-campaign-part-1-4009
+
+https://www.sophos.com/en-us/threat-profiles

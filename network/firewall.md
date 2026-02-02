@@ -119,6 +119,9 @@ https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-conte
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://nostarch.com/book-of-pf-4th-edition
+> https://news.ycombinator.com/item?id=46844350
+
 https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn
 > https://news.ycombinator.com/item?id=46324543
 

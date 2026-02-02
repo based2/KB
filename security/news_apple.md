@@ -24,6 +24,9 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf 2026-01
+> https://news.ycombinator.com/item?id=46837814
+
 https://www.macrumors.com/2026/01/21/apple-product-plans-stolen-in-luxshare-cyberattack/
 
 https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/

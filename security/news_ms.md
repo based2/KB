@@ -7,6 +7,8 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/
+
 https://projectzero.google/2026/26/windows-administrator-protection.html
 
 http://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21509

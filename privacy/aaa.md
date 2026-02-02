@@ -136,6 +136,9 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://an.dywa.ng/carrier-gnss.html
+> https://news.ycombinator.com/item?id=46838597
+
 https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
 
 https://news.ycombinator.com/item?id=46294456

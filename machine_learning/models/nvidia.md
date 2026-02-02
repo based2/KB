@@ -1,3 +1,5 @@
+https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-White-Paper.pdf
+
 https://news.ycombinator.com/item?id=46275111
 
 https://news.ycombinator.com/item?id=45029191

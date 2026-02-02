@@ -3,6 +3,8 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # Incidents
+https://surfingcomplexity.blog/2025/11/26/brief-thoughts-on-the-recent-cloudflare-outage/
+
 https://news.ycombinator.com/item?id=46781516
 
 https://blog.cloudflare.com/route-leak-incident-january-22-2026/

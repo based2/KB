@@ -322,6 +322,33 @@ https://substack.com/inbox/post/185649875 Agent Orchestration for the Timid
 
 https://news.ycombinator.com/item?id=46783017
 
+https://www.moltbook.com/
+> https://news.ycombinator.com/item?id=46820360
+
+https://news.ycombinator.com/item?id=46810828
+
+https://news.ycombinator.com/item?id=46815899
+
+https://www.moltbook.com/ Social Network for AI Agents
+> https://news.ycombinator.com/item?id=46820360
+> https://news.ycombinator.com/item?id=46802254
+
+https://news.ycombinator.com/item?id=46820783
+
+http://tautvilas.lt/software-pump-and-dump/
+> https://news.ycombinator.com/item?id=46776848
+
+https://calebjohn.xyz/blog/b2cc/ Claude Code is your customer
+> https://news.ycombinator.com/item?id=46777409
+
+https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+> https://news.ycombinator.com/item?id=46844822
+
+https://github.com/zuckermanai/zuckerman
+> https://news.ycombinator.com/item?id=46846210
+
+https://block.github.io/goose/
+
 # Sec
 https://github.com/Use-Tusk/fence
 > https://news.ycombinator.com/item?id=46695467
@@ -341,7 +368,14 @@ https://fly.io/blog/code-and-let-live/ https://sprites.dev/
 
 https://github.com/anomalyco/opencode
 
+https://news.ycombinator.com/item?id=46824877
+
 # I
+https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/
+
+https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto
+>  https://news.ycombinator.com/item?id=46827731
+
 https://cy.md/opencode-rce/
 > https://news.ycombinator.com/item?id=46581095
 

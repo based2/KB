@@ -67,6 +67,9 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html
+> https://news.ycombinator.com/item?id=46759358
+
 https://ciechanow.ski/airfoil/
 > https://news.ycombinator.com/item?id=46795908
 

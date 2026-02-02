@@ -430,6 +430,10 @@ https://mindgard.ai/blog/zed-ide-vulnerabilities-coordinated-disclosure
 https://news.ycombinator.com/item?id=43850377
 
 # News
+https://www.visualjj.com/
+> https://news.ycombinator.com/item?id=46799435
+> > https://github.com/keanemind/jjk
+
 https://blog.phronemophobic.com/easel-one-year.html
 > https://news.ycombinator.com/item?id=46402202
 

@@ -160,3 +160,5 @@ https://github.com/timescale/pgvectorscale
 > https://news.ycombinator.com/item?id=46379765
 
 https://news.ycombinator.com/item?id=46710747
+
+https://news.ycombinator.com/item?id=46789645

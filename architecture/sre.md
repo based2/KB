@@ -20,4 +20,6 @@ https://news.ycombinator.com/item?id=45161556
 
 https://news.ycombinator.com/item?id=46004541
 
+https://cloud.google.com/blog/topics/developers-practitioners/how-google-sres-use-gemini-cli-to-solve-real-world-outages/
+
 

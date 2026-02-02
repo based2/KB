@@ -335,6 +335,8 @@ https://news.ycombinator.com/item?id=43865097
 https://news.ycombinator.com/item?id=43793280
 
 # News
+https://colab.research.google.com/github/ash80/diffusion-gpt/blob/master/The_Annotated_Discrete_Diffusion_Models.ipynb
+
 https://news.ycombinator.com/item?id=46789561
 
 https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying

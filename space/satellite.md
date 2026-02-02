@@ -60,6 +60,9 @@ https://news.ycombinator.com/item?id=46703317
 
 https://news.ycombinator.com/item?id=46747119
 
+https://starlink.com/updates/stargaze
+> https://news.ycombinator.com/item?id=46820113
+
 # Incidents
 https://x.com/Starlink/status/2001691802911289712
 

@@ -261,6 +261,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/
+> https://news.ycombinator.com/item?id=46845103
+
 https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/
 > https://news.ycombinator.com/item?id=46608342
 

@@ -2,6 +2,9 @@
 https://news.ycombinator.com/item?id=43244549
 
 #
+https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/
+> https://news.ycombinator.com/item?id=46837346
+
 https://news.ycombinator.com/item?id=46436409
 
 https://news.ycombinator.com/item?id=46173407

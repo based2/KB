@@ -78,3 +78,5 @@ https://news.ycombinator.com/item?id=45496406
 https://news.ycombinator.com/item?id=45881087
 
 https://news.ycombinator.com/item?id=46237606
+
+https://juretriglav.si/surfel-based-global-illumination-on-the-web/

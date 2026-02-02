@@ -53,7 +53,12 @@ https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate
 
 https://news.ycombinator.com/item?id=39706004
 
+# AI
+https://lightpanda.io/
+
 # Incidents
+https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking
+
 https://aisle.com/blog/firefox-webrtc-encoded-transforms-uaf-via-undetached-arraybuffer-cve-2025-14321
 
 https://www.theregister.com/2025/12/11/google_fixes_supersecret_8th_chrome/
@@ -78,6 +83,8 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://browsewithnook.com/
+
 https://github.com/tchebb/openwv Google's Widevine Content Decryption Module (CDM), the portion of the Widevine DRM system that runs in your browser
 
 https://howbrowserswork.com/

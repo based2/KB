@@ -81,6 +81,9 @@ https://news.ycombinator.com/item?id=45008740
 https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/
 
 # News
+https://github.com/rtvkiz/minimal Open-Source Community driven Hardened Container Images
+> https://news.ycombinator.com/item?id=46840178
+
 https://buildsoftwaresystems.com/post/guide-to-execution-environments/
 > https://news.ycombinator.com/item?id=46644661
 

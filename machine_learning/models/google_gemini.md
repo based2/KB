@@ -1,3 +1,5 @@
+https://security.googleblog.com/2025/12/architecting-security-for-agentic.html
+
 https://ai.google.dev/edge/litert browser
 
 https://blog.google/technology/developers/gemini-3-developers/

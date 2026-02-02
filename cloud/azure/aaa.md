@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incidents
+https://blog.nviso.eu/2026/01/29/consentfix-a-k-a-authcodefix-detecting-oauth2-authorization-code-phishing/
+
 https://www.theregister.com/2026/01/23/microsoft_365_outage/?td=rt-3a
 
 https://cymulate.com/blog/cve-2026-20965-azure-windows-admin-center-tenant-wide-rce/

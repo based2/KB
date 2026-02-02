@@ -414,6 +414,9 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://github.com/Acly/krita-ai-diffusion Krita
+> https://github.com/Acly/krita-ai-diffusion
+
 https://github.com/antirez/flux2.c
 > https://news.ycombinator.com/item?id=46670279
 

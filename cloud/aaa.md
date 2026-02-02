@@ -430,6 +430,14 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users
+> https://news.ycombinator.com/item?id=46845470
+
+https://terraformindustries.wordpress.com/2026/01/30/direct-current-data-centers/
+> https://news.ycombinator.com/item?id=46831736
+
+https://news.ycombinator.com/item?id=46824098
+
 https://www.theregister.com/2026/01/26/aws_destiny_lumen_corey_quinn/
 
 https://news.ycombinator.com/item?id=45136558

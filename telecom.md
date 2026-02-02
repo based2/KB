@@ -155,6 +155,9 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
+> https://news.ycombinator.com/item?id=46802748
+
 https://news.ycombinator.com/item?id=46751899
 
 https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/

@@ -5,7 +5,12 @@ Google TPU v4
 
 https://news.ycombinator.com/item?id=38334663
 
+# I
+https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html
+
 # News
+https://news.ycombinator.com/item?id=46831702
+
 https://news.ycombinator.com/item?id=46767964
 
 https://news.ycombinator.com/item?id=46750214

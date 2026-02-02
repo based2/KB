@@ -361,6 +361,9 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://github.com/DataDog/pg_tracing
+> https://news.ycombinator.com/item?id=46804009
+
 https://news.ycombinator.com/item?id=46725300
 
 https://github.com/vnvo/pgwire-replication
