@@ -34,6 +34,13 @@ https://www.ternary-computing.com/history/CPU-History.html
 > https://news.ycombinator.com/item?id=42368872
 
 # News
+https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial
+
+https://codeberg.org/System44/fjord
+
+https://www.menuetos.net/
+> https://news.ycombinator.com/item?id=46867526
+
 https://xous.dev/
 > https://news.ycombinator.com/item?id=46619059
 

@@ -43,6 +43,8 @@ https://github.com/CyberMagician/Project_Golem
 https://philsci-archive.pitt.edu/27929/ Structural Representation Is Analog Representation
 > https://news.ycombinator.com/item?id=46744952
 
+https://news.ycombinator.com/item?id=46871654
+
 # History
 https://gregorygundersen.com/blog/2025/10/01/large-language-models/
 > https://news.ycombinator.com/item?id=45488892
@@ -334,7 +336,16 @@ https://news.ycombinator.com/item?id=43865097
 
 https://news.ycombinator.com/item?id=43793280
 
+https://arxiv.org/abs/2512.04124 Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models
+> https://news.ycombinator.com/item?id=46902855
+
 # News
+https://www.kaggle.com/benchmarks
+
+https://news.ycombinator.com/item?id=46928172
+
+https://news.ycombinator.com/item?id=46878942
+
 https://colab.research.google.com/github/ash80/diffusion-gpt/blob/master/The_Annotated_Discrete_Diffusion_Models.ipynb
 
 https://news.ycombinator.com/item?id=46789561

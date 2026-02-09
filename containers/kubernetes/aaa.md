@@ -127,6 +127,13 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://thenewstack.io/kubernetes-1-35-timbernetes-introduces-vertical-scaling/
+
+https://news.ycombinator.com/item?id=46869024
+
+https://github.com/sandys/kappal Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev
+> https://news.ycombinator.com/item?id=46896105
+
 https://github.com/luxury-yacht/app
 > https://news.ycombinator.com/item?id=46619391
 

@@ -345,6 +345,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.42futures.com/p/company-as-code
+> https://news.ycombinator.com/item?id=46899132
+
+http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html
+> https://news.ycombinator.com/item?id=46909439
+
 https://www.archyl.com/
 > https://news.ycombinator.com/item?id=46778428 C4
 

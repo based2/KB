@@ -1,5 +1,14 @@
 Generative Pre-trained Transformer
 
+https://openai.com/index/introducing-openai-frontier/
+> https://news.ycombinator.com/item?id=46899770
+
+https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html
+> https://news.ycombinator.com/item?id=46920487
+
+https://openai.com/index/introducing-gpt-5-3-codex/
+> https://news.ycombinator.com/item?id=46902638
+
 https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/
 
 https://openai.com/index/introducing-prism
@@ -184,6 +193,8 @@ https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models
 > https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
 
 # I
+https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/
+
 https://news.ycombinator.com/item?id=46592827
 
 https://www.catonetworks.com/blog/cato-ctrl-vulnerability-discovered-open-webui-cve-2025-64496/

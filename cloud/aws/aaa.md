@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incidents
+https://www.rapid7.com/blog/post/dr-threat-actors-aws-workmail-phishing-campaigns/
+
 https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild
 > https://news.ycombinator.com/item?id=46636093
 
@@ -214,6 +216,9 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf
+> https://news.ycombinator.com/item?id=46868787
+
 https://github.com/huseyinbabal/taws?tab=readme-ov-file
 > https://news.ycombinator.com/item?id=46491749
 

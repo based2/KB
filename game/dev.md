@@ -196,6 +196,8 @@ https://news.ycombinator.com/item?id=46080835
 https://news.ycombinator.com/item?id=46828482
 
 # News
+https://news.ycombinator.com/item?id=46917564
+
 https://www.adventuregamestudio.co.uk/
 > https://news.ycombinator.com/item?id=46846252
 

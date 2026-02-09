@@ -409,6 +409,8 @@ https://github.com/Lab700xOrg/aisbom open-source CLI to detect "Pickle Bombs" in
 https://guardianhealth.dev/blog/hipaa-ai-red-flags/
 
 # Incidents
+https://arxiv.org/abs/2512.09742 Weird generalization?
+
 https://news.ycombinator.com/item?id=46492063
 
 https://news.ycombinator.com/item?id=46178108
@@ -616,6 +618,20 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://slashdot.org/story/26/02/06/1632210/kpmg-pressed-its-auditor-to-pass-on-ai-cost-savings
+
+https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/
+
+https://dri.es/ai-is-a-business-model-stress-test
+
+https://thenewstack.io/focus-on-donts-to-build-systems-that-know-when-to-say-no/
+
+https://blog.sturdystatistics.com/posts/hnet_part_I/ Hypernetworks: Neural Networks for Hierarchical Data
+> https://news.ycombinator.com/item?id=46901716
+
+https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point
+> https://news.ycombinator.com/item?id=46922692
+
 https://news.ycombinator.com/item?id=46732555
 
 https://proofofcorn.com/

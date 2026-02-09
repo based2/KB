@@ -80,6 +80,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/
+
 https://consentcheck.online/
 
 https://github.com/cavi-au/Consent-O-Matic

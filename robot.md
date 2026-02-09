@@ -139,6 +139,8 @@ https://www.matthieulc.com/posts/shoggoth-mini tentacle
 > https://news.ycombinator.com/item?id=44572377
 
 # News
+https://hardware.slashdot.org/story/26/02/01/0616236/scientists-create-programmable-autonomous-robots-smaller-than-a-grain-of-salt
+
 https://news.ycombinator.com/item?id=46472930
 
 https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/

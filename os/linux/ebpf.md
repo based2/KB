@@ -168,3 +168,7 @@ https://github.com/loresuso/psc
 > https://news.ycombinator.com/item?id=46646091
 
 https://labs.iximiuz.com/tutorials/xdp-dsr-layer2-lb-92b02f3e
+
+# Incidents
+https://unit42.paloaltonetworks.com/shadow-campaigns-uncovering-global-espionage/
+> https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/

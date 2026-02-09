@@ -138,6 +138,8 @@ https://news.ycombinator.com/item?id=46232003
 
 https://timkellogg.me/blog/2025/11/03/colors
 
+https://venturebeat.com/orchestration/this-new-dead-simple-prompt-technique-boosts-accuracy-on-llms-by-up-to-76-on
+
 # I
 https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/
 

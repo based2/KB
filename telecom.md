@@ -155,6 +155,8 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/
+
 https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
 > https://news.ycombinator.com/item?id=46802748
 
@@ -402,6 +404,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://science.slashdot.org/story/26/02/02/0256227/eu-deploys-new-government-satcom-program-in-sovereignty-push
+
 https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/
 > https://news.ycombinator.com/item?id=46742362
 

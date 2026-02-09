@@ -237,6 +237,9 @@ https://github.com/danielclough/vibevoice-rs
 > https://news.ycombinator.com/item?id=46262392
 
 # News
+https://jesperordrup.github.io/vocal-guide/
+> https://news.ycombinator.com/item?id=46922049
+
 https://news.ycombinator.com/item?id=46731068
 
 https://news.ycombinator.com/item?id=46719229

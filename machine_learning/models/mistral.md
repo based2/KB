@@ -1,3 +1,6 @@
+https://mistral.ai/news/voxtral-transcribe-2
+> https://news.ycombinator.com/item?id=46886735
+
 https://mistral.ai/news/mistral-ocr-3
 > https://news.ycombinator.com/item?id=46313390
 

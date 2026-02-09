@@ -65,6 +65,8 @@ https://drew.shoes/posts/sup/ net send win
 https://news.ycombinator.com/item?id=40764113
 
 # News
+https://news.ycombinator.com/item?id=46890814
+
 https://blog.thechases.com/posts/assorted-less-tips/
 > https://news.ycombinator.com/item?id=46464120
 

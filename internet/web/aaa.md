@@ -41,6 +41,8 @@ https://news.ycombinator.com/item?id=39816836
 
 https://ahrefs.com/blog/ai-overviews-reduce-clicks/
 
+https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

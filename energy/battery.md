@@ -10,6 +10,12 @@ https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60
 https://news.ycombinator.com/item?id=44808423
 
 # News
+https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding
+
+https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures
+
+https://hardware.slashdot.org/story/26/02/07/0624254/free-bi-directional-ev-chargers-tested-to-improve-massachusetts-power-grid
+
 https://news.ycombinator.com/item?id=46729198
 
 https://www.geotab.com/blog/ev-battery-health/

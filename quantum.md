@@ -117,6 +117,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://science.slashdot.org/story/26/01/30/0531203/scientists-found-a-way-to-cool-quantum-computers-using-noise
+
 https://scottaaronson.blog/?p=9425
 > https://news.ycombinator.com/item?id=46348318
 

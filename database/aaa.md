@@ -98,6 +98,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2025-14847
 > https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/
 
 # News
+https://news.ycombinator.com/item?id=46861158 Architecture of Open Source Applications (Volume 1) Berkeley DB
+
 https://sqldef.github.io/
 
 https://news.ycombinator.com/item?id=46831592

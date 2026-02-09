@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://wordpress.org/plugins/internet-archive-wayback-machine-link-fixer/
+
 https://news.ycombinator.com/item?id=46694618
 
 https://news.ycombinator.com/item?id=46624740 Weird archive.today behavior?

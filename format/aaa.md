@@ -98,6 +98,9 @@ https://hugodaniel.com/posts/introducing-pngine/
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://pandoc.org/app/
+> https://news.ycombinator.com/item?id=46910500
+
 https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
 > https://news.ycombinator.com/item?id=46564116
 

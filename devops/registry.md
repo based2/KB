@@ -105,3 +105,6 @@ https://docs.github.com/en/packages/working-with-a-github-packages-registry/work
 
 https://blog.aawadia.dev/2022/11/02/docker-registry-ci/
 > https://news.ycombinator.com/item?id=33500807
+
+https://github.com/artifact-keeper
+> https://news.ycombinator.com/item?id=46909037

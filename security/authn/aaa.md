@@ -87,6 +87,8 @@ https://news.ycombinator.com/item?id=42992368
 
 https://news.ycombinator.com/item?id=41818459
 
+https://www.rapid7.com/blog/post/cve-2025-13315-cve-2025-13316-critical-twonky-server-authentication-bypass-not-fixed/
+
 https://www.blastradius.fail/attack-details
 > https://www.bleepingcomputer.com/news/security/new-blast-radius-attack-bypasses-widely-used-radius-authentication/
 

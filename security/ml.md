@@ -19,3 +19,6 @@ https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-s
 
 https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities
 > https://news.ycombinator.com/item?id=46789913
+
+https://red.anthropic.com/2026/zero-days/ Evaluating and mitigating the growing risk of LLM-discovered 0-days
+> https://news.ycombinator.com/item?id=46902374

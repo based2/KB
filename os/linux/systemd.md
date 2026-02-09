@@ -102,3 +102,5 @@ https://roguesecurity.dev/blog/systemd-hardening
 
 https://github.com/systemd/systemd/releases/tag/v259
 > https://news.ycombinator.com/item?id=46313033
+
+https://www.theregister.com/2026/01/29/lennart_poettering_quits_microsoft/

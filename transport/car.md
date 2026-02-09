@@ -80,6 +80,13 @@ https://comma.ai/
 > https://news.ycombinator.com/item?id=46740029
 
 # News
+https://news.slashdot.org/story/26/02/06/0722232/canada-unveils-auto-industry-plan-in-latest-pivot-away-from-us
+
+https://news.ycombinator.com/item?id=46918043
+
+https://newatlas.com/automotive/evolution-car-door-handle/
+> https://news.ycombinator.com/item?id=46868142
+
 https://news.ycombinator.com/item?id=46486646
 
 https://news.ycombinator.com/item?id=46454977

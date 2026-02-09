@@ -6,7 +6,7 @@ https://www.medusa-commerce.com/
 
 https://www.coupang.com/ kr
 
-# I
+# Incidents
 https://invoice.secvuln.info/
 > https://news.ycombinator.com/item?id=46248470
 
@@ -19,7 +19,9 @@ https://news.ycombinator.com/item?id=38971012
 https://www.europol.europa.eu/media-press/newsroom/news/action-against-digital-skimming-reveals-443-compromised-online-merchants
 > https://www.bleepingcomputer.com/news/security/europol-warns-443-online-shops-infected-with-credit-card-stealers/
 
-#
+# News
+https://newsroom.spotify.com/2026-02-05/bookshop-partnership-page-match-announcement/
+
 https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
 
 https://news.ycombinator.com/item?id=46048252

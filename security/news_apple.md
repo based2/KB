@@ -24,6 +24,9 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/
+> https://news.ycombinator.com/item?id=46911901
+
 https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf 2026-01
 > https://news.ycombinator.com/item?id=46837814
 

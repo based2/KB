@@ -349,6 +349,24 @@ https://github.com/zuckermanai/zuckerman
 
 https://block.github.io/goose/
 
+https://github.com/rivet-dev/sandbox-agent/tree/main/gigacode Use OpenCode's UI with Claude Code/Codex/Amp
+> https://news.ycombinator.com/item?id=46912682
+
+https://github.com/ujjwalredd/Axiomeer marketplace for AI agents
+> https://news.ycombinator.com/item?id=46864642
+
+https://github.com/HKUDS/nanobot Ultra-Lightweight Alternative to OpenClaw
+> https://news.ycombinator.com/item?id=46897737
+
+https://openai.com/index/introducing-openai-frontier/
+> https://news.ycombinator.com/item?id=46899770
+
+https://github.github.io/gh-aw/
+
+https://platform.openai.com/docs/api-reference/responses
+
+https://huggingface.co/blog/open-responses
+
 # Sec
 https://github.com/Use-Tusk/fence
 > https://news.ycombinator.com/item?id=46695467
@@ -370,7 +388,14 @@ https://github.com/anomalyco/opencode
 
 https://news.ycombinator.com/item?id=46824877
 
-# I
+https://github.com/pydantic/monty secure Python interpreter written in Rust for use by AI, in Rust
+> https://news.ycombinator.com/item?id=46918254
+
+https://news.ycombinator.com/item?id=46932343
+
+https://www.luiscardoso.dev/blog/sandboxes-for-ai
+
+# Incidents
 https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/
 
 https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto

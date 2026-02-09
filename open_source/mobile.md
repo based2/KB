@@ -13,6 +13,8 @@ https://f-droid.org/
 https://guardianproject.info/
 
 #
+https://news.ycombinator.com/item?id=46931595
+
 https://docs.dawndrums.tn/blog/dd-rev1.1-arch/
 > https://news.ycombinator.com/item?id=46114064
 

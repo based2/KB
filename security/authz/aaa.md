@@ -33,4 +33,7 @@ https://github.com/Permify/permify go ASLv2
 https://news.ycombinator.com/item?id=45445114
 
 # I
+https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986
+> https://news.ycombinator.com/item?id=46917477
+
 https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/

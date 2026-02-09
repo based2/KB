@@ -78,6 +78,9 @@ https://github.com/AykutSarac/jsoncrack.com
 https://news.ycombinator.com/item?id=41634356
 
 # News
+https://sozialhelden.github.io/a11yjson/ standard to describe the accessibility of the physical world
+> https://news.ycombinator.com/item?id=46869113
+
 https://coderaviverma.github.io/yaml-to-json-guide/ yaml2json
 > https://news.ycombinator.com/item?id=46531150
 

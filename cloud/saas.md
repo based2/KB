@@ -59,4 +59,7 @@ https://news.ycombinator.com/item?id=46352310
 
 https://varietyiq.com/blog/misallocation
 
+https://nmn.gl/blog/ai-killing-b2b-saas
+> https://news.ycombinator.com/item?id=46888441
+
 

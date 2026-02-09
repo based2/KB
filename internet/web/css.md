@@ -159,6 +159,9 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://kizu.dev/shrinkwrap-solution/
+> https://news.ycombinator.com/item?id=46908650
+
 https://news.ycombinator.com/item?id=46626210
 
 https://idiallo.com/blog/learn-css

@@ -178,6 +178,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://sherwood.news/tech/big-techs-usd1-1-trillion-cloud-computing-backlog/
+> https://slashdot.org/story/26/02/06/1749238/big-techs-11-trillion-cloud-computing-backlog
+
 https://www.theregister.com/2026/01/09/bank_of_england_oracle/?td=rt-3a
 
 https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/

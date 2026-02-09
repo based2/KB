@@ -200,6 +200,9 @@ https://news.ycombinator.com/item?id=43613994
 
 https://news.ycombinator.com/item?id=43682541
 
+http://blog.sigfpe.com/2014/04/the-monad-called-free.html
+> https://news.ycombinator.com/item?id=46860623
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -393,6 +396,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/
+> https://news.ycombinator.com/item?id=46872319
+
 https://pithlessly.github.io/1ml-intro
 > https://news.ycombinator.com/item?id=46470293
 

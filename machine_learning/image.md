@@ -409,11 +409,15 @@ https://tolkunov.dev/posts/ai-or-not/
 https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
-# I
+# Incidents
 https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://www.playbookatlas.com/research/ai-adoption-explorer
+
+https://nightshade.cs.uchicago.edu/whatis.html
+
 https://github.com/Acly/krita-ai-diffusion Krita
 > https://github.com/Acly/krita-ai-diffusion
 

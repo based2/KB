@@ -234,10 +234,19 @@ https://www.cvxpy.org/tutorial/intro/index.html
 
 https://news.ycombinator.com/item?id=46560445
 
+https://news.ycombinator.com/item?id=46924591
+
 # I
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://rabbitear.org/book/origami.html
+> https://news.ycombinator.com/item?id=46886569
+
+https://news.ycombinator.com/item?id=46867361
+
+https://news.ycombinator.com/item?id=46857453
+
 https://jvoight.github.io/quat.html Quaternion Algebras
 > https://news.ycombinator.com/item?id=46775758
 

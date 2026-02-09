@@ -85,6 +85,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.tomshardware.com/pc-components/hdds/western-digital-details-14-platter-3-5-inch-hamr-hdd-designs-with-140-tb-and-beyond
+
 https://overreacted.io/a-social-filesystem/
 > https://news.ycombinator.com/item?id=46665839
 

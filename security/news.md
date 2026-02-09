@@ -1,3 +1,7 @@
+https://yro.slashdot.org/story/26/01/30/2041200/white-house-scraps-burdensome-software-security-rules
+
+https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/
+
 https://news.ycombinator.com/item?id=46814614
 
 https://warontherocks.com/2026/01/is-americas-cyber-weakness-self-inflicted/

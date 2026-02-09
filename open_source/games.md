@@ -79,6 +79,11 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=46897332
+
+https://openciv3.org/
+> https://news.ycombinator.com/item?id=46918612
+
 https://news.ycombinator.com/item?id=46821774
 
 https://news.ycombinator.com/item?id=46174534

@@ -103,6 +103,14 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/praevention_wirtschafts-und_wissenschaftsschutz/2026-02-06-gemeinsame-warnmitteilung-phishing.pdf?__blob=publicationFile&v=3/
+
+https://blog.neocities.org/blog/2026/01/27/bing-block
+> https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/
+> > https://it.slashdot.org/story/26/02/06/2027244/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-15-million-sites
+
+https://news.ycombinator.com/item?id=46868998
+
 https://news.ycombinator.com/item?id=46836487
 
 https://www.trellix.com/en-au/blogs/research/the-unfriending-truth-how-to-spot-a-facebook-phishing-scam/

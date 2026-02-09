@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://protocolized.summerofprotocols.com/p/the-color-of-safety
+> https://news.ycombinator.com/item?id=46863021
+
 https://news.ycombinator.com/item?id=43692089
 
 https://michelf.ca/projects/sim-daltonism/

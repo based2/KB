@@ -1,3 +1,12 @@
+https://code.claude.com/docs/en/fast-mode
+> https://news.ycombinator.com/item?id=46926043
+
+https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo
+> https://news.ycombinator.com/item?id=46904569
+
+https://www.anthropic.com/news/claude-opus-4-6
+> https://news.ycombinator.com/item?id=46902223
+
 https://news.slashdot.org/story/26/01/27/146242/how-anthropic-built-claude-buy-books-slice-spines-scan-pages-recycle-the-remains
 
 https://news.ycombinator.com/item?id=46771564
@@ -248,7 +257,9 @@ https://www.anthropic.com/news/3-5-models-and-computer-use
 https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 
-# I
+# Incidents
+https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+
 https://news.ycombinator.com/item?id=46622328
 
 https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/

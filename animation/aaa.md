@@ -67,6 +67,15 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://www.animatedknots.com/
+>  https://news.ycombinator.com/item?id=46855697
+
+https://animatedengines.com/
+> https://news.ycombinator.com/item?id=46904645
+
+https://www.4rknova.com/blog/2016/11/01/plasma
+> https://news.ycombinator.com/item?id=46867271
+
 https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html
 > https://news.ycombinator.com/item?id=46759358
 

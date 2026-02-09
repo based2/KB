@@ -1,6 +1,11 @@
 https://ophysics.com/index.html
 
-https://cds.cern.ch/record/1157741/ 	Drawings of the elements of CMS detector, in the style of Leonardo da Vinci
+https://science.slashdot.org/story/26/02/08/0545244/brookhaven-lab-shuts-down-relativistic-heavy-ion-collider-rhic
+
+https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/
+> https://news.ycombinator.com/item?id=46926576
+
+https://cds.cern.ch/record/1157741/ Drawings of the elements of CMS detector, in the style of Leonardo da Vinci
 > https://news.ycombinator.com/item?id=46796718
 
 https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/

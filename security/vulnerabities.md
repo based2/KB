@@ -84,6 +84,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+www.rapid7.com/blog/post/dr-threat-actors-aws-workmail-phishing-campaigns/
+
 https://www.cyberark.com/resources/threat-research-blog/vulnhalla-picking-the-true-vulnerabilities-from-the-codeql-haystack
 
 https://www.theregister.com/2026/01/07/hackerone_ghosted_researcher/

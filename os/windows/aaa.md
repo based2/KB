@@ -151,6 +151,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/
+
 https://news.ycombinator.com/item?id=46709530
 
 https://news.ycombinator.com/item?id=46496465

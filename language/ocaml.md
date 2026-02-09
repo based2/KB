@@ -25,6 +25,9 @@ https://github.com/rgrinberg/opium
 https://news.ycombinator.com/item?id=43844279
 
 # News
+https://mirageos.org/blog/delimcc-vs-lwt
+> https://news.ycombinator.com/item?id=46859267
+
 https://github.com/janestreet/bonsai_term
 > news.ycombinator.com/item?id=46064367
 

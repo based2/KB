@@ -33,6 +33,12 @@ https://medium.com/@brun0ne/rce-via-a-malicious-svg-in-mpdf-216e613b250b
 https://www.mozilla.org/en-US/security/advisories/mfsa2024-21/#CVE-2024-4367
 
 # News
+https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/
+> https://news.ycombinator.com/item?id=46886440
+
+https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/
+> https://news.ycombinator.com/item?id=46890335
+
 https://news.ycombinator.com/item?id=46717507
 
 https://news.ycombinator.com/item?id=45781725

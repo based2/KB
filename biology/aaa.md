@@ -60,6 +60,9 @@ https://news.ycombinator.com/item?id=44591775
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965 Sustainable memristors from shiitake mycelium for high-frequency bioelectronics
 > https://news.ycombinator.com/item?id=45771796
 
+https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang
+> https://news.ycombinator.com/item?id=46911170
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

@@ -45,6 +45,8 @@ https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source
 https://elliotarledge.com/blog/batmobile
 > https://news.ycombinator.com/item?id=46663931
 
+https://techxplore.com/news/2026-01-nvidia-unveils-ai-chip-platform.html
+
 # I
 https://news.ycombinator.com/item?id=42030463
 

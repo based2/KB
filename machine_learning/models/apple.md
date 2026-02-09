@@ -1,3 +1,5 @@
+https://9to5mac.com/2026/01/30/apple-runs-on-anthropic-says-mark-gurman/
+
 https://news.ycombinator.com/item?id=46816228
 
 https://github.com/waybarrios/vllm-mlx

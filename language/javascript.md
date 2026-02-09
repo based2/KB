@@ -222,6 +222,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### Incidents
+https://unit42.paloaltonetworks.com/rce-vulnerabilities-in-ai-python-libraries/
+
 https://news.ycombinator.com/item?id=46236924
 
 https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp RCE Vulnerability in React and Next.js

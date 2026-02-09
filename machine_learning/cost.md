@@ -1,3 +1,6 @@
+https://app.writtte.com/read/kZ8Kj6R Token-to-Credit Conversion: Avoiding Floating-Point Errors in AI Billing Systems
+> https://news.ycombinator.com/item?id=46925443
+
 https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/
 > https://news.ycombinator.com/item?id=44942600
 

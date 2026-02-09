@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.slashdot.org/story/26/01/31/054224/can-we-slow-global-warming-by-phasing-out-super-pollutant-hfcs
+
 https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record
 > https://news.ycombinator.com/item?id=46659913
 

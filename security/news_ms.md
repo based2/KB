@@ -6,7 +6,15 @@ https://news.ycombinator.com/item?id=43436894 RDP rust
 
 https://www.bleepingcomputer.com/news/microsoft/hiding-windows-file-extensions-is-a-security-risk-enable-now/
 
-#
+https://github.com/microsoft/litebox Running unmodified Linux programs on Windows
+> https://news.ycombinator.com/item?id=46913793
+
+# News
+https://www.rapid7.com/blog/post/ve-patch-tuesday-windows-backwards-compatibility-challenge/
+
+https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs
+> https://news.ycombinator.com/item?id=46927098
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/
 
 https://projectzero.google/2026/26/windows-administrator-protection.html

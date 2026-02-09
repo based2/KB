@@ -116,6 +116,8 @@ https://news.ycombinator.com/item?id=40302382
 https://news.ycombinator.com/item?id=40921038
 
 # Incidents
+https://unit42.paloaltonetworks.com/rce-vulnerabilities-in-ai-python-libraries/
+
 https://www.bitdefender.com/en-us/blog/labs/android-trojan-campaign-hugging-face-hosting-rat-payload
 
 https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now
@@ -147,6 +149,10 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://platform.openai.com/docs/api-reference/responses
+
+https://huggingface.co/blog/open-responses
+
 https://thenewstack.io/linux-foundation-leader-were-not-in-an-ai-bubble/
 > https://insights.linuxfoundation.org/collection/park-stack
 > > https://insights.linuxfoundation.org/docs/introduction/what-is-insights/

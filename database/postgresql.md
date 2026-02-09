@@ -361,6 +361,13 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://www.youtube.com/watch?v=QLb3nhIy2Lc
+> https://news.ycombinator.com/item?id=46908700
+> https://pganalyze.com/blog/5mins-postgres-19-better-planner-hints
+
+https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations
+> https://news.ycombinator.com/item?id=46853261
+
 https://github.com/DataDog/pg_tracing
 > https://news.ycombinator.com/item?id=46804009
 

@@ -7,6 +7,9 @@ https://en.wikipedia.org/wiki/SRV_record
 https://en.wikipedia.org/wiki/Autonomous_system_(Internet)
 > https://github.com/ArcHound/asn-check
 
+https://www.bhusalmanish.com.np/blog/posts/dns-explained.html
+> https://news.ycombinator.com/item?id=46868803
+
 http://www-inf.int-evry.fr/~hennequi/CoursDNS/NOTES-COURS_eng/msg.html
 
 https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
@@ -114,6 +117,9 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain
 
 # Incidents
+https://rachelbythebay.com/w/2026/02/03/badnas/
+> https://news.ycombinator.com/item?id=46895972
+
 https://news.ycombinator.com/item?id=45538760
 
 https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html Critical Cache Poisoning Vulnerability in Dnsmasq

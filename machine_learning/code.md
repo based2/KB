@@ -134,6 +134,29 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://haskellforall.com/2026/02/beyond-agentic-coding
+> https://news.ycombinator.com/item?id=46930565
+
+https://justsitandgrin.im/posts/coding-agents-use-cases/
+> https://news.ycombinator.com/item?id=46868275
+
+https://news.ycombinator.com/item?id=46902789
+
+https://www.anthropic.com/engineering/building-c-compiler
+> https://news.ycombinator.com/item?id=46903616
+
+https://openai.com/index/introducing-gpt-5-3-codex/
+> https://news.ycombinator.com/item?id=46902638
+
+https://mitchellh.com/writing/my-ai-adoption-journey
+> https://news.ycombinator.com/item?id=46903558
+
+https://news.ycombinator.com/item?id=46929391
+
+https://news.ycombinator.com/item?id=46923543
+
+https://news.ycombinator.com/item?id=46916586
+
 https://news.ycombinator.com/item?id=46823485
 
 https://www.anthropic.com/research/AI-assistance-coding-skills

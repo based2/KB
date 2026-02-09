@@ -261,6 +261,12 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.collaboraonline.com/collabora-office/
+> https://news.ycombinator.com/item?id=46899591
+
+https://github.com/suitenumerique
+> https://news.ycombinator.com/item?id=46923736
+
 https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/
 > https://news.ycombinator.com/item?id=46845103
 

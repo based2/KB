@@ -79,6 +79,9 @@ https://news.ycombinator.com/item?id=39568728
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://notifox.com/blog/bash-error-handling
+> https://news.ycombinator.com/item?id=46920277
+
 https://news.ycombinator.com/item?id=45731366
 
 https://news.ycombinator.com/item?id=44669998

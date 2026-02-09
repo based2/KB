@@ -576,6 +576,11 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 # News
+https://www.macworld.com/article/3048329/apple-just-completely-changed-how-you-buy-a-new-mac.html
+
+https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/
+> https://news.ycombinator.com/item?id=46933365
+
 https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/
 > https://news.ycombinator.com/item?id=46702411
 

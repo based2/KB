@@ -125,7 +125,10 @@ https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 
 https://news.ycombinator.com/item?id=45640222
 
-# I
+# Incidents
+https://www.lesswrong.com/posts/tAh2keDNEEHMXvLvz/prompt-injection-in-google-translate-reveals-base-model
+> https://news.ycombinator.com/item?id=46925406
+
 https://xmcyber.com/blog/double-agent-service-agent-privilege-escalation-in-google-vertex-ai/
 > https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html
 

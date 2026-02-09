@@ -144,7 +144,13 @@ https://news.ycombinator.com/item?id=45980760
 
 https://news.ycombinator.com/item?id=46255697
 
+https://cinegraphs.ai/
+> https://news.ycombinator.com/item?id=46933515
+
 # Incidents
+https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/
+> https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off
+
 https://news.ycombinator.com/item?id=46707699
 
 https://bugs.pwno.io/0014 Heap Overflow in FFmpeg EXIF

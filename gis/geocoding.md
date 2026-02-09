@@ -30,6 +30,9 @@ https://news.ycombinator.com/item?id=42974728
 
 https://news.ycombinator.com/item?id=44117779 jp
 
+https://tech.marksblogg.com/overture-places-pois.html
+> https://news.ycombinator.com/item?id=46858042
+
 # Reverse
 https://github.com/thampiman/reverse-geocoder
 > https://news.ycombinator.com/item?id=9281222
