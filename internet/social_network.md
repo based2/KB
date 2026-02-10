@@ -281,6 +281,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+> https://news.ycombinator.com/item?id=46945663
+
 https://news.ycombinator.com/item?id=46747366
 
 https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp

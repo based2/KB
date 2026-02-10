@@ -134,6 +134,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://crawshaw.io/blog/eight-more-months-of-agents
+> https://news.ycombinator.com/item?id=46933223
+
 https://haskellforall.com/2026/02/beyond-agentic-coding
 > https://news.ycombinator.com/item?id=46930565
 

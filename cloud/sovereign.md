@@ -12,6 +12,8 @@ https://youtu.be/2wMxldl3Alk?si=xfUaVRCP4hjGDtUv
 https://en.wikipedia.org/wiki/Crypto_AG
 
 # News
+https://news.ycombinator.com/item?id=46958399
+
 https://www.heise.de/en/news/Munich-makes-digital-sovereignty-measurable-with-its-own-score-11164230.html
 
 https://thedigitalresilience.org/

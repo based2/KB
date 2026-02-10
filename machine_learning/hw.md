@@ -9,6 +9,8 @@ https://news.ycombinator.com/item?id=38334663
 https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html
 
 # News
+https://www.theregister.com/2026/02/10/cisco_challenges_broadcom_nvidia_switch_chips/
+
 https://news.ycombinator.com/item?id=46831702
 
 https://news.ycombinator.com/item?id=46767964

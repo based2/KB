@@ -80,6 +80,11 @@ https://comma.ai/
 > https://news.ycombinator.com/item?id=46740029
 
 # News
+https://news.ycombinator.com/item?id=46949642
+
+https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
+> https://news.ycombinator.com/item?id=46947777
+
 https://news.slashdot.org/story/26/02/06/0722232/canada-unveils-auto-industry-plan-in-latest-pivot-away-from-us
 
 https://news.ycombinator.com/item?id=46918043

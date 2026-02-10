@@ -69,6 +69,8 @@ https://hydrapwk.github.io/get/
 https://github.com/Ferki-git-creator/ferki-escalator
 > https://news.ycombinator.com/item?id=46666754
 
+https://github.com/h2337/klint
+
 # News
 https://www.theregister.com/2026/01/22/root_telnet_bug/
 > https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/

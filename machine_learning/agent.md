@@ -367,6 +367,8 @@ https://platform.openai.com/docs/api-reference/responses
 
 https://huggingface.co/blog/open-responses
 
+https://news.ycombinator.com/item?id=46941990
+
 # Sec
 https://github.com/Use-Tusk/fence
 > https://news.ycombinator.com/item?id=46695467
@@ -395,7 +397,14 @@ https://news.ycombinator.com/item?id=46932343
 
 https://www.luiscardoso.dev/blog/sandboxes-for-ai
 
+https://github.com/getclawe/clawe pen-source Trello for agent teams
+> https://news.ycombinator.com/item?id=46966209
+
 # Incidents
+https://news.ycombinator.com/item?id=46932911
+
+https://news.ycombinator.com/item?id=46950634
+
 https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/
 
 https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto

@@ -101,6 +101,9 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://github.com/vhscom/private-landing
+> https://news.ycombinator.com/item?id=46944084
+
 https://www.theregister.com/2026/01/08/crowdstrikes_740m_sgnl_deal_proves/
 
 https://news.ycombinator.com/item?id=45786962

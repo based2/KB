@@ -73,7 +73,10 @@ https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first
 > https://news.ycombinator.com/item?id=46545636
 
 # News
+https://news.ycombinator.com/item?id=46941138
 
+https://underhillgame.com/
+> https://news.ycombinator.com/item?id=46936237
 
 https://news.ycombinator.com/item?id=46842603
 

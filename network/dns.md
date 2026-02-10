@@ -197,6 +197,9 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://www.wirewiki.com/
+> https://news.ycombinator.com/item?id=46944555
+
 https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case
 
 https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/

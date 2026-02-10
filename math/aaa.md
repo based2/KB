@@ -240,6 +240,8 @@ https://news.ycombinator.com/item?id=46924591
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=46945641
+
 https://rabbitear.org/book/origami.html
 > https://news.ycombinator.com/item?id=46886569
 

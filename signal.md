@@ -46,6 +46,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.pa3fwm.nl/technotes/tn13a.html
+> https://news.ycombinator.com/item?id=46932444
+
 https://news.ycombinator.com/item?id=46854128
 
 https://www.nro.gov/news-media-featured-stories/news-media-archive/News-Article/Article/4392223/declassifying-jumpseat-an-american-pioneer-in-space/

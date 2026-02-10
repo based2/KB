@@ -154,6 +154,9 @@ https://nightingaledvs.com/dark-sky-weather-data-viz/
 > https://news.ycombinator.com/item?id=46565132
 > > https://merrysky.net/ https://news.ycombinator.com/item?id=34155191
 
+https://informationisbeautiful.net/
+> https://news.ycombinator.com/item?id=46877291
+
 # BI
 https://superset.apache.org/ Modern data exploration and visualization platform - Python, JS
 

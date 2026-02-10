@@ -177,3 +177,8 @@ https://news.ycombinator.com/item?id=36686721
 
 https://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html
 > https://news.ycombinator.com/item?id=45501114
+
+https://www.queensu.ca/gazette/stories/using-light-based-computing-tackle-complex-challenges
+> https://news.ycombinator.com/item?id=46945234
+
+https://www.theregister.com/2026/02/06/darpa_seeking_physicsdefying_photonic_computers/

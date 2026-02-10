@@ -408,7 +408,9 @@ https://github.com/Lab700xOrg/aisbom open-source CLI to detect "Pickle Bombs" in
 
 https://guardianhealth.dev/blog/hipaa-ai-red-flags/
 
-# Incidents
+https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/
+> https://www.theregister.com/2026/02/09/microsoft_one_prompt_attack/
+
 https://arxiv.org/abs/2512.09742 Weird generalization?
 
 https://news.ycombinator.com/item?id=46492063

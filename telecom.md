@@ -155,6 +155,11 @@ https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#i
 > https://news.ycombinator.com/item?id=42599507
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/
+
+https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/
+> https://news.ycombinator.com/item?id=46945497
+
 https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/
 
 https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network

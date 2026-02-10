@@ -1,3 +1,6 @@
+https://github.com/TrevorS/voxtral-mini-realtime-rs
+> https://news.ycombinator.com/item?id=46954136
+
 https://mistral.ai/news/voxtral-transcribe-2
 > https://news.ycombinator.com/item?id=46886735
 

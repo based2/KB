@@ -67,6 +67,12 @@ https://dynamicsjs.com/
 https://news.ycombinator.com/item?id=45438288
 
 # News
+https://znah.net/graphs/
+> https://news.ycombinator.com/item?id=46933955
+
+https://neal.fun/sandboxels/
+> https://news.ycombinator.com/item?id=46946308
+
 https://www.animatedknots.com/
 >  https://news.ycombinator.com/item?id=46855697
 

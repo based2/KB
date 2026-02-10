@@ -213,6 +213,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/
+> https://news.ycombinator.com/item?id=46937012
+
 https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/
 
 https://labs.watchtowr.com/attackers-with-decompilers-strike-again-smartertools-smartermail-wt-2026-0001-auth-bypass/

@@ -259,9 +259,14 @@ https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
 > https://news.ycombinator.com/item?id=44049926
 
 # I
+https://old.reddit.com/r/netsec/comments/1qwtzyn/django_sql_injection_in_rasterfield_lookup/
+
 https://old.reddit.com/r/netsec/comments/1p8wnps/cve202558360_geoserver_xxe_vulnerability_analysis/
 
 # News
+https://alltheviews.world/
+> https://news.ycombinator.com/item?id=46943568
+
 https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes
 > https://news.ycombinator.com/item?id=46898473
 

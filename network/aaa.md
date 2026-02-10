@@ -151,6 +151,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.netviews.app/
+> https://news.ycombinator.com/item?id=46955712
+
 https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/
 > https://news.ycombinator.com/item?id=46786575
 

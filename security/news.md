@@ -1,3 +1,6 @@
+https://www.opensecurityarchitecture.org/
+> https://old.reddit.com/r/netsec/comments/1qzzxv2/open_security_architecture_15_new_security/
+
 https://yro.slashdot.org/story/26/01/30/2041200/white-house-scraps-burdensome-software-security-rules
 
 https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/

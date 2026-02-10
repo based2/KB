@@ -251,6 +251,8 @@ https://gpg.fail/
 > https://news.ycombinator.com/item?id=46403200
 
 # News
+https://old.reddit.com/r/netsec/comments/1qy0mjx/cryptoscanner_opensource_cli_tool_to_find/
+
 https://www.dlp.rip/decorative-cryptography
 > https://news.ycombinator.com/item?id=46496494
 

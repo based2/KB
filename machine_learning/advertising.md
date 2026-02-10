@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=46949401
+
 https://slashdot.org/story/26/02/04/1327223/anthropic-pledges-to-keep-claude-ad-free-calls-ai-conversations-a-space-to-think
 
 https://sources.news/p/googles-ai-boss-no-plans-for-ads

@@ -85,6 +85,8 @@ https://news.ycombinator.com/item?id=46749213
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=46945235
+
 https://xorvoid.com/sectorc.html C Compiler in 512 bytes - 2023
 > https://news.ycombinator.com/item?id=46925741
 

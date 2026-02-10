@@ -77,3 +77,6 @@ https://github.com/0x4D31/galah
 https://www.rezonate.io/blog/top-10-features-to-enhance-your-okta-security-posture/#heading-0
 
 https://github.com/kitabisa/teler
+
+https://trappsec.dev/
+> https://old.reddit.com/r/netsec/comments/1qyfxlw/trappsec_open_source_framework_for_api_deception/

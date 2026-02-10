@@ -24,6 +24,9 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
+> https://news.ycombinator.com/item?id=46938398
+`
 https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/
 > https://news.ycombinator.com/item?id=46911901
 

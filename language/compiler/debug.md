@@ -23,6 +23,9 @@ https://vptdigital.com/blog/honey-detecting-testers/
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://blog.svgames.pl/article/the-little-bool-of-doom
+> https://news.ycombinator.com/item?id=46936828
+
 https://news.ycombinator.com/item?id=46750425
 
 https://www.recall.ai/blog/the-fix-for-a-segfault-that-never-shipped gstreamer

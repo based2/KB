@@ -316,7 +316,9 @@ https://arxiv.org/abs/2502.09956 Extracting Knowledge Graphs from Plain Text wit
 
 https://arxiv.org/abs/2601.02671 Extracting books from production language models - 2026
 
-# I
+# Incidents
+https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/
+
 https://news.ycombinator.com/item?id=46592424
 
 https://news.ycombinator.com/item?id=46357686
@@ -340,6 +342,9 @@ https://arxiv.org/abs/2512.04124 Psychometric Jailbreaks Reveal Internal Conflic
 > https://news.ycombinator.com/item?id=46902855
 
 # News
+https://www.latent.space/p/adversarial-reasoning
+> https://news.ycombinator.com/item?id=46936920
+
 https://www.kaggle.com/benchmarks
 
 https://news.ycombinator.com/item?id=46928172
