@@ -154,6 +154,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+ https://maxhalford.github.io/blog/text-classification-zstd/
+> https://news.ycombinator.com/item?id=46942864
+
 https://news.ycombinator.com/item?id=46400564
 
 https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/

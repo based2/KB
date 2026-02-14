@@ -64,6 +64,8 @@ https://news.ycombinator.com/item?id=42306742
 https://news.ycombinator.com/item?id=45888143
 
 # News
+https://coolify.io/
+
 https://gitforms-landing.vercel.app/
 > https://github.com/Luigigreco/gitforms
 > https://news.ycombinator.com/item?id=46304199

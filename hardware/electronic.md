@@ -54,6 +54,10 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linu
 https://news.ycombinator.com/item?id=46492601
 
 #
+https://monosketch.io/
+> https://news.ycombinator.com/item?id=47001871
+> > https://monodraw.helftone.com/
+
 https://news.ycombinator.com/item?id=46794281
 
 https://news.ycombinator.com/item?id=45903995

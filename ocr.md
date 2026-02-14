@@ -133,6 +133,8 @@ https://news.ycombinator.com/item?id=46383593
 
 https://news.ycombinator.com/item?id=46691454
 
+https://news.ycombinator.com/item?id=46924075
+
 # News
 https://news.ycombinator.com/item?id=45887262
 

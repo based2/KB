@@ -361,6 +361,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://hexacluster.ai/blog/row-level-and-column-level-security-oracle-vs-postgresql
+
 https://www.youtube.com/watch?v=QLb3nhIy2Lc
 > https://news.ycombinator.com/item?id=46908700
 > https://pganalyze.com/blog/5mins-postgres-19-better-planner-hints

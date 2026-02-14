@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=47006419
+
 https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/
 > https://news.ycombinator.com/item?id=46908491
 

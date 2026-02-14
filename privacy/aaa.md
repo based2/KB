@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # Incidents
+https://news.ycombinator.com/item?id=46999545
+
 https://www.bbc.com/news/articles/c62rexy9y3no
 > https://yro.slashdot.org/story/26/02/06/1913211/hidden-cameras-in-chinese-hotels-are-livestreaming-guests-to-thousands-of-telegram-subscribers
 
@@ -141,6 +143,8 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=46920315
+
 https://an.dywa.ng/carrier-gnss.html
 > https://news.ycombinator.com/item?id=46838597
 

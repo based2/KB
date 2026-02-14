@@ -75,6 +75,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incidents
+https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f
+> https://news.ycombinator.com/item?id=47000041
+
 https://grahamhelton.com/blog/nodes-proxy-rce websocket
 > https://news.ycombinator.com/item?id=46766140
 

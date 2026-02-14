@@ -620,6 +620,10 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/
+
+https://news.ycombinator.com/item?id=47005081
+
 https://slashdot.org/story/26/02/06/1632210/kpmg-pressed-its-auditor-to-pass-on-ai-cost-savings
 
 https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/

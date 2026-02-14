@@ -45,6 +45,8 @@ https://herish.me/blog/cache-poisoning-case-studies-part-1-foundational-attacks/
 > https://old.reddit.com/r/netsec/comments/1p9oick/analysis_of_8_foundational_cache_poisoning/
 
 # News
+https://news.ycombinator.com/item?id=46945148
+
 http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html
 > https://news.ycombinator.com/item?id=46842586
 

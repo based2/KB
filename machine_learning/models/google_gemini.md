@@ -1,3 +1,8 @@
+https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+> https://news.ycombinator.com/item?id=46991240
+
 https://security.googleblog.com/2025/12/architecting-security-for-agentic.html
 
 https://ai.google.dev/edge/litert browser

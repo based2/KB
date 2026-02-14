@@ -1,3 +1,5 @@
+https://www.nokia.com/newsroom/global-technology-leaders-launch-trusted-tech-alliance/
+
 https://www.opensecurityarchitecture.org/
 > https://old.reddit.com/r/netsec/comments/1qzzxv2/open_security_architecture_15_new_security/
 

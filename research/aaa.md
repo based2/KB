@@ -61,6 +61,8 @@ https://news.ycombinator.com/item?id=46181466 At least 50 hallucinated citations
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://www.weekinpapers.com/
+
 https://news.ycombinator.com/item?id=45781965
 
 https://news.ycombinator.com/item?id=44796526

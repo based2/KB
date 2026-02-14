@@ -24,6 +24,9 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/
+> https://news.ycombinator.com/item?id=46979643
+
 https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
 > https://news.ycombinator.com/item?id=46938398
 `

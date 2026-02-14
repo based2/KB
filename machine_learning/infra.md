@@ -149,6 +149,10 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://news.ycombinator.com/item?id=47006393
+
+https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/
+
 https://platform.openai.com/docs/api-reference/responses
 
 https://huggingface.co/blog/open-responses

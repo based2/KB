@@ -213,6 +213,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # Incidents
+https://atha.io/blog/2026-02-12-viva
+> https://news.ycombinator.com/item?id=46989217
+
 https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/
 > https://news.ycombinator.com/item?id=46937012
 

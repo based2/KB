@@ -178,6 +178,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=46976466
+
 https://sherwood.news/tech/big-techs-usd1-1-trillion-cloud-computing-backlog/
 > https://slashdot.org/story/26/02/06/1749238/big-techs-11-trillion-cloud-computing-backlog
 

@@ -73,6 +73,9 @@ https://socket.dev/blog/cisa-2025-sbom-guidance-update
 
 https://github.com/MedUnes/dtrack-cli
 
+https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html
+> https://news.ycombinator.com/item?id=46939613
+
 # ML
 https://github.com/iris-sast/iris
 
@@ -110,6 +113,8 @@ https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templa
 https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/
 
 #
+https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html
+
 https://cs.au.dk/~amoeller/spa/
 
 https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/

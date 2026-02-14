@@ -196,6 +196,13 @@ https://news.ycombinator.com/item?id=46080835
 https://news.ycombinator.com/item?id=46828482
 
 # News
+https://sourceforge.net/projects/arcadegpu/
+
+https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html
+> https://news.ycombinator.com/item?id=46930461
+
+https://news.ycombinator.com/item?id=47006316
+
 https://sandboxspirit.com/blog/art-of-roads-in-games/
 > https://news.ycombinator.com/item?id=46938511
 

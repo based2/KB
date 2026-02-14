@@ -400,7 +400,17 @@ https://www.luiscardoso.dev/blog/sandboxes-for-ai
 https://github.com/getclawe/clawe pen-source Trello for agent teams
 > https://news.ycombinator.com/item?id=46966209
 
+https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md
+> https://news.ycombinator.com/item?id=46974515
+
+https://github.com/nearai/ironclaw
+> https://news.ycombinator.com/item?id=47004312
+
+https://news.ycombinator.com/item?id=46913747
+
 # Incidents
+https://embracethered.com/blog/posts/2026/scary-agent-skills/
+
 https://news.ycombinator.com/item?id=46932911
 
 https://news.ycombinator.com/item?id=46950634

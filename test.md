@@ -36,6 +36,8 @@ https://news.ycombinator.com/item?id=41936855
 https://news.ycombinator.com/item?id=43796003
 
 #
+https://transactional.blog/simulation/buggify
+
 https://github.com/mockito/mockito/issues/3777
 > https://news.ycombinator.com/item?id=46414078
 

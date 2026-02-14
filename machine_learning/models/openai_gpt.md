@@ -1,5 +1,10 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=47006594
+
+https://openai.com/index/introducing-gpt-5-3-codex-spark/
+> https://news.ycombinator.com/item?id=46992553
+
 https://openai.com/index/introducing-openai-frontier/
 > https://news.ycombinator.com/item?id=46899770
 

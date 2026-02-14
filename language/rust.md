@@ -623,6 +623,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://tritium.legal/blog/desktop
+> https://lobste.rs/s/misukt/thanks_for_all_frames_rust_gui
+
 https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/
 > https://news.ycombinator.com/item?id=46791742
 

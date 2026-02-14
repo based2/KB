@@ -317,6 +317,8 @@ https://arxiv.org/abs/2502.09956 Extracting Knowledge Graphs from Plain Text wit
 https://arxiv.org/abs/2601.02671 Extracting books from production language models - 2026
 
 # Incidents
+https://arxiv.org/abs/2602.06258 GRP-Obliteration: Unaligning LLMs With a Single Unlabeled Prompt
+
 https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/
 
 https://news.ycombinator.com/item?id=46592424
@@ -342,6 +344,12 @@ https://arxiv.org/abs/2512.04124 Psychometric Jailbreaks Reveal Internal Conflic
 > https://news.ycombinator.com/item?id=46902855
 
 # News
+https://lobste.rs/s/uyjjtz/microgpt
+
+https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/
+
+https://news.ycombinator.com/item?id=46988596
+
 https://www.latent.space/p/adversarial-reasoning
 > https://news.ycombinator.com/item?id=46936920
 

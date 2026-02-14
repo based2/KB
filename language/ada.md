@@ -72,6 +72,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://lobste.rs/s/pgem2t/ann_i_built_new_ada_build_tool_for_personal
+
 https://blog.adacore.com/open-source-ada-from-gateware-to-application
 > https://news.ycombinator.com/item?id=45782348
 

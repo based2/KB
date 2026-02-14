@@ -1,3 +1,5 @@
+https://www.techspot.com/news/111242-harvard-engineers-3d-print-soft-robots-bend-twist.html
+
 https://news.ycombinator.com/item?id=46817813
 
 https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html

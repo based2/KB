@@ -1,3 +1,7 @@
+https://venturebeat.com/technology/nvidia-releases-dreamdojo-a-robot-world-model-trained-on-44-000-hours-of
+
+https://www.figure.ai/news/helix-02
+
 https://susam.net/inverse-laws-of-robotics.html
 
 https://news.ycombinator.com/item?id=45736457

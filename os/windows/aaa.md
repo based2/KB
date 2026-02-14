@@ -151,6 +151,12 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://github.com/builtbybel/Winslop
+
+https://github.com/bostrot/wsl2-distro-manager
+
+https://autoclose.net/procnetblocker.html
+
 https://www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/
 
 https://news.ycombinator.com/item?id=46709530

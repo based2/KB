@@ -1,3 +1,5 @@
+https://venturebeat.com/orchestration/nvidias-new-technique-cuts-llm-reasoning-costs-by-8x-without-losing-accuracy
+
 https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-White-Paper.pdf
 
 https://news.ycombinator.com/item?id=46275111

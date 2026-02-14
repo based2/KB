@@ -182,6 +182,9 @@ https://www.fabiensanglard.net/timer_and_framerate/index.php
 > https://news.ycombinator.com/item?id=28207871
 
 # Clock
+https://triclock.franzai.com/
+> https://news.ycombinator.com/item?id=46975399
+
 https://news.ycombinator.com/item?id=43831792
 
 https://news.ycombinator.com/item?id=43293744

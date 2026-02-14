@@ -169,6 +169,8 @@ https://news.ycombinator.com/item?id=45560863
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://news.ycombinator.com/item?id=46918835
+
 https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it
 > https://news.ycombinator.com/item?id=46445131
 

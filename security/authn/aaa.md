@@ -79,6 +79,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # Incidents
+https://blog.lexfo.fr/munge-heap-buffer-overflow.html
+
 https://unit42.paloaltonetworks.com/authentication-coercion/
 
 https://www.bleepingcomputer.com/news/security/phishers-abuse-google-oauth-to-spoof-google-in-dkim-replay-attack/

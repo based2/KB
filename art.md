@@ -52,6 +52,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://studiolhc.hflip.co/janvier-26#page/126
+
 https://ravaan.art/
 > https://news.ycombinator.com/item?id=46268746
 

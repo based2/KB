@@ -119,6 +119,8 @@ https://github.com/quickemu-project/quickemu
 
 https://skyvm.dev/
 
+https://www.phoronix.com/news/VirtualBox-Upstream-With-KVM
+
 # I
 https://www.theregister.com/2026/01/09/china_esxi_zerodays/
 

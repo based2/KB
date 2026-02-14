@@ -10,6 +10,12 @@ https://github.com/microsoft/litebox Running unmodified Linux programs on Window
 > https://news.ycombinator.com/item?id=46913793
 
 # News
+https://blogs.windows.com/windowsexperience/2026/02/10/refreshing-the-root-of-trust-industry-collaboration-on-secure-boot-certificate-updates/
+
+https://www.theregister.com/2026/02/10/microsofts_valentines_gift_to_admins/?td=keepreading
+
+https://news.ycombinator.com/item?id=46971516
+
 https://www.rapid7.com/blog/post/ve-patch-tuesday-windows-backwards-compatibility-challenge/
 
 https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs

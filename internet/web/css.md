@@ -159,6 +159,11 @@ https://web.dev/patterns/layout/
 https://news.ycombinator.com/item?id=40952509
 
 # News
+https://github.com/LayoutitStudio/voxcss
+
+https://css-doodle.com/
+> https://news.ycombinator.com/item?id=47000164
+
 https://kizu.dev/shrinkwrap-solution/
 > https://news.ycombinator.com/item?id=46908650
 

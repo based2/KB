@@ -62,6 +62,10 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://qntm.org/mmacevedo
+> https://news.ycombinator.com/item?id=46999224
+> > https://github.com/qntm/base32768 Binary-to-text encoding highly optimised for UTF-16
+
 https://www.nature.com/articles/s42256-025-01143-2 novel algorithm for efficiently running a class of problems called partial differential equations (PDEs) on neuromorphic computers, including Intel's Loihi 2 neurochips
 > https://www.theregister.com/2026/01/09/artificial_brains_supercomputer/?td=keepreading
 

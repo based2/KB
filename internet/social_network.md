@@ -103,6 +103,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://ysamm.com/uncategorized/2026/01/16/cross-site-leaks.html
+
 https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/praevention_wirtschafts-und_wissenschaftsschutz/2026-02-06-gemeinsame-warnmitteilung-phishing.pdf?__blob=publicationFile&v=3/
 
 https://blog.neocities.org/blog/2026/01/27/bing-block

@@ -115,6 +115,9 @@ https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.htm
 https://github.com/lovell/sharp
 > https://news.ycombinator.com/item?id=46291477
 
+https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr
+> https://news.ycombinator.com/item?id=46993393
+
 # Photography
 https://maurycyz.com/misc/raw_photo/
 > https://news.ycombinator.com/item?id=46415225

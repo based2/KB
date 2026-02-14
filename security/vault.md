@@ -171,6 +171,10 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://github.com/wrogistefan/LocalPass
+
+https://mistikee.app/
+
 https://oteemo.com/blog/hashicorp-vault-is-overhyped-and-mozilla-sops-with-kms-and-git-is-massively-underrated/
 
 https://linus.schreibt.jetzt/posts/shell-secrets.html

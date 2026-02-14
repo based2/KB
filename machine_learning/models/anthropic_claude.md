@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=46985151
+
+https://news.ycombinator.com/item?id=46991591
+
+https://news.ycombinator.com/item?id=46993345
+
 https://code.claude.com/docs/en/fast-mode
 > https://news.ycombinator.com/item?id=46926043
 

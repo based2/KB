@@ -89,6 +89,10 @@ https://news.ycombinator.com/item?id=42531993
 # UI
 https://news.ycombinator.com/item?id=46746570
 
+https://news.ycombinator.com/item?id=46994255
+
+https://news.ycombinator.com/item?id=46966182
+
 # Vibe
 https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 > https://news.ycombinator.com/item?id=44940089
@@ -134,6 +138,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/
+
 https://crawshaw.io/blog/eight-more-months-of-agents
 > https://news.ycombinator.com/item?id=46933223
 
