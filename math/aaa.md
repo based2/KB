@@ -240,6 +240,16 @@ https://news.ycombinator.com/item?id=46924591
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://news.ycombinator.com/item?id=47026134
+
+https://vanilla-gamma-graph.netlify.app/
+> https://news.ycombinator.com/item?id=47016639
+
+https://felixboiii.github.io/paper-plotter/#create-function
+
+https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/
+> https://news.ycombinator.com/item?id=47009949
+
 https://news.ycombinator.com/item?id=46945641
 
 https://rabbitear.org/book/origami.html

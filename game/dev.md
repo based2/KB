@@ -196,6 +196,15 @@ https://news.ycombinator.com/item?id=46080835
 https://news.ycombinator.com/item?id=46828482
 
 # News
+https://github.com/s-macke/starflight-reverse
+> https://news.ycombinator.com/item?id=47022943
+
+https://flashpointarchive.org/
+> https://news.ycombinator.com/item?id=47021354
+
+https://animationobsessive.substack.com/p/how-the-little-guy-moved
+> https://news.ycombinator.com/item?id=46948097
+
 https://sourceforge.net/projects/arcadegpu/
 
 https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html

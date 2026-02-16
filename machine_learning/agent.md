@@ -408,6 +408,12 @@ https://github.com/nearai/ironclaw
 
 https://news.ycombinator.com/item?id=46913747
 
+https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/
+> https://news.ycombinator.com/item?id=47002633
+
+https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent
+> https://news.ycombinator.com/item?id=47008663
+
 # Incidents
 https://embracethered.com/blog/posts/2026/scary-agent-skills/
 

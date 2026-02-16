@@ -103,6 +103,8 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incidents
+https://news.ycombinator.com/item?id=47021421
+
 https://ysamm.com/uncategorized/2026/01/16/cross-site-leaks.html
 
 https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/praevention_wirtschafts-und_wissenschaftsschutz/2026-02-06-gemeinsame-warnmitteilung-phishing.pdf?__blob=publicationFile&v=3/
@@ -283,6 +285,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=47007656
+
 https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
 > https://news.ycombinator.com/item?id=46945663
 

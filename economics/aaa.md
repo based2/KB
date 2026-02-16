@@ -120,6 +120,9 @@ https://arxiv.org/abs/2511.07585 LM Output Drift in Financial Workflows: Validat
 https://news.ycombinator.com/item?id=46915427
 
 ## Trading
+https://www.wallstreetraider.com/story.html
+> https://news.ycombinator.com/item?id=46954696
+
 https://news.ycombinator.com/item?id=46693205
 
 https://www.reuters.com/business/finance/wall-street-banks-prepare-round-the-clock-stock-trading-reluctantly-2025-12-16/
@@ -316,6 +319,9 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 https://news.ycombinator.com/item?id=39219789
 
 # News
+https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/
+> https://news.ycombinator.com/item?id=47008391
+
 https://occupywallst.com/yen
 > https://news.ycombinator.com/item?id=46889008
 

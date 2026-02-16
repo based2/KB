@@ -136,6 +136,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://words.filippo.io/go-source/
+> https://news.ycombinator.com/item?id=46989859
+
 https://medium.com/@ninucium/go-a-garbage-collector-where-you-least-expect-it-7a85e5c689d0
 
 https://github.com/MedUnes/go-kata

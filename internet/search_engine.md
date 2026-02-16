@@ -116,6 +116,8 @@ https://news.ycombinator.com/item?id=41458083
 https://news.ycombinator.com/item?id=41448985 kagi
 
 # News
+https://www.paradedb.com/blog/personalized-search-in-postgresql
+
 https://www.alanwsmith.com/en/37/wa/jz/s1/ Fix Your Robots.txt or Your Site Disappears from Google
 > https://news.ycombinator.com/item?id=46681454
 

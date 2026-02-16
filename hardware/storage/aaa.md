@@ -85,6 +85,15 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.makingsoftware.com/chapters/how-is-data-stored
+> https://news.ycombinator.com/item?id=46960485
+
+https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/
+> https://news.ycombinator.com/item?id=47011602
+
+https://github.com/PulseBeat02/yt-media-storage
+> https://news.ycombinator.com/item?id=47012964
+
 https://www.tomshardware.com/pc-components/hdds/western-digital-details-14-platter-3-5-inch-hamr-hdd-designs-with-140-tb-and-beyond
 
 https://overreacted.io/a-social-filesystem/

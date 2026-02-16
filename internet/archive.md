@@ -64,6 +64,10 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=47017138
+
+https://www.theregister.com/2026/02/14/internet_history_initiative/?td=keepreading
+
 https://korben.info/wikipedia-archive-today-liens-paywall.html
 
 https://wordpress.org/plugins/internet-archive-wayback-machine-link-fixer/

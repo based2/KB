@@ -62,6 +62,10 @@ https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-18514
 https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 
 # News
+https://techxplore.com/news/2026-02-atom-thin-ferroelectric-transistor-polarization.html
+
+https://news.ycombinator.com/item?id=47015294
+
 https://qntm.org/mmacevedo
 > https://news.ycombinator.com/item?id=46999224
 > > https://github.com/qntm/base32768 Binary-to-text encoding highly optimised for UTF-16

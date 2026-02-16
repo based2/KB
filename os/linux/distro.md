@@ -86,6 +86,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+> https://news.ycombinator.com/item?id=47020191
+
 https://news.ycombinator.com/item?id=46762770
 
 https://news.ycombinator.com/item?id=46608971

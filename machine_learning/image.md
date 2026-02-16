@@ -414,6 +414,8 @@ https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-produc
 > https://news.ycombinator.com/item?id=44971845
 
 # News
+https://news.ycombinator.com/item?id=46967147
+
 https://qwen.ai/blog?id=qwen-image-2.0
 > https://news.ycombinator.com/item?id=46957198
 

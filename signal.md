@@ -46,6 +46,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://note.com/hydraenids/n/nbe89030deaba Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction
+> https://news.ycombinator.com/item?id=46998580
+
 https://www.pa3fwm.nl/technotes/tn13a.html
 > https://news.ycombinator.com/item?id=46932444
 

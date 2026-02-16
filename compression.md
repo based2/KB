@@ -37,6 +37,8 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # Incidents
+https://news.ycombinator.com/item?id=47014995
+
 https://www.cyfirma.com/research/weaponized-winrar-exploitation-and-stealth-deployment-of-fileless-net-rat/
 
 https://expel.com/blog/gootloaders-malformed-zip/
@@ -63,6 +65,8 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://www.bitsxpages.com/p/the-mathematics-of-compression-in db
+
 https://news.ycombinator.com/item?id=46884412
 
 https://github.com/Geolm/bc_crunch

@@ -73,3 +73,6 @@ https://jamieclarketype.com/case-study/wallace-and-gromit-font/
 
 https://bobbiec.github.io/cistercian-font.html
 > https://news.ycombinator.com/item?id=46939312
+
+https://mccloskeybr.com/articles/font_rendering.html
+> https://news.ycombinator.com/item?id=46930181

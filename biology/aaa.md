@@ -97,6 +97,8 @@ https://www.getevidex.com/
 > https://news.ycombinator.com/item?id=46239629
 
 # News
+https://news.ycombinator.com/item?id=46898840
+
 https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/
 > https://news.ycombinator.com/item?id=46842178
 

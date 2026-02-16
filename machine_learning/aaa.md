@@ -620,6 +620,16 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=47009327
+
+https://news.ycombinator.com/item?id=46996258
+
+https://nickbostrom.com/optimal.pdf
+> https://news.ycombinator.com/item?id=46999117
+
+https://www.theregister.com/2026/02/14/ai_risk_distillation_attacks/
+> https://news.ycombinator.com/item?id=47013856
+
 https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/
 
 https://news.ycombinator.com/item?id=47005081

@@ -34,6 +34,10 @@ https://news.ycombinator.com/item?id=43182892
 https://news.ycombinator.com/item?id=40954800
 
 # News
+https://www.theregister.com/2026/02/13/us_moving_ahead_with_colocated/
+
+https://www.theregister.com/2026/02/14/x_energy_smr_fuel/
+
 https://news.ycombinator.com/item?id=46656903
 
 https://news.ycombinator.com/item?id=46622463

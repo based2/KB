@@ -71,6 +71,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.slashdot.org/story/26/02/14/070222/earth-is-warming-faster-than-ever-but-why
+
+https://news.slashdot.org/story/26/02/13/1710236/epa-reverses-long-standing-climate-change-finding-stripping-its-own-ability-to-regulate-emissions
+
+https://phys.org/news/2026-02-porous-material-green-blue.html
+
 https://news.slashdot.org/story/26/01/31/054224/can-we-slow-global-warming-by-phasing-out-super-pollutant-hfcs
 
 https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record

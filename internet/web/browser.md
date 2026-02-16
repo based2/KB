@@ -83,6 +83,8 @@ https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extens
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://hacks.mozilla.org/2026/02/launching-interop-2026/
+
 https://news.slashdot.org/story/26/02/07/073233/firefox-announces-ai-controls-to-block-its-upcoming-ai-features
 
 https://browsewithnook.com/

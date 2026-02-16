@@ -261,6 +261,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://cyber.gouv.fr/actualites/lanssi-met-a-jour-sa-politique-open-source/
+> https://code.gouv.fr/fr/bluehats/tags/gazette/
+
 https://www.collaboraonline.com/collabora-office/
 > https://news.ycombinator.com/item?id=46899591
 

@@ -81,6 +81,9 @@ https://github.com/man-group/ArcticDB https://arcticdb.io/
 > > https://itsfoss.com/making-the-business-source-license-open-source-compliant/
 > > > https://mariadb.com/bsl-faq-adopting/?ref=itsfoss.com
 
+https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+> https://news.ycombinator.com/item?id=47008163
+
 # Visu
 https://treevis.net/
 

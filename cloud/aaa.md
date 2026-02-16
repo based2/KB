@@ -178,6 +178,10 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://zayl.dk/posts/01-confused-deputy/
+
+https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi
+
 https://news.ycombinator.com/item?id=46976466
 
 https://sherwood.news/tech/big-techs-usd1-1-trillion-cloud-computing-backlog/
@@ -435,6 +439,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.theregister.com/2026/02/13/whats_next_for_oxide_computer/
+
 https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from
 > https://news.ycombinator.com/item?id=46965345
 

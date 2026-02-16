@@ -77,6 +77,9 @@ https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 https://news.ycombinator.com/item?id=44009848
 
 # News
+https://github.com/mickamy/sql-tap
+> https://news.ycombinator.com/item?id=47011567
+
 https://nerds.xyz/2026/02/googlesql-zetasql-rename/
 
 https://news.ycombinator.com/item?id=45885410

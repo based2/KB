@@ -143,6 +143,10 @@ https://news.ycombinator.com/item?id=42523996
 > > https://news.ycombinator.com/item?id=42524422
 
 # News
+https://news.ycombinator.com/item?id=47025624
+
+https://news.ycombinator.com/item?id=47023238
+
 https://news.ycombinator.com/item?id=46920315
 
 https://an.dywa.ng/carrier-gnss.html

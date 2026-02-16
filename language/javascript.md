@@ -234,6 +234,8 @@ https://www.bitdefender.com/en-us/blog/businessinsights/advisory-react2shell-cri
 https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html
 
 ### News
+https://news.ycombinator.com/item?id=47010147
+
 https://github.com/composify-js/composify
 
 https://news.ycombinator.com/item?id=46111449

@@ -149,6 +149,13 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://novasky-ai.notion.site/skyrl-tinker
+
+https://github.com/langasync/langasync
+
+https://code.storage/
+> https://news.ycombinator.com/item?id=46957629
+
 https://news.ycombinator.com/item?id=47006393
 
 https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/

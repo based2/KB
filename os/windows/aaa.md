@@ -151,6 +151,10 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://news.ycombinator.com/item?id=47022891
+
+https://ziglang.org/devlog/2026/#2026-02-03
+
 https://github.com/builtbybel/Winslop
 
 https://github.com/bostrot/wsl2-distro-manager

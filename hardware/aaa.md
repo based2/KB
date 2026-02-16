@@ -137,6 +137,8 @@ https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
 https://news.ycombinator.com/item?id=46037324
 
 # News
+https://www.phoronix.com/review/amd-rocm-7-strix-halo
+
 https://news.ycombinator.com/item?id=46947096
 
 https://www.videogameschronicle.com/news/amd-hints-the-next-gen-xbox-console-could-launch-next-year/

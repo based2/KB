@@ -303,6 +303,9 @@ https://blog.zsec.uk/commit-stomping/
 > https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/
   
 # News
+https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/
+> https://news.ycombinator.com/item?id=47018814
+
 https://lobste.rs/s/jcio2j/evolving_git_for_next_decade
 
 https://github.com/trasta298/keifu

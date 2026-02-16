@@ -228,6 +228,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/
+> https://news.ycombinator.com/item?id=47001095
+
 https://kianbradley.com/2024/01/14/tls-on-xp.html
 > https://news.ycombinator.com/item?id=46664576
 

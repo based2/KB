@@ -76,6 +76,8 @@ https://medium.com/@clearbluejar/supercharging-ghidra-using-local-llms-with-ghid
 https://www.zionbasque.com/files/papers/dec-synergy-study.pdf
 
 # News
+https://dbg.re/posts/car-file-format/
+
 https://back.engineering/blog/04/02/2026/ Deobfuscation and Analysis of Ring-1.io
 
 https://news.ycombinator.com/item?id=46908671

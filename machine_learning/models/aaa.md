@@ -343,7 +343,16 @@ https://news.ycombinator.com/item?id=43793280
 https://arxiv.org/abs/2512.04124 Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models
 > https://news.ycombinator.com/item?id=46902855
 
+http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html
+
 # News
+https://eli.li/constraint-propagation-for-fun
+
+https://www.seangoedecke.com/fast-llm-inference/
+> https://news.ycombinator.com/item?id=47022329
+
+https://blog.sao.dev/cpns-llms-distributed-apps/
+
 https://lobste.rs/s/uyjjtz/microgpt
 
 https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/

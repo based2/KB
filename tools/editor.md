@@ -164,6 +164,11 @@ https://news.ycombinator.com/item?id=45121915
 
 https://github.com/alexpasmantier/krust.nvim
 
+https://www.vim.org/vim-9.2-released.php
+> https://news.ycombinator.com/item?id=47015330
+> > https://github.com/yegappan/battleship
+> > https://github.com/yegappan/number-puzzle
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341

@@ -396,6 +396,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/crux-ecosystem/mol-lang where pipelines trace themselves
+> https://news.ycombinator.com/item?id=46977967
+
+https://www.uiua.org/blog/uiua-0.18.0
+
 https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/
 > https://news.ycombinator.com/item?id=46872319
 

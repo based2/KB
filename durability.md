@@ -109,6 +109,8 @@ https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-dow
 > https://news.ycombinator.com/item?id=43261933
 
 # News
+https://news.ycombinator.com/item?id=47025378
+
 https://news.ycombinator.com/item?id=46614487
 
 https://news.ycombinator.com/item?id=46609492

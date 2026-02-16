@@ -1,6 +1,9 @@
 https://www.zigbook.net/
 
 # News
+https://ziglang.org/devlog/2026/#2026-02-13 io_uring and Grand Central Dispatch std.Io implementations landed
+> https://news.ycombinator.com/item?id=47012717
+
 https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html
 > https://news.ycombinator.com/item?id=46744647
 

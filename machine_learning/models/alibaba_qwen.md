@@ -1,3 +1,5 @@
+https://github.com/alibaba-damo-academy/RynnBrain
+
 https://news.ycombinator.com/item?id=46766741
 
 https://news.ycombinator.com/item?id=46719229

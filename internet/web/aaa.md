@@ -227,6 +227,12 @@ https://github.com/Demindiro/agreper
 https://news.ycombinator.com/item?id=43852096
 
 # News
+https://infosec.exchange/@mttaggart/116065340523529645
+> https://news.ycombinator.com/item?id=47013059
+
+https://ooh.directory/
+> https://news.ycombinator.com/item?id=47014449
+
 https://blog.mikeswanson.com/backseat-software/
 > https://news.ycombinator.com/item?id=46817452
 

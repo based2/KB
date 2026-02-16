@@ -117,6 +117,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://en.wikipedia.org/wiki/Connes_embedding_problem
+> https://news.ycombinator.com/item?id=46993647
+
+https://www.phoronix.com/news/Intel-Quantum-Passes-OSS-End
+
 https://science.slashdot.org/story/26/01/30/0531203/scientists-found-a-way-to-cool-quantum-computers-using-noise
 
 https://scottaaronson.blog/?p=9425

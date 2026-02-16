@@ -100,6 +100,8 @@ https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 https://news.ycombinator.com/item?id=44985207
 
 # Incidents
+https://www.theregister.com/2026/02/12/ai_bot_developer_rejected_pull_request/?td=rt-3a
+
 https://maccarita.com/posts/idesaster/
 > https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html
 > > https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents
@@ -138,6 +140,9 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://www.fast.ai/posts/2026-01-28-dark-flow/
+> https://news.ycombinator.com/item?id=47006615
+
 https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/
 
 https://crawshaw.io/blog/eight-more-months-of-agents

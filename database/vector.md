@@ -162,3 +162,9 @@ https://github.com/timescale/pgvectorscale
 https://news.ycombinator.com/item?id=46710747
 
 https://news.ycombinator.com/item?id=46789645
+
+https://zvec.org/en/ By Alibaba
+> https://news.ycombinator.com/item?id=46988028
+> https://news.ycombinator.com/item?id=47000535
+
+https://news.ycombinator.com/item?id=47016530

@@ -103,6 +103,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://www.eid.admin.ch/en/swiyu-wallet-security-and-freedom-of-choice-for-android-users
+
 https://github.com/vhscom/private-landing
 > https://news.ycombinator.com/item?id=46944084
 

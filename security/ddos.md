@@ -17,6 +17,12 @@ https://www.marginalia.nu/log/a_115_rude_crawler/
 https://news.ycombinator.com/item?id=43387225
 
 # News
+https://news.ycombinator.com/item?id=47025338
+
+https://dacav.org/projects/supercazzola/
+
+https://news.ycombinator.com/item?id=46969751
+
 http://www.mail-archive.com/misc@openbsd.org/msg196757.html
 
 https://news.ycombinator.com/item?id=46624740 Weird archive.today behavior?

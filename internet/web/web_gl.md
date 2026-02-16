@@ -97,3 +97,6 @@ https://github.com/chiuhans111/fluidglass
 
 https://blog.gingerbeardman.com/2026/01/04/webgl-crt-shader/
 > https://news.ycombinator.com/item?id=46491219
+
+https://erichlof.github.io/THREE.js-PathTracing-Renderer/
+> https://news.ycombinator.com/item?id=46993014

@@ -1,3 +1,6 @@
+https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
+> https://news.ycombinator.com/item?id=46993345
+
 https://news.ycombinator.com/item?id=46985151
 
 https://news.ycombinator.com/item?id=46991591

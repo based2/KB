@@ -118,6 +118,8 @@ https://github.com/lovell/sharp
 https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr
 > https://news.ycombinator.com/item?id=46993393
 
+https://blog.maximeheckel.com/posts/shades-of-halftone/
+
 # Photography
 https://maurycyz.com/misc/raw_photo/
 > https://news.ycombinator.com/item?id=46415225

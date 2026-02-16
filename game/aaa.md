@@ -72,7 +72,13 @@ https://www.yuanzai.world/
 https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first
 > https://news.ycombinator.com/item?id=46545636
 
+https://gradient.horse/
+> https://news.ycombinator.com/item?id=46955311
+
 # News
+https://github.com/datavorous/sameshi
+> https://news.ycombinator.com/item?id=47014500
+
 https://flight.tarmizi.id/
 
 https://znah.net/lenia/

@@ -24,6 +24,8 @@ https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 Report Apple Intelligence enabled by default
 
 # News
+https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/
+
 https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/
 > https://news.ycombinator.com/item?id=46979643
 
