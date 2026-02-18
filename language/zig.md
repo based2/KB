@@ -1,6 +1,8 @@
 https://www.zigbook.net/
 
 # News
+https://lobste.rs/s/iisnbr/error_payloads_zig
+
 https://ziglang.org/devlog/2026/#2026-02-13 io_uring and Grand Central Dispatch std.Io implementations landed
 > https://news.ycombinator.com/item?id=47012717
 

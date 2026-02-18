@@ -369,6 +369,9 @@ https://huggingface.co/blog/open-responses
 
 https://news.ycombinator.com/item?id=46941990
 
+https://docs.continue.dev/
+> https://news.ycombinator.com/item?id=47049848
+
 # Sec
 https://github.com/Use-Tusk/fence
 > https://news.ycombinator.com/item?id=46695467
@@ -413,6 +416,15 @@ https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-
 
 https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent
 > https://news.ycombinator.com/item?id=47008663
+
+https://news.ycombinator.com/item?id=47049573
+
+https://news.ycombinator.com/item?id=47041456
+
+https://news.ycombinator.com/item?id=47040430
+
+https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html
+> https://news.ycombinator.com/item?id=47055424
 
 # Incidents
 https://embracethered.com/blog/posts/2026/scary-agent-skills/

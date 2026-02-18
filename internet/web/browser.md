@@ -57,6 +57,13 @@ https://news.ycombinator.com/item?id=39706004
 https://lightpanda.io/
 
 # Incidents
+https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
+> https://news.ycombinator.com/item?id=47062748
+
+https://sqrx.com/lastmilereassemblyattacks
+
+https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html
+
 https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking
 
 https://aisle.com/blog/firefox-webrtc-encoded-transforms-uaf-via-undetached-arraybuffer-cve-2025-14321

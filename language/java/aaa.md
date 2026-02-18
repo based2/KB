@@ -280,6 +280,8 @@ https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://javaevolved.github.io/
+
 https://www.mvp.express/ Java FFM zero-copy transport using io_uring
 > https://news.ycombinator.com/item?id=46182307
 

@@ -10,6 +10,8 @@ https://github.com/microsoft/litebox Running unmodified Linux programs on Window
 > https://news.ycombinator.com/item?id=46913793
 
 # News
+https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/
+
 https://blogs.windows.com/windowsexperience/2026/02/10/refreshing-the-root-of-trust-industry-collaboration-on-secure-boot-certificate-updates/
 
 https://www.theregister.com/2026/02/10/microsofts_valentines_gift_to_admins/?td=keepreading

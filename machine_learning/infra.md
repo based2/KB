@@ -149,6 +149,11 @@ https://news.ycombinator.com/item?id=44003741
 https://news.ycombinator.com/item?id=43856656
 
 # News
+https://github.com/teamchong/vectorjson
+
+https://0byte.io/articles/pytorch_introduction.html
+> https://news.ycombinator.com/item?id=47002231
+
 https://novasky-ai.notion.site/skyrl-tinker
 
 https://github.com/langasync/langasync

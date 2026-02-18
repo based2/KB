@@ -149,6 +149,9 @@ https://news.ycombinator.com/item?id=46279241
 
 https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
 
+https://letsencrypt.org/2026/02/18/dns-persist-01.html
+> https://news.ycombinator.com/item?id=47064047
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 

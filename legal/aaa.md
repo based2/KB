@@ -84,6 +84,8 @@ https://www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/
 https://news.ycombinator.com/item?id=46289073
 
 # News
+https://news.ycombinator.com/item?id=47034713
+
 https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html
 > https://news.ycombinator.com/item?id=46432057
 

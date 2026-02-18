@@ -21,6 +21,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # Incidents
+https://news.ycombinator.com/item?id=47051546
+
 https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/
 
 https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/

@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=47049743
+
 https://news.ycombinator.com/item?id=47017138
 
 https://www.theregister.com/2026/02/14/internet_history_initiative/?td=keepreading

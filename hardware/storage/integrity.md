@@ -20,3 +20,5 @@ https://github.com/agg111/nova
 
 http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html
 > https://news.ycombinator.com/item?id=47015579
+
+https://news.ycombinator.com/item?id=47065729

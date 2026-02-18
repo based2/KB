@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=47065678
+
 https://news.slashdot.org/story/26/02/14/070222/earth-is-warming-faster-than-ever-but-why
 
 https://news.slashdot.org/story/26/02/13/1710236/epa-reverses-long-standing-climate-change-finding-stripping-its-own-ability-to-regulate-emissions

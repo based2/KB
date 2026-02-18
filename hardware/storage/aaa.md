@@ -85,6 +85,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://github.com/petertodd/breccia/blob/master/DESIGN.md
+
 https://www.makingsoftware.com/chapters/how-is-data-stored
 > https://news.ycombinator.com/item?id=46960485
 

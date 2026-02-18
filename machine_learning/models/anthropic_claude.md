@@ -1,3 +1,6 @@
+https://www.anthropic.com/news/claude-sonnet-4-6
+> https://news.ycombinator.com/item?id=47050488
+
 https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
 > https://news.ycombinator.com/item?id=46993345
 

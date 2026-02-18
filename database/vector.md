@@ -168,3 +168,6 @@ https://zvec.org/en/ By Alibaba
 > https://news.ycombinator.com/item?id=47000535
 
 https://news.ycombinator.com/item?id=47016530
+
+https://notnotp.com/notes/hamming-distance-for-hybrid-search-in-sqlite/
+> https://news.ycombinator.com/item?id=47021711

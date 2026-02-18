@@ -240,6 +240,12 @@ https://news.ycombinator.com/item?id=46924591
 https://status.mathworks.com/incidents/h1fjvcr72n87 matlab
 
 # News
+https://kyleormsby.github.io/files/113spring26/113full_text.pdf Discrete Structures
+> https://news.ycombinator.com/item?id=47065120
+
+https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html
+> https://news.ycombinator.com/item?id=47039044
+
 https://news.ycombinator.com/item?id=47026134
 
 https://vanilla-gamma-graph.netlify.app/

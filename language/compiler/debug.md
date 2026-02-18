@@ -23,6 +23,8 @@ https://vptdigital.com/blog/honey-detecting-testers/
 https://news.ycombinator.com/item?id=43892096
 
 # News
+https://dl.acm.org/doi/full/10.1145/3689761 Finding ∀∃ Hyperbugs using Symbolic Execution
+
 https://blog.svgames.pl/article/the-little-bool-of-doom
 > https://news.ycombinator.com/item?id=46936828
 

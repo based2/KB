@@ -1,5 +1,7 @@
 https://ophysics.com/index.html
 
+https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/
+
 https://science.slashdot.org/story/26/02/08/0545244/brookhaven-lab-shuts-down-relativistic-heavy-ion-collider-rhic
 
 https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/

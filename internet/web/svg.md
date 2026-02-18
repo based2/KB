@@ -143,6 +143,8 @@ https://news.ycombinator.com/item?id=46235959
 https://yqnn.github.io/svg-path-editor/
 > https://news.ycombinator.com/item?id=46726269
 
+news.ycombinator.com/item?id=47062096
+
 # I
 https://www.theregister.com/2025/12/05/css_svg_clickjacking/
 

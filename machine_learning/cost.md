@@ -1,3 +1,6 @@
+https://blog.exe.dev/expensively-quadratic
+> https://news.ycombinator.com/item?id=47000034
+
 https://app.writtte.com/read/kZ8Kj6R Token-to-Credit Conversion: Avoiding Floating-Point Errors in AI Billing Systems
 > https://news.ycombinator.com/item?id=46925443
 

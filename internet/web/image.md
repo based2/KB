@@ -120,6 +120,9 @@ https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr
 
 https://blog.maximeheckel.com/posts/shades-of-halftone/
 
+https://brandonli.net/spectra/doc/
+> https://news.ycombinator.com/item?id=47012895
+
 # Photography
 https://maurycyz.com/misc/raw_photo/
 > https://news.ycombinator.com/item?id=46415225

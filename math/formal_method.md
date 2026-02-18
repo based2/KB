@@ -75,6 +75,9 @@ https://github.com/DebarghaG/proofofthought LLM-based reasoning using Z3 theorem
 > https://news.ycombinator.com/item?id=45475529
 
 #
+https://rkirov.github.io/posts/lean1/
+> https://news.ycombinator.com/item?id=47022604
+
 https://news.ycombinator.com/item?id=46259343
 
 https://github.com/leanprover-community/mathlib4 math library of Lean 4

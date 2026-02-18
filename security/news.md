@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/
+
 https://www.nokia.com/newsroom/global-technology-leaders-launch-trusted-tech-alliance/
 
 https://www.opensecurityarchitecture.org/

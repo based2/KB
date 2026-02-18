@@ -346,6 +346,8 @@ https://arxiv.org/abs/2512.04124 Psychometric Jailbreaks Reveal Internal Conflic
 http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html
 
 # News
+https://news.ycombinator.com/item?id=47058219
+
 https://eli.li/constraint-propagation-for-fun
 
 https://www.seangoedecke.com/fast-llm-inference/

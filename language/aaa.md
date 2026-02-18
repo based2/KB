@@ -396,6 +396,14 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://celbyexample.com/
+> https://news.ycombinator.com/item?id=47061029
+
+https://github.com/khalildh/garment-notation
+> https://news.ycombinator.com/item?id=47062329
+
+https://news.ycombinator.com/item?id=47065179
+
 https://github.com/crux-ecosystem/mol-lang where pipelines trace themselves
 > https://news.ycombinator.com/item?id=46977967
 

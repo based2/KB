@@ -361,6 +361,8 @@ https://jesipow.com/blog/postgres-reads-cause-writes/
 > https://news.ycombinator.com/item?id=42485505
 
 # News
+https://www.lirbank.com/harnessing-postgres-race-conditions
+
 https://postgreslocksexplained.com/
 > https://news.ycombinator.com/item?id=47005770
 

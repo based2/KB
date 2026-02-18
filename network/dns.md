@@ -197,6 +197,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://interrupt.sh/blog/discovering-domains-via-ns-correlation/
+
 https://github.com/dmachard/DNS-collector
 
 https://www.wirewiki.com/

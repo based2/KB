@@ -169,6 +169,8 @@ https://news.ycombinator.com/item?id=45560863
 https://dl.acm.org/doi/abs/10.1145/3731598 War on JITs: Software-Based Attacks and Hybrid Defenses for JIT Compilers - A Comprehensive Survey
 
 # News
+https://lobste.rs/s/ozrdyz/defer_available_gcc_clang
+
 https://github.com/davidgiven/ack
 > https://news.ycombinator.com/item?id=47016008
 

@@ -57,6 +57,10 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incidents
+https://ethz.ch/en/news-and-events/eth-news/news/2026/02/password-managers-less-secure-than-promised.html
+> https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html
+> > https://zkae.io/
+
 https://news.ycombinator.com/item?id=46433269
 
 https://codeberg.org/manchicken/1password-cli-vuln-disclosure
@@ -171,6 +175,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://eprint.iacr.org/2026/058 Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers
+
 https://github.com/wrogistefan/LocalPass
 
 https://mistikee.app/

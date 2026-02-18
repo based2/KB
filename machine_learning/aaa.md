@@ -49,6 +49,8 @@ https://systemds.apache.org/docs/3.1.0/
 
 https://github.com/mahseema/awesome-ai-tools
 
+https://o16g.com/
+
 # Biz
 https://news.ycombinator.com/item?id=39709835
 
@@ -620,6 +622,8 @@ https://physicsbaseddeeplearning.org/intro.html
 > https://news.ycombinator.com/item?id=40941056
 
 # News
+https://news.ycombinator.com/item?id=47063451
+
 https://news.ycombinator.com/item?id=47009327
 
 https://news.ycombinator.com/item?id=46996258

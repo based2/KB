@@ -251,6 +251,9 @@ https://gpg.fail/
 > https://news.ycombinator.com/item?id=46403200
 
 # News
+https://00f.net/2026/02/10/small-block-ciphers/
+> https://news.ycombinator.com/item?id=47019902
+
 https://old.reddit.com/r/netsec/comments/1qy0mjx/cryptoscanner_opensource_cli_tool_to_find/
 
 https://www.dlp.rip/decorative-cryptography

@@ -345,6 +345,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://martinfowler.com/fragments/2026-02-18.html
+> https://news.ycombinator.com/item?id=47062534
+
 https://blainsmith.com/articles/10th-person/
 
 https://blog.42futures.com/p/company-as-code

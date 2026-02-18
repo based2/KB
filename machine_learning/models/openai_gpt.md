@@ -1,5 +1,7 @@
 Generative Pre-trained Transformer
 
+https://news.ycombinator.com/item?id=47028013
+
 https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467
 > https://news.ycombinator.com/item?id=47008560
 

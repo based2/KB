@@ -51,6 +51,9 @@ https://techxplore.com/news/2026-01-nvidia-unveils-ai-chip-platform.html
 https://news.ycombinator.com/item?id=42030463
 
 # News
+https://www.vectorware.com/blog/async-await-on-gpu/
+> https://news.ycombinator.com/item?id=47049628
+
 https://news.ycombinator.com/item?id=46741150 rust
 
 https://alextardif.com/BindlessProgramming.html

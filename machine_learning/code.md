@@ -3,6 +3,8 @@ https://github.com/jamesmurdza/awesome-ai-devtools
 
 https://imbue.com/product/sculptor/
 
+https://arxiv.org/abs/2601.11840 Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic
+
 # Data
 https://huggingface.co/datasets/bigcode/the-stack
 
@@ -100,6 +102,8 @@ https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
 https://news.ycombinator.com/item?id=44985207
 
 # Incidents
+https://research.checkpoint.com/2026/ai-in-the-middle-turning-web-based-ai-services-into-c2-proxies-the-future-of-ai-driven-attacks/
+
 https://www.theregister.com/2026/02/12/ai_bot_developer_rejected_pull_request/?td=rt-3a
 
 https://maccarita.com/posts/idesaster/
@@ -140,6 +144,8 @@ https://news.ycombinator.com/item?id=44087150
 https://news.ycombinator.com/item?id=43677067
 
 # News
+https://news.ycombinator.com/item?id=47060052
+
 https://www.fast.ai/posts/2026-01-28-dark-flow/
 > https://news.ycombinator.com/item?id=47006615
 
